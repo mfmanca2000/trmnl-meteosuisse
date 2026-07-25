@@ -4,7 +4,7 @@ no_screen_padding: "no"
 dark_mode: "no"
 static_data: ""
 polling_verb: get
-polling_url: "https://trmnl-meteosuisse.vercel.app/api/forecast/{{NPA}}?hours=6"
+polling_url: "https://trmnl-meteosuisse.vercel.app/api/forecast?NPA={{NPA}}&hours=6"
 polling_headers: ""
 id: 50000
 custom_fields:
