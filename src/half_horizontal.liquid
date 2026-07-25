@@ -17,11 +17,16 @@
 
     <div class="flex flex--col gap--xsmall" style="flex: 1;">
       {% for hour in hourly limit: 6 %}
-      <div class="flex flex--row flex--center-y gap--medium">
+      <div class="flex flex--row flex--center-y gap--small">
         <div style="width: 44px;"><span class="label label--small">{{ hour.hourLabel }}</span></div>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 24px; height: 24px;">
-        <div style="flex: 1; min-width: 0;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
+        <div style="flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
         <div style="width: 48px; text-align: right;"><span class="value value--small value--tnums">{{ hour.temperature | round }}°</span></div>
+        <div style="width: 72px; text-align: right;"><span class="description value--tnums">{{ hour.temperatureMin | round }}/{{ hour.temperatureMax | round }}°</span></div>
+        <div style="width: 44px; display: flex; align-items: center; justify-content: flex-end; gap: 3px;">
+          <span style="display: inline-block; transform: rotate({{ hour.windArrowRotation }}deg);">↑</span>
+          <span class="description value--tnums">{{ hour.windSpeed | round }}</span>
+        </div>
         <div style="width: 40px; text-align: right;"><span class="description">{{ hour.precipitationProbability }}%</span></div>
       </div>
       {% endfor %}

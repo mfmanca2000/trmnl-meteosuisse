@@ -19,9 +19,13 @@
       <div class="flex flex--row flex--center-y gap--small">
         <div style="width: 48px;"><span class="label">{{ hour.hourLabel }}</span></div>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 28px; height: 28px;">
-        <div style="flex: 1; min-width: 0;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
-        <div style="width: 48px; text-align: right;"><span class="value value--small value--tnums">{{ hour.temperature | round }}°</span></div>
-        <div style="width: 40px; text-align: right;"><span class="description">{{ hour.precipitationProbability }}%</span></div>
+        <div style="flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
+        <div style="width: 44px; text-align: right;"><span class="value value--small value--tnums">{{ hour.temperature | round }}°</span></div>
+        <div style="width: 40px; display: flex; align-items: center; justify-content: flex-end; gap: 3px;">
+          <span style="display: inline-block; transform: rotate({{ hour.windArrowRotation }}deg);">↑</span>
+          <span class="description value--tnums">{{ hour.windSpeed | round }}</span>
+        </div>
+        <div style="width: 36px; text-align: right;"><span class="description">{{ hour.precipitationProbability }}%</span></div>
       </div>
       {% endfor %}
     </div>

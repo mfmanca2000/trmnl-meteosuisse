@@ -15,7 +15,7 @@
       <div class="flex flex--row flex--center-y gap--small">
         <div style="width: 36px;"><span class="label label--small">{{ hour.hourLabel }}</span></div>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 20px; height: 20px;">
-        <div style="flex: 1; min-width: 0;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
+        <div style="flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
         <div style="width: 36px; text-align: right;"><span class="description value--tnums">{{ hour.temperature | round }}°</span></div>
       </div>
       {% endfor %}

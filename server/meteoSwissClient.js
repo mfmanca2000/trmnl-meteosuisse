@@ -72,6 +72,11 @@ function buildHourlyForecast(graph, hours, fromMs) {
       iconUrl: getIconUrl(graph.weatherIcon3h[bucket3h]),
       windSpeed: graph.windSpeed1h[i],
       windDirection: graph.windDirection3h[bucket3h],
+      // windDirection is the direction the wind blows FROM (meteorological
+      // convention). Rotating an upward-pointing arrow by direction + 180°
+      // makes it point the way the wind is blowing TOWARD, matching how
+      // most consumer weather UIs render a wind arrow.
+      windArrowRotation: (graph.windDirection3h[bucket3h] + 180) % 360,
       gustSpeed: graph.gustSpeed1h[i],
       sunshine: graph.sunshine1h[i],
     })
