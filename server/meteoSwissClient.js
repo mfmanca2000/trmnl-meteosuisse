@@ -4,6 +4,21 @@ const BASE_URL = 'https://app-prod-ws.meteoswiss-app.ch/v1/plzDetail'
 
 const WEATHER_ICON_INTERVAL_HOURS = 3
 const HOUR_MS = 60 * 60 * 1000
+const DISPLAY_TIMEZONE = 'Europe/Zurich'
+
+const hourFormatter = new Intl.DateTimeFormat('en-US', {
+  timeZone: DISPLAY_TIMEZONE,
+  hour: '2-digit',
+  hour12: false,
+})
+
+// Formats an hour as "14h" in the Bern/Zurich local time, regardless of the
+// server's own timezone. Some ICU builds render midnight as "24" rather
+// than "00", so that case is normalized explicitly.
+function formatHourLabel(date) {
+  const hour = hourFormatter.formatToParts(date).find((part) => part.type === 'hour').value
+  return `${hour === '24' ? '00' : hour}h`
+}
 
 function normalizeNpa(npa) {
   const value = String(npa).trim()
@@ -42,9 +57,11 @@ function buildHourlyForecast(graph, hours, fromMs) {
   const entries = []
   for (let i = startIndex; i < endIndex; i++) {
     const bucket3h = Math.floor(i / WEATHER_ICON_INTERVAL_HOURS)
+    const date = new Date(startMs + i * HOUR_MS)
 
     entries.push({
-      time: new Date(startMs + i * HOUR_MS).toISOString(),
+      time: date.toISOString(),
+      hourLabel: formatHourLabel(date),
       temperature: graph.temperatureMean1h[i],
       temperatureMin: graph.temperatureMin1h[i],
       temperatureMax: graph.temperatureMax1h[i],

@@ -1,6 +1,6 @@
 {% comment %}
   Quadrant layout (400x240). Tightest space: commune + current temp on top,
-  a compact 4-hour strip below.
+  a compact 4-hour list of rows below.
 {% endcomment %}
 <div class="layout">
   {% if hourly and hourly.size > 0 %}
@@ -10,15 +10,13 @@
       <div class="value value--small value--tnums">{{ hourly[0].temperature | round }}°</div>
     </div>
 
-    <div class="grid grid--cols-4 gap--xsmall" style="flex: 1;">
+    <div class="flex flex--col gap--xsmall" style="flex: 1;">
       {% for hour in hourly limit: 4 %}
-      <div class="item text--center">
-        <div class="meta"></div>
-        <div class="content flex flex--col flex--center-x">
-          <div class="label label--small">{{ hour.time | date: "%Hh" }}</div>
-          <img class="image" src="{{ hour.iconUrl }}" style="width: 24px; height: 24px;">
-          <div class="description value--tnums">{{ hour.temperature | round }}°</div>
-        </div>
+      <div class="flex flex--row flex--center-y gap--small" style="justify-content: space-between;">
+        <div class="label label--small" style="width: 36px;">{{ hour.hourLabel }}</div>
+        <img class="image" src="{{ hour.iconUrl }}" style="width: 20px; height: 20px;">
+        <div class="description" style="flex: 1;">{{ hour.condition | replace: '-', ' ' | capitalize }}</div>
+        <div class="description value--tnums" style="width: 36px; text-align: right;">{{ hour.temperature | round }}°</div>
       </div>
       {% endfor %}
     </div>

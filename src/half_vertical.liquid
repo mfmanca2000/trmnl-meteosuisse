@@ -1,6 +1,8 @@
 {% comment %}
   Half vertical layout (400x480). Commune name up top, hourly forecast as a
   scannable list of rows (narrow width fits a list better than a wide grid).
+  hourLabel is precomputed server-side in Europe/Zurich time, since
+  Liquid's date filter has no timezone-conversion support.
 {% endcomment %}
 <div class="layout">
   {% if hourly and hourly.size > 0 %}
@@ -15,7 +17,7 @@
     <div class="flex flex--col gap--small" style="flex: 1;">
       {% for hour in hourly limit: 7 %}
       <div class="flex flex--row flex--center-y gap--small" style="justify-content: space-between;">
-        <div class="label" style="width: 48px;">{{ hour.time | date: "%Hh" }}</div>
+        <div class="label" style="width: 48px;">{{ hour.hourLabel }}</div>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 28px; height: 28px;">
         <div class="description" style="flex: 1;">{{ hour.condition | replace: '-', ' ' | capitalize }}</div>
         <div class="value value--small value--tnums" style="width: 48px; text-align: right;">{{ hour.temperature | round }}°</div>

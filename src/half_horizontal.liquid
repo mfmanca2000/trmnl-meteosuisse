@@ -1,6 +1,6 @@
 {% comment %}
   Half horizontal layout (800x240). Commune + current conditions on top,
-  6-hour forecast strip below.
+  6-hour forecast as a list of rows below.
 {% endcomment %}
 <div class="layout">
   {% if hourly and hourly.size > 0 %}
@@ -15,15 +15,14 @@
 
     <div class="divider"></div>
 
-    <div class="grid grid--cols-6 gap--small" style="flex: 1;">
+    <div class="flex flex--col gap--xsmall" style="flex: 1;">
       {% for hour in hourly limit: 6 %}
-      <div class="item text--center">
-        <div class="meta"></div>
-        <div class="content flex flex--col flex--center-x gap--xsmall">
-          <div class="label label--small">{{ hour.time | date: "%Hh" }}</div>
-          <img class="image" src="{{ hour.iconUrl }}" style="width: 32px; height: 32px;">
-          <div class="value value--small value--tnums">{{ hour.temperature | round }}°</div>
-        </div>
+      <div class="flex flex--row flex--center-y gap--medium" style="justify-content: space-between;">
+        <div class="label label--small" style="width: 44px;">{{ hour.hourLabel }}</div>
+        <img class="image" src="{{ hour.iconUrl }}" style="width: 24px; height: 24px;">
+        <div class="description" style="flex: 1;">{{ hour.condition | replace: '-', ' ' | capitalize }}</div>
+        <div class="value value--small value--tnums" style="width: 48px; text-align: right;">{{ hour.temperature | round }}°</div>
+        <div class="description" style="width: 40px; text-align: right;">{{ hour.precipitationProbability }}%</div>
       </div>
       {% endfor %}
     </div>
