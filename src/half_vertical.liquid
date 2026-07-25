@@ -3,7 +3,14 @@
   scannable list of rows (narrow width fits a list better than a wide grid).
   hourLabel is precomputed server-side in Europe/Zurich time, since
   Liquid's date filter has no timezone-conversion support.
+
+  Rows use CSS Grid with a fixed column template (not flexbox) so column
+  widths never shift with content length: a flex child's "width" is only
+  a hint the browser can override when a row runs out of space, which
+  made a short condition string like "Rainy" throw off alignment on
+  whichever row it landed on. Grid tracks are locked instead.
 {% endcomment %}
+{% assign cols = "48px 28px minmax(0,1fr) 44px 40px 36px" %}
 <div class="layout">
   {% if hourly and hourly.size > 0 %}
   <div class="flex flex--col gap--small h--full">
@@ -16,16 +23,16 @@
 
     <div class="flex flex--col gap--small" style="flex: 1;">
       {% for hour in hourly limit: 7 %}
-      <div class="flex flex--row flex--center-y gap--small">
-        <div style="width: 48px;"><span class="label">{{ hour.hourLabel }}</span></div>
+      <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 8px; align-items: center;">
+        <span class="label">{{ hour.hourLabel }}</span>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 28px; height: 28px;">
-        <div style="flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
-        <div style="width: 44px; text-align: right;"><span class="value value--small value--tnums">{{ hour.temperature | round }}°</span></div>
-        <div style="width: 40px; display: flex; align-items: center; justify-content: flex-end; gap: 3px;">
+        <span class="description" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{ hour.condition | replace: '-', ' ' | capitalize }}</span>
+        <span class="value value--small value--tnums" style="text-align: right;">{{ hour.temperature | round }}°</span>
+        <span style="display: flex; align-items: center; justify-content: flex-end; gap: 3px;">
           <span style="display: inline-block; transform: rotate({{ hour.windArrowRotation }}deg);">↑</span>
           <span class="description value--tnums">{{ hour.windSpeed | round }}</span>
-        </div>
-        <div style="width: 36px; text-align: right;"><span class="description">{{ hour.precipitationProbability }}%</span></div>
+        </span>
+        <span class="description" style="text-align: right;">{{ hour.precipitationProbability }}%</span>
       </div>
       {% endfor %}
     </div>

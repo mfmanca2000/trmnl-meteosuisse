@@ -1,10 +1,17 @@
 {% comment %}
   Half horizontal layout (800x240). Commune + current conditions on top,
   6-hour forecast as a list of rows below.
+
+  Rows use CSS Grid with a fixed column template (not flexbox) so column
+  widths never shift with content length: a flex child's "width" is only
+  a hint the browser can override when a row runs out of space, which
+  made a short condition string like "Rainy" throw off alignment on
+  whichever row it landed on. Grid tracks are locked instead.
 {% endcomment %}
+{% assign cols = "44px 24px minmax(0,1fr) 48px 72px 44px 40px" %}
 <div class="layout">
   {% if hourly and hourly.size > 0 %}
-  <div class="flex flex--col gap--small h--full">
+  <div class="flex flex--col gap--xsmall h--full">
     <div class="flex flex--row flex--center-y" style="justify-content: space-between;">
       <div class="title title--medium" data-clamp="1">{{ commune | default: npa }}</div>
       <div class="flex flex--row flex--center-y gap--xsmall">
@@ -17,17 +24,17 @@
 
     <div class="flex flex--col gap--xsmall" style="flex: 1;">
       {% for hour in hourly limit: 6 %}
-      <div class="flex flex--row flex--center-y gap--small">
-        <div style="width: 44px;"><span class="label label--small">{{ hour.hourLabel }}</span></div>
+      <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 8px; align-items: center;">
+        <span class="label label--small">{{ hour.hourLabel }}</span>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 24px; height: 24px;">
-        <div style="flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
-        <div style="width: 48px; text-align: right;"><span class="value value--small value--tnums">{{ hour.temperature | round }}°</span></div>
-        <div style="width: 72px; text-align: right;"><span class="description value--tnums">{{ hour.temperatureMin | round }}/{{ hour.temperatureMax | round }}°</span></div>
-        <div style="width: 44px; display: flex; align-items: center; justify-content: flex-end; gap: 3px;">
+        <span class="description" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{ hour.condition | replace: '-', ' ' | capitalize }}</span>
+        <span class="value value--small value--tnums" style="text-align: right;">{{ hour.temperature | round }}°</span>
+        <span class="description value--tnums" style="text-align: right;">{{ hour.temperatureMin | round }}/{{ hour.temperatureMax | round }}°</span>
+        <span style="display: flex; align-items: center; justify-content: flex-end; gap: 3px;">
           <span style="display: inline-block; transform: rotate({{ hour.windArrowRotation }}deg);">↑</span>
           <span class="description value--tnums">{{ hour.windSpeed | round }}</span>
-        </div>
-        <div style="width: 40px; text-align: right;"><span class="description">{{ hour.precipitationProbability }}%</span></div>
+        </span>
+        <span class="description" style="text-align: right;">{{ hour.precipitationProbability }}%</span>
       </div>
       {% endfor %}
     </div>

@@ -1,7 +1,14 @@
 {% comment %}
   Quadrant layout (400x240). Tightest space: commune + current temp on top,
   a compact 4-hour list of rows below.
+
+  Rows use CSS Grid with a fixed column template (not flexbox) so column
+  widths never shift with content length: a flex child's "width" is only
+  a hint the browser can override when a row runs out of space, which
+  made a short condition string like "Rainy" throw off alignment on
+  whichever row it landed on. Grid tracks are locked instead.
 {% endcomment %}
+{% assign cols = "36px 20px minmax(0,1fr) 36px" %}
 <div class="layout">
   {% if hourly and hourly.size > 0 %}
   <div class="flex flex--col gap--xsmall h--full">
@@ -12,11 +19,11 @@
 
     <div class="flex flex--col gap--xsmall" style="flex: 1;">
       {% for hour in hourly limit: 4 %}
-      <div class="flex flex--row flex--center-y gap--small">
-        <div style="width: 36px;"><span class="label label--small">{{ hour.hourLabel }}</span></div>
+      <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 6px; align-items: center;">
+        <span class="label label--small">{{ hour.hourLabel }}</span>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 20px; height: 20px;">
-        <div style="flex: 1; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
-        <div style="width: 36px; text-align: right;"><span class="description value--tnums">{{ hour.temperature | round }}°</span></div>
+        <span class="description" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">{{ hour.condition | replace: '-', ' ' | capitalize }}</span>
+        <span class="description value--tnums" style="text-align: right;">{{ hour.temperature | round }}°</span>
       </div>
       {% endfor %}
     </div>
