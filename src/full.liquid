@@ -26,12 +26,12 @@
 
     <div class="flex flex--col gap--small" style="flex: 1;">
       {% for hour in hourly limit: 8 %}
-      <div class="flex flex--row flex--center-y gap--medium" style="justify-content: space-between;">
-        <div class="label" style="width: 56px;">{{ hour.hourLabel }}</div>
+      <div class="flex flex--row flex--center-y gap--medium">
+        <div style="width: 56px;"><span class="label">{{ hour.hourLabel }}</span></div>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 36px; height: 36px;">
-        <div class="description" style="flex: 1;">{{ hour.condition | replace: '-', ' ' | capitalize }}</div>
-        <div class="value value--medium value--tnums" style="width: 64px; text-align: right;">{{ hour.temperature | round }}°</div>
-        <div class="description" style="width: 56px; text-align: right;">{{ hour.precipitationProbability }}%</div>
+        <div style="flex: 1; min-width: 0;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
+        <div style="width: 64px; text-align: right;"><span class="value value--medium value--tnums">{{ hour.temperature | round }}°</span></div>
+        <div style="width: 56px; text-align: right;"><span class="description">{{ hour.precipitationProbability }}%</span></div>
       </div>
       {% endfor %}
     </div>

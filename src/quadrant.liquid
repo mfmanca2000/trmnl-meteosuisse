@@ -12,11 +12,11 @@
 
     <div class="flex flex--col gap--xsmall" style="flex: 1;">
       {% for hour in hourly limit: 4 %}
-      <div class="flex flex--row flex--center-y gap--small" style="justify-content: space-between;">
-        <div class="label label--small" style="width: 36px;">{{ hour.hourLabel }}</div>
+      <div class="flex flex--row flex--center-y gap--small">
+        <div style="width: 36px;"><span class="label label--small">{{ hour.hourLabel }}</span></div>
         <img class="image" src="{{ hour.iconUrl }}" style="width: 20px; height: 20px;">
-        <div class="description" style="flex: 1;">{{ hour.condition | replace: '-', ' ' | capitalize }}</div>
-        <div class="description value--tnums" style="width: 36px; text-align: right;">{{ hour.temperature | round }}°</div>
+        <div style="flex: 1; min-width: 0;"><span class="description">{{ hour.condition | replace: '-', ' ' | capitalize }}</span></div>
+        <div style="width: 36px; text-align: right;"><span class="description value--tnums">{{ hour.temperature | round }}°</span></div>
       </div>
       {% endfor %}
     </div>
