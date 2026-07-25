@@ -3,6 +3,11 @@ const { getHourlyForecast } = require('./meteoSwissClient')
 const { getCommuneName } = require('./communeLookup')
 const app = express()
 
+// Vercel terminates TLS at the edge and forwards over plain HTTP, so
+// req.protocol only reflects the original scheme (from X-Forwarded-Proto)
+// when trust proxy is enabled.
+app.set('trust proxy', true)
+
 app.use('/icons', express.static(__dirname + '/public/icons'))
 
 app.get('/api/forecast/:npa', async (req, res) => {
