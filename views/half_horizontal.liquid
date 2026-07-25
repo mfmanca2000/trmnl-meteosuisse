@@ -1,0 +1,43 @@
+{% comment %}
+  Half horizontal layout (800x240). Commune + current conditions on top,
+  6-hour forecast strip below.
+{% endcomment %}
+<div class="layout">
+  {% if hourly and hourly.size > 0 %}
+  <div class="flex flex--col gap--small h--full">
+    <div class="flex flex--row flex--center-y" style="justify-content: space-between;">
+      <div class="title title--medium" data-clamp="1">{{ commune | default: npa }}</div>
+      <div class="flex flex--row flex--center-y gap--xsmall">
+        <img class="image" src="{{ hourly[0].iconUrl }}" style="width: 32px; height: 32px;">
+        <div class="description">{{ hourly[0].condition | replace: '-', ' ' | capitalize }}, {{ hourly[0].temperature | round }}°</div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="grid grid--cols-6 gap--small" style="flex: 1;">
+      {% for hour in hourly limit: 6 %}
+      <div class="item text--center">
+        <div class="meta"></div>
+        <div class="content flex flex--col flex--center-x gap--xsmall">
+          <div class="label label--small">{{ hour.time | date: "%Hh" }}</div>
+          <img class="image" src="{{ hour.iconUrl }}" style="width: 32px; height: 32px;">
+          <div class="value value--small value--tnums">{{ hour.temperature | round }}°</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--small h--full">
+    <div class="value value--medium">⚙️</div>
+    <div class="title title--small text--center">No forecast data</div>
+    <div class="description text--center">Set a Swiss postal code (NPA) in the plugin settings.</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">MeteoSwiss</span>
+  <span class="instance">{{ trmnl.plugin_settings.instance_name | default: npa }}</span>
+</div>

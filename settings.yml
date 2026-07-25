@@ -1,0 +1,21 @@
+---
+strategy: polling
+no_screen_padding: "no"
+dark_mode: "no"
+static_data: ""
+polling_verb: get
+polling_url: ""
+polling_headers: ""
+id: 50000
+custom_fields:
+  - keyname: "NPA"
+    field_type: string
+    name: "NPA"
+    description: "The NPA of the commune for which you want to get hourly weather data via MeteoSuisse API."
+    placeholder: "e.g. 8000"
+  # - keyname: "hours"
+  #   field_type: string
+  #   name: "Hours"
+  #   description: "The number of hours for which you want to get hourly weather data via MeteoSuisse API."
+name: "MeteoSuisse hourly weather data"
+refresh_interval: 60

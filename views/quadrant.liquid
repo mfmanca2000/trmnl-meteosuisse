@@ -1,0 +1,36 @@
+{% comment %}
+  Quadrant layout (400x240). Tightest space: commune + current temp on top,
+  a compact 4-hour strip below.
+{% endcomment %}
+<div class="layout">
+  {% if hourly and hourly.size > 0 %}
+  <div class="flex flex--col gap--xsmall h--full">
+    <div class="flex flex--row flex--center-y" style="justify-content: space-between;">
+      <div class="title title--small" data-clamp="1">{{ commune | default: npa }}</div>
+      <div class="value value--small value--tnums">{{ hourly[0].temperature | round }}°</div>
+    </div>
+
+    <div class="grid grid--cols-4 gap--xsmall" style="flex: 1;">
+      {% for hour in hourly limit: 4 %}
+      <div class="item text--center">
+        <div class="meta"></div>
+        <div class="content flex flex--col flex--center-x">
+          <div class="label label--small">{{ hour.time | date: "%Hh" }}</div>
+          <img class="image" src="{{ hour.iconUrl }}" style="width: 24px; height: 24px;">
+          <div class="description value--tnums">{{ hour.temperature | round }}°</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--xsmall h--full">
+    <div class="value value--small">⚙️</div>
+    <div class="description text--center">Set an NPA in plugin settings.</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">MeteoSwiss</span>
+</div>

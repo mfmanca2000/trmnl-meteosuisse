@@ -1,0 +1,52 @@
+{% comment %}
+  Full layout (800x480). Shows the commune, current conditions, and an
+  8-hour forecast strip. Data comes from GET /api/forecast/:npa
+  ({ npa, commune, hourly: [...] }), exposed at the Liquid root by TRMNL's
+  polling strategy.
+{% endcomment %}
+<div class="layout">
+  {% if hourly and hourly.size > 0 %}
+  <div class="flex flex--col gap--medium h--full">
+    <div class="flex flex--row flex--center-y" style="justify-content: space-between;">
+      <div>
+        <div class="title title--large" data-clamp="1">{{ commune | default: npa }}</div>
+        <div class="label">Hourly forecast</div>
+      </div>
+      <div class="flex flex--row flex--center-y gap--small">
+        <img class="image" src="{{ hourly[0].iconUrl }}" style="width: 56px; height: 56px;">
+        <div class="text--right">
+          <div class="value value--xlarge value--tnums">{{ hourly[0].temperature | round }}°</div>
+          <div class="description">{{ hourly[0].condition | replace: '-', ' ' | capitalize }}</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="grid grid--cols-8 gap--small" style="flex: 1;">
+      {% for hour in hourly limit: 8 %}
+      <div class="item text--center">
+        <div class="meta"></div>
+        <div class="content flex flex--col flex--center-x gap--xsmall">
+          <div class="label label--small">{{ hour.time | date: "%Hh" }}</div>
+          <img class="image" src="{{ hour.iconUrl }}" style="width: 40px; height: 40px;">
+          <div class="value value--small value--tnums">{{ hour.temperature | round }}°</div>
+          <div class="description">{{ hour.precipitationProbability }}%</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--medium h--full">
+    <div class="value value--large">⚙️</div>
+    <div class="title title--medium text--center">No forecast data</div>
+    <div class="description text--center">Set a Swiss postal code (NPA) in the plugin settings.</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">MeteoSwiss</span>
+  <span class="instance">{{ trmnl.plugin_settings.instance_name | default: npa }}</span>
+</div>
