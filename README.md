@@ -20,6 +20,7 @@ plugins/
 | Plugin | Purpose | API path |
 | --- | --- | --- |
 | [meteosuisse](plugins/meteosuisse) | Hourly weather forecast for a Swiss NPA/PLZ, sourced from the MeteoSwiss API | `/api/meteosuisse/forecast` |
+| [homeassistant-energy](plugins/homeassistant-energy) | Solar/battery/grid energy snapshot, sourced from a Home Assistant instance | `/api/homeassistant-energy/status` |
 
 ## Setup
 
@@ -34,6 +35,23 @@ run it from inside that plugin's folder, e.g.:
 ```
 cd plugins/meteosuisse
 trmnlp serve
+```
+
+## Environment variables
+
+| Variable | Used by | Purpose |
+| --- | --- | --- |
+| `HA_BASE_URL` | homeassistant-energy | Publicly reachable Home Assistant URL (e.g. a Nabu Casa or tunnel URL), no trailing slash |
+| `HA_TOKEN` | homeassistant-energy | Home Assistant long-lived access token, sent as `Authorization: Bearer` |
+| `HA_TIMEZONE` | homeassistant-energy | IANA timezone used to compute "today" energy totals (default `Europe/Zurich`) |
+
+Set these in the Vercel project settings for production. For local testing, copy
+`server/.env.example` to `server/.env` and fill in real values — `npm run dev` and
+`npm start` load it automatically (via Node's `--env-file-if-exists`) if present,
+and do nothing if it's missing.
+
+```
+cp server/.env.example server/.env
 ```
 
 ## Deployment

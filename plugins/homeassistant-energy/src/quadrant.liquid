@@ -1,0 +1,39 @@
+{% comment %}
+  Quadrant layout (400x240). Tightest space: four headline stats only,
+  no per-panel breakdown.
+{% endcomment %}
+<div class="layout">
+  {% if panels and panels.size > 0 %}
+  <div class="flex flex--col gap--xsmall h--full">
+    <div class="title title--small text--center">Home Energy</div>
+
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr); gap: 6px; flex: 1;">
+      <div class="text--center flex flex--col flex--center-y">
+        <div class="value value--medium value--tnums">{{ solarWattsNow | default: 0 | round }} W</div>
+        <div class="label label--small">Solar now</div>
+      </div>
+      <div class="text--center flex flex--col flex--center-y">
+        <div class="value value--medium value--tnums">{{ batteryLevel | default: 0 | round }}%</div>
+        <div class="label label--small">Battery</div>
+      </div>
+      <div class="text--center flex flex--col flex--center-y">
+        <div class="value value--medium value--tnums">{{ consumptionWatts | default: 0 | round }} W</div>
+        <div class="label label--small">Used now</div>
+      </div>
+      <div class="text--center flex flex--col flex--center-y">
+        <div class="value value--medium value--tnums">{{ today.solarKwh | default: 0 | round: 1 }}</div>
+        <div class="label label--small">Solar today</div>
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--xsmall h--full">
+    <div class="value value--small">⚙️</div>
+    <div class="description text--center">Check server HA env vars.</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Home Assistant Energy</span>
+</div>

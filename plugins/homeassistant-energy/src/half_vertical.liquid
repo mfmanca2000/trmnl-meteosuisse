@@ -1,0 +1,61 @@
+{% comment %}
+  Half vertical layout (400x480). Narrow column, so headline numbers stack
+  and panel rows drop the "today" column to leave room for the label.
+{% endcomment %}
+{% assign cols = "minmax(0,1fr) 64px" %}
+<div class="layout">
+  {% if panels and panels.size > 0 %}
+  <div class="flex flex--col gap--small h--full">
+    <div class="text--center">
+      <div class="title title--medium">Home Energy</div>
+      <div class="label">Live status</div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 8px; width: 100%;">
+      <div class="text--center">
+        <div class="value value--large value--tnums">{{ solarWattsNow | default: 0 | round }} W</div>
+        <div class="label label--small">Solar now</div>
+      </div>
+      <div class="text--center">
+        <div class="value value--large value--tnums">{{ batteryLevel | default: 0 | round }}%</div>
+        <div class="label label--small">Battery</div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="flex flex--col gap--small" style="flex: 1;">
+      {% for panel in panels %}
+      <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 8px; align-items: center; width: 100%;">
+        <span class="description">{{ panel.label }}{% if panel.target == 'battery' %} 🔋{% endif %}</span>
+        <span class="value value--small value--tnums" style="text-align: right;">{{ panel.watts | default: 0 | round }} W</span>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="divider"></div>
+
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 8px; width: 100%;">
+      <div class="text--center">
+        <div class="value value--medium value--tnums">{{ consumptionWatts | default: 0 | round }} W</div>
+        <div class="label label--small">Used now</div>
+      </div>
+      <div class="text--center">
+        <div class="value value--medium value--tnums">{{ today.solarKwh | default: 0 | round: 1 }}</div>
+        <div class="label label--small">Solar today</div>
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--small h--full">
+    <div class="value value--medium">⚙️</div>
+    <div class="title title--small text--center">No energy data</div>
+    <div class="description text--center">Check the HA_BASE_URL/HA_TOKEN configuration on the server.</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Home Assistant Energy</span>
+  <span class="instance">{{ trmnl.plugin_settings.instance_name }}</span>
+</div>

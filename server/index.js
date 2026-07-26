@@ -7,6 +7,7 @@ const app = express()
 app.set('trust proxy', true)
 
 app.use('/api/meteosuisse', require('@trmnl-plugins/meteosuisse'))
+app.use('/api/homeassistant-energy', require('@trmnl-plugins/homeassistant-energy'))
 // Add future plugins here, e.g.:
 // app.use('/api/<name>', require('@trmnl-plugins/<name>'))
 

@@ -8,11 +8,12 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
+    "start": "node --env-file-if-exists=.env index.js",
+    "dev": "node --env-file-if-exists=.env index.js"
   },
   "dependencies": {
     "@trmnl-plugins/meteosuisse": "*",
+    "@trmnl-plugins/homeassistant-energy": "*",
     "express": "^5.2.1"
   }
 }

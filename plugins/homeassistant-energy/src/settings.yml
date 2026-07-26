@@ -1,0 +1,12 @@
+---
+strategy: polling
+no_screen_padding: "no"
+dark_mode: "no"
+static_data: ""
+polling_verb: get
+polling_url: "https://trmnl-plugins-mfmanca-server.vercel.app/api/homeassistant-energy/status"
+polling_headers: ""
+id: 50001
+custom_fields: []
+name: "Home Assistant Energy"
+refresh_interval: 5

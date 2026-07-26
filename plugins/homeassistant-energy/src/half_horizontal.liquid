@@ -1,0 +1,59 @@
+{% comment %}
+  Half horizontal layout (800x240). Solar/battery headline on top, a
+  compact panel table plus today's totals below.
+{% endcomment %}
+{% assign cols = "minmax(0,1fr) 72px 72px" %}
+<div class="layout">
+  {% if panels and panels.size > 0 %}
+  <div class="flex flex--col gap--xsmall h--full">
+    <div class="flex flex--row flex--center-y" style="justify-content: space-between;">
+      <div class="title title--medium">Home Energy</div>
+      <div class="flex flex--row gap--small">
+        <div class="description value--tnums">{{ solarWattsNow | default: 0 | round }} W solar</div>
+        <div class="description value--tnums">{{ batteryLevel | default: 0 | round }}% battery</div>
+        <div class="description value--tnums">{{ consumptionWatts | default: 0 | round }} W used</div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="flex flex--col gap--xsmall" style="flex: 1;">
+      {% for panel in panels %}
+      <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 8px; align-items: center; width: 100%;">
+        <span class="description">{{ panel.label }}{% if panel.target == 'battery' %} 🔋{% endif %}</span>
+        <span class="value value--small value--tnums" style="text-align: right;">{{ panel.watts | default: 0 | round }} W</span>
+        <span class="description value--tnums" style="text-align: right;">{{ panel.todayKwh | default: 0 | round: 1 }} kWh</span>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="divider"></div>
+
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 8px; width: 100%;">
+      <div class="text--center">
+        <div class="value value--small value--tnums">{{ today.gridImportKwh | default: 0 | round: 1 }}</div>
+        <div class="label label--small">Import today</div>
+      </div>
+      <div class="text--center">
+        <div class="value value--small value--tnums">{{ today.gridExportKwh | default: 0 | round: 1 }}</div>
+        <div class="label label--small">Export today</div>
+      </div>
+      <div class="text--center">
+        <div class="value value--small value--tnums">{{ today.consumptionKwh | default: 0 | round: 1 }}</div>
+        <div class="label label--small">Used today</div>
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--small h--full">
+    <div class="value value--medium">⚙️</div>
+    <div class="title title--small text--center">No energy data</div>
+    <div class="description text--center">Check the HA_BASE_URL/HA_TOKEN configuration on the server.</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Home Assistant Energy</span>
+  <span class="instance">{{ trmnl.plugin_settings.instance_name }}</span>
+</div>

@@ -1,0 +1,82 @@
+{% comment %}
+  Full layout (800x480). Data comes from GET /api/homeassistant-energy/status
+  ({ solarWattsNow, consumptionWatts, batteryLevel, panels: [...], today: {...} }),
+  exposed at the Liquid root by TRMNL's polling strategy.
+
+  Panel rows use CSS Grid with a fixed column template (not flexbox) so
+  column widths never shift with label length, same reasoning as the
+  meteosuisse hourly rows.
+{% endcomment %}
+{% assign cols = "minmax(0,1fr) 88px 88px" %}
+<div class="layout">
+  {% if panels and panels.size > 0 %}
+  <div class="flex flex--col gap--medium h--full">
+    <div class="flex flex--row flex--center-y" style="justify-content: space-between;">
+      <div>
+        <div class="title title--large">Home Energy</div>
+        <div class="label">Live status</div>
+      </div>
+      <div class="flex flex--row gap--medium">
+        <div class="text--right">
+          <div class="value value--xlarge value--tnums">{{ solarWattsNow | default: 0 | round }} W</div>
+          <div class="description">Solar now</div>
+        </div>
+        <div class="text--right">
+          <div class="value value--xlarge value--tnums">{{ batteryLevel | default: 0 | round }}%</div>
+          <div class="description">Battery</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 8px; width: 100%;">
+      <div></div>
+      <div style="text-align: right;"><span class="label label--small">Now</span></div>
+      <div style="text-align: right;"><span class="label label--small">Today</span></div>
+    </div>
+
+    <div class="flex flex--col gap--small">
+      {% for panel in panels %}
+      <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 8px; align-items: center; width: 100%;">
+        <span class="description">{{ panel.label }}{% if panel.target == 'battery' %} 🔋{% endif %}</span>
+        <span class="value value--medium value--tnums" style="text-align: right;">{{ panel.watts | default: 0 | round }} W</span>
+        <span class="description value--tnums" style="text-align: right;">{{ panel.todayKwh | default: 0 | round: 1 }} kWh</span>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="divider"></div>
+
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); column-gap: 8px; width: 100%;">
+      <div class="text--center">
+        <div class="value value--medium value--tnums">{{ consumptionWatts | default: 0 | round }} W</div>
+        <div class="label label--small">Consumption</div>
+      </div>
+      <div class="text--center">
+        <div class="value value--medium value--tnums">{{ today.gridImportKwh | default: 0 | round: 1 }}</div>
+        <div class="label label--small">Import today</div>
+      </div>
+      <div class="text--center">
+        <div class="value value--medium value--tnums">{{ today.gridExportKwh | default: 0 | round: 1 }}</div>
+        <div class="label label--small">Export today</div>
+      </div>
+      <div class="text--center">
+        <div class="value value--medium value--tnums">{{ today.consumptionKwh | default: 0 | round: 1 }}</div>
+        <div class="label label--small">Used today</div>
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--medium h--full">
+    <div class="value value--large">⚙️</div>
+    <div class="title title--medium text--center">No energy data</div>
+    <div class="description text--center">Check the HA_BASE_URL/HA_TOKEN configuration on the server.</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Home Assistant Energy</span>
+  <span class="instance">{{ trmnl.plugin_settings.instance_name }}</span>
+</div>
