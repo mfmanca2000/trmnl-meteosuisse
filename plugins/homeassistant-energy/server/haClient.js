@@ -87,4 +87,5 @@ async function getEnergyToday(entityId) {
 module.exports = {
   getState,
   getEnergyToday,
+  HA_TIMEZONE,
 }

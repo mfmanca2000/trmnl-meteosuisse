@@ -1,6 +1,15 @@
 const express = require('express')
-const { getState, getEnergyToday } = require('./haClient')
+const { getState, getEnergyToday, HA_TIMEZONE } = require('./haClient')
 const router = express.Router()
+
+// Liquid's date filter has no timezone-conversion support, so the display
+// label is precomputed here in HA_TIMEZONE rather than left to the template.
+const updatedAtFormatter = new Intl.DateTimeFormat('en-GB', {
+  timeZone: HA_TIMEZONE,
+  hour: '2-digit',
+  minute: '2-digit',
+  hour12: false,
+})
 
 const PANELS = [
   { label: 'Sunology', powerEntity: 'sensor.sunology_power', energyEntity: 'sensor.sensor_sunology_energy', target: 'grid' },
@@ -38,8 +47,10 @@ router.get('/status', async (req, res) => {
     const solarWattsNow = panels.reduce((sum, panel) => sum + (panel.watts ?? 0), 0)
     const solarKwhToday = panels.reduce((sum, panel) => sum + (panel.todayKwh ?? 0), 0)
 
+    const now = new Date()
     res.json({
-      updatedAt: new Date().toISOString(),
+      updatedAt: now.toISOString(),
+      updatedAtLabel: updatedAtFormatter.format(now),
       panels,
       solarWattsNow,
       consumptionWatts,
