@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "dev": "npm run dev --workspace=server",
-    "start": "npm run start --workspace=server"
+    "start": "npm run start --workspace=server",
+    "trmnlp:meteosuisse": "docker run --pull always --publish 4567:4567 --volume \"$(pwd)/plugins/meteosuisse:/plugin\" trmnl/trmnlp serve --bind 0.0.0.0"
   }
 }
