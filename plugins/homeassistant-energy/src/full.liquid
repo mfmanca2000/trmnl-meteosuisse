@@ -5,7 +5,10 @@
 
   Panel rows use CSS Grid with a fixed column template (not flexbox) so
   column widths never shift with label length, same reasoning as the
-  meteosuisse hourly rows.
+  meteosuisse hourly rows. The flex wrapper around those rows also needs
+  an explicit width: 100% — without it the wrapper shrinks to its content
+  width, and the rows' grid columns end up narrower than (and misaligned
+  with) the "Now"/"Today" header row above them.
 {% endcomment %}
 {% assign cols = "minmax(0,1fr) 88px 88px" %}
 <div class="layout">
@@ -18,11 +21,11 @@
       </div>
       <div class="flex flex--row gap--medium">
         <div class="text--right">
-          <div class="value value--xlarge value--tnums">{{ solarWattsNow | default: 0 | round }} W</div>
+          <div class="value value--xlarge value--tnums">☀️ {{ solarWattsNow | default: 0 | round }} W</div>
           <div class="description">Solar now</div>
         </div>
         <div class="text--right">
-          <div class="value value--xlarge value--tnums">{{ batteryLevel | default: 0 | round }}%</div>
+          <div class="value value--xlarge value--tnums">🔋 {{ batteryLevel | default: 0 | round }}%</div>
           <div class="description">Battery</div>
         </div>
       </div>
@@ -36,10 +39,10 @@
       <div style="text-align: right;"><span class="label label--small">Today</span></div>
     </div>
 
-    <div class="flex flex--col gap--small">
+    <div class="flex flex--col gap--small" style="width: 100%; flex: 1;">
       {% for panel in panels %}
       <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 8px; align-items: center; width: 100%;">
-        <span class="description">{{ panel.label }}{% if panel.target == 'battery' %} 🔋{% endif %}</span>
+        <span class="label">{{ panel.label }}{% if panel.target == 'battery' %} 🔋{% endif %}</span>
         <span class="value value--medium value--tnums" style="text-align: right;">{{ panel.watts | default: 0 | round }} W</span>
         <span class="description value--tnums" style="text-align: right;">{{ panel.todayKwh | default: 0 | round: 1 }} kWh</span>
       </div>

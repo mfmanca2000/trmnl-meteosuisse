@@ -17,10 +17,10 @@
 
     <div class="divider"></div>
 
-    <div class="flex flex--col gap--xsmall" style="flex: 1;">
+    <div class="flex flex--col gap--xsmall" style="width: 100%; flex: 1;">
       {% for panel in panels %}
       <div style="display: grid; grid-template-columns: {{ cols }}; column-gap: 8px; align-items: center; width: 100%;">
-        <span class="description">{{ panel.label }}{% if panel.target == 'battery' %} 🔋{% endif %}</span>
+        <span class="label">{{ panel.label }}{% if panel.target == 'battery' %} 🔋{% endif %}</span>
         <span class="value value--small value--tnums" style="text-align: right;">{{ panel.watts | default: 0 | round }} W</span>
         <span class="description value--tnums" style="text-align: right;">{{ panel.todayKwh | default: 0 | round: 1 }} kWh</span>
       </div>
