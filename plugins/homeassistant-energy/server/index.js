@@ -3,10 +3,10 @@ const { getState, getEnergyToday } = require('./haClient')
 const router = express.Router()
 
 const PANELS = [
-  { label: 'Sunology', powerEntity: 'sensor.sunology_power', energyEntity: 'sensor.sunology_energy', target: 'grid' },
+  { label: 'Sunology', powerEntity: 'sensor.sunology_power', energyEntity: 'sensor.sensor_sunology_energy', target: 'grid' },
   { label: 'Small panels', powerEntity: 'sensor.bluetti_dc_input', energyEntity: 'sensor.small_panels_energy', target: 'battery' },
   { label: 'PowerStream', powerEntity: 'sensor.powerstream_solar_1_watts_2', energyEntity: 'sensor.power_stream_energy', target: 'grid' },
-  { label: 'MyStrom', powerEntity: 'sensor.mystrom_switch_power', energyEntity: 'sensor.mystrom_energy', target: 'grid' },
+  { label: 'MyStrom', powerEntity: 'sensor.mystrom_switch_power', energyEntity: 'sensor.sensor_mystrom_energy', target: 'grid' },
 ]
 
 const BATTERY_LEVEL_ENTITY = 'sensor.bluetti_battery'

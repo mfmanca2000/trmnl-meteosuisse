@@ -1,4 +1,4 @@
-const HA_BASE_URL = process.env.HA_BASE_URL
+const HA_BASE_URL = (process.env.HA_BASE_URL || '').replace(/\/+$/, '')
 const HA_TOKEN = process.env.HA_TOKEN
 const HA_TIMEZONE = process.env.HA_TIMEZONE || 'Europe/Zurich'
 
