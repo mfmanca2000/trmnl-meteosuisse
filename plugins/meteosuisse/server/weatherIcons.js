@@ -29,11 +29,13 @@ function isNightIcon(weatherIcon) {
   return weatherIcon >= 100
 }
 
-// Served from server/public/icons/<condition>.svg (see index.js static route),
-// sourced from erikflowers/weather-icons (MIT licensed).
+// Served from public/icons/<condition>.svg (see index.js static route),
+// sourced from erikflowers/weather-icons (MIT licensed). The path is
+// absolute under this plugin's mount prefix on the shared server (see
+// ../../../server/index.js), not relative to this package.
 function getIconUrl(weatherIcon) {
   const condition = getCondition(weatherIcon)
-  return condition ? `/icons/${condition}.svg` : null
+  return condition ? `/api/meteosuisse/icons/${condition}.svg` : null
 }
 
 module.exports = {

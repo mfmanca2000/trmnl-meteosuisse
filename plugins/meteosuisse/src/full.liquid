@@ -1,6 +1,6 @@
 {% comment %}
   Full layout (800x480). Shows the commune, current conditions, and an
-  8-hour forecast as a list of rows. Data comes from GET /api/forecast
+  8-hour forecast as a list of rows. Data comes from GET /api/meteosuisse/forecast
   ({ npa, commune, hourly: [...] }), exposed at the Liquid root by TRMNL's
   polling strategy. hourLabel is precomputed server-side in Europe/Zurich
   time, since Liquid's date filter has no timezone-conversion support.
