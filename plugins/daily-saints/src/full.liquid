@@ -8,20 +8,18 @@
 <div class="layout">
   <div class="flex flex--col h--full w--full">
     {% if saint %}
-    <div class="flex flex--row flex--center-x flex--center-y gap--large grow">
+    <div class="flex flex--row flex--center-x flex--center-y gap--large grow portrait:flex--col">
       {% if saint.image %}
-      <div class="flex flex--col flex--center-y shrink-0" style="flex-basis: 220px;">
-        <img class="image image--cover rounded" src="{{ saint.image }}" style="width: 220px; height: 260px;">
-      </div>
+      <img class="image image--cover image-dither rounded shrink-0 w--56 h--64" src="{{ saint.image }}">
       {% endif %}
-      <div class="flex flex--col gap--small w--min-0" style="flex-basis: 380px;">
+      <div class="flex flex--col gap--small w--min-0 grow">
         <div>
           <div class="title title--large">{{ saint.name }}</div>
           <div class="label">{{ feastDay }}{% if saint.era %} &middot; {{ saint.era }}{% endif %}</div>
         </div>
 
         {% if saint.legacy %}
-        <div class="description" style="font-style: italic;">&ldquo;{{ saint.legacy }}&rdquo;</div>
+        <div class="description">&ldquo;{{ saint.legacy }}&rdquo;</div>
         {% endif %}
 
         <div class="divider"></div>
@@ -42,12 +40,12 @@
     {% else %}
     <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
       <div class="value value--large">&#128330;</div>
-      <div class="title title--medium text--center">No saint data</div>
+      <div class="title title--base text--center">No saint data</div>
       <div class="description text--center">Check the plugin's data files on the server.</div>
     </div>
     {% endif %}
 
-    <div class="label label--small text--center text--gray-50">Saints data: github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
+    <div class="label label--small text--center text--muted">Saints data: github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
   </div>
 </div>
 

@@ -8,7 +8,7 @@
   <div class="flex flex--col h--full w--full">
     {% if activity %}
     <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
-      <div class="value value--large text--center">{{ activity.activity }}</div>
+      <div class="value value--large lg:value--xlarge text--center">{{ activity.activity }}</div>
 
       <div class="flex flex--row gap--xsmall flex--wrap flex--center-x">
         {% if activity.type %}
@@ -27,18 +27,18 @@
       {% endif %}
 
       {% if activity.link and activity.link != "" %}
-      <div class="description text--center" style="word-break: break-all;">{{ activity.link }}</div>
+      <div class="description text--center" data-clamp="1">{{ activity.link }}</div>
       {% endif %}
     </div>
     {% else %}
     <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
       <div class="value value--large">&#129300;</div>
-      <div class="title title--medium text--center">No matching activity</div>
+      <div class="title title--base text--center">No matching activity</div>
       <div class="description text--center">Try loosening the type or participants filter.</div>
     </div>
     {% endif %}
 
-    <div class="label label--small text--center text--gray-50">Copyright &copy; The App Brewery</div>
+    <div class="label label--small text--center text--muted">Copyright &copy; The App Brewery</div>
   </div>
 </div>
 

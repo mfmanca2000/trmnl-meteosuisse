@@ -6,7 +6,7 @@
   <div class="flex flex--col h--full w--full">
     {% if activity %}
     <div class="flex flex--col flex--center-x flex--center-y gap--xsmall text--center grow">
-      <div class="title title--small" data-clamp="3">{{ activity.activity }}</div>
+      <div class="title title--small lg:title--base" data-clamp="3">{{ activity.activity }}</div>
       <div class="flex flex--row gap--xsmall flex--wrap flex--center-x">
         <span class="label label--small label--outline">{{ activity.participants }}p</span>
         <span class="label label--small label--outline">{{ activity.duration | capitalize }}</span>
@@ -20,7 +20,7 @@
     </div>
     {% endif %}
 
-    <div class="text--center text--gray-50" style="font-size: 8px; line-height: 1.2;">Copyright &copy; The App Brewery</div>
+    <div class="label label--small text--center text--muted">Copyright &copy; The App Brewery</div>
   </div>
 </div>
 

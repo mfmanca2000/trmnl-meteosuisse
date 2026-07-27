@@ -6,20 +6,18 @@
 <div class="layout">
   <div class="flex flex--col h--full w--full">
     {% if saint %}
-    <div class="flex flex--row gap--medium grow">
+    <div class="flex flex--row flex--center-y gap--medium grow portrait:flex--col">
       {% if saint.image %}
-      <div class="flex flex--col flex--center-y shrink-0" style="flex-basis: 140px;">
-        <img class="image image--cover rounded" src="{{ saint.image }}" style="width: 140px; height: 180px;">
-      </div>
+      <img class="image image--cover image-dither rounded shrink-0 w--36 h--44" src="{{ saint.image }}">
       {% endif %}
       <div class="flex flex--col gap--xsmall grow w--min-0">
         <div>
-          <div class="title title--medium">{{ saint.name }}</div>
+          <div class="title title--base">{{ saint.name }}</div>
           <div class="label">{{ feastDay }}{% if saint.era %} &middot; {{ saint.era }}{% endif %}</div>
         </div>
 
         {% if saint.legacy %}
-        <div class="description" style="font-style: italic;">&ldquo;{{ saint.legacy }}&rdquo;</div>
+        <div class="description">&ldquo;{{ saint.legacy }}&rdquo;</div>
         {% endif %}
 
         {% if saint.summary %}
@@ -37,12 +35,12 @@
     </div>
     {% else %}
     <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="value value--medium">&#128330;</div>
+      <div class="value value--base">&#128330;</div>
       <div class="description text--center">No saint data</div>
     </div>
     {% endif %}
 
-    <div class="label label--small text--center text--gray-50">Saints data: github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
+    <div class="label label--small text--center text--muted">Saints data: github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
   </div>
 </div>
 

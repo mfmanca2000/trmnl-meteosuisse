@@ -1,25 +1,100 @@
 ---
 name: trmnl-liquid-best-practices
-description: TRMNL Framework CSS class reference for writing or editing plugin Liquid layouts (plugins/*/src/*.liquid). Use this whenever creating a new layout, adding markup to full/half_horizontal/half_vertical/quadrant.liquid, or fixing a Chef (TRMNL's automatic recipe checker) complaint about "too many inline styles" or "opacity should not be used" — even if the user doesn't name Chef or the framework explicitly, e.g. "make this layout look nicer", "add a badge/pill to this template", "why did the recipe check fail", or "the copyright line looks too faint". Prefer Framework utility classes over inline `style="..."` attributes; this skill maps the inline styles this repo has historically reached for to their class equivalents.
+description: TRMNL Framework CSS class reference for writing or editing plugin Liquid layouts (plugins/*/src/*.liquid). Use this whenever creating a new layout, adding markup to full/half_horizontal/half_vertical/quadrant.liquid, or fixing a Chef (TRMNL's automatic recipe checker) complaint about inline styles, opacity, missing image-dither, or missing responsive classes — even if the user doesn't name Chef or the framework explicitly, e.g. "make this layout look nicer", "add a badge/pill to this template", "why did the recipe check fail", "the copyright line looks too faint", or "the image is overlapping the text". Prefer Framework utility classes over inline `style="..."` attributes. Every class name in this file was verified by downloading and grepping the real, current framework CSS (`https://usetrmnl.com/css/latest/plugins.css`) — see "How this was verified" before trusting any *other* source (docs pages, WebFetch summaries) on framework class names.
+
 ---
 
 # TRMNL Liquid best practices
 
 TRMNL runs every plugin recipe through an automatic checker ("Chef") before
-publishing. Two rules it enforces, straight from
-[the best-practices doc](https://help.trmnl.com/en/articles/11395668-recipe-best-practices):
+publishing. Rules it enforces, from
+[the best-practices doc](https://help.trmnl.com/en/articles/11395668-recipe-best-practices)
+and observed Chef output on this repo's plugins:
 
-1. Don't reach for inline `style="..."` when a Framework class does the same
-   thing — Chef flags "too many inline styles."
-2. Don't use `opacity` for faded/muted text — use a `text--gray-##` class
-   instead ([framework text-color docs](https://trmnl.com/framework/docs/text_color)).
+1. **No inline `style="..."` at all.** Any single occurrence trips "Inline
+   style attribute detected" — there's no "too many" threshold. If no class
+   covers it, the styling has to be dropped, not kept inline (no
+   accepted-exception path with this checker).
+2. Don't use `opacity` for faded/muted text — use `text--muted` instead.
+3. **Every `<img>` needs `image-dither`.**
+4. **Every layout needs at least one real responsive class** (`lg:`,
+   `portrait:`, etc.), not a token one added just to silence the check.
 
-This skill exists because `bored-api` and `daily-saints` both hand-rolled the
-same handful of inline styles across all four layouts, and got flagged for
-it. The mapping below is what fixed them — reach for these classes first
-instead of writing new inline CSS.
+## How this was verified (read this before trusting any doc summary)
 
-## Confirmed class mapping (verified against `https://trmnl.com/framework/docs/3.1/*`)
+Framework docs (`https://trmnl.com/framework/docs/3.1/*`) and generic
+WebFetch summaries of them turned out to contain **fabricated class names**
+that looked entirely plausible and were confidently stated with specifics
+(hex colors, scale ranges) — and still turned out to not exist. Confirmed
+hallucinations from earlier iterations of this skill:
+
+- `text--gray-10` through `text--gray-75` — **does not exist at all.**
+  The real muted-text class is `text--muted`.
+- `label--gray` / `label--filled` — **don't exist.** The real classes are
+  `label--gray-out` and `label--inverted`.
+- `title--medium` / `value--medium` — **don't exist.** These sizes only go
+  small → base → large → xlarge → xxlarge (value also has xxsmall/xsmall
+  and mega/giga/tera/peta above xxlarge). "Medium" was never a real step;
+  every pre-existing use of it in this repo (both plugins, several
+  layouts) silently fell back to the unstyled base size for months.
+- Arbitrary bracket size classes (`w--[Npx]`, `h--[Npx]`) — docs claimed a
+  range of "0-800px"; the real generated range is **0-128px only**. Any
+  bracket value above 128 silently does nothing (no error, the CSS custom
+  property it's supposed to set is just never defined) — this caused a
+  real, visually severe bug (an image rendering at ~full card size,
+  overlapping all the text below it) that took two rounds of guessing to
+  properly diagnose.
+
+**When in doubt about whether a class is real, don't re-ask a doc-summary
+tool — check the actual shipped CSS:**
+
+```bash
+curl -sL -o /tmp/trmnl.css https://usetrmnl.com/css/latest/plugins.css
+grep -oE '\.classname[a-zA-Z0-9_-]*\{[^}]*\}' /tmp/trmnl.css | sort -u
+```
+
+This is a ~14MB file; grep handles it fine. Note: `image-dither` and
+`data-clamp="N"` are real, correctly-documented features but **don't
+appear in this CSS file at all** — they're processed by TRMNL's JS
+runtime / server-side render pipeline (dithering for e-ink, and the
+"Clamp engine" for text truncation), not by static CSS rules. Their
+absence from the CSS is expected, not a sign they're fake — unlike the
+cases above, which were absent because they simply don't exist.
+
+## Verified image sizing (the actual bug this skill exists to prevent)
+
+For a fixed pixel size ≤128px, bracket syntax works and is exact:
+`w--[90px]`, `h--[110px]`.
+
+For anything above 128px, use the named scale below (nearest step; ~4px
+off is visually negligible). Put sizing directly on the `<img>` itself
+(no wrapper `<div>` needed) alongside `image--cover`/`image--contain`/
+`image--fill`, `image-dither`, and `rounded`:
+
+```html
+<img class="image image--cover image-dither rounded shrink-0 w--56 h--64" src="{{ url }}">
+```
+
+Full verified `w--N`/`h--N` scale (same numbers, same px, for both axes):
+
+| n | px | n | px | n | px | n | px |
+|---|---|---|---|---|---|---|---|
+| 0 | 0 | 8 | 32 | 24 | 96 | 48 | 192 |
+| 1 | 4 | 9 | 36 | 28 | 112 | 52 | 208 |
+| 2 | 8 | 10 | 40 | 32 | 128 | 56 | 224 |
+| 3 | 12 | 11 | 44 | 36 | 144 | 60 | 240 |
+| 4 | 16 | 12 | 48 | 40 | 160 | 64 | 256 |
+| 5 | 20 | 14 | 56 | 44 | 176 | 72 | 288 |
+| 6 | 24 | 16 | 64 | | | 80 | 320 |
+| 7 | 28 | 20 | 80 | | | 96 | 384 |
+
+(Numbers between 12 and 96 that aren't listed — 13, 15, 17-19, 21-23,
+etc. — don't exist; that's a real gap in the scale, not a typo.)
+
+`w--min-0`, `w--full`, `h--full`, `grow`, `shrink-0` are all confirmed
+real and work at any size, no range limit.
+
+## Confirmed class mapping — inline style → Framework class
 
 | Instead of inline style... | ...use this class |
 |---|---|
@@ -28,91 +103,51 @@ instead of writing new inline CSS.
 | `style="text-align: center;"` | `text--center` (also `text--left`, `text--right`, `text--justify`) |
 | `style="flex-wrap: wrap; justify-content: center;"` on a badge row | `flex--wrap flex--center-x` |
 | `style="align-items: center;"` in a row | `flex--center-y` (cross-axis of a row) |
-| `style="border: 1px solid currentColor; border-radius: Npx; padding: ...;"` on a `label label--small` badge | `label--outline` — the label component already renders a bordered pill, don't hand-roll it |
-| `style="opacity: 0.5;"` on muted/copyright text | `text--gray-50` (documented as `#999999`, the mid-gray — closest match to 50% opacity). Full scale: `text--gray-10` through `text--gray-75` in steps of 5, plus `text--black`/`text--white` |
+| `style="border: 1px solid currentColor; border-radius: Npx; padding: ...;"` on a `label label--small` badge | `label--outline` (real rule: `border:1px solid var(--framework-border-strong); border-radius:4px; padding: 0 2px`) |
+| `style="opacity: 0.5;"` on muted/copyright text | `text--muted` (real rule: `color:var(--framework-text-secondary)` — note `.label` elements already get this color by default, so adding it to non-label muted text is what actually matters) |
 | `style="object-fit: cover;"` on an `<img class="image">` | `image--cover` (also `image--contain`, `image--fill`) |
+| `style="border-radius: Npx;"` on an image | `rounded` (real rule: `border-radius:10px; overflow:hidden` — single fixed value, no size variants exist) |
+| `style="display: -webkit-box; -webkit-line-clamp: N; ...overflow: hidden;"` (line-clamp hack) | `data-clamp="N"` attribute on any text element — real JS-runtime feature ("Clamp engine"), also supports `data-clamp-md="N"` / `data-clamp-portrait="N"` for responsive clamping, and `clamp--none`/`clamp--1`...`clamp--50` as class-based alternatives |
+| `style="word-break: break-all;"` on a long URL | `data-clamp="1"` — clamps to one line with an ellipsis instead of ugly mid-word breaking |
 
-Other classes worth knowing when building a layout from scratch:
+Other real classes worth knowing when building a layout from scratch:
 - Flex direction: `flex flex--row` / `flex flex--col`
 - Flex alignment: `flex--center-x`/`flex--left`/`flex--right` (main axis), `flex--center-y`/`flex--top`/`flex--bottom` (cross axis)
 - Label sizes: `label--small`/`label--base`/`label--large`/`label--xlarge`/`label--xxlarge`
-- Label variants: `label--outline`, `label--gray`, `label--filled` (alias `label--inverted`), `label--primary`/`label--success`/`label--error`/`label--warning`
-- Responsive/orientation prefixes work on most of the above: `md:`, `lg:`, `portrait:`, `landscape:` (e.g. `md:text--center`)
+- Label variants: `label--outline`, `label--gray-out`, `label--inverted`, `label--primary`/`label--success`/`label--error`/`label--warning`
+- Title sizes: `title--small`/`title--base`/`title--large`/`title--xlarge`/`title--xxlarge` (no "medium")
+- Value sizes: `value--xxsmall`/`value--xsmall`/`value--small`/`value--base`/`value--large`/`value--xlarge`/`value--xxlarge`/`value--mega`/`value--giga`/`value--tera`/`value--peta` (no "medium"); `value--tnums` for tabular numbers
+- Responsive/orientation prefixes confirmed working on the above: `md:`, `lg:`, `portrait:` (e.g. `lg:value--large`, `portrait:flex--col`)
 
-## Confirmed NOT working — don't use these
+## No framework utility exists — drop the styling, don't fall back to inline
 
-Tested in `daily-saints/half_vertical.liquid` via a real `trmnlp serve`
-render (2026-07-27): `w--[160px] h--[190px]` on an `<img>` did **not**
-constrain its size — the image rendered at nearly full card width/height,
-overlapping the text below it. The bracket arbitrary-value syntax
-(`w--[Npx]`, `h--[Npx]`, `basis--[Npx]`, and presumably other `--[...]`
-forms) is either not supported by the version of the Framework CSS this
-repo's `trmnlp` pulls, or works differently than documented.
+Chef rejects every `style=` attribute, so "no class exists for this" means
+the styling has to go, not move to `style=`. Cases hit so far:
 
-**Use plain inline `style="width: Npx; height: Npx;"` for image/element
-pixel sizing and `style="flex: 0 0 Npx;"` / `style="flex-basis: Npx;"` for
-fixed flex-column widths instead of any `--[Npx]` bracket class.** This is
-exactly the kind of "necessary custom style" Chef's inline-style rule
-doesn't penalize — arbitrary per-layout pixel dimensions have no fixed-scale
-equivalent anyway.
+- `font-style: italic` — no italic utility exists anywhere in the CSS.
+  Dropped italic entirely from saint "legacy" quotes in `daily-saints`;
+  the `&ldquo;`/`&rdquo;` curly quotes still signal it's a quotation.
+- Custom `font-size`/`line-height` smaller than `label--small` — e.g. an
+  8px copyright line crammed into a `quadrant` (400×240) layout. Switched
+  to plain `label label--small` and accepted the slightly larger size.
+- `word-break: break-all` — see `data-clamp="1"` in the mapping table above.
 
-Classes from the same family that are NOT bracket syntax (plain scale
-values, e.g. `w--min-0`, `grow`, `shrink-0`) are unaffected by this and
-still fine to use — only the `--[value]` bracket form is suspect.
+## Responsive classes
 
-## Lower-confidence classes — verify before trusting
+Chef wants at least one real responsive/orientation class per layout.
+Reasonable defaults used so far:
 
-These came from doc excerpts, not yet from rendering them in this repo.
-Apply them, but call out to the user that they're unverified and should be
-checked with a live preview (see "Verifying changes" below) before treating
-them as settled:
+- A two-column row layout (image beside text) that would get too cramped
+  rotated 90° → `portrait:flex--col` on the row container, so it stacks
+  instead of squishing sideways (used in `daily-saints`' `full`,
+  `half_horizontal`, `quadrant`).
+- A layout with fixed pixel/size classes that could afford to be larger on
+  a physically bigger screen → an `lg:` bump, e.g. `lg:w--36 lg:h--40` on
+  an image, or `lg:value--large` on a headline value (used across both
+  plugins).
 
-| Instead of... | Try... | Why it's unverified |
-|---|---|---|
-| `style="display: -webkit-box; -webkit-line-clamp: N; -webkit-box-orient: vertical; overflow: hidden;"` (line-clamp hack) | `data-clamp="N"` attribute | Confirmed working by observation in the same `half_vertical.liquid` render (summary text clamped to ~5 lines with a trailing ellipsis) — reasonably safe to use, but only tested at one clamp value on one element type so far |
-| `style="border-radius: Npx;"` on an image | `rounded` (exact size modifier, e.g. `rounded--sm`, unconfirmed) | Docs only confirmed the base class exists; not clearly visible one way or the other in the one render checked so far |
-
-If a lower-confidence class doesn't render correctly, just revert that one
-spot back to the inline style rather than forcing it — that's a legitimate,
-narrow exception, not a failure.
-
-## Known exceptions — no framework utility exists, inline style is correct
-
-- `font-style: italic`
-- `word-break: break-all`
-- Custom `font-size`/`line-height` smaller than the smallest `label--small`
-  preset — e.g. an 8px copyright line crammed into a `quadrant` (400×240)
-  layout has no matching class, so leave it inline.
-
-## Worked example
-
-Before (from `bored-api/src/full.liquid`, pre-fix):
-
-```html
-<div class="flex flex--col h--full" style="width: 100%;">
-  <div class="flex flex--col flex--center-x flex--center-y gap--medium" style="flex: 1;">
-    <div class="value value--large" style="text-align: center;">{{ activity.activity }}</div>
-    <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap; justify-content: center;">
-      <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 2px 10px;">{{ activity.type }}</span>
-    </div>
-  </div>
-  <div class="label label--small text--center" style="opacity: 0.5;">Copyright</div>
-</div>
-```
-
-After:
-
-```html
-<div class="flex flex--col h--full w--full">
-  <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
-    <div class="value value--large text--center">{{ activity.activity }}</div>
-    <div class="flex flex--row gap--xsmall flex--wrap flex--center-x">
-      <span class="label label--small label--outline">{{ activity.type }}</span>
-    </div>
-  </div>
-  <div class="label label--small text--center text--gray-50">Copyright</div>
-</div>
-```
+Pick whichever genuinely fits that layout's content, not a token class
+added just to silence the linter.
 
 ## Verifying changes
 
@@ -124,7 +159,8 @@ trmnlp serve
 ```
 
 This repo's dev sandbox frequently lacks Ruby, so `trmnlp` may not be
-runnable there — if so, say so explicitly and ask the user to run the
-preview themselves, especially for anything from the "lower-confidence"
-table above. Don't claim a visual fix is confirmed without actually having
-rendered it.
+runnable there — say so explicitly and ask the user to run the preview
+themselves. But for framework *class name* questions specifically, you
+don't need `trmnlp` at all — download the real CSS (see "How this was
+verified" above) and grep it directly. That's faster, free of
+hallucination risk, and is how every fact in this file was established.

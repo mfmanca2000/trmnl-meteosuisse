@@ -6,15 +6,15 @@
 <div class="layout">
   <div class="flex flex--col h--full w--full">
     {% if saint %}
-    <div class="flex flex--row flex--center-y gap--small grow">
+    <div class="flex flex--row flex--center-y gap--small grow portrait:flex--col">
       {% if saint.image %}
-      <img class="image image--cover rounded shrink-0" src="{{ saint.image }}" style="width: 90px; height: 110px;">
+      <img class="image image--cover image-dither rounded shrink-0 w--[90px] h--[110px]" src="{{ saint.image }}">
       {% endif %}
       <div class="flex flex--col gap--xsmall w--min-0">
         <div class="title title--small">{{ saint.name }}</div>
         <div class="label label--small">{{ feastDay }}{% if saint.era %} &middot; {{ saint.era }}{% endif %}</div>
         {% if saint.legacy %}
-        <div class="description" style="font-style: italic;" data-clamp="2">&ldquo;{{ saint.legacy }}&rdquo;</div>
+        <div class="description" data-clamp="2">&ldquo;{{ saint.legacy }}&rdquo;</div>
         {% endif %}
       </div>
     </div>
@@ -25,7 +25,7 @@
     </div>
     {% endif %}
 
-    <div class="text--center text--gray-50" style="font-size: 8px; line-height: 1.2;">github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
+    <div class="label label--small text--center text--muted">github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
   </div>
 </div>
 
