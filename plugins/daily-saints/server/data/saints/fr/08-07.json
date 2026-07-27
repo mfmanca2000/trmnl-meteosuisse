@@ -1,0 +1,21 @@
+{
+  "date": "08-07",
+  "feast_day": "7 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gaétan de Thiène",
+      "feast_day": "7 août",
+      "era": "Renaissance",
+      "patronage": [
+        "demandeurs d'emploi",
+        "chômeurs",
+        "providence divine"
+      ],
+      "legacy": "Fondateur de l'ordre des Théatins et réformateur",
+      "summary": "Saint Gaétan de Thiène était un prêtre italien, fondateur des Théatins, un ordre religieux consacré à la réforme du clergé et à la promotion des sacrements. Il est connu pour sa profonde dévotion à la Bienheureuse Vierge Marie et pour avoir introduit la pratique des Quarante Heures d'adoration du Saint-Sacrement. Gaétan consacra sa vie au service des pauvres et des malades, laissant un héritage durable de charité et de renouveau spirituel dans l'Église.",
+      "image": "/images/saint_cajetan_of_thiena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cajetan_of_Thiene"
+    }
+  ]
+}

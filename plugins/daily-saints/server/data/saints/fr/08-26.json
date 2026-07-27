@@ -1,0 +1,17 @@
+{
+  "date": "08-26",
+  "feast_day": "26 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Zéphyrin",
+      "feast_day": "26 août",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la divinité du Christ et de la foi",
+      "summary": "Saint Zéphyrin fut pape et martyr, qui dirigea l'Église durant une période de sévère persécution sous l'empereur Septime Sévère. Il reste célèbre pour sa défense constante de la foi face aux hérésies et pour la conduite compatissante de son troupeau. Zéphyrin gouverna l'Église pendant dix-neuf ans avant de mourir en martyr vers l'an 217.",
+      "image": "/images/saint_zephyrinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zephyrinus"
+    }
+  ]
+}

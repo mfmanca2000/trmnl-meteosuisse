@@ -1,0 +1,20 @@
+{
+  "date": "04-13",
+  "feast_day": "13 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Herménégild",
+      "feast_day": "13 avril",
+      "era": "VIe siècle",
+      "patronage": [
+        "martyrs",
+        "conversions"
+      ],
+      "legacy": "Un martyre inspirant la foi et la conversion",
+      "summary": "Saint Herménégild fut un prince wisigoth et martyr, exécuté par son père, le roi Léovigild, pour s'être converti au christianisme. Malgré de sévères tortures et la tentation de renoncer à sa foi, il resta ferme et choisit de mourir plutôt que de trahir ses convictions. Son martyre inspira beaucoup de gens, y compris son frère Récarède, qui convertit plus tard les Wisigoths au christianisme.",
+      "image": "/images/saint_hermenegild.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hermenegild"
+    }
+  ]
+}

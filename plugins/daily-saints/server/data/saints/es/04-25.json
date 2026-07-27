@@ -1,0 +1,17 @@
+{
+  "date": "04-25",
+  "feast_day": "25 de abril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marcos",
+      "feast_day": "25 de abril",
+      "era": null,
+      "patronage": null,
+      "legacy": "Evangelista",
+      "summary": "San Marcos se convirtió a la Fe gracias al Príncipe de los Apóstoles, a quien acompañó después a Roma, actuando allí como su secretario o intérprete. Cuando san Pedro escribió su Primera Epístola a las Iglesias de Asia, unió afectuosamente a su propio saludo el de su fiel compañero, a quien llama mi hijo Marcos. El pueblo romano suplicó a san Marcos que pusiera por escrito para ellos la sustancia de los frecuentes discursos de san Pedro sobre la vida de Nuestro Señor.",
+      "image": "/images/saint_mark_evangelist.jpg",
+      "wikipedia": null
+    }
+  ]
+}

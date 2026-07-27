@@ -1,0 +1,22 @@
+{
+  "date": "07-02",
+  "feast_day": "2 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Maria",
+      "feast_day": "2 luglio",
+      "era": "I secolo",
+      "patronage": [
+        "madri",
+        "donne incinte",
+        "famiglia",
+        "viaggiatori"
+      ],
+      "legacy": "Modello di fede e maternità",
+      "summary": "Maria è venerata come madre di Gesù Cristo e occupa un ruolo centrale nel cristianesimo. La Visitazione, celebrata il 2 luglio, commemora la sua visita alla cugina Elisabetta, durante la quale Elisabetta riconobbe Maria come madre del suo Signore. Questo evento mette in luce l'umiltà di Maria e il suo ruolo di intercessora, poiché ella porta la grazia divina a coloro che le sono accanto.",
+      "image": "/images/the_visitation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

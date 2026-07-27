@@ -1,0 +1,35 @@
+{
+  "date": "03-06",
+  "feast_day": "6 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Coletta",
+      "feast_day": "6 marzo",
+      "era": "XV secolo",
+      "patronage": [
+        "i poveri",
+        "le donne",
+        "i bambini malati"
+      ],
+      "legacy": "Riformatrice delle Clarisse e mistica",
+      "summary": "Santa Coletta fu una vergine e riformatrice delle Clarisse del XV secolo, nota per il suo stile di vita austero e la sua dedizione alla preghiera. Dopo aver ricevuto una visione di San Francesco, avviò un'importante riforma del suo ordine, fondando diciassette conventi in tutta Europa. Coletta ebbe un ruolo cruciale nel sanare lo scisma all'interno della Chiesa ed era nota per le sue intense battaglie spirituali contro le forze demoniache.",
+      "image": "/images/saint_colette.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Colette_of_Corbie"
+    },
+    {
+      "name": "Perpetua e Felicita",
+      "feast_day": "6 marzo",
+      "era": "Cristianesimo delle origini",
+      "patronage": [
+        "le madri",
+        "le donne in attesa",
+        "i martiri"
+      ],
+      "legacy": "Simboli di fede e coraggio nel martirio",
+      "summary": "Le sante Perpetua e Felicita furono martiri cristiane delle origini, giustiziate a Cartagine intorno al 203 d.C. La loro storia è narrata nel celebre diario di Perpetua, che offre un resoconto vivido della loro fede e del loro coraggio di fronte alla persecuzione. Sono celebrate per il loro incrollabile impegno verso il cristianesimo e sono considerate simboli di forza e fedeltà nella fede.",
+      "image": "/images/saints_felicitas_perpetua_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Perpetua_and_Felicity"
+    }
+  ]
+}

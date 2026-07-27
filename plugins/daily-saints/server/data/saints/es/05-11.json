@@ -1,0 +1,31 @@
+{
+  "date": "05-11",
+  "feast_day": "11 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Felipe",
+      "feast_day": "11 de mayo",
+      "era": "Siglo I",
+      "patronage": [
+        "sombrereros",
+        "enamorados",
+        "diaconado"
+      ],
+      "legacy": "Apóstol conocido por su celo evangelizador",
+      "summary": "Felipe fue uno de los primeros discípulos elegidos por Jesucristo, conocido por su entusiasta invitación a Natanael para conocer al Mesías. Se le recuerda por su profunda sed de Dios, ilustrada por su célebre petición a Jesús de que le mostrara al Padre. La tradición sostiene que Felipe fue martirizado en Hierápolis, y que sus reliquias fueron trasladadas más tarde a Roma.",
+      "image": "/images/saint_philip.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_the_Apostle"
+    },
+    {
+      "name": "Mamerto",
+      "feast_day": "11 de mayo",
+      "era": "Siglo V",
+      "patronage": null,
+      "legacy": "Arzobispo de Vienne",
+      "summary": "San Mamerto, arzobispo de Vienne en el Delfinado durante el siglo V, fue un prelado célebre por su santidad, su erudición y sus milagros. Instituyó en su diócesis los ayunos y súplicas llamados Rogativas, durante los tres días previos a la Ascensión, para remediar el abandono religioso que había atraído sobre la antigua Galia numerosos castigos. Dios todopoderoso, para castigar los pecados del pueblo, la había visitado con guerras y otras calamidades públicas, y había despertado en particular a la ciudad de Vienne de su letargo espiritual mediante el terror de los terremotos, los incendios y las fieras voraces, que a veces se veían incluso en la propia plaza del mercado.",
+      "image": "/images/saint_mammertus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

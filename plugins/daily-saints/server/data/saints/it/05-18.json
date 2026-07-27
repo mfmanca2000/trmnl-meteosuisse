@@ -1,0 +1,31 @@
+{
+  "date": "05-18",
+  "feast_day": "18 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Felice da Cantalice",
+      "feast_day": "18 maggio",
+      "era": "XVI secolo",
+      "patronage": [
+        "poveri",
+        "mendicanti",
+        "frati cappuccini"
+      ],
+      "legacy": "Un modello di umiltà e devozione",
+      "summary": "San Felice da Cantalice fu un frate cappuccino noto per la sua profonda devozione alla preghiera e al servizio dei poveri a Roma. Trascorse oltre quarant'anni a questuare per la sua comunità e fu rinomato per la sua dolcezza e bontà, spesso mediando i conflitti tra gli altri. Canonizzato nel 1712, è ricordato per la sua fede incrollabile e il suo amore per la Vergine Maria.",
+      "image": "/images/saint_felix_of_cantalice.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Cantalice"
+    },
+    {
+      "name": "Venanzio di Camerino",
+      "feast_day": "18 maggio",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Martire",
+      "summary": "San Venanzio, nato a Camerino, in Italia, fu arrestato all'età di quindici anni durante la persecuzione di Decio, in quanto cristiano che predicava Cristo agli altri. La sua storia è una delle più miracolose negli annali dei primi martiri. Avendo saputo che stava per essere arrestato, si presentò egli stesso al governatore di Camerino, Antioco, alle porte della città, e gli disse che la vita degli dèi era colma di ogni sorta di delitti, che vi era un solo Dio, il cui Figlio unico si era fatto uomo per liberare i suoi simili dalla tirannia del peccato.",
+      "image": "/images/saint_venantius_of_camerino.jpg",
+      "wikipedia": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "01-14",
+  "feast_day": "14 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hilaire de Poitiers",
+      "feast_day": "14 janvier",
+      "era": "IVe siècle",
+      "patronage": [
+        "théologiens",
+        "exilés"
+      ],
+      "legacy": "Défenseur de l'orthodoxie contre l'arianisme",
+      "summary": "Hilaire de Poitiers était un évêque et docteur de l'Église connu pour sa défense acharnée du christianisme orthodoxe contre l'arianisme. Après s'être converti au christianisme à un âge avancé, il devint un théologien de premier plan et écrivit abondamment sur la Trinité. Ses efforts pour promouvoir la foi lui valurent l'exil, durant lequel il continua à composer des œuvres influentes, avant de finalement retourner dans son diocèse pour poursuivre son ministère jusqu'à sa mort.",
+      "image": "/images/saint_hilary_of_poitiers.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+    },
+    {
+      "name": "Félix de Nole",
+      "feast_day": "14 janvier",
+      "era": "IIIe siècle",
+      "patronage": [
+        "religieuses",
+        "orateurs",
+        "ceux qui cherchent à surmonter l'adversité"
+      ],
+      "legacy": "Un modèle de foi et de charité",
+      "summary": "Saint Félix de Nole était un prêtre connu pour sa foi profonde et son dévouement au service d'autrui durant une période de persécution de l'Église primitive. Il endura emprisonnement et torture, mais demeura fidèle à ses devoirs pastoraux, venant finalement en aide à son évêque, Maxime, en un temps de grande détresse. Une fois la persécution terminée, il vécut dans la pauvreté et la charité, devenant une figure appréciée de sa communauté.",
+      "image": "/images/saint_felix_of_nola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Nola"
+    }
+  ]
+}

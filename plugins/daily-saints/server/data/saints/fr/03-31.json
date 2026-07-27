@@ -1,0 +1,32 @@
+{
+  "date": "03-31",
+  "feast_day": "31 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nicolas de Flue",
+      "feast_day": "31 mars",
+      "era": "XVe siècle",
+      "patronage": [
+        "la Suisse",
+        "les ermites",
+        "la paix",
+        "la spiritualité"
+      ],
+      "legacy": "Un phare de paix et de spiritualité",
+      "summary": "Nicolas de Flue était un ermite et mystique suisse qui quitta sa famille et ses possessions pour consacrer sa vie à Dieu. Il devint célèbre pour sa profonde spiritualité et sa sagesse, attirant de nombreux visiteurs en quête de ses conseils. Ses efforts contribuèrent à prévenir une guerre civile en Suisse, et il est vénéré pour son rôle dans la promotion de la paix et de l'unité.",
+      "image": "/images/saint_nicholas_of_flue.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Fl%C3%BCe"
+    },
+    {
+      "name": "Benjamin",
+      "feast_day": "31 mars",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Martyre pour la foi et le courage",
+      "summary": "Saint Benjamin était un diacre et martyr qui vécut au début du Ve siècle en Perse. Il prêcha courageusement la foi chrétienne malgré une sévère persécution sous le roi Isdegerdes, qui cherchait à éradiquer le christianisme dans son royaume. Après avoir enduré de brutales tortures pour son engagement inébranlable envers le Christ, il mourut finalement pour sa foi vers l'an 424.",
+      "image": "/images/saint_benjamin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_the_Deacon_and_Martyr"
+    }
+  ]
+}

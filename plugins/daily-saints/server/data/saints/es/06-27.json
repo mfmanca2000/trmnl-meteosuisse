@@ -1,0 +1,36 @@
+{
+  "date": "06-27",
+  "feast_day": "27 de junio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nuestra Señora del Perpetuo Socorro",
+      "feast_day": "27 de junio",
+      "era": "Medieval",
+      "patronage": [
+        "madres",
+        "los enfermos",
+        "viajeros"
+      ],
+      "legacy": "Un símbolo de esperanza e intercesión",
+      "summary": "Nuestra Señora del Perpetuo Socorro es un venerado icono de la Virgen María y el Niño Jesús, conocida por su estilo bizantino. La imagen ha sido fuente de devoción y milagros desde su llegada a Roma procedente de Creta en el siglo XV. Es celebrada por su papel al brindar consuelo y ayuda a los fieles en momentos de necesidad.",
+      "image": "/images/our_lady_of_perpetual_help.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Perpetual_Help"
+    },
+    {
+      "name": "Ladislao I",
+      "feast_day": "27 de junio",
+      "era": "Medieval",
+      "patronage": [
+        "Hungría",
+        "soldados",
+        "paz",
+        "niños"
+      ],
+      "legacy": "Un rey piadoso y defensor de la fe",
+      "summary": "Ladislao I fue rey de Hungría desde 1077 hasta su muerte en 1095, conocido por su piedad, caridad y habilidad militar. Fue un firme defensor de la fe cristiana y trabajó para restaurar las leyes establecidas por su predecesor, san Esteban. Canonizado en 1199, es recordado por su vida virtuosa y los milagros que se le atribuyeron después de su muerte.",
+      "image": "/images/saint_ladislas_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ladislaus_I_of_Hungary"
+    }
+  ]
+}

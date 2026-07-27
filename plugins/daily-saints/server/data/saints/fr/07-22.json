@@ -1,0 +1,21 @@
+{
+  "date": "07-22",
+  "feast_day": "22 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marie-Madeleine",
+      "feast_day": "22 juillet",
+      "era": "Ier siècle",
+      "patronage": [
+        "pénitents",
+        "femmes",
+        "convertis"
+      ],
+      "legacy": "Symbole de repentir et de dévotion",
+      "summary": "Marie-Madeleine est une figure marquante du Nouveau Testament, connue pour sa profonde dévotion envers Jésus-Christ. Elle fut témoin de sa crucifixion et la première à rencontrer le Christ ressuscité, recevant le message de sa résurrection à transmettre aux Apôtres. Sa vie illustre le repentir et le pouvoir transformateur de l'amour et de la foi en Jésus.",
+      "image": "/images/saint_mary_magdalen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Magdalene"
+    }
+  ]
+}

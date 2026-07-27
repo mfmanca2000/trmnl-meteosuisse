@@ -1,0 +1,21 @@
+{
+  "date": "11-29",
+  "feast_day": "29 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Saturnino",
+      "feast_day": "29 novembre",
+      "era": "I secolo",
+      "patronage": [
+        "Tolosa",
+        "Francia",
+        "agricoltori"
+      ],
+      "legacy": "Martire ed evangelizzatore dei primi cristiani",
+      "summary": "San Saturnino fu un vescovo e martire che svolse un ruolo determinante nella diffusione precoce del cristianesimo nel sud della Francia. Fu noto per i suoi miracoli e la sua fermezza di fronte alla persecuzione, che portò infine al suo martirio. La sua eredità è celebrata nella tradizione cristiana, in particolare a Tolosa, dove è venerato come santo patrono.",
+      "image": "/images/saint_saturninus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saturninus_of_Toulouse"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "03-18",
+  "feast_day": "18 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cirilo de Jerusalén",
+      "feast_day": "18 de marzo",
+      "era": "siglo IV",
+      "patronage": null,
+      "legacy": "Defensor de la fe y de la catequesis",
+      "summary": "Cirilo de Jerusalén fue un destacado obispo y teólogo de la Iglesia primitiva, conocido por sus catequesis que sentaron las bases de la instrucción cristiana sobre el Credo y los Sacramentos. Enfrentó la persecución durante su episcopado, pero permaneció firme en su fe, oponiéndose célebremente a los intentos de reconstruir el templo judío bajo el emperador Juliano. El legado de Cirilo perdura a través de sus escritos y su papel en la defensa de la ortodoxia frente a la herejía.",
+      "image": "/images/saint_cyril_of_jerusalem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+    }
+  ]
+}

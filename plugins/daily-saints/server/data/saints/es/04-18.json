@@ -1,0 +1,27 @@
+{
+  "date": "04-18",
+  "feast_day": "18 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "María de la Encarnación",
+      "feast_day": "18 de abril",
+      "era": "Siglo XVII",
+      "patronage": null,
+      "legacy": "Carmelita",
+      "summary": "La beata María de la Encarnación nació en París en febrero de 1565; sus dos padres pertenecían a las familias más antiguas de aquella gran ciudad. Antes de que ella naciera, habían nacido otros hijos, pero todos murieron en su infancia. Mientras esperaba a esta niña, su madre la consagró a la Santísima Virgen y a san Claudio, prometiendo vestirla de blanco hasta los siete años y ofrecerla en una iglesia de la Santísima Virgen.",
+      "image": "/images/blessed_mary_of_the_incarnation_carmelite.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Apolonio",
+      "feast_day": "18 de abril",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Mártir",
+      "summary": "El emperador romano Marco Aurelio había perseguido a los cristianos, pero su hijo Cómodo, que le sucedió en el trono en el año 180, les fue favorable, por consideración hacia su emperatriz Marcia, admiradora de la Fe. Durante esta calma, el número de fieles aumentó considerablemente, y muchas personas de primer rango, entre ellas Apolonio, un senador romano, se alistaron bajo el estandarte de la cruz. Ya estaba muy versado tanto en filosofía como en las Sagradas Escrituras, según sabemos por san Jerónimo, quien había leído y admirado su discurso ante el Senado de Roma en favor de la religión cristiana.",
+      "image": "/images/saint_apollonius.jpg",
+      "wikipedia": null
+    }
+  ]
+}

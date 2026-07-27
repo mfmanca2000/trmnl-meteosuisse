@@ -1,0 +1,35 @@
+{
+  "date": "08-03",
+  "feast_day": "3 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pietro Giuliano Eymard",
+      "feast_day": "3 agosto",
+      "era": "XIX secolo",
+      "patronage": [
+        "adorazione eucaristica",
+        "clero",
+        "Santissimo Sacramento"
+      ],
+      "legacy": "Difensore della devozione e della spiritualità eucaristica.",
+      "summary": "Pietro Giuliano Eymard fu un sacerdote francese e fondatore della Congregazione del Santissimo Sacramento. Dedicò la sua vita a promuovere la devozione all'Eucaristia e fondò comunità a sostegno di questa missione. Canonizzato nel 1962, è ricordato per la sua profonda spiritualità e il suo impegno per la vita sacramentale della Chiesa.",
+      "image": "/images/saint_peter-julian_eymard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Julian_Eymard"
+    },
+    {
+      "name": "Stefano",
+      "feast_day": "3 agosto",
+      "era": "I secolo",
+      "patronage": [
+        "diaconi",
+        "scalpellini",
+        "morte improvvisa"
+      ],
+      "legacy": "Primo martire e testimone della fede",
+      "summary": "Santo Stefano è riconosciuto come il primo martire cristiano, noto per la sua fede incrollabile e la sua potente predicazione. Fu lapidato a morte per le sue convinzioni, come narrato negli Atti degli Apostoli. Le sue reliquie furono ritrovate nel 415 d.C., dando origine a una grande festa in suo onore e alla guarigione di molte persone afflitte.",
+      "image": "/images/the_finding_of_saint_stephens_relics.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_the_Protomartyr"
+    }
+  ]
+}

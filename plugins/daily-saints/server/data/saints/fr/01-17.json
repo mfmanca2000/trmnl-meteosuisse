@@ -1,0 +1,21 @@
+{
+  "date": "01-17",
+  "feast_day": "17 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Antoine du Désert",
+      "feast_day": "17 janvier",
+      "era": "IIIe siècle",
+      "patronage": [
+        "moines",
+        "fossoyeurs",
+        "animaux"
+      ],
+      "legacy": "Père du monachisme chrétien",
+      "summary": "Saint Antoine du Désert, né en Haute-Égypte vers 251, est reconnu comme le père du monachisme. Il renonça à sa fortune pour mener une vie de solitude et de prière dans le désert, où il affronta de nombreuses tentations et batailles spirituelles. Son héritage comprend la fondation de communautés monastiques et une influence profonde sur l'ascétisme chrétien.",
+      "image": "/images/saint_anthony_of_the_desert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Egypt"
+    }
+  ]
+}

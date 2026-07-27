@@ -1,0 +1,45 @@
+{
+  "date": "08-18",
+  "feast_day": "18 août",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Hélène",
+      "feast_day": "18 août",
+      "era": "IVe siècle",
+      "patronage": [
+        "convertis",
+        "archéologues",
+        "mariages difficiles"
+      ],
+      "legacy": "Découvreuse de la Vraie Croix",
+      "summary": "Sainte Hélène était une princesse britannique et la mère de Constantin le Grand, premier empereur chrétien. Elle est célèbre pour son pèlerinage à Jérusalem, où elle découvrit la Vraie Croix et fit construire des églises sur des sites chrétiens importants. Son influence sur son fils et sa contribution au christianisme sont célébrées, en particulier son rôle dans la promotion de la foi durant les premières années de l'Église.",
+      "image": "/images/saint_helen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Helen_of_Constantinople"
+    },
+    {
+      "name": "Agapet",
+      "feast_day": "18 août",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyr courageux et convertisseur de païens",
+      "summary": "Saint Agapet était un jeune martyr qui souffrit grandement pour sa foi sous le règne de l'empereur Aurélien. Sa constance sous la torture conduisit à la conversion de nombreux païens, qui furent ensuite exécutés pour leurs nouvelles convictions. Agapet fut finalement décapité pour avoir refusé de sacrifier à Apollon, et il reste célèbre pour son extraordinaire courage et sa foi.",
+      "image": "/images/saint_agapet.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agapetus"
+    },
+    {
+      "name": "Claire de Montefalco",
+      "feast_day": "18 août",
+      "era": "Moyen Âge",
+      "patronage": [
+        "maladies cardiaques",
+        "malades",
+        "religieuses"
+      ],
+      "legacy": "Un modèle de dévotion et de compassion",
+      "summary": "Claire de Montefalco était une vierge et abbesse italienne connue pour sa profonde spiritualité et son dévouement à la Passion du Christ. Elle dirigea une communauté de religieuses et fut reconnue pour sa sagesse, ses guérisons miraculeuses et ses dons prophétiques. Son cœur portait, dit-on, l'image du Sauveur crucifié, symbolisant son lien profond avec la souffrance du Christ.",
+      "image": "/images/saint_clare_of_montefalco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clare_of_Montefalco"
+    }
+  ]
+}

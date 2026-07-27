@@ -1,0 +1,21 @@
+{
+  "date": "08-07",
+  "feast_day": "7 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gaetano da Thiene",
+      "feast_day": "7 agosto",
+      "era": "Rinascimento",
+      "patronage": [
+        "persone in cerca di lavoro",
+        "disoccupati",
+        "divina provvidenza"
+      ],
+      "legacy": "Fondatore dell'Ordine dei Teatini e riformatore",
+      "summary": "San Gaetano da Thiene fu un sacerdote italiano, fondatore dei Teatini, un ordine religioso dedicato alla riforma del clero e alla promozione dei sacramenti. È noto per la sua profonda devozione alla Beata Vergine Maria e per aver introdotto la pratica delle Quarantore di adorazione del Santissimo Sacramento. Gaetano dedicò la sua vita al servizio dei poveri e dei malati, lasciando un'eredità duratura di carità e rinnovamento spirituale nella Chiesa.",
+      "image": "/images/saint_cajetan_of_thiena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cajetan_of_Thiene"
+    }
+  ]
+}

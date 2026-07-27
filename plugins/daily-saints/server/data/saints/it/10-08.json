@@ -1,0 +1,21 @@
+{
+  "date": "10-08",
+  "feast_day": "8 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Brigida di Svezia",
+      "feast_day": "8 ottobre",
+      "era": "XIV secolo",
+      "patronage": [
+        "vedove",
+        "matrimoni difficili",
+        "Europa"
+      ],
+      "legacy": "Fondatrice dell'Ordine del Santissimo Salvatore",
+      "summary": "Brigida di Svezia nacque in una famiglia reale nel 1302 e divenne una mistica di rilievo e fondatrice dell'Ordine del Santissimo Salvatore. Dopo la morte del marito, dedicò la sua vita al servizio dei poveri e ricevette numerose rivelazioni, tra cui le Quindici Preghiere di santa Brigida. È nota per la sua profonda devozione alla Passione di Cristo e per il suo importante contributo alla vita spirituale della sua epoca.",
+      "image": "/images/saint_bridget_of_sweden.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bridget_of_Sweden"
+    }
+  ]
+}

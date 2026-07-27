@@ -1,0 +1,20 @@
+{
+  "date": "10-27",
+  "feast_day": "27 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Frumence",
+      "feast_day": "27 octobre",
+      "era": "IVe siècle",
+      "patronage": [
+        "Éthiopie",
+        "missionnaires"
+      ],
+      "legacy": "Apôtre de l'Éthiopie et chef chrétien des premiers temps",
+      "summary": "Saint Frumence était un enfant emmené en Éthiopie avec son frère Édèse après que leur navire eut été attaqué. Il devint un conseiller de confiance du roi éthiopien et fut plus tard consacré premier évêque d'Éthiopie par saint Athanase. Grâce à ses efforts, il réussit à répandre le christianisme dans tout le pays, accomplissant une prophétie d'Isaïe.",
+      "image": "/images/saint_frumentius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frumentius"
+    }
+  ]
+}

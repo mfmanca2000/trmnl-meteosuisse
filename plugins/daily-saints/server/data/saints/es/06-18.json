@@ -1,0 +1,31 @@
+{
+  "date": "06-18",
+  "feast_day": "18 de junio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Efrén",
+      "feast_day": "18 de junio",
+      "era": "Siglo IV",
+      "patronage": [
+        "diáconos",
+        "directores espirituales",
+        "teología"
+      ],
+      "legacy": "Un venerado Doctor de la Iglesia",
+      "summary": "San Efrén fue un destacado teólogo y poeta del cristianismo primitivo, conocido por su profunda humildad y su intensa espiritualidad. Sirvió como diácono en Edesa, donde predicó y escribió extensamente, mereciendo el título de 'Arpa del Espíritu Santo' por sus elocuentes expresiones de fe. Declarado Doctor de la Iglesia, sus obras siguen inspirando a los cristianos con sus reflexiones sobre la Escritura y la naturaleza de Dios.",
+      "image": "/images/saint_ephrem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+    },
+    {
+      "name": "Marco y Marceliano",
+      "feast_day": "18 de junio",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Mártires de fe firme y valentía",
+      "summary": "Los santos Marco y Marceliano fueron hermanos gemelos y mártires que vivieron en Roma durante el reinado del emperador Diocleciano. Fueron encarcelados y finalmente ejecutados por negarse a renunciar a su fe cristiana pese a las súplicas de su familia. Su legado se honra especialmente en España, donde se les atribuye haber intercedido por la protección de la ciudad.",
+      "image": "/images/saint_marcus_and_saint_marcellianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcus_and_Marcellianus"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "12-14",
+  "feast_day": "14 décembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mélanie Calvat",
+      "feast_day": "14 décembre",
+      "era": "XIXe siècle",
+      "patronage": null,
+      "legacy": "Visionnaire de Notre-Dame de La Salette",
+      "summary": "Mélanie Calvat était une visionnaire française connue pour son rôle dans l'apparition de Notre-Dame de La Salette en 1846. Elle affronta d'importantes épreuves tout au long de sa vie, y compris l'exil et l'opposition des autorités ecclésiastiques, tout en restant fidèle à sa mission. Ses révélations insistaient sur l'appel à la prière et à la pénitence en une période de déclin moral, et l'on se souvient d'elle pour sa foi profonde et son attachement au message de la Vierge Marie.",
+      "image": "/images/blessed_melanie_calvat.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Melanie_Calvat"
+    },
+    {
+      "name": "Nicaise",
+      "feast_day": "14 décembre",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Martyre pour la foi et le devoir de pasteur",
+      "summary": "Saint Nicaise était archevêque de Reims au Ve siècle et l'on se souvient de son courage dans la direction de son diocèse lors de l'invasion des Vandales. Il exhorta son troupeau à la pénitence et demeura ferme dans sa foi, sacrifiant finalement sa vie en priant pour son peuple. À ses côtés, son diacre Florent, le lecteur Jocond et sa sœur Eutropie furent également martyrisés, et leurs reliques devinrent un lieu de vénération et de miracles.",
+      "image": "/images/saint_nicasius_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicasius_of_Rheims"
+    }
+  ]
+}

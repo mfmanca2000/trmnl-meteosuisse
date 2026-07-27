@@ -1,0 +1,21 @@
+{
+  "date": "04-01",
+  "feast_day": "1 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Hugues de Grenoble",
+      "feast_day": "1 avril",
+      "era": "XIe siècle",
+      "patronage": [
+        "clergé",
+        "pauvres",
+        "réformateurs"
+      ],
+      "legacy": "Champion de la réforme et de la charité dans l'Église.",
+      "summary": "Hugues de Grenoble fut un évêque du XIe siècle connu pour sa profonde piété et son engagement à réformer l'Église. Il renonça d'abord à son évêché pour mener une vie monastique, mais fut rappelé pour servir son diocèse, où il devint célèbre pour ses œuvres charitables et sa prédication puissante. Son héritage comprend la fondation de l'ordre des Chartreux aux côtés de saint Bruno et son dévouement envers les pauvres.",
+      "image": "/images/saint_hugh_of_grenoble.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Grenoble"
+    }
+  ]
+}

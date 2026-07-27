@@ -1,0 +1,22 @@
+{
+  "date": "11-25",
+  "feast_day": "25 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catalina de Alejandría",
+      "feast_day": "25 de noviembre",
+      "era": "siglo IV",
+      "patronage": [
+        "los estudiantes",
+        "las jóvenes",
+        "los filósofos",
+        "los apologistas"
+      ],
+      "legacy": "Patrona de los estudiantes y las jóvenes",
+      "summary": "Catalina de Alejandría fue una noble virgen y mártir del siglo cuarto, célebre por su inteligencia y elocuencia al defender la fe cristiana frente a los filósofos paganos. Debatió famosamente con el emperador Maximino II y convirtió a muchos de sus seguidores antes de soportar tortura y ejecución por su firmeza. Su legado perdura como símbolo de fe y valentía, y es venerada como patrona de los estudiantes y las jóvenes.",
+      "image": "/images/saint_catherine_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+    }
+  ]
+}

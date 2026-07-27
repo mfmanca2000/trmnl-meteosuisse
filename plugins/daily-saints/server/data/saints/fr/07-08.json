@@ -1,0 +1,21 @@
+{
+  "date": "07-08",
+  "feast_day": "8 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Élisabeth de Portugal",
+      "feast_day": "8 juillet",
+      "era": "Médiéval",
+      "patronage": [
+        "paix",
+        "œuvres de charité",
+        "mariages difficiles"
+      ],
+      "legacy": "Un modèle de charité et de pacification",
+      "summary": "Élisabeth de Portugal naquit en 1271 et devint reine consort du roi Denis Ier de Portugal. Connue pour sa foi profonde et ses œuvres de charité, elle consacra sa vie au service des pauvres et à la médiation de la paix au sein de sa famille. Après la mort de son époux, elle embrassa une vie d'austérité et de dévotion, et fut finalement reconnue sainte pour sa vie vertueuse.",
+      "image": "/images/saint_elizabeth_of_portugal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal"
+    }
+  ]
+}

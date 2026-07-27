@@ -1,0 +1,21 @@
+{
+  "date": "09-21",
+  "feast_day": "21 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Matteo",
+      "feast_day": "21 settembre",
+      "era": "I secolo",
+      "patronage": [
+        "esattori delle tasse",
+        "contabili",
+        "banchieri"
+      ],
+      "legacy": "Apostolo ed Evangelista di Gesù Cristo",
+      "summary": "Matteo, originariamente chiamato Levi, era un esattore delle tasse chiamato da Gesù a essere uno dei suoi apostoli. Gli viene tradizionalmente attribuita la stesura del Vangelo secondo Matteo, che sottolinea come Gesù sia il compimento delle profezie dell'Antico Testamento. Dopo aver predicato in Giudea, trascorse molti anni evangelizzando in Egitto ed Etiopia, dove infine divenne martire per la sua fede.",
+      "image": "/images/saint_matthew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+    }
+  ]
+}

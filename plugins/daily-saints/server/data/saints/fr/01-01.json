@@ -1,0 +1,40 @@
+{
+  "date": "01-01",
+  "feast_day": "1 janvier",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Le Père éternel",
+      "feast_day": "1 janvier",
+      "era": null,
+      "patronage": null,
+      "legacy": "L'incarnation de la paternité divine",
+      "summary": "Le Père éternel est un titre utilisé pour désigner Dieu le Père dans la théologie chrétienne. Il est reconnu comme le créateur et le soutien de l'univers, incarnant l'amour et l'autorité. Ce concept met l'accent sur la relation entre le Père et le Fils, notamment dans le contexte de la Sainte Trinité.",
+      "image": "/images/the_eternal_father.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/God_the_Father"
+    },
+    {
+      "name": "La Circoncision de Notre-Seigneur",
+      "feast_day": "1 janvier",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "La circoncision était un sacrement de l'Ancienne Loi, et la première observance légale exigée des descendants d'Abraham par Dieu Tout-Puissant. C'était un sacrement d'initiation au service de Dieu, et une promesse, un engagement, à croire et à agir comme Il l'avait révélé et ordonné. La loi de la circoncision resta en vigueur jusqu'à la mort du Christ.",
+      "image": "/images/the_circumcision_of_our_lord.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Fulgence",
+      "feast_day": "1 janvier",
+      "era": "VIe siècle",
+      "patronage": [
+        "théologiens",
+        "clergé exilé"
+      ],
+      "legacy": "Défenseur de la foi et des exilés.",
+      "summary": "Fulgence était un évêque et théologien nord-africain connu pour sa défense acharnée de la doctrine catholique contre l'arianisme et le pélagianisme. Après avoir enduré la persécution et l'exil, il retourna dans son diocèse pour y rétablir l'ordre et la discipline parmi les fidèles. Ses écrits continuent d'influencer la pensée chrétienne, et il est resté dans les mémoires pour sa profonde spiritualité et son engagement envers les pauvres.",
+      "image": "/images/saint_fulgentius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fulgentius_of_Ruspe"
+    }
+  ]
+}

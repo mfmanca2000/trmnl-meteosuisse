@@ -1,0 +1,22 @@
+{
+  "date": "12-27",
+  "feast_day": "27 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan",
+      "feast_day": "27 de diciembre",
+      "era": "Siglo I",
+      "patronage": [
+        "autores",
+        "teólogos",
+        "amor",
+        "amistad"
+      ],
+      "legacy": "Discípulo amado y autor del Apocalipsis",
+      "summary": "Juan, hermano de Santiago, fue uno de los doce apóstoles y a menudo se le denomina el discípulo amado de Jesús. La tradición le atribuye la redacción del Evangelio de Juan, de tres epístolas y del Apocalipsis. Tras la crucifixión, se convirtió en una figura clave de la Iglesia primitiva, evangelizando en Asia Menor y ejerciendo como primer arzobispo de Éfeso.",
+      "image": "/images/saint_john.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Apostle"
+    }
+  ]
+}

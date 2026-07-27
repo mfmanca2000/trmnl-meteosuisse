@@ -1,0 +1,21 @@
+{
+  "date": "05-07",
+  "feast_day": "7 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Stanislas",
+      "feast_day": "7 mai",
+      "era": "XIe siècle",
+      "patronage": [
+        "Pologne",
+        "évêques",
+        "martyrs"
+      ],
+      "legacy": "Défenseur de la foi et des pauvres",
+      "summary": "Saint Stanislas fut évêque de Cracovie et martyr, qui s'opposa courageusement au roi Boleslas II pour ses actions immorales. Il est connu pour sa profonde piété, son engagement envers les pauvres et des actes miraculeux, notamment la résurrection d'un mort pour témoigner en sa faveur. Sa fermeté dans la foi le conduisit finalement au martyre, tué à l'autel pendant la messe en 1079.",
+      "image": "/images/saint_stanislaus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stanislaus"
+    }
+  ]
+}

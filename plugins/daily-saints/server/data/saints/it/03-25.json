@@ -1,0 +1,17 @@
+{
+  "date": "03-25",
+  "feast_day": "25 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Annunciazione della Beata Vergine Maria e Incarnazione del Verbo di Dio",
+      "feast_day": "25 marzo",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "Questa grande festa prende il nome dal lieto annuncio portato dall'Arcangelo Gabriele alla Beata Vergine, che annunciava l'Incarnazione del Figlio di Dio. Essa commemora la più importante ambasciata che sia mai stata conosciuta, un'ambasciata inviata dal Re dei re, e compiuta da uno dei principali principi della sua corte celeste, e diretta, non ai grandi di questa terra, ma a una povera vergine sconosciuta che, dotata di angelica purezza dell'anima e del corpo, e di perfetta umiltà e sottomissione a Dio, era più grande ai suoi occhi del più potente monarca del mondo. Quando il Figlio di Dio si fece uomo, avrebbe potuto assumere la nostra natura senza la cooperazione di alcuna creatura; ma gli piacque nascere da una donna, quella annunciata nel terzo capitolo della Genesi.",
+      "image": "/images/annunciation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": null
+    }
+  ]
+}

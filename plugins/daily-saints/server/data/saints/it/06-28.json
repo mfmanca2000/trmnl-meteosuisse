@@ -1,0 +1,20 @@
+{
+  "date": "06-28",
+  "feast_day": "28 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ireneo",
+      "feast_day": "28 giugno",
+      "era": "II secolo",
+      "patronage": [
+        "apologeti",
+        "contro le eresie"
+      ],
+      "legacy": "Difensore della fede contro le eresie",
+      "summary": "Sant'Ireneo fu un importante teologo del primo cristianesimo e vescovo di Lione, noto per il suo ruolo nella lotta contro le eresie nel II secolo. È ricordato soprattutto per la sua opera 'Adversus Haereses', che difendeva la fede cristiana contro gli insegnamenti gnostici. Ireneo fu martirizzato intorno all'anno 202 sotto l'imperatore romano Settimio Severo, lasciando un'eredità duratura come Dottore della Chiesa.",
+      "image": "/images/saint_irenaeus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Irenaeus"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-31",
+  "feast_day": "31 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ignazio di Loyola",
+      "feast_day": "31 luglio",
+      "era": "XVI secolo",
+      "patronage": [
+        "soldati",
+        "ritiri spirituali",
+        "istruzione"
+      ],
+      "legacy": "Fondatore dei Gesuiti e guida spirituale",
+      "summary": "Sant'Ignazio di Loyola fu un sacerdote e teologo spagnolo che fondò la Compagnia di Gesù, nota anche come Gesuiti. Dopo una profonda conversione spirituale seguita a un grave infortunio, dedicò la propria vita al servizio di Dio e all'aiuto del prossimo attraverso l'educazione e gli esercizi spirituali. La sua eredità comprende gli Esercizi Spirituali, una guida per la crescita spirituale che ha influenzato innumerevoli persone e comunità.",
+      "image": "/images/saint_ignatius_of_loyola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "12-04",
+  "feast_day": "4 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Barbe",
+      "feast_day": "4 décembre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "artillerie",
+        "mineurs",
+        "pompiers",
+        "contre la mort subite"
+      ],
+      "legacy": "Protectrice contre la mort subite et imprévue",
+      "summary": "Sainte Barbe était une martyre chrétienne qui vécut au début du IIIe siècle. Elle fut emprisonnée et torturée par son père, Dioscore, à cause de sa foi, et finalement décapitée. Elle est vénérée comme protectrice contre la mort subite et est particulièrement honorée dans les pays hispanophones et dans la région de Metz, en France.",
+      "image": "/images/saint_barbara.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbara_of_Nicomedia"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "05-07",
+  "feast_day": "7 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Stanislao",
+      "feast_day": "7 maggio",
+      "era": "XI secolo",
+      "patronage": [
+        "Polonia",
+        "vescovi",
+        "martiri"
+      ],
+      "legacy": "Difensore della fede e dei poveri",
+      "summary": "San Stanislao fu vescovo di Cracovia e martire, che si oppose coraggiosamente al re Boleslao II per le sue azioni immorali. È noto per la sua profonda pietà, il suo impegno verso i poveri e per atti miracolosi, tra cui la resurrezione di un morto per testimoniare in suo favore. La sua fermezza nella fede lo condusse infine al martirio, ucciso all'altare durante la Messa nel 1079.",
+      "image": "/images/saint_stanislaus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stanislaus"
+    }
+  ]
+}

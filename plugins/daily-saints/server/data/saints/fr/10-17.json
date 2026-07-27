@@ -1,0 +1,21 @@
+{
+  "date": "10-17",
+  "feast_day": "17 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marguerite-Marie Alacoque",
+      "feast_day": "17 octobre",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "dévotion au Sacré-Cœur",
+        "perte des parents",
+        "malades"
+      ],
+      "legacy": "Apôtre du Sacré-Cœur de Jésus",
+      "summary": "Sainte Marguerite-Marie Alacoque était une religieuse et mystique française connue pour ses visions du Sacré-Cœur de Jésus. Elle joua un rôle déterminant dans la promotion de la dévotion au Sacré-Cœur, qui met l'accent sur l'amour de Dieu pour l'humanité. Canonisée en 1920, son héritage continue d'inspirer la dévotion et la foi chez les catholiques du monde entier.",
+      "image": "/images/saint_margaret_mary_alacoque.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque"
+    }
+  ]
+}

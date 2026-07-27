@@ -1,0 +1,22 @@
+{
+  "date": "04-30",
+  "feast_day": "30 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catherine de Sienne",
+      "feast_day": "30 avril",
+      "era": "XIVe siècle",
+      "patronage": [
+        "Italie",
+        "infirmières",
+        "contre le feu",
+        "personnes moquées pour leur foi"
+      ],
+      "legacy": "Mystique et réformatrice de l'Église",
+      "summary": "Catherine de Sienne fut une mystique du XIVe siècle et une figure éminente de l'Église catholique, connue pour sa profonde spiritualité et son engagement à réformer l'Église. Elle joua un rôle crucial dans le retour du pape Grégoire XI à Rome depuis Avignon et fut la conseillère de plusieurs papes durant une période tumultueuse de l'histoire de l'Église. Sa vie fut marquée par une prière intense, des visions, et un dévouement à servir Dieu et l'Église, ce qui conduisit finalement à sa canonisation et à sa reconnaissance comme docteur de l'Église.",
+      "image": "/images/saint_catherine_of_siena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Siena"
+    }
+  ]
+}

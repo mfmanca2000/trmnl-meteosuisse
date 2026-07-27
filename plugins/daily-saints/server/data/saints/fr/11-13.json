@@ -1,0 +1,35 @@
+{
+  "date": "11-13",
+  "feast_day": "13 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Stanislas Kostka",
+      "feast_day": "13 novembre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "jeunesse",
+        "étudiants",
+        "jésuites"
+      ],
+      "legacy": "Patron de la jeunesse et des étudiants",
+      "summary": "Saint Stanislas Kostka était un jésuite polonais connu pour sa profonde spiritualité et son engagement envers Dieu depuis son plus jeune âge. Il entra dans la Compagnie de Jésus à l'âge de 17 ans et est resté célèbre pour sa piété, sa dévotion à la Vierge Marie et les expériences miraculeuses vécues durant sa maladie. Il mourut à l'âge de 18 ans, et son corps incorrompu est devenu un lieu de vénération, menant à sa canonisation en 1726.",
+      "image": "/images/saint_stanislaus_kostka.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stanislaus_Kostka"
+    },
+    {
+      "name": "Didace",
+      "feast_day": "13 novembre",
+      "era": "XVe siècle",
+      "patronage": [
+        "hôpitaux",
+        "les malades",
+        "les îles Canaries"
+      ],
+      "legacy": "Un modèle d'humilité et de service",
+      "summary": "Saint Didace, né en Andalousie au début du XVe siècle, était un confesseur franciscain connu pour sa profonde spiritualité et son engagement à servir les autres. Il consacra sa vie à la prière, au jeûne et aux soins des malades, accomplissant souvent des miracles par son intercession. Il mourut en 1463, et son corps incorrompu devint une source de vénération, menant à sa canonisation en 1588.",
+      "image": "/images/saint_didacus_or_diego.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Didacus"
+    }
+  ]
+}

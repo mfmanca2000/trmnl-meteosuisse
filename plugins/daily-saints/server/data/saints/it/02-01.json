@@ -1,0 +1,37 @@
+{
+  "date": "02-01",
+  "feast_day": "1 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ignazio di Antiochia",
+      "feast_day": "1 febbraio",
+      "era": "I secolo",
+      "patronage": [
+        "capi della Chiesa",
+        "martiri",
+        "malati"
+      ],
+      "legacy": "Un campione dell'unità e della fede cristiana",
+      "summary": "Ignazio di Antiochia fu un vescovo e martire cristiano dei primi tempi che svolse un ruolo significativo nello sviluppo della Chiesa. È noto per le sue lettere, che sottolineavano l'importanza dell'unità e dell'Eucaristia, e per la sua fermezza di fronte alla persecuzione. Ignazio fu martirizzato a Roma intorno all'anno 107, esprimendo notoriamente il desiderio di essere «il grano di Cristo» macinato dai denti delle bestie feroci.",
+      "image": "/images/saint_ignatius_of_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch"
+    },
+    {
+      "name": "Brigida d'Irlanda",
+      "feast_day": "1 febbraio",
+      "era": "V secolo",
+      "patronage": [
+        "Irlanda",
+        "birrai",
+        "poeti",
+        "bambini",
+        "agricoltori"
+      ],
+      "legacy": "Patrona dell'Irlanda e della carità",
+      "summary": "Brigida d'Irlanda, conosciuta anche come Brigida di Kildare, fu una badessa del V secolo e fondatrice di numerosi monasteri in Irlanda. È venerata per la sua profonda spiritualità, le sue opere di carità e la fondazione del primo convento d'Irlanda a Kildare. Il suo lascito continua a ispirare molti come simbolo di compassione e dedizione a Dio.",
+      "image": "/images/saint_bridgid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brigid_of_Kildare"
+    }
+  ]
+}

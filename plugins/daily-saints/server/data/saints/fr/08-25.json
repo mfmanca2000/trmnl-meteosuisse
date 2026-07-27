@@ -1,0 +1,37 @@
+{
+  "date": "08-25",
+  "feast_day": "25 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Louis IX",
+      "feast_day": "25 août",
+      "era": "Moyen Âge",
+      "patronage": [
+        "France",
+        "croisés",
+        "lépreux",
+        "barbiers",
+        "mourants"
+      ],
+      "legacy": "Un modèle de royauté chrétienne et de justice.",
+      "summary": "Louis IX, également connu sous le nom de Saint Louis, fut roi de France de 1226 jusqu'à sa mort en 1270. Célèbre pour sa profonde piété et son engagement pour la justice, il mena deux croisades et se fit le protecteur des faibles et des opprimés. Son héritage comprend la construction de la Sainte-Chapelle à Paris, qui abrite la Couronne d'épines, et il reste célèbre comme modèle de royauté chrétienne.",
+      "image": "/images/saint_louis_ix.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+    },
+    {
+      "name": "Marie Micaela",
+      "feast_day": "25 août",
+      "era": "XIXe siècle",
+      "patronage": [
+        "jeunes filles",
+        "éducation",
+        "charité"
+      ],
+      "legacy": "Une pionnière de l'éducation et de la charité",
+      "summary": "Marie Micaela, également connue sous le nom de Mère Sacramento, était une fondatrice espagnole qui consacra sa vie à l'éducation et à la réhabilitation des jeunes filles en difficulté. Elle fonda l'Institut des Religieuses Adoratrices Esclaves du Très Saint Sacrement et de la Charité, mettant l'accent sur un profond amour de l'Eucharistie et le service d'autrui. Béatifiée en 1925 et canonisée en 1934, son héritage perdure à travers son ordre religieux et ses œuvres caritatives.",
+      "image": "/images/saint_mary_micaela.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maria_Micaela_Desmaisieres"
+    }
+  ]
+}

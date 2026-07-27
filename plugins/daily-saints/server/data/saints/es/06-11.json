@@ -1,0 +1,21 @@
+{
+  "date": "06-11",
+  "feast_day": "11 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bernabé",
+      "feast_day": "11 de junio",
+      "era": "Siglo I",
+      "patronage": [
+        "Chipre",
+        "misioneros",
+        "consoladores"
+      ],
+      "legacy": "Apóstol de los gentiles y mártir",
+      "summary": "Bernabé fue un discípulo y apóstol del cristianismo primitivo, conocido por su papel en la difusión del Evangelio. Es reconocido por su asociación con san Pablo en los viajes misioneros y por sus esfuerzos en el establecimiento de la Iglesia en Antioquía. Bernabé llegó a ser el primer obispo de Milán y fue martirizado por su fe hacia el año 61.",
+      "image": "/images/saint_barnabas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barnabas"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "06-08",
+  "feast_day": "8 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Medardo",
+      "feast_day": "8 de junio",
+      "era": "Siglo VI",
+      "patronage": [
+        "agricultores",
+        "clima",
+        "pobres",
+        "contra el mal tiempo"
+      ],
+      "legacy": "Obispo compasivo y hacedor de milagros",
+      "summary": "San Medardo fue obispo de Noyon y Tournai en el siglo VI, conocido por su profunda compasión hacia los pobres y sus hechos milagrosos. Desempeñó un papel importante en la conversión de los francos y contribuyó al establecimiento del cristianismo en su región. Su legado se caracteriza por su entrega a la caridad y su compromiso inquebrantable con sus deberes pastorales, pese a las numerosas dificultades que enfrentó.",
+      "image": "/images/saint_medard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Medard"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "05-22",
+  "feast_day": "22 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Rita da Cascia",
+      "feast_day": "22 maggio",
+      "era": "XV secolo",
+      "patronage": [
+        "cause impossibili",
+        "donne sposate",
+        "vedove"
+      ],
+      "legacy": "Patrona delle cause impossibili e della riconciliazione.",
+      "summary": "Santa Rita da Cascia fu una vedova italiana del XV secolo, nota per la sua profonda spiritualità e la sua vita miracolosa. Dopo aver sopportato un matrimonio difficile e la perdita dei figli, cercò di consacrare la sua vita a Dio entrando in convento. Rinomata per la sua pietà e il dono dei miracoli, viene spesso invocata per le cause difficili ed è una figura amata nella devozione cattolica.",
+      "image": "/images/saint_rita_of_cascia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rita_of_Cascia"
+    }
+  ]
+}

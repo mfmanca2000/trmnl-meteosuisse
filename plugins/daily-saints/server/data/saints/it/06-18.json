@@ -1,0 +1,31 @@
+{
+  "date": "06-18",
+  "feast_day": "18 giugno",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Efrem",
+      "feast_day": "18 giugno",
+      "era": "IV secolo",
+      "patronage": [
+        "diaconi",
+        "direttori spirituali",
+        "teologia"
+      ],
+      "legacy": "Un venerato Dottore della Chiesa",
+      "summary": "Sant'Efrem fu un importante teologo e poeta del primo cristianesimo, noto per la sua profonda umiltà e la sua intensa spiritualità. Servì come diacono a Edessa, dove predicò e scrisse abbondantemente, meritando il titolo di 'Arpa dello Spirito Santo' per le sue eloquenti espressioni di fede. Dichiarato Dottore della Chiesa, le sue opere continuano a ispirare i cristiani con le loro intuizioni sulla Scrittura e sulla natura di Dio.",
+      "image": "/images/saint_ephrem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+    },
+    {
+      "name": "Marco e Marcelliano",
+      "feast_day": "18 giugno",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Martiri di fede salda e coraggio",
+      "summary": "I santi Marco e Marcelliano furono fratelli gemelli e martiri vissuti a Roma durante il regno dell'imperatore Diocleziano. Furono imprigionati e infine giustiziati per essersi rifiutati di rinnegare la loro fede cristiana nonostante le suppliche della loro famiglia. Il loro culto è particolarmente onorato in Spagna, dove sono venerati per aver intercesso a favore della salvezza della città.",
+      "image": "/images/saint_marcus_and_saint_marcellianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcus_and_Marcellianus"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "03-29",
+  "feast_day": "29 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giona e Barachisio",
+      "feast_day": "29 marzo",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Martiri di fede e coraggio incrollabili",
+      "summary": "I santi Giona e Barachisio erano fratelli e martiri vissuti durante il regno del re Sapore di Persia. Incoraggiarono coraggiosamente gli altri cristiani che affrontavano la persecuzione e alla fine subirono brutali torture per la loro fede incrollabile. Il loro impegno incondizionato verso Cristo e il loro martirio sono una potente testimonianza della forza della virtù cristiana di fronte alla sofferenza.",
+      "image": "/images/saints_jonas_and_barachisius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jonas_and_Barachisius"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "10-24",
+  "feast_day": "24 ottobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Raffaele",
+      "feast_day": "24 ottobre",
+      "era": "Biblica",
+      "patronage": [
+        "guaritori",
+        "viaggiatori",
+        "ciechi"
+      ],
+      "legacy": "Angelo della guarigione e della guida",
+      "summary": "Raffaele è uno dei sette arcangeli che stanno al cospetto di Dio ed è noto per il suo ruolo nel Libro di Tobia, dove guida Tobia in un viaggio per recuperare il denaro del padre e trovare moglie. È associato alla guarigione, poiché aiuta a curare la cecità del padre di Tobia e si ritiene che agitasse le acque della piscina di Betesda per la guarigione. Il nome Raffaele significa 'Dio guarisce', ed è venerato per il suo aiuto e la sua guida nei momenti di bisogno.",
+      "image": "/images/saint_raphael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raphael_the_Archangel"
+    },
+    {
+      "name": "Magloire",
+      "feast_day": "24 ottobre",
+      "era": "VI secolo",
+      "patronage": null,
+      "legacy": "Devoto abate e taumaturgo",
+      "summary": "San Magloire fu un abate bretone che dedicò la sua vita al servizio monastico e alla preghiera. Governò il monastero di Lanmeur per oltre cinquant'anni prima di diventare abate di Dol. Noto per la sua pietà e le sue intercessioni miracolose, è ricordato per la sua profonda devozione e per la fondazione di un monastero sull'isola di Jersey.",
+      "image": "/images/saint_magloire.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Magloire"
+    }
+  ]
+}

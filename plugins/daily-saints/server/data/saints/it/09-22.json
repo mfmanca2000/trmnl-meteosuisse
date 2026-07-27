@@ -1,0 +1,34 @@
+{
+  "date": "09-22",
+  "feast_day": "22 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Tommaso da Villanova",
+      "feast_day": "22 settembre",
+      "era": "XVI secolo",
+      "patronage": [
+        "orfani",
+        "poveri",
+        "ospedali"
+      ],
+      "legacy": "Campione dei poveri e riformatore sociale",
+      "summary": "Tommaso da Villanova fu un vescovo spagnolo noto per la sua profonda compassione verso i poveri e il suo impegno per la giustizia sociale. Trasformò la sua casa in un ospedale e dedicò le sue ricchezze a opere caritatevoli, sfamando ogni giorno centinaia di bisognosi. La sua eredità di riformatore e umile servitore di Dio continua a ispirare molti nella Chiesa cattolica.",
+      "image": "/images/saint_thomas_of_villanova.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_of_Villanova"
+    },
+    {
+      "name": "Maurizio",
+      "feast_day": "22 settembre",
+      "era": "III secolo",
+      "patronage": [
+        "soldati",
+        "martiri"
+      ],
+      "legacy": "Martirio per fede e lealtà",
+      "summary": "San Maurizio fu il comandante della Legione Tebana, un gruppo di soldati cristiani che si rifiutarono di sacrificare agli dèi pagani. Nel 286, per ordine dell'imperatore, Maurizio e la sua legione furono martirizzati per la loro fede incrollabile. La loro coraggiosa resistenza alla persecuzione ne ha fatto dei simboli di lealtà e sacrificio nella tradizione cristiana.",
+      "image": "/images/saint_maurice_and_the_theban_legion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Maurice"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date": "01-18",
+  "feast_day": "18 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre",
+      "feast_day": "18 janvier",
+      "era": "Ier siècle",
+      "patronage": [
+        "pêcheurs",
+        "fabricants de filets",
+        "constructeurs de navires",
+        "papes"
+      ],
+      "legacy": "Premier pape et chef des apôtres",
+      "summary": "Saint Pierre, l'un des douze apôtres de Jésus, est reconnu comme le premier pape et une figure fondatrice du christianisme. Il est connu pour son leadership au sein de l'Église primitive et pour son martyre à Rome sous l'empereur Néron. Son héritage comprend l'établissement de l'Église à Rome, qui demeure un point central de la foi et de la communion catholiques.",
+      "image": "/images/saint_peters_chair_at_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Prisque",
+      "feast_day": "18 janvier",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyre et foi dans les débuts du christianisme",
+      "summary": "Sainte Prisque était une noble vierge romaine et martyre qui souffrit pour sa foi vers l'an 275. Elle est reconnue pour sa fermeté face à la persécution et est honorée dans l'église qui porte son nom à Rome. Ses reliques y sont conservées, et elle est souvent associée aux figures chrétiennes primitives Aquila et Priscille.",
+      "image": "/images/saint_prisca.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Prisca"
+    }
+  ]
+}

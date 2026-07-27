@@ -1,0 +1,20 @@
+{
+  "date": "06-28",
+  "feast_day": "28 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ireneo",
+      "feast_day": "28 de junio",
+      "era": "Siglo II",
+      "patronage": [
+        "apologistas",
+        "contra las herejías"
+      ],
+      "legacy": "Defensor de la fe frente a las herejías",
+      "summary": "San Ireneo fue un destacado teólogo del cristianismo primitivo y obispo de Lyon, conocido por su papel en la lucha contra las herejías en el siglo II. Es recordado sobre todo por su obra 'Adversus Haereses', que defendía la fe cristiana frente a las enseñanzas gnósticas. Ireneo fue martirizado hacia el año 202 bajo el emperador romano Septimio Severo, dejando un legado duradero como Doctor de la Iglesia.",
+      "image": "/images/saint_irenaeus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Irenaeus"
+    }
+  ]
+}

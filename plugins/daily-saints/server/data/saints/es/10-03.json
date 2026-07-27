@@ -1,0 +1,31 @@
+{
+  "date": "10-03",
+  "feast_day": "3 de octubre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Teresa de Lisieux",
+      "feast_day": "3 de octubre",
+      "era": "Época moderna",
+      "patronage": [
+        "misiones",
+        "floristas",
+        "enfermos"
+      ],
+      "legacy": "Un modelo de sencillez y amor a Dios.",
+      "summary": "Teresa de Lisieux, también conocida como la Florecilla, fue una monja carmelita francesa cuya espiritualidad sencilla pero profunda hacía hincapié en el amor y la confianza en Dios. Es conocida sobre todo por su autobiografía, 'Historia de un alma', que expone su 'caminito' de infancia espiritual y su deseo de servir a Dios mediante pequeños actos de amor. Canonizada en 1925, hoy es reconocida como Doctora de la Iglesia y patrona de las misiones.",
+      "image": "/images/saint_therese_of_the_child_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux"
+    },
+    {
+      "name": "Gerardo",
+      "feast_day": "3 de octubre",
+      "era": "Siglo X",
+      "patronage": null,
+      "legacy": "Pionero del monacato benedictino en Bélgica",
+      "summary": "Gerardo nació en una familia noble del condado de Namur, en Bélgica, hacia finales del siglo IX. Tras un período de servicio militar, se dedicó a la vida monástica, fundando la abadía de Brogne e instaurando una estricta disciplina monástica en varias abadías. Se le recuerda por su piedad, su liderazgo y su compromiso con la vida benedictina hasta su muerte en 959.",
+      "image": "/images/saint_gerard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gerard_of_Brogne"
+    }
+  ]
+}

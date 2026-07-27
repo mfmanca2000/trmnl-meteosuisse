@@ -1,0 +1,17 @@
+{
+  "date": "02-20",
+  "feast_day": "20 febbraio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eucherio",
+      "feast_day": "20 febbraio",
+      "era": "VIII secolo",
+      "patronage": null,
+      "legacy": "Difensore dei diritti della Chiesa",
+      "summary": "Eucherio fu vescovo di Orléans, noto per il suo profondo attaccamento a Dio e la sua vita virtuosa. Dopo aver trascorso anni in monastero, fu eletto controvoglia a guidare la diocesi, dove divenne un fermo difensore dei diritti della Chiesa contro le ingerenze del potere secolare. Il suo lascito è segnato dalla sua dedizione alla preghiera e alla contemplazione, anche di fronte alle avversità.",
+      "image": "/images/saint_eucherius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eucherius_of_Orl%C3%A9ans"
+    }
+  ]
+}

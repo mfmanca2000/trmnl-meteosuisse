@@ -1,0 +1,21 @@
+{
+  "date": "10-08",
+  "feast_day": "8 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Brígida de Suecia",
+      "feast_day": "8 de octubre",
+      "era": "Siglo XIV",
+      "patronage": [
+        "viudas",
+        "matrimonios difíciles",
+        "Europa"
+      ],
+      "legacy": "Fundadora de la Orden del Santísimo Salvador",
+      "summary": "Brígida de Suecia nació en una familia real en 1302 y se convirtió en una destacada mística y fundadora de la Orden del Santísimo Salvador. Tras la muerte de su esposo, dedicó su vida al servicio de los pobres y recibió numerosas revelaciones, entre ellas las Quince Oraciones de santa Brígida. Es conocida por su profunda devoción a la Pasión de Cristo y por sus importantes contribuciones a la vida espiritual de su época.",
+      "image": "/images/saint_bridget_of_sweden.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bridget_of_Sweden"
+    }
+  ]
+}

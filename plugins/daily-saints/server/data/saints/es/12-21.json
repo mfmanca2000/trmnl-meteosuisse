@@ -1,0 +1,22 @@
+{
+  "date": "12-21",
+  "feast_day": "21 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tomás",
+      "feast_day": "21 de diciembre",
+      "era": "Siglo I",
+      "patronage": [
+        "arquitectos",
+        "constructores",
+        "India",
+        "incrédulos"
+      ],
+      "legacy": "De la duda a la fe, un testimonio poderoso.",
+      "summary": "Tomás fue uno de los doce apóstoles de Jesús, conocido por su duda inicial ante la resurrección de Cristo. Pronunció la célebre frase: «¡Señor mío y Dios mío!» al ver a Cristo resucitado, simbolizando el camino de la duda a la fe. Tras difundir el Evangelio en distintas regiones, terminó siendo mártir en la India, donde es venerado como figura fundacional de la comunidad cristiana local.",
+      "image": "/images/saint_thomas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_the_Apostle"
+    }
+  ]
+}

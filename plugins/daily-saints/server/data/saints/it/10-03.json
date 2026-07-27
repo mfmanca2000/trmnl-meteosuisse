@@ -1,0 +1,31 @@
+{
+  "date": "10-03",
+  "feast_day": "3 ottobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Teresa di Lisieux",
+      "feast_day": "3 ottobre",
+      "era": "Epoca moderna",
+      "patronage": [
+        "missioni",
+        "fioristi",
+        "malati"
+      ],
+      "legacy": "Un modello di semplicità e amore per Dio.",
+      "summary": "Teresa di Lisieux, conosciuta anche come il Fiorellino, era una carmelitana francese la cui spiritualità semplice ma profonda poneva l'accento sull'amore e sulla fiducia in Dio. È nota soprattutto per la sua autobiografia, 'Storia di un'anima', che descrive la sua 'piccola via' dell'infanzia spirituale e il suo desiderio di servire Dio attraverso piccoli atti d'amore. Canonizzata nel 1925, è oggi riconosciuta come Dottore della Chiesa e patrona delle missioni.",
+      "image": "/images/saint_therese_of_the_child_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux"
+    },
+    {
+      "name": "Gerardo",
+      "feast_day": "3 ottobre",
+      "era": "X secolo",
+      "patronage": null,
+      "legacy": "Pioniere del monachesimo benedettino in Belgio",
+      "summary": "Gerardo nacque in una famiglia nobile della contea di Namur, in Belgio, verso la fine del IX secolo. Dopo un periodo di servizio militare, si dedicò alla vita monastica, fondando l'abbazia di Brogne e instaurando una rigorosa disciplina monastica in diverse abbazie. È ricordato per la sua pietà, la sua guida e il suo impegno nello stile di vita benedettino fino alla morte, avvenuta nel 959.",
+      "image": "/images/saint_gerard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gerard_of_Brogne"
+    }
+  ]
+}

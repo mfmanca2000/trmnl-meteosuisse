@@ -1,0 +1,30 @@
+{
+  "date": "02-17",
+  "feast_day": "17 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Francisco Regis Clet",
+      "feast_day": "17 de febrero",
+      "era": "Siglo XVIII",
+      "patronage": [
+        "misioneros",
+        "mártires"
+      ],
+      "legacy": "Un mártir por la fe y la misión",
+      "summary": "Francisco Regis Clet fue un misionero lazarista francés que dedicó su vida a la evangelización en China. Afrontó una dura persecución y finalmente se convirtió en mártir de su fe tras ser traicionado y torturado. Su compromiso inquebrantable con su misión y su silenciosa resistencia ante el sufrimiento ejemplifican su profunda fe y su dedicación a Dios.",
+      "image": "/images/saint_francis_regis_clet.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Regis_Clet"
+    },
+    {
+      "name": "Flaviano",
+      "feast_day": "17 de febrero",
+      "era": "Siglo V",
+      "patronage": null,
+      "legacy": "Defensor de la fe y mártir",
+      "summary": "Flaviano fue el patriarca de Constantinopla desde 447 hasta su martirio en 449. Es conocido por su firme defensa de la fe católica frente a la herejía de Eutiques, que negaba la doble naturaleza de Cristo. El compromiso inquebrantable de Flaviano con las enseñanzas de la Iglesia lo llevó finalmente a la persecución y la muerte, y más tarde fue reconocido como mártir por el Concilio de Calcedonia.",
+      "image": "/images/saint_flavian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Flavian_of_Constantinople"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "02-13",
+  "feast_day": "13 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Caterina de' Ricci",
+      "feast_day": "13 febbraio",
+      "era": "XVI secolo",
+      "patronage": [
+        "anime sante",
+        "malati",
+        "contro i mali del corpo"
+      ],
+      "legacy": "Mistica devota alla Passione di Cristo",
+      "summary": "Caterina de' Ricci fu una vergine e mistica italiana del XVI secolo, nota per la sua profonda devozione alla Passione di Cristo. Ebbe numerose visioni mistiche e ricevette le stimmate, sopportando intense sofferenze per le anime sante del purgatorio. La sua vita fu segnata da una carità e un'intercessione straordinarie, che spinsero molti a cercare le sue preghiere dopo la morte.",
+      "image": "/images/saint_catherine_of_ricci.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_de%27_Ricci"
+    },
+    {
+      "name": "Ambrogio Leblanc",
+      "feast_day": "13 febbraio",
+      "era": "XX secolo",
+      "patronage": null,
+      "legacy": "Una vita di gioia e fede incrollabile",
+      "summary": "Ambrogio Leblanc fu un vescovo e missionario francescano canadese noto per la sua dedizione alla formazione dei giovani e per la sua opera in Giappone. Fu imprigionato durante la Seconda Guerra Mondiale ma mantenne uno spirito di gioia e fede, incoraggiando i confratelli sacerdoti a celebrare la Messa nonostante le difficoltà. Il suo lascito comprende la promozione della devozione alla Vergine del Sorriso e un profondo impegno nella fede fino alla sua morte prematura nel 1959.",
+      "image": "/images/blessed_bishop_ambrose_leblanc.jpg",
+      "wikipedia": null
+    }
+  ]
+}

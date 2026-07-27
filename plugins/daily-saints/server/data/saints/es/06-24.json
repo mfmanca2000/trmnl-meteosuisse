@@ -1,0 +1,22 @@
+{
+  "date": "06-24",
+  "feast_day": "24 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan el Bautista",
+      "feast_day": "24 de junio",
+      "era": "Siglo I",
+      "patronage": [
+        "bautismo",
+        "conversiones",
+        "pintores",
+        "impresores"
+      ],
+      "legacy": "Precursor de Cristo y mártir",
+      "summary": "Juan el Bautista es una figura fundamental del cristianismo, conocido por su papel como precursor de Jesucristo. Predicó el arrepentimiento y bautizó a Jesús en el río Jordán, marcando el inicio del ministerio público de Cristo. Su vida se caracterizó por el ascetismo y un profundo compromiso con Dios, lo que finalmente condujo a su martirio a manos de Herodes Antipas.",
+      "image": "/images/saint_john_the_baptist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Baptist"
+    }
+  ]
+}

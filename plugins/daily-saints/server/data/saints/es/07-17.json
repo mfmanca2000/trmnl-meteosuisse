@@ -1,0 +1,21 @@
+{
+  "date": "07-17",
+  "feast_day": "17 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Alejo de Roma",
+      "feast_day": "17 de julio",
+      "era": "Siglo IV",
+      "patronage": [
+        "los pobres",
+        "parejas casadas",
+        "cónyuges abandonados"
+      ],
+      "legacy": "Un modelo de humildad y devoción",
+      "summary": "San Alejo de Roma fue un noble que renunció a su riqueza y a sus lazos familiares para llevar una vida de pobreza y devoción a Dios. Tras casarse con una noble dama, la abandonó la misma noche de bodas para buscar la soledad y servir a los pobres, viviendo finalmente junto a la puerta de una iglesia en Edesa. Su vida de humildad y sacrificio permaneció desconocida para su familia hasta después de su muerte, cuando descubrieron su verdadera identidad y los milagros que lo rodeaban.",
+      "image": "/images/saint_alexius_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alexius_of_Rome"
+    }
+  ]
+}

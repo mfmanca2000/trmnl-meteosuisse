@@ -1,0 +1,30 @@
+{
+  "date": "05-24",
+  "feast_day": "24 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Notre-Dame Auxiliatrice",
+      "feast_day": "24 mai",
+      "era": "Époque moderne",
+      "patronage": [
+        "Église catholique",
+        "christianisme"
+      ],
+      "legacy": "Patronne des combats de l'Église catholique",
+      "summary": "Notre-Dame Auxiliatrice est un titre de la Bienheureuse Vierge Marie, reconnu pour son intercession et son aide envers l'Église. Instituée par le pape Pie VII en 1815, cette fête commémore son rôle de soutien à la papauté durant les périodes d'adversité, en particulier sous le règne de Napoléon. Cette dévotion fut notamment promue par saint Jean Bosco, qui consacra son ordre salésien à elle et fit construire une église en son honneur à Turin.",
+      "image": "/images/our_lady_help_of_christians.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_Help_of_Christians"
+    },
+    {
+      "name": "Donatien et Rogatien",
+      "feast_day": "24 mai",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyrs de la foi et de la fraternité",
+      "summary": "Donatien et Rogatien étaient des frères nobles de Nantes qui vécurent à la fin du IIIe siècle. Ils furent martyrisés pour leur foi chrétienne, Donatien convertissant activement d'autres personnes et Rogatien exprimant le désir d'être baptisé. Les deux frères subirent une torture brutale et l'exécution, mourant finalement pour leur engagement inébranlable envers le Christ.",
+      "image": "/images/saints_donatian_and_rogatian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Donatian_and_Rogatian"
+    }
+  ]
+}

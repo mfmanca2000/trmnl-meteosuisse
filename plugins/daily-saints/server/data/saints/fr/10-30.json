@@ -1,0 +1,30 @@
+{
+  "date": "10-30",
+  "feast_day": "30 octobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Alphonse Rodriguez",
+      "feast_day": "30 octobre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "spiritualité",
+        "jésuites"
+      ],
+      "legacy": "Un modèle d'humilité et de service",
+      "summary": "Saint Alphonse Rodriguez était un jésuite espagnol connu pour sa profonde spiritualité et son engagement envers l'humilité et le service. Après avoir vécu des tragédies personnelles, il consacra sa vie à Dieu et devint portier dans un collège jésuite à Majorque, où il mena une vie de pénitence et de dévotion. Il reste dans les mémoires pour son amour profond du Christ et son influence sur d'autres jésuites, dont saint Pierre Claver.",
+      "image": "/images/saint_alphonsus_rodriguez.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alphonsus_Rodriguez"
+    },
+    {
+      "name": "Marcel",
+      "feast_day": "30 octobre",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyre pour la foi et la famille",
+      "summary": "Saint Marcel était un centurion romain converti au christianisme avec sa famille. Il refusa de participer aux sacrifices païens, se déclarant soldat du Christ, ce qui entraîna son martyre. Ses enfants suivirent également son exemple, subissant le martyre pour leur foi, et leur mère veilla à leur ensevelissement dans une église qui leur était dédiée à León.",
+      "image": "/images/saint_marcellus_the_centurion_and_his_children.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcellus_the_Centurion"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "11-26",
+  "feast_day": "26 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni Berchmans",
+      "feast_day": "26 novembre",
+      "era": "XVII secolo",
+      "patronage": [
+        "studenti",
+        "novizi gesuiti"
+      ],
+      "legacy": "Un modello di pietà e dedizione",
+      "summary": "Giovanni Berchmans fu un seminarista gesuita belga noto per la sua profonda pietà e la sua dedizione all'istruzione. Eccelleva negli studi ed era amato dai bambini per le sue coinvolgenti lezioni di catechismo. La sua vita fu segnata da umiltà e carità, e morì in giovane età, lasciando un'eredità di santità e devozione.",
+      "image": "/images/saint_john_berchmans.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Berchmans"
+    },
+    {
+      "name": "Pietro di Alessandria",
+      "feast_day": "26 novembre",
+      "era": "Inizio del IV secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede durante la persecuzione",
+      "summary": "Pietro di Alessandria fu un patriarca e martire che guidò la Chiesa di Alessandria durante le severe persecuzioni sotto l'imperatore Diocleziano. È noto per la sua ferma posizione contro l'eresia e la sua cura pastorale verso i cristiani imprigionati, incoraggiandoli a rimanere saldi nella loro fede. Fu infine martirizzato per decapitazione il 26 novembre 310, dopo una vita dedicata al servizio di Dio e della Chiesa.",
+      "image": "/images/saint_peter_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Alexandria"
+    }
+  ]
+}

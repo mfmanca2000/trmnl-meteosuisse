@@ -1,0 +1,21 @@
+{
+  "date": "07-17",
+  "feast_day": "17 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Alexis de Rome",
+      "feast_day": "17 juillet",
+      "era": "IVe siècle",
+      "patronage": [
+        "les pauvres",
+        "couples mariés",
+        "conjoints abandonnés"
+      ],
+      "legacy": "Un modèle d'humilité et de dévotion",
+      "summary": "Saint Alexis de Rome était un noble qui renonça à sa fortune et à ses liens familiaux pour mener une vie de pauvreté et de dévotion à Dieu. Après avoir épousé une noble dame, il la quitta la nuit même de leurs noces pour rechercher la solitude et servir les pauvres, vivant finalement au seuil d'une église à Édesse. Sa vie d'humilité et de sacrifice demeura inconnue de sa famille jusqu'après sa mort, lorsqu'elle découvrit sa véritable identité et les miracles qui l'entouraient.",
+      "image": "/images/saint_alexius_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alexius_of_Rome"
+    }
+  ]
+}

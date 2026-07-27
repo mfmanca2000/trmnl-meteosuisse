@@ -1,0 +1,34 @@
+{
+  "date": "07-07",
+  "feast_day": "7 de julio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cirilo y Metodio",
+      "feast_day": "7 de julio",
+      "era": "Siglo IX",
+      "patronage": [
+        "pueblos eslavos",
+        "lingüistas",
+        "educadores"
+      ],
+      "legacy": "Pioneros de la alfabetización eslava y el cristianismo",
+      "summary": "Los santos Cirilo y Metodio fueron hermanos originarios de Tesalónica, conocidos como los Apóstoles de los pueblos eslavos. Crearon el alfabeto glagolítico, que permitió la traducción de la Biblia y otros textos a las lenguas eslavas. Su labor misionera contribuyó significativamente a la difusión del cristianismo en Europa del Este durante el siglo IX.",
+      "image": "/images/saints_cyril_and_methodius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_and_Methodius"
+    },
+    {
+      "name": "Pantænus",
+      "feast_day": "7 de julio",
+      "era": "Siglo II",
+      "patronage": [
+        "maestros",
+        "misioneros"
+      ],
+      "legacy": "Pionero de la educación cristiana y las misiones",
+      "summary": "Pantænus fue un destacado maestro y teólogo cristiano del siglo segundo, conocido por dirigir la escuela cristiana de Alejandría. Viajó a la India para difundir el Evangelio, donde descubrió antiguas enseñanzas cristianas y el Evangelio de Mateo en hebreo. Su dedicación a la educación y la evangelización influyó notablemente en la difusión del cristianismo en las regiones orientales.",
+      "image": "/images/saint_pantaenus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pantaenus"
+    }
+  ]
+}

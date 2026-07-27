@@ -1,0 +1,30 @@
+{
+  "date": "04-16",
+  "feast_day": "16 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Benoît-Joseph Labre",
+      "feast_day": "16 avril",
+      "era": "XVIIIe siècle",
+      "patronage": [
+        "sans-abri",
+        "pèlerins"
+      ],
+      "legacy": "Un modèle d'humilité et de pèlerinage",
+      "summary": "Benoît-Joseph Labre fut un mendiant et pèlerin français connu pour sa profonde piété et sa dévotion au Saint-Sacrement. Après des tentatives infructueuses pour rejoindre divers ordres religieux, il embrassa une vie de pèlerinage, visitant de nombreux sanctuaires chrétiens à travers l'Europe tout en vivant dans une extrême pauvreté. On se souvient de lui pour son humilité, son assiduité à la prière et son service envers les pauvres jusqu'à sa mort en 1783.",
+      "image": "/images/saint_benedict_joseph_labre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Joseph_Labre"
+    },
+    {
+      "name": "Engrâce et ses compagnons",
+      "feast_day": "16 avril",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Martyrs",
+      "summary": "L'Église célèbre en ce jour le triomphe de sainte Engrâce, vierge et martyre, native du Portugal. Son père l'avait promise en mariage à un homme de qualité du Roussillon, en Gaule, et pour l'y accompagner, il envoya comme escorte pour le mariage son oncle Lupercius et une brillante suite de seize autres nobles, ainsi qu'une servante nommée Julie. Lorsqu'ils arrivèrent à Saragosse, elle apprit l'horrible massacre des chrétiens qui se déroulait alors, et les tourments qu'ils enduraient de la main de Dacien, qui gouvernait cette région au nom des empereurs Dioclétien et Maximien.",
+      "image": "/images/saint_engratia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

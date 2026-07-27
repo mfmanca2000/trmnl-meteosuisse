@@ -1,0 +1,20 @@
+{
+  "date": "12-02",
+  "feast_day": "2 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bibiane",
+      "feast_day": "2 décembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "vierges",
+        "martyrs"
+      ],
+      "legacy": "Un symbole de foi et de courage inébranlables",
+      "summary": "Sainte Bibiane était une vierge et martyre romaine qui vécut au quatrième siècle. Avec sa sœur Demetria et leur mère Dafrosa, elle subit la persécution pour sa foi chrétienne sous le règne de l'empereur Julien l'Apostat. Bibiane endura de sévères tortures et mourut finalement pour ses croyances, devenant un symbole de foi inébranlable et de courage face à l'adversité.",
+      "image": "/images/saint_bibiana.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Bibiana"
+    }
+  ]
+}

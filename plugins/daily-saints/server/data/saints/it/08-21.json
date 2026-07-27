@@ -1,0 +1,21 @@
+{
+  "date": "08-21",
+  "feast_day": "21 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanna Francesca di Chantal",
+      "feast_day": "21 agosto",
+      "era": "XVII secolo",
+      "patronage": [
+        "vedove",
+        "matrimoni difficili",
+        "perdita dei genitori"
+      ],
+      "legacy": "Fondatrice dell'Ordine della Visitazione",
+      "summary": "Giovanna Francesca di Chantal fu una nobildonna francese che fondò l'Ordine della Visitazione della Beata Vergine Maria. Dopo aver sopportato tragedie personali, tra cui la perdita del marito e dei figli, dedicò la sua vita a Dio e al servizio degli altri. Il suo lascito comprende la fondazione di numerosi conventi che accoglievano vedove e donne di salute cagionevole.",
+      "image": "/images/saint_jane_frances_de_chantal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal"
+    }
+  ]
+}

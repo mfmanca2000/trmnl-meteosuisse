@@ -1,0 +1,20 @@
+{
+  "date": "07-27",
+  "feast_day": "27 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pantaléon",
+      "feast_day": "27 juillet",
+      "era": "Début du IVe siècle",
+      "patronage": [
+        "médecins",
+        "guérisseurs"
+      ],
+      "legacy": "Guérisseur compatissant et martyr",
+      "summary": "Saint Pantaléon fut un médecin et martyr originaire de Nicomédie, connu pour ses dons miraculeux de guérison. Après sa conversion au christianisme, il consacra sa vie au service des pauvres et à la guérison des malades, affrontant finalement la persécution pour sa foi. Il fut martyrisé sous le règne de l'empereur Galère Maximien, et ses reliques sont vénérées en divers lieux, notamment à Constantinople et en France.",
+      "image": "/images/saint_pantaleon_of_nicomedia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pantaleon_of_Nicomedia"
+    }
+  ]
+}

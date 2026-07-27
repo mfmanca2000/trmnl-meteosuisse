@@ -1,0 +1,30 @@
+{
+  "date": "09-06",
+  "feast_day": "6 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Rosalia",
+      "feast_day": "6 settembre",
+      "era": "XII secolo",
+      "patronage": [
+        "Sicilia",
+        "vittime della peste"
+      ],
+      "legacy": "Patrona di Palermo e della Sicilia",
+      "summary": "Santa Rosalia fu una vergine ed eremita del XII secolo di Palermo, in Sicilia. È nota per la sua profonda devozione a Dio, avendo scelto una vita di solitudine e penitenza rispetto alle ambizioni mondane. La sua intercessione è accreditata di aver salvato la città di Palermo da una peste nel XVII secolo, portando alla sua venerazione come santa patrona della città.",
+      "image": "/images/saint_rosalia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rosalia_of_Palermo"
+    },
+    {
+      "name": "Eleuterio",
+      "feast_day": "6 settembre",
+      "era": "VI secolo",
+      "patronage": null,
+      "legacy": "Un modello di umiltà e preghiera",
+      "summary": "Sant'Eleuterio fu un abate del VI secolo noto per la sua semplicità e il suo profondo spirito di compunzione. Presiedette il monastero di San Marco vicino a Spoleto e fu favorito dal dono dei miracoli, tra cui la guarigione di un bambino da una possessione demoniaca. Dopo aver rinunciato alla sua carica di abate, morì a Roma, lasciando un'eredità di umiltà e devozione a Dio.",
+      "image": "/images/saint_eleutherius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eleutherius"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "02-19",
+  "feast_day": "19 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Conrado de Piacenza",
+      "feast_day": "19 de febrero",
+      "era": "Siglo XIV",
+      "patronage": [
+        "hernias",
+        "penitentes"
+      ],
+      "legacy": "Una vida de penitencia y arrepentimiento",
+      "summary": "San Conrado de Piacenza fue un noble que transformó su vida tras un trágico incidente causado por sus actividades de caza. Lleno de remordimiento por la injusta condena de un hombre inocente, vendió todos sus bienes para resarcir a los afectados y se dedicó a una vida de penitencia. Se convirtió en ermitaño, viviendo con estricta austeridad, y fue conocido por sus dones proféticos y sus milagros hasta su muerte en 1351.",
+      "image": "/images/saint_conrad_of_piacenza.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Conrad_of_Piacenza"
+    },
+    {
+      "name": "Barbato",
+      "feast_day": "19 de febrero",
+      "era": "Siglo VII",
+      "patronage": null,
+      "legacy": "Campeón contra la idolatría y la superstición",
+      "summary": "San Barbato fue obispo de Benevento, en Italia, durante el siglo VII. Conocido por su piedad y dedicación, trabajó incansablemente para erradicar la idolatría y las supersticiones entre sus feligreses. Su liderazgo y sus intuiciones proféticas durante un asedio de la ciudad consolidaron su legado como santo venerado en la Iglesia católica.",
+      "image": "/images/saint_barbatus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbatus_of_Benevento"
+    }
+  ]
+}

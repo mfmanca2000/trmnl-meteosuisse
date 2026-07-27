@@ -1,0 +1,34 @@
+{
+  "date": "05-28",
+  "feast_day": "28 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Germán de París",
+      "feast_day": "28 de mayo",
+      "era": "Siglo VI",
+      "patronage": [
+        "París",
+        "los pobres",
+        "los prisioneros"
+      ],
+      "legacy": "Campeón de los pobres y los afligidos",
+      "summary": "San Germán de París fue un obispo del siglo VI, conocido por su ferviente devoción y sus dones milagrosos. Dedicó su vida a los pobres y a los afligidos, compartiendo a menudo sus recursos e intercediendo por los prisioneros. Su influencia llevó a la conversión del rey Childeberto y a la erradicación de la idolatría en Francia.",
+      "image": "/images/saint_germanus_of_paris.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germanus_of_Paris"
+    },
+    {
+      "name": "Agustín de Canterbury",
+      "feast_day": "28 de mayo",
+      "era": "Siglo VI",
+      "patronage": [
+        "Inglaterra",
+        "misioneros"
+      ],
+      "legacy": "Apóstol de Inglaterra y pionero misionero.",
+      "summary": "Agustín de Canterbury fue un monje benedictino que desempeñó un papel decisivo en la cristianización de Inglaterra. Nombrado por el papa Gregorio Magno, dirigió una misión para convertir a los anglosajones y estableció la Iglesia en Inglaterra. Sus esfuerzos sentaron las bases de la Iglesia inglesa, que llegó a ser conocida por su erudición y su devoción al papado.",
+      "image": "/images/saint_augustine_of_canterbury.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Canterbury"
+    }
+  ]
+}

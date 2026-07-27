@@ -1,0 +1,21 @@
+{
+  "date": "04-03",
+  "feast_day": "3 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Richard de Chichester",
+      "feast_day": "3 avril",
+      "era": "Médiéval",
+      "patronage": [
+        "épiscopat",
+        "pauvres",
+        "étudiants"
+      ],
+      "legacy": "Champion des pauvres et des droits de l'Église",
+      "summary": "Richard de Chichester fut un évêque du XIIIe siècle connu pour son dévouement à l'Église et son engagement envers la justice sociale. Il affronta une opposition importante de la part du roi mais resta ferme dans ses devoirs, défendant les droits de l'Église et le bien-être des pauvres. Son héritage comprend une réputation de sainteté et d'œuvres miraculeuses, faisant de lui une figure bien-aimée du christianisme anglais.",
+      "image": "/images/saint_richard_of_chichester.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Richard_of_Chichester"
+    }
+  ]
+}

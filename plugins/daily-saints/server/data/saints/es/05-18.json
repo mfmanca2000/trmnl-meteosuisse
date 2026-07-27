@@ -1,0 +1,31 @@
+{
+  "date": "05-18",
+  "feast_day": "18 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Félix de Cantalicio",
+      "feast_day": "18 de mayo",
+      "era": "Siglo XVI",
+      "patronage": [
+        "pobres",
+        "mendigos",
+        "frailes capuchinos"
+      ],
+      "legacy": "Un modelo de humildad y devoción",
+      "summary": "San Félix de Cantalicio fue un fraile capuchino conocido por su profunda devoción a la oración y al servicio de los pobres en Roma. Pasó más de cuarenta años pidiendo limosna para su comunidad y fue célebre por su dulzura y bondad, mediando a menudo en los conflictos entre los demás. Canonizado en 1712, se le recuerda por su fe inquebrantable y su amor por la Virgen María.",
+      "image": "/images/saint_felix_of_cantalice.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Cantalice"
+    },
+    {
+      "name": "Venancio de Camerino",
+      "feast_day": "18 de mayo",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Mártir",
+      "summary": "San Venancio, nacido en Camerino, Italia, fue detenido a los quince años de edad durante la persecución de Decio, por ser un cristiano que predicaba a Cristo a los demás. Su historia es una de las más milagrosas en los anales de los primeros mártires. Al saber que estaba a punto de ser arrestado, se presentó él mismo ante el gobernador de Camerino, Antíoco, a las puertas de la ciudad, y le dijo que la vida de los dioses estaba llena de toda clase de crímenes, que solo había un Dios, cuyo Hijo único se había hecho hombre para librar a sus semejantes de la tiranía del pecado.",
+      "image": "/images/saint_venantius_of_camerino.jpg",
+      "wikipedia": null
+    }
+  ]
+}

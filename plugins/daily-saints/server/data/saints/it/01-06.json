@@ -1,0 +1,17 @@
+{
+  "date": "01-06",
+  "feast_day": "6 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Epifania",
+      "feast_day": "6 gennaio",
+      "era": null,
+      "patronage": null,
+      "legacy": "Celebrazione delle manifestazioni divine di Cristo",
+      "summary": "L'Epifania, conosciuta anche come Teofania, è una festa cristiana che celebra la rivelazione di Dio incarnato in Gesù Cristo. Commemora la visita dei Magi al Bambino Gesù, il suo battesimo nel fiume Giordano e il suo primo miracolo alle nozze di Cana. Questa festa mette in risalto la manifestazione di Cristo al mondo e il riconoscimento della sua natura divina, sia da parte dei gentili che dei fedeli.",
+      "image": "/images/the_epiphany_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Epiphany_(holiday)"
+    }
+  ]
+}

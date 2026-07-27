@@ -1,0 +1,35 @@
+{
+  "date": "08-16",
+  "feast_day": "16 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Roch",
+      "feast_day": "16 août",
+      "era": "Moyen Âge",
+      "patronage": [
+        "invalides",
+        "victimes de la peste",
+        "chiens"
+      ],
+      "legacy": "Patron des malades et des voyageurs",
+      "summary": "Saint Roch naquit d'un gouverneur de Montpellier et consacra sa vie au service des pauvres et des malades. Il est connu pour ses guérisons miraculeuses lors d'une épidémie de peste en Italie, où il soigna les affligés. Après avoir lui-même été atteint de la peste, il mourut en prison, reconnu grâce à la croix rouge marquée sur sa poitrine, et devint une figure populaire de la dévotion chrétienne.",
+      "image": "/images/saint_roch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roch"
+    },
+    {
+      "name": "Joachim",
+      "feast_day": "16 août",
+      "era": "1er siècle",
+      "patronage": [
+        "grands-parents",
+        "pères",
+        "familles"
+      ],
+      "legacy": "Père de la Vierge Marie et fidèle serviteur",
+      "summary": "Saint Joachim est reconnu comme le père de la Vierge Marie et l'époux de sainte Anne. Lui et Anne restèrent longtemps sans enfant jusqu'à ce qu'un ange leur annonce qu'ils auraient une fille, Marie, qui deviendrait la Mère de Jésus. Joachim est honoré pour sa piété et sa dévotion, exemple de fidélité à Dieu face à l'adversité.",
+      "image": "/images/saint_joachim.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joachim"
+    }
+  ]
+}

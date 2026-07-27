@@ -1,0 +1,41 @@
+{
+  "date": "12-24",
+  "feast_day": "24 de diciembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Charbel Makhlouf",
+      "feast_day": "24 de diciembre",
+      "era": "Siglo XIX",
+      "patronage": [
+        "sanadores",
+        "enfermos",
+        "Líbano"
+      ],
+      "legacy": "Un modelo de oración y sanación",
+      "summary": "Charbel Makhlouf fue un sacerdote y ermitaño maronita del Líbano, conocido por su profunda espiritualidad y sus curaciones milagrosas. Llevó una vida de ascetismo extremo, dedicándose a la oración y a la soledad en una ermita durante más de dos décadas. Tras su muerte, numerosos milagros atribuidos a él han atraído a muchos peregrinos a su tumba, consolidando su legado como poderoso intercesor.",
+      "image": "/images/saint_charbel_makhlouf.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charbel_Makhlouf"
+    },
+    {
+      "name": "Tarsila y Emiliana",
+      "feast_day": "24 de diciembre",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Modelos de virginidad y perseverancia espiritual",
+      "summary": "Tarsila y Emiliana eran dos hermanas, tías de san Gregorio Magno, que consagraron su vida a Dios en la virginidad. Vivieron juntas en una comunidad espiritual, animándose mutuamente en la virtud mientras lamentaban el retorno de su hermana Gordiana a una vida mundana. Sus vidas ejemplifican la importancia de la perseverancia en la fe y la llamada a una vida espiritual más profunda.",
+      "image": "/images/saints_tarsilla_and_emiliana.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Trasilla_and_Emiliana"
+    },
+    {
+      "name": "Delfín",
+      "feast_day": "24 de diciembre",
+      "era": "Siglo V",
+      "patronage": null,
+      "legacy": "Defensor de la verdad y de la ortodoxia",
+      "summary": "San Delfín fue obispo de Burdeos, conocido por su firme defensa de las enseñanzas cristianas ortodoxas durante los primeros tiempos de la Iglesia. Desempeñó un papel importante en la condena de los movimientos heréticos, en particular en el Concilio de Zaragoza en 380. Su influencia se extendió a figuras destacadas como san Paulino, a quien bautizó e inspiró hacia una vida de santidad.",
+      "image": "/images/saint_delphinus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

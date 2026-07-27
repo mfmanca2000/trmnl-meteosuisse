@@ -1,0 +1,29 @@
+{
+  "date": "07-01",
+  "feast_day": "1 de julio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Preciosísima Sangre de Jesús",
+      "feast_day": "1 de julio",
+      "era": null,
+      "patronage": null,
+      "legacy": "Símbolo de salvación y gracia divina",
+      "summary": "La Preciosísima Sangre de Jesús es venerada en la Iglesia católica como fuente de salvación y gracia. Simboliza el sacrificio de Cristo y el poder purificador que ejerce sobre los pecados de la humanidad. Los devotos creen que, a través de la Preciosísima Sangre, los creyentes pueden alcanzar la vida eterna y la sanación de sus almas.",
+      "image": "/images/most_precious_blood_of_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Feast_of_the_Most_Precious_Blood"
+    },
+    {
+      "name": "Gal",
+      "feast_day": "1 de julio",
+      "era": "Siglo VI",
+      "patronage": [
+        "contra las fiebres"
+      ],
+      "legacy": "Un modelo de humildad y paciencia",
+      "summary": "San Gal fue obispo de Clermont, que dedicó su vida a Dios tras renunciar a las ambiciones mundanas. Conocido por su humildad, caridad y notable paciencia, se convirtió en un respetado líder de la Iglesia. Participó en importantes concilios y es recordado por los milagros ocurridos en su tumba tras su muerte en el año 553.",
+      "image": "/images/saint_gal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gal_I_of_Clermont"
+    }
+  ]
+}

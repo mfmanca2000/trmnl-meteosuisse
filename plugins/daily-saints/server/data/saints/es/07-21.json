@@ -1,0 +1,49 @@
+{
+  "date": "07-21",
+  "feast_day": "21 de julio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Francisco de Laval",
+      "feast_day": "21 de julio",
+      "era": "Siglo XVII",
+      "patronage": [
+        "Canadá",
+        "clero",
+        "evangelización"
+      ],
+      "legacy": "Pionero de la Iglesia en Canadá",
+      "summary": "Francisco de Laval fue el primer obispo de Quebec y desempeñó un papel crucial en el establecimiento de la Iglesia católica en Canadá. Era conocido por su caridad, piedad y dedicación a la formación del clero, y fundó el Seminario de Quebec para respaldar esta misión. A pesar de enfrentar importantes desafíos, incluida la oposición de las autoridades seculares y la lucha contra el comercio de licor, se mantuvo firme en su compromiso con la evangelización y el bienestar de su comunidad.",
+      "image": "/images/blessed_francois_de_montmorency-laval.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_Laval"
+    },
+    {
+      "name": "Víctor de Marsella",
+      "feast_day": "21 de julio",
+      "era": "Siglo III",
+      "patronage": [
+        "mártires",
+        "soldados",
+        "prisioneros"
+      ],
+      "legacy": "Mártir valiente y defensor de la fe",
+      "summary": "Víctor de Marsella fue un oficial cristiano del ejército romano que se convirtió en mártir por su fe durante el reinado del emperador Maximiano, hacia el año 290. Desafió con valentía las órdenes del emperador de adorar a dioses paganos, soportando severas torturas y finalmente la muerte por sus creencias. Su legado incluye numerosos milagros atribuidos a su intercesión, particularmente en su lugar de enterramiento, donde muchos fieles buscaban su ayuda.",
+      "image": "/images/saint_victor_of_marseille.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Victor_of_Marseilles"
+    },
+    {
+      "name": "Práxedes",
+      "feast_day": "21 de julio",
+      "era": "Siglo II",
+      "patronage": [
+        "vírgenes",
+        "los pobres",
+        "prisioneros"
+      ],
+      "legacy": "Sierva compasiva de los fieles perseguidos",
+      "summary": "Santa Práxedes fue una virgen romana, hija de un senador, conocida por su profunda compasión y dedicación a la fe cristiana en tiempos de persecución. Dedicó su vida a la oración, el ayuno y la ayuda a los pobres, en particular a quienes sufrían por sus creencias. Práxedes es recordada por sus actos de caridad, incluido el cuidado de los cristianos encarcelados, a quienes brindaba consuelo y apoyo.",
+      "image": "/images/saint_praxedes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Praxedes"
+    }
+  ]
+}

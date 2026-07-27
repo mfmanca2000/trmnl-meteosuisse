@@ -1,0 +1,20 @@
+{
+  "date": "10-14",
+  "feast_day": "14 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Calixto I",
+      "feast_day": "14 de octubre",
+      "era": "Siglo III",
+      "patronage": [
+        "cementerios",
+        "mártires"
+      ],
+      "legacy": "Papa, mártir y protector de los fieles",
+      "summary": "Calixto I fue un papa y mártir de comienzos del siglo III que desempeñó un papel importante en la administración de la Iglesia y el cuidado de los cementerios cristianos de Roma. Es conocido por instituir el ayuno de las Cuatro Témporas y supervisar la construcción de iglesias en una época de persecución. Su liderazgo llevó a numerosas conversiones, pero finalmente sufrió él mismo el martirio, siendo ejecutado por su fe.",
+      "image": "/images/saint_callistus_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Callistus_I"
+    }
+  ]
+}

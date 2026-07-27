@@ -1,0 +1,17 @@
+{
+  "date": "03-13",
+  "feast_day": "13 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eufrasia",
+      "feast_day": "13 de marzo",
+      "era": "principios del siglo V",
+      "patronage": null,
+      "legacy": "Modelo de humildad y caridad",
+      "summary": "Santa Eufrasia fue una virgen y monja nacida en Constantinopla, conocida por su profundo compromiso con una vida de oración y caridad. Tras rechazar un matrimonio concertado, dedicó su fortuna a los pobres y se convirtió en un modelo de humildad y obediencia. Fue reconocida por sus curaciones milagrosas y su poder sobre los demonios, dejando un legado de fe y devoción.",
+      "image": "/images/saint_euphrasia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Euphrasia_of_Constantinople"
+    }
+  ]
+}

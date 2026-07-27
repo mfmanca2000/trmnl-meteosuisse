@@ -1,0 +1,20 @@
+{
+  "date": "10-28",
+  "feast_day": "28 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Simón",
+      "feast_day": "28 de octubre",
+      "era": "Siglo I",
+      "patronage": [
+        "curtidores",
+        "zelotes"
+      ],
+      "legacy": "Apóstol conocido por su ferviente fe",
+      "summary": "Simón el Zelote fue uno de los doce apóstoles de Jesús y es tradicionalmente considerado un hermano de Jesús. Predicó el Evangelio en diversas regiones, entre ellas Egipto y Persia, donde finalmente sufrió el martirio junto a san Judas. Conocido por su celo en la difusión del cristianismo, se recuerda a Simón por su fe inquebrantable y su dedicación a Dios, incluso frente a la persecución.",
+      "image": "/images/saint_simon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simon_the_Zealot"
+    }
+  ]
+}

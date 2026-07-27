@@ -1,0 +1,21 @@
+{
+  "date": "03-03",
+  "feast_day": "3 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cunegunda",
+      "feast_day": "3 de marzo",
+      "era": "siglo X",
+      "patronage": [
+        "matrimonios difíciles",
+        "viudas",
+        "los pobres"
+      ],
+      "legacy": "Símbolo de fe y devoción en el matrimonio",
+      "summary": "Santa Cunegunda fue una princesa del siglo X y esposa del emperador del Sacro Imperio Romano Germánico Enrique II. Es conocida por su piedad y su dedicación a la Iglesia, participando a menudo en obras de caridad y apoyo a los pobres. Cunegunda fue canonizada en 1200, y su legado perdura como símbolo de fe y devoción.",
+      "image": "/images/saint_cunegundes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cunigunde_of_Luxembourg"
+    }
+  ]
+}

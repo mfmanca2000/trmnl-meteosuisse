@@ -1,0 +1,21 @@
+{
+  "date": "10-01",
+  "feast_day": "1er octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Remi",
+      "feast_day": "1er octobre",
+      "era": "Ve siècle",
+      "patronage": [
+        "France",
+        "baptême",
+        "marchands"
+      ],
+      "legacy": "Apôtre des Francs et de la France",
+      "summary": "Saint Remi était un évêque du Ve siècle qui joua un rôle crucial dans la conversion du roi franc Clovis au christianisme. Il est connu pour avoir baptisé Clovis et conduit la christianisation de la France, ce qui valut au pays le titre de « fille aînée de l'Église ». Son long épiscopat et ses actes miraculeux ont consolidé son héritage en tant que figure majeure de l'histoire de l'Église catholique en France.",
+      "image": "/images/saint_remi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Remigius"
+    }
+  ]
+}

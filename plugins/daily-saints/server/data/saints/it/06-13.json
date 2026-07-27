@@ -1,0 +1,21 @@
+{
+  "date": "06-13",
+  "feast_day": "13 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Antonio di Padova",
+      "feast_day": "13 giugno",
+      "era": "Medioevo",
+      "patronage": [
+        "oggetti smarriti",
+        "viaggiatori",
+        "i poveri"
+      ],
+      "legacy": "Taumaturgo e predicatore amatissimo",
+      "summary": "Antonio di Padova fu un frate francescano e predicatore portoghese noto per i suoi potenti sermoni e i suoi miracoli. Divenne Dottore della Chiesa ed è spesso raffigurato mentre tiene in braccio il Bambino Gesù, simbolo della sua profonda fede e devozione. La sua vita fu segnata dall'impegno nell'insegnamento e nell'aiuto ai poveri, ed è ampiamente venerato come patrono degli oggetti smarriti e di chi è in cerca.",
+      "image": "/images/saint_anthony_of_padua.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Padua"
+    }
+  ]
+}

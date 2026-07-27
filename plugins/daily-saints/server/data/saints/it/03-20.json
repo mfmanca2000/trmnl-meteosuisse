@@ -1,0 +1,30 @@
+{
+  "date": "03-20",
+  "feast_day": "20 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Fratel André",
+      "feast_day": "20 marzo",
+      "era": "XX secolo",
+      "patronage": null,
+      "legacy": "Fratello laico, taumaturgo",
+      "summary": "Il piccolo Alfred Bessette, nato a St. Grégoire, in Quebec, il 9 agosto 1845, affondava le sue radici nella nostra stessa terra. Il futuro San Fratel André del Mount Royal era figlio di questa terra e della famiglia franco-canadese.",
+      "image": "/images/saint_brother_andrew_ODM.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Wulfran",
+      "feast_day": "20 marzo",
+      "era": "Epoca medievale",
+      "patronage": [
+        "i missionari",
+        "la Frisia"
+      ],
+      "legacy": "Un missionario compassionevole e taumaturgo.",
+      "summary": "San Wulfran fu Arcivescovo di Sens che rinunciò alla grandezza mondana per servire Dio e la Chiesa. Divenne missionario in Frisia, dove battezzò molte persone e compì miracoli, tra cui la salvezza di un ragazzo dal sacrificio. I suoi sforzi contribuirono a stabilire il cristianesimo in una terra pagana, ed è ricordato per la sua compassione e la sua dedizione alla fede.",
+      "image": "/images/saint_wulfran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wulfram_of_Sens"
+    }
+  ]
+}

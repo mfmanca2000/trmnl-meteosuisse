@@ -1,0 +1,21 @@
+{
+  "date": "08-21",
+  "feast_day": "21 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jeanne-Françoise de Chantal",
+      "feast_day": "21 août",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "veuves",
+        "mariages difficiles",
+        "perte des parents"
+      ],
+      "legacy": "Fondatrice de l'ordre de la Visitation",
+      "summary": "Jeanne-Françoise de Chantal était une noble française qui fonda l'Ordre de la Visitation de la Bienheureuse Vierge Marie. Après avoir enduré des tragédies personnelles, notamment la perte de son mari et de ses enfants, elle consacra sa vie à Dieu et au service d'autrui. Son héritage comprend la fondation de nombreux couvents accueillant les veuves et les femmes de santé fragile.",
+      "image": "/images/saint_jane_frances_de_chantal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal"
+    }
+  ]
+}

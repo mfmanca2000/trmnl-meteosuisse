@@ -1,0 +1,27 @@
+{
+  "date": "04-18",
+  "feast_day": "18 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie de l'Incarnation",
+      "feast_day": "18 avril",
+      "era": "XVIIe siècle",
+      "patronage": null,
+      "legacy": "Carmélite",
+      "summary": "La bienheureuse Marie de l'Incarnation naquit à Paris en février 1565 ; ses deux parents appartenaient aux plus anciennes familles de cette grande ville. Avant sa naissance, plusieurs autres enfants avaient vu le jour, mais tous étaient morts en bas âge. Pendant qu'elle attendait cette enfant, sa mère la voua à la Sainte Vierge et à saint Claude, promettant de la vêtir de blanc jusqu'à l'âge de sept ans et de l'offrir dans une église de la Sainte Vierge.",
+      "image": "/images/blessed_mary_of_the_incarnation_carmelite.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Apollonius",
+      "feast_day": "18 avril",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Martyr",
+      "summary": "L'empereur romain Marc Aurèle avait persécuté les chrétiens, mais son fils Commode, qui lui succéda sur le trône en 180, leur fut favorable, par égard pour son impératrice Marcia, admiratrice de la Foi. Durant cette accalmie, le nombre des fidèles augmenta considérablement, et de nombreuses personnes de premier rang, parmi lesquelles Apollonius, un sénateur romain, s'engagèrent sous la bannière de la croix. Il était déjà très versé tant en philosophie qu'en Saintes Écritures, comme nous l'apprend saint Jérôme, qui avait lu et admiré son discours au Sénat de Rome en faveur de la religion chrétienne.",
+      "image": "/images/saint_apollonius.jpg",
+      "wikipedia": null
+    }
+  ]
+}

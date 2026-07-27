@@ -1,0 +1,21 @@
+{
+  "date": "12-26",
+  "feast_day": "26 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Étienne",
+      "feast_day": "26 décembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "diacres",
+        "tailleurs de pierre",
+        "chapeliers"
+      ],
+      "legacy": "Premier martyr et diacre de l'Église",
+      "summary": "Saint Étienne est reconnu comme le premier martyr chrétien, connu pour sa foi inébranlable et sa défense éloquente de Jésus-Christ. Il fut l'un des sept diacres désignés par les Apôtres pour assister les œuvres de charité et fut rempli du Saint-Esprit. Sa proclamation audacieuse de l'Évangile mena à son martyre par lapidation, faisant de lui une figure marquante du christianisme primitif.",
+      "image": "/images/saint_stephen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen"
+    }
+  ]
+}

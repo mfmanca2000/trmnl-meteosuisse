@@ -1,0 +1,27 @@
+{
+  "date": "04-19",
+  "feast_day": "19 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Elphège",
+      "feast_day": "19 avril",
+      "era": "XIe siècle",
+      "patronage": null,
+      "legacy": "Archevêque de Cantorbéry",
+      "summary": "Saint Elphège naquit en l'an 954, d'une noble famille saxonne. Il devint moine au monastère de Deerhurst, près de Tewkesbury, en Angleterre, et vécut ensuite en ermite près de Bath, où il fonda une communauté sous la règle de saint Benoît et en devint le premier abbé. À l'âge de trente ans, il fut choisi comme évêque de Winchester, et vingt-deux ans plus tard, il devint archevêque de Cantorbéry.",
+      "image": "/images/saint_elphege.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Léon IX",
+      "feast_day": "19 avril",
+      "era": "Médiéval",
+      "patronage": null,
+      "legacy": "Réformateur et défenseur de la doctrine de l'Église",
+      "summary": "Léon IX fut pape de 1049 à 1054 et est connu pour ses réformes importantes au sein de l'Église. Il condamna la simonie et œuvra pour faire respecter la discipline ecclésiastique tout en s'opposant aux doctrines de Bérenger concernant la Transsubstantiation. Sa papauté marqua le début du schisme entre l'Église catholique romaine et les Églises orthodoxes d'Orient.",
+      "image": "/images/saint_leo_ix.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leo_IX"
+    }
+  ]
+}

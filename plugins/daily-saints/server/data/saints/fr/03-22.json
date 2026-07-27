@@ -1,0 +1,21 @@
+{
+  "date": "03-22",
+  "feast_day": "22 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catherine de Suède",
+      "feast_day": "22 mars",
+      "era": "XIVe siècle",
+      "patronage": [
+        "les veuves",
+        "les pèlerins",
+        "contre les tentations"
+      ],
+      "legacy": "Vie dévouée de pèlerinage et de pénitence",
+      "summary": "Catherine de Suède était la fille de sainte Brigitte et une figure religieuse dévouée connue pour sa piété et son engagement envers Dieu. Après la mort de son mari, elle consacra sa vie au pèlerinage, à la charité et à une sévère pénitence, visitant souvent les tombeaux des martyrs. Elle entra dans un monastère et vécut une vie de dévotion jusqu'à sa mort en 1381.",
+      "image": "/images/saint_catherine_of_sweden.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Sweden,_Saint"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "12-24",
+  "feast_day": "24 décembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Charbel Makhlouf",
+      "feast_day": "24 décembre",
+      "era": "XIXe siècle",
+      "patronage": [
+        "guérisseurs",
+        "malades",
+        "Liban"
+      ],
+      "legacy": "Un modèle de prière et de guérison",
+      "summary": "Charbel Makhlouf était un prêtre et ermite maronite du Liban, connu pour sa profonde spiritualité et ses guérisons miraculeuses. Il mena une vie d'ascèse extrême, se consacrant à la prière et à la solitude dans un ermitage pendant plus de deux décennies. Après sa mort, de nombreux miracles qui lui sont attribués ont attiré de nombreux pèlerins sur sa tombe, consolidant son héritage d'intercesseur puissant.",
+      "image": "/images/saint_charbel_makhlouf.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charbel_Makhlouf"
+    },
+    {
+      "name": "Tarsille et Émilienne",
+      "feast_day": "24 décembre",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Modèles de virginité et de persévérance spirituelle",
+      "summary": "Tarsille et Émilienne étaient deux sœurs, tantes de saint Grégoire le Grand, qui consacrèrent leur vie à Dieu dans la virginité. Elles vécurent ensemble au sein d'une communauté spirituelle, s'encourageant mutuellement dans la vertu tout en déplorant le retour de leur sœur Gordienne à une vie mondaine. Leur vie illustre l'importance de la persévérance dans la foi et l'appel à une vie spirituelle plus profonde.",
+      "image": "/images/saints_tarsilla_and_emiliana.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Trasilla_and_Emiliana"
+    },
+    {
+      "name": "Delphin",
+      "feast_day": "24 décembre",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la vérité et de l'orthodoxie",
+      "summary": "Saint Delphin était évêque de Bordeaux, connu pour sa ferme défense des enseignements chrétiens orthodoxes durant les premiers temps de l'Église. Il joua un rôle important dans la condamnation des mouvements hérétiques, notamment lors du concile de Saragosse en 380. Son influence s'étendit à des figures notables comme saint Paulin, qu'il baptisa et inspira à mener une vie de sainteté.",
+      "image": "/images/saint_delphinus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

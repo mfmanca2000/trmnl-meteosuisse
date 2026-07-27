@@ -1,0 +1,17 @@
+{
+  "date": "01-02",
+  "feast_day": "2 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Macario di Alessandria",
+      "feast_day": "2 gennaio",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Esempio di spiritualità eremitica e di preghiera",
+      "summary": "San Macario di Alessandria fu un eremita e discepolo di sant'Antonio il Grande. È noto per le sue intense pratiche spirituali e per le sue lotte contro la tentazione, dedicandosi spesso a forme estreme di mortificazione. La sua vita è un esempio della ricerca della santità attraverso la preghiera, la vigilanza e la rinuncia a sé stessi.",
+      "image": "/images/saint_macarius_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Macarius_of_Alexandria"
+    }
+  ]
+}

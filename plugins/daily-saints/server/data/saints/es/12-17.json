@@ -1,0 +1,21 @@
+{
+  "date": "12-17",
+  "feast_day": "17 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Olimpia de Constantinopla",
+      "feast_day": "17 de diciembre",
+      "era": "Época paleocristiana",
+      "patronage": [
+        "viudas",
+        "diaconisas",
+        "pobres"
+      ],
+      "legacy": "Modelo de caridad y fe inquebrantable",
+      "summary": "Santa Olimpia de Constantinopla fue una noble viuda y diaconisa, conocida por su profundo compromiso con la oración, la penitencia y la caridad. Tras la muerte de su esposo, dedicó su vida a servir a los pobres y a apoyar a la Iglesia, ayudando en particular a san Juan Crisóstomo en sus obras caritativas. A pesar de la persecución y el exilio, permaneció firme en su fe y sus buenas obras hasta su muerte en el año 410.",
+      "image": "/images/saint_olympia_of_constantinople.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+    }
+  ]
+}

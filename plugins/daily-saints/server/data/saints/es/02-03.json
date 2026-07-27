@@ -1,0 +1,21 @@
+{
+  "date": "02-03",
+  "feast_day": "3 de febrero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Blas",
+      "feast_day": "3 de febrero",
+      "era": "Siglo IV",
+      "patronage": [
+        "enfermedades de la garganta",
+        "médicos",
+        "animales"
+      ],
+      "legacy": "Protector contra las dolencias y enfermedades de la garganta.",
+      "summary": "San Blas fue un obispo y mártir conocido por sus dones de sanación y su profunda espiritualidad. Tras convertirse en obispo de Sebaste, en Armenia, dedicó su vida a servir a Dios y a ayudar a los necesitados, realizando a menudo milagros. Finalmente fue martirizado durante una persecución, y es especialmente invocado para la protección contra las dolencias de garganta.",
+      "image": "/images/saint_blaise.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Blaise_of_Sebaste"
+    }
+  ]
+}

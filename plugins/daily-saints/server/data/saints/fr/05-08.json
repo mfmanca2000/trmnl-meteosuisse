@@ -1,0 +1,22 @@
+{
+  "date": "05-08",
+  "feast_day": "8 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Michel",
+      "feast_day": "8 mai",
+      "era": "Christianisme primitif",
+      "patronage": [
+        "militaires",
+        "policiers",
+        "malades",
+        "qui est comme Dieu ?"
+      ],
+      "legacy": "Protecteur de l'Église et des âmes fidèles",
+      "summary": "Saint Michel est l'un des principaux archanges de la tradition chrétienne, connu pour son rôle de protecteur et de chef des armées célestes. Il est souvent représenté comme un guerrier défendant les fidèles contre les forces du mal, en particulier lors du combat final contre Satan. Ses apparitions et l'établissement de sanctuaires en son honneur, comme le Mont-Saint-Michel, soulignent son importance dans l'histoire et la dévotion de l'Église.",
+      "image": "/images/apparition_of_saint_michael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_the_Archangel"
+    }
+  ]
+}

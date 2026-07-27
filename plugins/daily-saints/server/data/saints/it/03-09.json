@@ -1,0 +1,21 @@
+{
+  "date": "03-09",
+  "feast_day": "9 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francesca Romana",
+      "feast_day": "9 marzo",
+      "era": "XV secolo",
+      "patronage": [
+        "le vedove",
+        "i lavoratori domestici",
+        "contro le tentazioni"
+      ],
+      "legacy": "Un modello di fede nella vita domestica",
+      "summary": "Francesca Romana era una nobildonna nata a Roma nel 1384 che, nonostante la volontà dei genitori, sposò Lorenzo Ponziano e dedicò la sua vita a Dio attraverso i suoi doveri domestici e la preghiera. Dopo aver sopportato tragedie personali, tra cui la perdita di due figli, fondò una comunità di monache oblate benedettine dopo la morte del marito. Nota per la sua profonda spiritualità e le sue visioni, è ricordata per la sua fede incrollabile e il suo impegno nel servire Dio sia nella vita familiare sia in quella religiosa.",
+      "image": "/images/saint_frances_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frances_of_Rome"
+    }
+  ]
+}

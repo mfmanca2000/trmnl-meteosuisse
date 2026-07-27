@@ -1,0 +1,21 @@
+{
+  "date": "04-01",
+  "feast_day": "1 de abril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Hugo de Grenoble",
+      "feast_day": "1 de abril",
+      "era": "Siglo XI",
+      "patronage": [
+        "clero",
+        "pobres",
+        "reformadores"
+      ],
+      "legacy": "Campeón de la reforma y la caridad en la Iglesia.",
+      "summary": "Hugo de Grenoble fue un obispo del siglo XI conocido por su profunda piedad y su compromiso con la reforma de la Iglesia. Al principio renunció a su obispado para llevar una vida monástica, pero fue llamado de nuevo para servir a su diócesis, donde se hizo célebre por sus obras de caridad y su poderosa predicación. Su legado incluye la fundación de la Orden Cartuja junto a san Bruno y su dedicación a los pobres.",
+      "image": "/images/saint_hugh_of_grenoble.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Grenoble"
+    }
+  ]
+}

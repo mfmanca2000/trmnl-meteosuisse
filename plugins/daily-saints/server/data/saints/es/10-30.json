@@ -1,0 +1,30 @@
+{
+  "date": "10-30",
+  "feast_day": "30 de octubre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Alfonso Rodríguez",
+      "feast_day": "30 de octubre",
+      "era": "Siglo XVI",
+      "patronage": [
+        "espiritualidad",
+        "jesuitas"
+      ],
+      "legacy": "Un modelo de humildad y servicio",
+      "summary": "San Alfonso Rodríguez fue un jesuita español conocido por su profunda espiritualidad y su compromiso con la humildad y el servicio. Tras vivir tragedias personales, dedicó su vida a Dios y se convirtió en portero de un colegio jesuita en Mallorca, donde llevó una vida de penitencia y devoción. Se le recuerda por su profundo amor a Cristo y su influencia sobre otros jesuitas, entre ellos san Pedro Claver.",
+      "image": "/images/saint_alphonsus_rodriguez.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alphonsus_Rodriguez"
+    },
+    {
+      "name": "Marcelo",
+      "feast_day": "30 de octubre",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Martirio por la fe y la familia",
+      "summary": "San Marcelo fue un centurión romano que se convirtió al cristianismo junto con su familia. Se negó a participar en los sacrificios paganos, declarándose soldado de Cristo, lo que lo llevó al martirio. Sus hijos también siguieron su ejemplo, sufriendo el martirio por su fe, y su madre se aseguró de que fueran enterrados en una iglesia dedicada a ellos en León.",
+      "image": "/images/saint_marcellus_the_centurion_and_his_children.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcellus_the_Centurion"
+    }
+  ]
+}

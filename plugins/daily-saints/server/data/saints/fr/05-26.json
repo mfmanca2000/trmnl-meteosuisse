@@ -1,0 +1,21 @@
+{
+  "date": "05-26",
+  "feast_day": "26 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Philippe Néri",
+      "feast_day": "26 mai",
+      "era": "XVIe siècle",
+      "patronage": [
+        "jeunesse",
+        "joie",
+        "clergé"
+      ],
+      "legacy": "Apôtre de Rome et patron de la jeunesse",
+      "summary": "Philippe Néri fut un prêtre du XVIe siècle, connu pour son esprit joyeux et son dévouement envers la jeunesse de Rome. Il fonda l'Oratoire, une société de prêtres consacrée à l'éducation spirituelle et à l'accompagnement pastoral. Réputé pour sa piété et des cas de bilocation, il devint une figure bien-aimée de l'Église catholique, soulignant l'importance de servir Dieu dans la joie.",
+      "image": "/images/saint_philip_neri.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_Neri"
+    }
+  ]
+}

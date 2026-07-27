@@ -1,0 +1,22 @@
+{
+  "date": "10-18",
+  "feast_day": "18 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Luc",
+      "feast_day": "18 octobre",
+      "era": "Ier siècle",
+      "patronage": [
+        "médecins",
+        "artistes",
+        "bouchers",
+        "boulangers"
+      ],
+      "legacy": "Évangéliste et compagnon de saint Paul",
+      "summary": "Luc est reconnu comme l'auteur de l'Évangile selon Luc et des Actes des Apôtres, fournissant un récit détaillé de la vie de Jésus et de l'Église primitive. Médecin de profession, il fut un compagnon de saint Paul et joua un rôle important dans la diffusion du christianisme. Ses représentations artistiques de la Vierge Marie et ses écrits méticuleux ont fait de lui une figure vénérée de la tradition chrétienne.",
+      "image": "/images/saint_luke.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luke_the_Evangelist"
+    }
+  ]
+}

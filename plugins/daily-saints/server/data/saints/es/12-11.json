@@ -1,0 +1,17 @@
+{
+  "date": "12-11",
+  "feast_day": "11 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Dámaso",
+      "feast_day": "11 de diciembre",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Promotor de la Vulgata y de la unidad de la Iglesia",
+      "summary": "San Dámaso I fue papa desde 366 hasta 384 y es conocido por sus esfuerzos para combatir el arrianismo y el apolinarismo. Encargó a san Jerónimo la realización de la Vulgata, una importante traducción latina de la Biblia. Dámaso también trabajó para embellecer la Iglesia y honrar a los mártires, dejando un legado duradero en la historia de la Iglesia católica.",
+      "image": "/images/saint_damasus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Damasus_I"
+    }
+  ]
+}

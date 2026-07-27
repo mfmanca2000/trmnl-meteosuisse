@@ -1,0 +1,35 @@
+{
+  "date": "07-20",
+  "feast_day": "20 juillet",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jérôme Émilien",
+      "feast_day": "20 juillet",
+      "era": "Renaissance",
+      "patronage": [
+        "enfants orphelins",
+        "malades",
+        "personnel hospitalier"
+      ],
+      "legacy": "Champion des orphelins et des malades",
+      "summary": "Jérôme Émilien fut un soldat vénitien qui transforma sa vie après avoir été emprisonné, se consacrant au service des orphelins et des malades. Il fonda la Congrégation des Clercs réguliers, connue sous le nom de Somasques, pour prendre soin des enfants abandonnés et promouvoir l'éducation chrétienne. Son héritage se caractérise par sa profonde compassion et son engagement envers la charité, en particulier en temps de famine et d'épidémie.",
+      "image": "/images/saint_jerome_emiliani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerome_Emiliani"
+    },
+    {
+      "name": "Marguerite d'Antioche",
+      "feast_day": "20 juillet",
+      "era": "IIIe siècle",
+      "patronage": [
+        "femmes enceintes",
+        "accouchement",
+        "personnes faussement accusées"
+      ],
+      "legacy": "Martyre courageuse et défenseure de la foi",
+      "summary": "Sainte Marguerite d'Antioche fut une vierge et martyre chrétienne née au troisième siècle à Antioche de Pisidie. Elle affronta la persécution pour sa foi, refusant les avances d'un préfet romain et endurant de graves tortures, dont l'emprisonnement et la décapitation. Sa constance dans la foi et son éloquente défense du christianisme inspirèrent beaucoup de monde, menant à son martyre et à sa vénération comme sainte.",
+      "image": "/images/saint_margaret_of_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Antioch"
+    }
+  ]
+}

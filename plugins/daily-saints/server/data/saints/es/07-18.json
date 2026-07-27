@@ -1,0 +1,21 @@
+{
+  "date": "07-18",
+  "feast_day": "18 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Camilo de Lelis",
+      "feast_day": "18 de julio",
+      "era": "Siglo XVI",
+      "patronage": [
+        "enfermos",
+        "enfermeras",
+        "trabajadores hospitalarios"
+      ],
+      "legacy": "Siervo compasivo de los enfermos",
+      "summary": "San Camilo de Lelis fue el fundador de los Siervos de los Enfermos, una orden religiosa dedicada al cuidado de los enfermos y necesitados. Tras una juventud turbulenta marcada por el juego y el servicio militar, experimentó una profunda conversión que lo llevó a dedicar su vida al servicio de los enfermos. Es recordado por su compasión y su incansable labor en los hospitales, especialmente durante épocas de hambruna y peste.",
+      "image": "/images/saint_camillus_of_lellis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Camillus_de_Lellis"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "06-10",
+  "feast_day": "10 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marguerite",
+      "feast_day": "10 juin",
+      "era": "Médiéval",
+      "patronage": [
+        "Écosse",
+        "mariages difficiles",
+        "veuves"
+      ],
+      "legacy": "Une reine de foi et de charité",
+      "summary": "Sainte Marguerite d'Écosse était une reine connue pour sa profonde piété et son engagement envers l'Église. Elle contribua grandement à l'amélioration spirituelle et matérielle de son royaume, en construisant des églises et en éduquant ses enfants dans la foi. Sa vie illustra un équilibre entre devoir royal et sainteté personnelle, ce qui lui valut d'être vénérée comme sainte après sa mort en 1093.",
+      "image": "/images/saint_margaret_queen_of_scotland.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Scotland"
+    }
+  ]
+}

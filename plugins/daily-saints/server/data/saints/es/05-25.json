@@ -1,0 +1,17 @@
+{
+  "date": "05-25",
+  "feast_day": "25 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregorio VII",
+      "feast_day": "25 de mayo",
+      "era": "Siglo XI",
+      "patronage": null,
+      "legacy": "Campeón de la reforma y la independencia de la Iglesia",
+      "summary": "Gregorio VII, llamado originalmente Hildebrando, fue un papa determinante, conocido por sus esfuerzos de reforma dentro de la Iglesia católica durante el siglo XI. Se opuso firmemente a la simonía y a la injerencia de los gobernantes seculares en los asuntos eclesiásticos, excomulgando célebremente al emperador Enrique IV. Su pontificado estuvo marcado por importantes luchas por la independencia de la Iglesia, que finalmente condujeron a su exilio y muerte en 1085.",
+      "image": "/images/saint_gregory_vii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+    }
+  ]
+}

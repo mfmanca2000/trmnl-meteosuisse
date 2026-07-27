@@ -1,0 +1,48 @@
+{
+  "date": "09-25",
+  "feast_day": "25 septembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Vincent Strambi",
+      "feast_day": "25 septembre",
+      "era": "XVIIIe siècle",
+      "patronage": [
+        "clergé",
+        "formation spirituelle",
+        "pauvres"
+      ],
+      "legacy": "Une vie de prière et de service.",
+      "summary": "Vincent Strambi était un prêtre et évêque passioniste connu pour son profond engagement dans la prière et le service aux pauvres. Il consacra sa vie à la prédication et à l'accompagnement pastoral, soulignant l'importance d'un enseignement adapté aux différentes professions. Canonisé en 1950, il reste dans les mémoires pour son humilité, sa simplicité et son dévouement à la formation spirituelle de ses disciples.",
+      "image": "/images/saint_vincent_strambi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Strambi"
+    },
+    {
+      "name": "Firmin",
+      "feast_day": "25 septembre",
+      "era": "IIe siècle",
+      "patronage": [
+        "Amiens",
+        "clergé diocésain"
+      ],
+      "legacy": "Premier évêque d'Amiens et martyr",
+      "summary": "Saint Firmin fut le premier évêque d'Amiens et un martyr du début du IIe siècle. Il est connu pour son travail missionnaire en Gaule, où il prêcha l'Évangile et convertit de nombreux païens au christianisme. Il fut finalement martyrisé pour sa foi, accomplissant son désir de martyre et laissant un héritage durable dans la ville d'Amiens.",
+      "image": "/images/saint_firmin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Firmin_of_Amiens"
+    },
+    {
+      "name": "Finbarr",
+      "feast_day": "25 septembre",
+      "era": "VIe siècle",
+      "patronage": [
+        "Cork",
+        "étudiants",
+        "éducation"
+      ],
+      "legacy": "Fondateur de Cork et de sa cathédrale",
+      "summary": "Finbarr était un évêque du VIe siècle et le fondateur de la ville de Cork en Irlande. Il établit un monastère à Lough Eire, attirant de nombreux disciples et transformant la région en une communauté florissante. Son héritage perdure à travers la cathédrale et l'église qui portent son nom, où ses reliques sont conservées.",
+      "image": "/images/saint_finbarr.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Finbar_of_Cork"
+    }
+  ]
+}

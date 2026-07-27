@@ -1,0 +1,35 @@
+{
+  "date": "08-16",
+  "feast_day": "16 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Roque",
+      "feast_day": "16 de agosto",
+      "era": "Medieval",
+      "patronage": [
+        "inválidos",
+        "víctimas de la peste",
+        "perros"
+      ],
+      "legacy": "Patrono de los enfermos y los viajeros",
+      "summary": "San Roque nació hijo de un gobernador de Montpellier y dedicó su vida a servir a los pobres y a los enfermos. Es conocido por sus curaciones milagrosas durante una epidemia de peste en Italia, donde cuidó a los afligidos. Tras contraer él mismo la peste, murió en prisión, reconocido por la cruz roja marcada en su pecho, y se convirtió en una figura popular de la devoción cristiana.",
+      "image": "/images/saint_roch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roch"
+    },
+    {
+      "name": "Joaquín",
+      "feast_day": "16 de agosto",
+      "era": "Siglo I",
+      "patronage": [
+        "abuelos",
+        "padres",
+        "familias"
+      ],
+      "legacy": "Padre de la Virgen María y fiel servidor",
+      "summary": "San Joaquín es reconocido como el padre de la Virgen María y esposo de santa Ana. Él y Ana permanecieron sin hijos durante muchos años, hasta que un ángel les anunció que tendrían una hija, María, que llegaría a ser la Madre de Jesús. Joaquín es honrado por su piedad y devoción, ejemplo de fidelidad a Dios frente a la adversidad.",
+      "image": "/images/saint_joachim.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joachim"
+    }
+  ]
+}

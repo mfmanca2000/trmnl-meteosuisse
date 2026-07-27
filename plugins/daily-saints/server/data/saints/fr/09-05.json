@@ -1,0 +1,21 @@
+{
+  "date": "09-05",
+  "feast_day": "5 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Laurent Justinien",
+      "feast_day": "5 septembre",
+      "era": "XVe siècle",
+      "patronage": [
+        "patrons de Venise",
+        "clergé",
+        "chefs spirituels"
+      ],
+      "legacy": "Premier patriarche de Venise et réformateur",
+      "summary": "Laurent Justinien fut le premier patriarche de Venise, connu pour sa profonde spiritualité et son engagement à réformer l'Église. Il fonda de nombreux monastères et églises, insistant sur l'humilité et l'importance de la Communion fréquente. Son héritage se caractérise par son dévouement envers les pauvres et sa vie exemplaire de mortification et de prière.",
+      "image": "/images/saint_lawrence_justinian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Justinian"
+    }
+  ]
+}

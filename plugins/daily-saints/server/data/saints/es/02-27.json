@@ -1,0 +1,44 @@
+{
+  "date": "02-27",
+  "feast_day": "27 de febrero",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Gabriel de la Dolorosa",
+      "feast_day": "27 de febrero",
+      "era": "Siglo XIX",
+      "patronage": [
+        "jóvenes",
+        "jóvenes religiosos"
+      ],
+      "legacy": "Un modelo de devoción y piedad juvenil.",
+      "summary": "San Gabriel de la Dolorosa fue un sacerdote pasionista conocido por su profunda devoción a la Virgen María y a la Pasión de Cristo. Vivió una vida de contemplación y renuncia a sí mismo, dedicándose a la oración y a la unión con Dios. A pesar de su corta vida, fue canonizado por su heroica santidad y es reconocido como patrono de los jóvenes y los jóvenes religiosos.",
+      "image": "/images/saint_gabriel_of_our_lady_of_sorrows.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows"
+    },
+    {
+      "name": "Leandro de Sevilla",
+      "feast_day": "27 de febrero",
+      "era": "Siglo VI",
+      "patronage": [
+        "España",
+        "los visigodos",
+        "conversiones"
+      ],
+      "legacy": "Campeón de la fe y la unidad en España",
+      "summary": "San Leandro fue un influyente arzobispo de Sevilla en el siglo VI, conocido por su papel en la conversión de los visigodos del arrianismo al catolicismo. Fue decisivo en la conversión de su sobrino, san Hermenegildo, y más tarde ayudó al rey Recaredo a abrazar la fe católica, lo que condujo a la unificación de suevos y visigodos bajo el catolicismo. Su legado incluye la introducción del Credo Niceno en la liturgia de España, que finalmente se extendió por toda la Iglesia.",
+      "image": "/images/saint_leander.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leander_of_Seville"
+    },
+    {
+      "name": "María de Jesús Deluil-Martiny",
+      "feast_day": "27 de febrero",
+      "era": "Siglo XIX",
+      "patronage": null,
+      "legacy": "Fundadora de las Hijas del Corazón de Jesús",
+      "summary": "María de Jesús Deluil-Martiny fue una religiosa francesa y fundadora de las Hijas del Corazón de Jesús, una congregación religiosa dedicada a la adoración del Sagrado Corazón de Jesús. Nacida en Marsella en 1841, mostró desde joven una notable profundidad espiritual y capacidad de liderazgo, lo que la llevó a fundar su congregación en 1873. Su vida estuvo marcada por pruebas personales y un profundo compromiso con la oración y el sacrificio por la gloria de Dios y la santificación de los sacerdotes.",
+      "image": "/images/saint_mary_of_jesus_deluil-martiny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_Deluil-Martiny"
+    }
+  ]
+}

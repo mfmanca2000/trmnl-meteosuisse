@@ -1,0 +1,35 @@
+{
+  "date": "02-09",
+  "feast_day": "9 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cirillo di Alessandria",
+      "feast_day": "9 febbraio",
+      "era": "V secolo",
+      "patronage": [
+        "teologi",
+        "studenti",
+        "Egitto"
+      ],
+      "legacy": "Difensore dell'Incarnazione e della Theotokos",
+      "summary": "Cirillo di Alessandria fu un eminente teologo e patriarca di Alessandria all'inizio del V secolo. Svolse un ruolo cruciale nelle controversie cristologiche del suo tempo, opponendosi in particolare al nestorianesimo e sostenendo il titolo di Theotokos per Maria. I suoi scritti e le sue intuizioni teologiche plasmarono in modo significativo la dottrina cristiana e gli valsero il titolo di Dottore della Chiesa.",
+      "image": "/images/saint_cyril_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
+    },
+    {
+      "name": "Apollonia",
+      "feast_day": "9 febbraio",
+      "era": "III secolo",
+      "patronage": [
+        "dentisti",
+        "mal di denti",
+        "martiri"
+      ],
+      "legacy": "Coraggiosa testimone di fede e martirio",
+      "summary": "Sant'Apollonia fu una martire cristiana di Alessandria, nota per la sua fede incrollabile durante una brutale persecuzione dei cristiani nel 249 d.C. Fu sottoposta a torture atroci, tra cui la rottura dei denti, prima di essere condotta verso un rogo dove scelse di morire piuttosto che rinnegare Cristo. Il suo coraggio e la sua fermezza di fronte alla morte hanno fatto di lei un simbolo di fede e martirio nella tradizione cristiana.",
+      "image": "/images/saint_apollonia_virgin_and_the_martyrs_of_alexandr.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Apollonia"
+    }
+  ]
+}

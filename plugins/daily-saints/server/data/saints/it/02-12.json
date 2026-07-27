@@ -1,0 +1,34 @@
+{
+  "date": "02-12",
+  "feast_day": "12 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "I Sette Santi Fondatori dei Servi di Maria",
+      "feast_day": "12 febbraio",
+      "era": "Medievale",
+      "patronage": [
+        "servi di Maria",
+        "ritiri spirituali"
+      ],
+      "legacy": "Fondatori dell'Ordine dei Servi di Maria",
+      "summary": "I Sette Santi Fondatori dei Servi di Maria furono un gruppo di uomini di Firenze che dedicarono la loro vita a Dio a metà del XIII secolo. Fondarono l'Ordine dei Servi di Maria dopo aver ricevuto una visione della Beata Vergine Maria, che li esortava a vivere una vita di preghiera e penitenza. Il loro impegno portò alla fondazione di un ordine religioso che crebbe notevolmente in tutta Europa e oltre.",
+      "image": "/images/the_seven_holy_servite_founders.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Servites"
+    },
+    {
+      "name": "Benedetto di Aniane",
+      "feast_day": "12 febbraio",
+      "era": "VIII secolo",
+      "patronage": [
+        "monaci",
+        "spiritualità",
+        "vita monastica"
+      ],
+      "legacy": "Restauratore della disciplina e dell'unità monastica",
+      "summary": "Benedetto di Aniane fu un eminente abate e riformatore della vita monastica nell'VIII secolo. È noto per aver ripristinato la disciplina monastica e stabilito una regola unificata per i monaci in Occidente, basata sulla Regola di san Benedetto. I suoi sforzi influenzarono in modo significativo lo sviluppo del monachesimo in Francia e Germania, portando a un rinnovato fervore spirituale tra i monaci.",
+      "image": "/images/saint_benedict_of_anian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_of_Aniane"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "11-05",
+  "feast_day": "5 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Saintes Reliques",
+      "feast_day": "5 novembre",
+      "era": null,
+      "patronage": null,
+      "legacy": "Vénération des saints à travers leurs reliques",
+      "summary": "Les saintes reliques sont les restes physiques ou les objets personnels des saints, vénérés dans l'Église catholique. Le culte des reliques est une tradition ancienne, que l'on croit capable de relier les fidèles au divin par l'intercession des saints. Cette pratique repose sur la croyance que l'honneur rendu aux reliques peut apporter des bienfaits spirituels et des miracles.",
+      "image": "/images/feast_of_the_holy_relics.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_relics"
+    },
+    {
+      "name": "Bertille",
+      "feast_day": "5 novembre",
+      "era": "VIIe siècle",
+      "patronage": null,
+      "legacy": "Dirigeante exemplaire et abbesse dévouée",
+      "summary": "Sainte Bertille était une abbesse du VIIe siècle connue pour son profond engagement envers la vie monastique et son leadership exemplaire à l'abbaye de Chelles. Encouragée dans sa vocation par saint Ouen, elle devint célèbre pour son humilité, sa charité et ses talents d'administratrice. Bertille gouverna sa communauté pendant quarante-six ans, attirant de nombreuses âmes par sa direction spirituelle jusqu'à sa mort en 692.",
+      "image": "/images/saint_bertilla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Bertille"
+    }
+  ]
+}

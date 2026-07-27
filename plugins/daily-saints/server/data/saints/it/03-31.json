@@ -1,0 +1,32 @@
+{
+  "date": "03-31",
+  "feast_day": "31 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nicola della Flüe",
+      "feast_day": "31 marzo",
+      "era": "XV secolo",
+      "patronage": [
+        "la Svizzera",
+        "gli eremiti",
+        "la pace",
+        "la spiritualità"
+      ],
+      "legacy": "Un faro di pace e spiritualità",
+      "summary": "Nicola della Flüe fu un eremita e mistico svizzero che lasciò la famiglia e i possedimenti per dedicare la sua vita a Dio. Divenne noto per la sua profonda spiritualità e saggezza, attirando molti visitatori in cerca del suo consiglio. I suoi sforzi contribuirono a prevenire una guerra civile in Svizzera, ed è venerato per il suo ruolo nella promozione della pace e dell'unità.",
+      "image": "/images/saint_nicholas_of_flue.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Fl%C3%BCe"
+    },
+    {
+      "name": "Beniamino",
+      "feast_day": "31 marzo",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Martirio per la fede e il coraggio",
+      "summary": "San Beniamino fu un diacono e martire vissuto all'inizio del V secolo in Persia. Predicò coraggiosamente la fede cristiana nonostante la severa persecuzione sotto il re Isdegerde, che cercava di sradicare il cristianesimo nel suo regno. Dopo aver sopportato brutali torture per il suo incrollabile impegno verso Cristo, morì infine per la sua fede intorno all'anno 424.",
+      "image": "/images/saint_benjamin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_the_Deacon_and_Martyr"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "12-15",
+  "feast_day": "15 dicembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni lo Scalzo",
+      "feast_day": "15 dicembre",
+      "era": "XIV secolo",
+      "patronage": null,
+      "legacy": "Una vita di umiltà e di servizio",
+      "summary": "Il beato Giovanni lo Scalzo era un frate francescano noto per il suo stile di vita austero e la sua dedizione al servizio dei poveri e dei malati. Trascorse molti anni come parroco, camminando scalzo per visitare i suoi parrocchiani e conducendo una vita di estrema mortificazione. È ricordato per i suoi doni profetici e il suo servizio compassionevole durante i tempi di peste, morendo infine proprio a causa del flagello che cercava di alleviare.",
+      "image": "/images/blessed_john_the_discalced.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    },
+    {
+      "name": "Massimino di Verdun",
+      "feast_day": "15 dicembre",
+      "era": "Alto Medioevo",
+      "patronage": null,
+      "legacy": "Taumaturgo e guida monastica",
+      "summary": "San Massimino di Verdun fu un abate e una figura di spicco nel monachesimo altomedievale. Era noto per le sue opere miracolose, tra cui il provvedere ai bisognosi durante una carestia e la guarigione dei ciechi. La sua guida attirò molti giovani alla vita religiosa, ed è ricordato per la sua pietà e la sua dedizione a Dio.",
+      "image": "/images/saint_maximin_or_mesmin_of_verdun.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mesmin"
+    }
+  ]
+}

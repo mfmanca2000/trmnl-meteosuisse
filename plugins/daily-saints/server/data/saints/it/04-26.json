@@ -1,0 +1,31 @@
+{
+  "date": "04-26",
+  "feast_day": "26 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Madonna del Buon Consiglio",
+      "feast_day": "26 aprile",
+      "era": "XV secolo",
+      "patronage": [
+        "consiglieri",
+        "madri",
+        "malati di mente"
+      ],
+      "legacy": "Una fonte di consiglio e miracoli",
+      "summary": "La Madonna del Buon Consiglio è un titolo della Beata Vergine Maria associato a un'immagine miracolosa apparsa a Genazzano, in Italia, nel 1467. L'immagine, che si ritiene sia stata trasportata dall'Albania, è stata fonte di numerosi miracoli e grazie spirituali per i fedeli. La devozione alla Madonna del Buon Consiglio è stata riconosciuta dalla Chiesa, e la sua festa viene celebrata con grande venerazione.",
+      "image": "/images/our_lady_of_good_counsel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Good_Counsel"
+    },
+    {
+      "name": "Cleto e Marcellino",
+      "feast_day": "26 aprile",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Papi e Martiri",
+      "summary": "San Cleto fu il terzo vescovo di Roma, succedendo a san Lino, circostanza che da sola raccomanda la sua eminente virtù tra i primi discepoli di san Pietro in Occidente. Una chiesa e un ospedale da lui fondati, sebbene rovinati e ricostruiti più volte, sopravvissero fino al XVIII secolo, e il ricordo della sua carità fu così ben conservato dai romani che i Crociferi che allora ancora prestavano servizio nel suo ospizio lo consideravano il loro fondatore. San Cleto fu martirizzato dopo il pacifico regno dell'imperatore Tito, quando Domiziano gli succedette; la data fu il 26 aprile dell'anno 89.",
+      "image": "/images/saint_clet.jpg",
+      "wikipedia": null
+    }
+  ]
+}

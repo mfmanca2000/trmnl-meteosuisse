@@ -1,0 +1,21 @@
+{
+  "date": "09-30",
+  "feast_day": "30 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jérôme",
+      "feast_day": "30 septembre",
+      "era": "IVe-Ve siècle",
+      "patronage": [
+        "étudiants",
+        "bibliothèques",
+        "traducteurs"
+      ],
+      "legacy": "Père de l'exégèse biblique et de la traduction",
+      "summary": "Saint Jérôme fut un éminent érudit et traducteur des débuts du christianisme, connu surtout pour sa traduction latine de la Bible, appelée la Vulgate. Il passa de nombreuses années dans la solitude, étudiant et écrivant dans les déserts de Syrie puis à Bethléem, où il produisit une abondance d'œuvres théologiques. Ses contributions à l'exégèse biblique et sa défense contre les hérésies ont fait de lui un docteur de l'Église et une figure majeure de l'histoire chrétienne.",
+      "image": "/images/saint_jerome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerome"
+    }
+  ]
+}

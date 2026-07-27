@@ -1,0 +1,23 @@
+{
+  "date": "03-04",
+  "feast_day": "4 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Casimiro",
+      "feast_day": "4 marzo",
+      "era": "XV secolo",
+      "patronage": [
+        "Polonia",
+        "i giovani",
+        "le vergini",
+        "i malati",
+        "gli studenti"
+      ],
+      "legacy": "Modello di purezza e devozione a Dio",
+      "summary": "Casimiro fu un principe polacco noto per la sua profonda pietà e il suo impegno per una vita di virtù. Scelse di rimanere vergine e si dedicò alla preghiera e alla carità, anche di fronte alla malattia. Dopo la sua morte, fu venerato per i miracoli a lui attribuiti, tra cui la guarigione dei malati e la resurrezione dei morti.",
+      "image": "/images/saint_casimir.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Casimir_of_Poland"
+    }
+  ]
+}

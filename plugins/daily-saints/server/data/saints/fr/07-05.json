@@ -1,0 +1,35 @@
+{
+  "date": "07-05",
+  "feast_day": "5 juillet",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Antoine-Marie Zaccaria",
+      "feast_day": "5 juillet",
+      "era": "XVIe siècle",
+      "patronage": [
+        "médecins",
+        "malades",
+        "enfants malades"
+      ],
+      "legacy": "Renouvela la vie chrétienne par l'éducation et le service.",
+      "summary": "Antoine-Marie Zaccaria fut un prêtre italien et le fondateur de l'ordre des Barnabites, consacré au renouveau de la vie chrétienne au XVIe siècle. Il était connu pour sa profonde dévotion à saint Paul et ses efforts pour éduquer et prendre soin des enfants pauvres et abandonnés. Malgré l'opposition à laquelle il fit face, il établit des communautés qui mettaient l'accent sur la prière et le service, laissant une empreinte durable sur l'Église.",
+      "image": "/images/saint_anthony_maria_zaccaria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Maria_Zaccaria"
+    },
+    {
+      "name": "Pierre de Luxembourg",
+      "feast_day": "5 juillet",
+      "era": "Médiéval",
+      "patronage": [
+        "enfants",
+        "causes perdues",
+        "prêtres diocésains"
+      ],
+      "legacy": "Un modèle de sainteté juvénile et de charité.",
+      "summary": "Pierre de Luxembourg fut un évêque et cardinal connu pour sa profonde piété et son engagement au service de l'Église. Nommé évêque de Metz au jeune âge de quinze ans, il gouverna avec un zèle et une charité remarquables, distribuant souvent sa propre fortune. Il mourut à seulement dix-huit ans, laissant un héritage de sainteté et d'intercession miraculeuse.",
+      "image": "/images/blessed_peter_of_luxemburg.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Luxembourg"
+    }
+  ]
+}

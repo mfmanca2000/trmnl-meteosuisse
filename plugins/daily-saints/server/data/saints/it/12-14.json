@@ -1,0 +1,27 @@
+{
+  "date": "12-14",
+  "feast_day": "14 dicembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Melania Calvat",
+      "feast_day": "14 dicembre",
+      "era": "XIX secolo",
+      "patronage": null,
+      "legacy": "Visionaria di Nostra Signora di La Salette",
+      "summary": "Melania Calvat fu una veggente francese nota per il suo ruolo nell'apparizione di Nostra Signora di La Salette nel 1846. Affrontò notevoli difficoltà per tutta la vita, incluso l'esilio e l'opposizione delle autorità ecclesiastiche, pur rimanendo devota alla sua missione. Le sue rivelazioni sottolineavano l'appello alla preghiera e alla penitenza in un'epoca di declino morale, ed è ricordata per la sua profonda fede e il suo impegno verso il messaggio della Vergine Maria.",
+      "image": "/images/blessed_melanie_calvat.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Melanie_Calvat"
+    },
+    {
+      "name": "Nicasio",
+      "feast_day": "14 dicembre",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Martirio per la fede e il dovere pastorale",
+      "summary": "San Nicasio fu arcivescovo di Reims nel V secolo ed è ricordato per la sua guida coraggiosa durante l'invasione dei Vandali. Esortò il suo gregge al pentimento e rimase saldo nella sua fede, sacrificando infine la vita mentre pregava per il suo popolo. Accanto a lui furono martirizzati anche il diacono Florenzo, il lettore Giocondo e sua sorella Eutropia, e i loro resti divennero un luogo di venerazione e di miracoli.",
+      "image": "/images/saint_nicasius_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicasius_of_Rheims"
+    }
+  ]
+}

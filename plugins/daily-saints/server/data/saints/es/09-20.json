@@ -1,0 +1,31 @@
+{
+  "date": "09-20",
+  "feast_day": "20 de septiembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maximin Giraud",
+      "feast_day": "20 de septiembre",
+      "era": "Siglo XIX",
+      "patronage": null,
+      "legacy": "Visionario de la aparición de La Salette",
+      "summary": "Maximin Giraud fue un joven pastor francés que, junto con Melania Calvat, presenció la aparición de la Virgen María en La Salette en 1846. La aparición transmitió un mensaje de arrepentimiento y advirtió de castigos inminentes si el pueblo no volvía a la fe. Giraud dedicó su vida a difundir el mensaje de La Salette y se mantuvo firme en su fe a pesar del escepticismo y las dificultades que enfrentó.",
+      "image": "/images/blessed_maximin_giraud.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maximin_Giraud"
+    },
+    {
+      "name": "Eustaquio",
+      "feast_day": "20 de septiembre",
+      "era": "Siglo II",
+      "patronage": [
+        "cazadores",
+        "contra la indecisión",
+        "familia"
+      ],
+      "legacy": "Un símbolo de fe y unidad familiar",
+      "summary": "San Eustaquio, originalmente llamado Plácido, fue un oficial romano que se convirtió al cristianismo tras una visión milagrosa que involucraba a un ciervo y una cruz. Soportó grandes pruebas, incluida la pérdida de su familia y sus bienes, permaneciendo firme en su fe. Finalmente, él y su familia fueron martirizados por negarse a sacrificar a los dioses paganos, y su historia inspiró a muchos a creer en Cristo.",
+      "image": "/images/saint_eustachius_and_his_family.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eustace"
+    }
+  ]
+}

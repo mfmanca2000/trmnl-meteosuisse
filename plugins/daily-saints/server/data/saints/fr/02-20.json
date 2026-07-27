@@ -1,0 +1,17 @@
+{
+  "date": "02-20",
+  "feast_day": "20 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eucher",
+      "feast_day": "20 février",
+      "era": "VIIIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur des droits de l'Église",
+      "summary": "Eucher fut évêque d'Orléans, connu pour son profond attachement à Dieu et sa vie vertueuse. Après avoir passé des années au monastère, il fut élu à contrecœur pour diriger le diocèse, où il devint un défenseur résolu des droits de l'Église face aux empiètements du pouvoir séculier. Son héritage se caractérise par son dévouement à la prière et à la contemplation, même face à l'adversité.",
+      "image": "/images/saint_eucherius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eucherius_of_Orl%C3%A9ans"
+    }
+  ]
+}

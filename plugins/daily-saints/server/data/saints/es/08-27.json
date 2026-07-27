@@ -1,0 +1,21 @@
+{
+  "date": "08-27",
+  "feast_day": "27 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "José de Calasanz",
+      "feast_day": "27 de agosto",
+      "era": "Siglo XVII",
+      "patronage": [
+        "maestros",
+        "estudiantes",
+        "pobres"
+      ],
+      "legacy": "Pionero de la educación gratuita para los pobres",
+      "summary": "José de Calasanz fue un sacerdote español, fundador de los Escolapios, una orden dedicada a la educación de los niños pobres. Fundó en Roma escuelas que ofrecían educación gratuita, combinando la instrucción religiosa con la enseñanza básica. A pesar de la oposición y las dificultades que enfrentó, permaneció fiel a su misión hasta su muerte en 1648.",
+      "image": "/images/saint_joseph_calasanctius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Calasanctius"
+    }
+  ]
+}

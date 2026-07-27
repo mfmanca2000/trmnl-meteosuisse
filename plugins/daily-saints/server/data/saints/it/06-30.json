@@ -1,0 +1,21 @@
+{
+  "date": "06-30",
+  "feast_day": "30 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paolo",
+      "feast_day": "30 giugno",
+      "era": "I secolo",
+      "patronage": [
+        "teologi",
+        "missionari",
+        "gentiluomini"
+      ],
+      "legacy": "Apostolo dei Gentili e teologo",
+      "summary": "Paolo, originariamente noto come Saulo di Tarso, fu una figura fondamentale del primo cristianesimo, noto per la sua conversione da persecutore dei cristiani ad apostolo di Cristo. Viaggiò molto, diffondendo il Vangelo e fondando chiese, ed è accreditato di aver scritto quattordici Epistole che costituiscono una parte significativa del Nuovo Testamento. I suoi insegnamenti e i suoi scritti hanno profondamente influenzato la dottrina e la spiritualità cristiane nel corso dei secoli.",
+      "image": "/images/the_commemoration_of_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_Tarsus"
+    }
+  ]
+}

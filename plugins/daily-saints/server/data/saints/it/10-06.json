@@ -1,0 +1,21 @@
+{
+  "date": "10-06",
+  "feast_day": "6 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bruno",
+      "feast_day": "6 ottobre",
+      "era": "Medievale",
+      "patronage": [
+        "monaci",
+        "studenti",
+        "l'Ordine certosino"
+      ],
+      "legacy": "Fondatore dell'Ordine certosino",
+      "summary": "San Bruno fu il fondatore dell'Ordine certosino, noto per il suo impegno verso una vita di contemplazione e solitudine. Nato a Colonia intorno al 1030, divenne canonico e si oppose alla corruzione della Chiesa prima di ritirarsi nella natura selvaggia con alcuni compagni per condurre una vita monastica. Morì in Calabria nel 1101, lasciando in eredità una profonda devozione spirituale e la fondazione di una comunità monastica unica nel suo genere.",
+      "image": "/images/saint_bruno.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+    }
+  ]
+}

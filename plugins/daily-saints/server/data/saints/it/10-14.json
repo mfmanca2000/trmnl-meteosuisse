@@ -1,0 +1,20 @@
+{
+  "date": "10-14",
+  "feast_day": "14 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Callisto I",
+      "feast_day": "14 ottobre",
+      "era": "III secolo",
+      "patronage": [
+        "cimiteri",
+        "martiri"
+      ],
+      "legacy": "Papa, martire e protettore dei fedeli",
+      "summary": "Callisto I fu un papa e martire dei primi anni del III secolo che svolse un ruolo importante nell'amministrazione della Chiesa e nella cura dei cimiteri cristiani di Roma. È noto per aver istituito il digiuno delle Quattro Tempora e per aver supervisionato la costruzione di chiese in un periodo di persecuzione. La sua guida portò a numerose conversioni, ma alla fine subì egli stesso il martirio, venendo ucciso per la sua fede.",
+      "image": "/images/saint_callistus_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Callistus_I"
+    }
+  ]
+}

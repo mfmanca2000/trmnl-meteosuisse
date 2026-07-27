@@ -1,0 +1,17 @@
+{
+  "date": "01-07",
+  "feast_day": "7 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Luciano",
+      "feast_day": "7 de enero",
+      "era": "Principios del siglo IV",
+      "patronage": null,
+      "legacy": "Defensor de las Escrituras y de la fe cristiana",
+      "summary": "San Luciano fue un sacerdote y mártir de Samosata, en Siria, conocido por su dedicación al estudio y la revisión de las Escrituras. Tradujo la Biblia hebrea al griego, lo que influyó enormemente en traducciones bíblicas posteriores, incluida la Vulgata de san Jerónimo. Luciano fue encarcelado y torturado por su fe durante la persecución de Maximino, muriendo finalmente como mártir mientras afirmaba su identidad cristiana.",
+      "image": "/images/saint_lucian_the_syrian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lucian_of_Samosata"
+    }
+  ]
+}

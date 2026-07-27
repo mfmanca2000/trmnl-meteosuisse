@@ -1,0 +1,34 @@
+{
+  "date": "11-28",
+  "feast_day": "28 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Caterina Labouré",
+      "feast_day": "28 novembre",
+      "era": "XIX secolo",
+      "patronage": [
+        "i malati",
+        "le medaglie",
+        "i miracoli"
+      ],
+      "legacy": "Visionaria della Medaglia Miracolosa",
+      "summary": "Caterina Labouré fu una religiosa e visionaria francese nota per le sue apparizioni della Vergine Maria. Nel 1830 ricevette una visione che portò alla creazione della Medaglia Miracolosa, divenuta da allora un simbolo di fede e devozione. La sua vita fu dedicata al servizio dei poveri e degli anziani, ed è ricordata per la sua profonda spiritualità e il suo impegno verso la sua comunità religiosa.",
+      "image": "/images/saint_catherine_laboure.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+    },
+    {
+      "name": "Giacomo della Marca",
+      "feast_day": "28 novembre",
+      "era": "XV secolo",
+      "patronage": [
+        "i malati",
+        "i predicatori"
+      ],
+      "legacy": "Un predicatore devoto e taumaturgo.",
+      "summary": "Giacomo della Marca fu un sacerdote francescano noto per la sua profonda spiritualità e il suo impegno nella preghiera. Dedicò la sua vita alla predicazione e compì numerosi miracoli, convertendo molti cuori a Dio in tutta Europa. Nonostante persecuzioni e malattie, rimase fermo nella sua fede fino alla sua morte nel 1476.",
+      "image": "/images/saint_james_of_the_march_of_ancona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_of_the_Marches"
+    }
+  ]
+}

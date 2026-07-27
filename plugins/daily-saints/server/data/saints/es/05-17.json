@@ -1,0 +1,20 @@
+{
+  "date": "05-17",
+  "feast_day": "17 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pascual Bailón",
+      "feast_day": "17 de mayo",
+      "era": "Siglo XVI",
+      "patronage": [
+        "congresos eucarísticos",
+        "cofradías"
+      ],
+      "legacy": "Devoción a la Eucaristía y humildad",
+      "summary": "San Pascual Bailón fue un hermano lego franciscano conocido por su profunda devoción al Santísimo Sacramento. Dedicó su vida a servir a Dios y a evangelizar a los demás, a pesar de ser iletrado y humilde en sus tareas. Canonizado en 1690, es reconocido como patrono de los congresos eucarísticos y las cofradías.",
+      "image": "/images/saint_paschal_baylon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paschal_Bayl%C3%B3n"
+    }
+  ]
+}

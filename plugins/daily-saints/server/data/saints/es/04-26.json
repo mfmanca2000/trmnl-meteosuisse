@@ -1,0 +1,31 @@
+{
+  "date": "04-26",
+  "feast_day": "26 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nuestra Señora del Buen Consejo",
+      "feast_day": "26 de abril",
+      "era": "Siglo XV",
+      "patronage": [
+        "consejeros",
+        "madres",
+        "enfermos mentales"
+      ],
+      "legacy": "Una fuente de consejo y milagros",
+      "summary": "Nuestra Señora del Buen Consejo es un título de la Santísima Virgen María asociado a una imagen milagrosa que apareció en Genazzano, Italia, en 1467. Se cree que la imagen fue transportada desde Albania, y ha sido fuente de numerosos milagros y gracias espirituales para los fieles. La devoción a Nuestra Señora del Buen Consejo ha sido reconocida por la Iglesia, y su fiesta se celebra con gran veneración.",
+      "image": "/images/our_lady_of_good_counsel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Good_Counsel"
+    },
+    {
+      "name": "Cleto y Marcelino",
+      "feast_day": "26 de abril",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Papas y Mártires",
+      "summary": "San Cleto fue el tercer obispo de Roma, sucediendo a san Lino, circunstancia que por sí sola encomia su eminente virtud entre los primeros discípulos de san Pedro en Occidente. Una iglesia y un hospital fundados por él, aunque arruinados y reconstruidos varias veces, sobrevivieron hasta el siglo XVIII, y el recuerdo de su caridad fue tan bien conservado por los romanos que los Cruciferos que entonces aún servían en su hospicio lo consideraban su fundador. San Cleto fue martirizado tras el pacífico reinado del emperador Tito, cuando Domiciano lo sucedió; la fecha fue el 26 de abril del año 89.",
+      "image": "/images/saint_clet.jpg",
+      "wikipedia": null
+    }
+  ]
+}

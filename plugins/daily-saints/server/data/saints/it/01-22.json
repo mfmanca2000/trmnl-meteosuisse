@@ -1,0 +1,21 @@
+{
+  "date": "01-22",
+  "feast_day": "22 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincenzo di Saragozza",
+      "feast_day": "22 gennaio",
+      "era": "IV secolo",
+      "patronage": [
+        "viticoltori",
+        "produttori di vino",
+        "Società di San Vincenzo de' Paoli"
+      ],
+      "legacy": "Martirio e fede incrollabile in Cristo",
+      "summary": "San Vincenzo di Saragozza fu un diacono e martire che servì nella Chiesa primitiva durante la persecuzione di Diocleziano. Era noto per la sua fede incrollabile e il suo coraggio di fronte a brutali torture, morendo infine per le sue convinzioni. Le sue reliquie sono conservate a Lisbona, ed è venerato come protettore dei fedeli.",
+      "image": "/images/saint_vincent_of_saragossa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_of_Saragossa"
+    }
+  ]
+}

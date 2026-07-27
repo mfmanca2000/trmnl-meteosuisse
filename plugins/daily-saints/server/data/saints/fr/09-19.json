@@ -1,0 +1,34 @@
+{
+  "date": "09-19",
+  "feast_day": "19 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Notre-Dame de La Salette",
+      "feast_day": "19 septembre",
+      "era": "XIXe siècle",
+      "patronage": [
+        "réconciliation",
+        "paix"
+      ],
+      "legacy": "Appel à la repentance et au renouveau de la foi",
+      "summary": "Notre-Dame de La Salette est un titre de la Bienheureuse Vierge Marie associé à son apparition à deux bergers en France en 1846. Lors de cette apparition, elle délivra un message d'avertissement et d'espérance, exhortant les fidèles à revenir à Dieu et à vivre selon ses enseignements. Cet événement a inspiré la dévotion et la fondation de communautés religieuses vouées à son message.",
+      "image": "/images/our_lady_of_la_salette.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette"
+    },
+    {
+      "name": "Janvier",
+      "feast_day": "19 septembre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "donneurs de sang",
+        "volcans",
+        "Naples"
+      ],
+      "legacy": "Sang miraculeux et foi inébranlable",
+      "summary": "Saint Janvier était un évêque de Bénévent et un martyr mort lors de la persécution des chrétiens sous l'empereur Dioclétien, vers l'an 305. Il est célèbre pour la liquéfaction miraculeuse de son sang, qui se produit chaque année le jour de sa fête et qui est censée protéger la ville de Naples des catastrophes. Ses reliques sont vénérées dans la cathédrale de Naples, où de nombreux miracles lui ont été attribués, conduisant à la conversion de milliers de personnes.",
+      "image": "/images/saint_januarius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Januarius"
+    }
+  ]
+}

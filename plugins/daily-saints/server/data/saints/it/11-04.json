@@ -1,0 +1,21 @@
+{
+  "date": "11-04",
+  "feast_day": "4 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Carlo Borromeo",
+      "feast_day": "4 novembre",
+      "era": "XVI secolo",
+      "patronage": [
+        "catechisti",
+        "guide spirituali",
+        "seminaristi"
+      ],
+      "legacy": "Campione della riforma della Chiesa e dell'istruzione",
+      "summary": "San Carlo Borromeo fu un influente arcivescovo di Milano durante la Controriforma, noto per il suo impegno nella riforma della Chiesa e nell'istruzione. Svolse un ruolo significativo nel Concilio di Trento e lavorò instancabilmente per attuarne i decreti, fondando numerose scuole e seminari. La sua dedizione al proprio gregge durante i tempi di peste e il suo sacrificio personale esemplificarono la sua profonda cura pastorale e santità.",
+      "image": "/images/saint_charles_borromeo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Borromeo"
+    }
+  ]
+}

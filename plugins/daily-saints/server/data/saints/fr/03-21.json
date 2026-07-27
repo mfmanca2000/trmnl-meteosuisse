@@ -1,0 +1,22 @@
+{
+  "date": "03-21",
+  "feast_day": "21 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Benoît",
+      "feast_day": "21 mars",
+      "era": "VIe siècle",
+      "patronage": [
+        "les moines",
+        "l'Europe",
+        "les étudiants",
+        "les agriculteurs"
+      ],
+      "legacy": "Père du monachisme occidental",
+      "summary": "Saint Benoît est connu comme le Père du monachisme occidental, ayant établi la Règle de saint Benoît, qui devint le fondement de la vie monastique dans l'Église d'Occident. Il s'enfuit dans le désert pour échapper à la décadence morale de Rome et vécut en ermite avant de fonder plusieurs monastères. Sa vie fut marquée par des miracles et un profond engagement envers la prière et la vie communautaire, influençant d'innombrables moines et le développement du monachisme en Europe.",
+      "image": "/images/saint_benedict.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_of_Nursia"
+    }
+  ]
+}

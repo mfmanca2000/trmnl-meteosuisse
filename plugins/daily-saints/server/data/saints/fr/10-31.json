@@ -1,0 +1,21 @@
+{
+  "date": "10-31",
+  "feast_day": "31 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Quentin",
+      "feast_day": "31 octobre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "brasseurs",
+        "plombiers",
+        "peintres"
+      ],
+      "legacy": "Martyre et miracles en Gaule",
+      "summary": "Saint Quentin était un martyr romain qui évangélisa la Gaule au IIIe siècle. Il était connu pour ses guérisons miraculeuses et sa foi inébranlable, ce qui entraîna finalement son martyre brutal sous le procurateur romain Rictiovare. Son héritage perdure en France, où de nombreuses églises et lieux lui sont dédiés, et il est vénéré comme protecteur des fidèles.",
+      "image": "/images/saint_quentin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Quentin"
+    }
+  ]
+}

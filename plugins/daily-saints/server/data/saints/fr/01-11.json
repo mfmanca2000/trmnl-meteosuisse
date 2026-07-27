@@ -1,0 +1,31 @@
+{
+  "date": "01-11",
+  "feast_day": "11 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Théodose",
+      "feast_day": "11 janvier",
+      "era": "Ve-VIe siècle",
+      "patronage": [
+        "moines",
+        "hôpitaux",
+        "malades"
+      ],
+      "legacy": "Un modèle de charité et d'humilité",
+      "summary": "Saint Théodose fut un abbé éminent et fondateur de communautés monastiques en Palestine aux Ve et VIe siècles. Connu pour sa profonde charité et son humilité, il fit construire un grand monastère et plusieurs hôpitaux, venant en aide aux pauvres et aux malades. Il s'opposa avec succès aux enseignements hérétiques et fut vénéré pour sa piété et son autorité parmi les communautés religieuses de son époque.",
+      "image": "/images/saint_theodosius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodosius_the_Cenobiarch"
+    },
+    {
+      "name": "Hygin",
+      "feast_day": "11 janvier",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi contre les premières hérésies",
+      "summary": "Hygin fut pape de 139 à 142 environ, à une époque de paix relative pour l'Église sous l'empereur Antonin le Pieux. Il dut faire face à des hérétiques comme Cerdon et Valentin, qu'il chercha à corriger avec sollicitude pastorale. Bien qu'il n'ait pas été officiellement martyrisé, il est reconnu comme martyr en raison des persécutions qu'il subit en tant que chef de l'Église primitive.",
+      "image": "/images/saint_hyginus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Hyginus"
+    }
+  ]
+}

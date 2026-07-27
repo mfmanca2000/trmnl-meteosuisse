@@ -1,0 +1,17 @@
+{
+  "date": "06-20",
+  "feast_day": "20 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Silvère",
+      "feast_day": "20 juin",
+      "era": "6e siècle",
+      "patronage": null,
+      "legacy": "Martyre pour l'intégrité de la foi",
+      "summary": "Silvère fut le pape et martyr qui exerça son ministère durant une période tumultueuse de l'histoire de l'Église. Élu pape en 536, il fit face à l'opposition de l'impératrice Théodora et fut finalement destitué par trahison. Il mourut en exil sur l'île de Palmaria, endurant de grandes souffrances pour sa fidélité à la foi catholique.",
+      "image": "/images/saint_silverius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Silverius"
+    }
+  ]
+}

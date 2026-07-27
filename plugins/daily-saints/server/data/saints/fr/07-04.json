@@ -1,0 +1,17 @@
+{
+  "date": "07-04",
+  "feast_day": "4 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Berthe",
+      "feast_day": "4 juillet",
+      "era": "VIIe siècle",
+      "patronage": null,
+      "legacy": "Fondatrice de monastères et mère sainte",
+      "summary": "Sainte Berthe fut une veuve et abbesse française née en 644. Après la mort de son époux, elle fonda un monastère à Blangy et se fit connaître pour sa piété et son dévouement à la foi chrétienne. Elle est restée dans les mémoires pour son rôle dans la fondation de communautés religieuses et pour l'héritage de sainteté transmis à ses filles, elles aussi canonisées.",
+      "image": "/images/saint_bertha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bertha_of_Blangy"
+    }
+  ]
+}

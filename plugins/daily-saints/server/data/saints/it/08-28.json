@@ -1,0 +1,21 @@
+{
+  "date": "08-28",
+  "feast_day": "28 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Agostino",
+      "feast_day": "28 agosto",
+      "era": "Chiesa primitiva",
+      "patronage": [
+        "teologi",
+        "tipografi",
+        "birrai"
+      ],
+      "legacy": "Padre del cristianesimo e della filosofia occidentale",
+      "summary": "Sant'Agostino fu un eminente teologo e filosofo che ebbe un ruolo determinante nello sviluppo del cristianesimo occidentale. Nato nel 354 nell'Africa del Nord, condusse una giovinezza turbolenta prima di sperimentare una profonda conversione al cristianesimo all'età di 32 anni. Divenuto vescovo di Ippona, fu una figura chiave nella lotta contro l'eresia e lasciò un ricco patrimonio di scritti che continua a influenzare il pensiero cristiano ancora oggi.",
+      "image": "/images/saint_augustine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+    }
+  ]
+}

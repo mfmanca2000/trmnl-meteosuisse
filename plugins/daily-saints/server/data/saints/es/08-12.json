@@ -1,0 +1,21 @@
+{
+  "date": "08-12",
+  "feast_day": "12 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Clara de Asís",
+      "feast_day": "12 de agosto",
+      "era": "Siglo XIII",
+      "patronage": [
+        "televisión",
+        "enfermedades de los ojos",
+        "orfebres"
+      ],
+      "legacy": "Pionera de la vida monástica femenina",
+      "summary": "Clara de Asís fue una santa italiana del siglo XIII, fundadora de la Orden de las Damas Pobres, conocida hoy como las Clarisas. Inspirada por san Francisco, dedicó su vida a la pobreza y a la oración, estableciendo una comunidad monástica que ponía énfasis en la sencillez y la devoción a Dios. A pesar de su frágil salud, es recordada por su milagrosa defensa de su convento frente a un ejército invasor gracias a su fe y al Santísimo Sacramento.",
+      "image": "/images/saint_clare_of_assisi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clare_of_Assisi"
+    }
+  ]
+}

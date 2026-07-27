@@ -1,0 +1,44 @@
+{
+  "date": "02-27",
+  "feast_day": "27 febbraio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Gabriele dell'Addolorata",
+      "feast_day": "27 febbraio",
+      "era": "XIX secolo",
+      "patronage": [
+        "giovani",
+        "giovani religiosi"
+      ],
+      "legacy": "Un modello di devozione e pietà giovanile.",
+      "summary": "San Gabriele dell'Addolorata fu un sacerdote passionista noto per la sua profonda devozione alla Vergine Maria e alla Passione di Cristo. Visse una vita di contemplazione e rinuncia a sé stesso, dedicandosi alla preghiera e all'unione con Dio. Nonostante la sua breve vita, fu canonizzato per la sua eroica santità ed è riconosciuto come patrono dei giovani e dei giovani religiosi.",
+      "image": "/images/saint_gabriel_of_our_lady_of_sorrows.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows"
+    },
+    {
+      "name": "Leandro di Siviglia",
+      "feast_day": "27 febbraio",
+      "era": "VI secolo",
+      "patronage": [
+        "Spagna",
+        "i Visigoti",
+        "conversioni"
+      ],
+      "legacy": "Campione della fede e dell'unità in Spagna",
+      "summary": "San Leandro fu un influente arcivescovo di Siviglia nel VI secolo, noto per il suo ruolo nella conversione dei Visigoti dall'arianesimo al cattolicesimo. Fu determinante nella conversione di suo nipote, sant'Ermenegildo, e in seguito aiutò il re Recaredo ad abbracciare la fede cattolica, portando all'unificazione di Suebi e Visigoti sotto il cattolicesimo. Il suo lascito comprende l'introduzione del Credo niceno nella liturgia spagnola, che alla fine si diffuse in tutta la Chiesa.",
+      "image": "/images/saint_leander.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leander_of_Seville"
+    },
+    {
+      "name": "Maria di Gesù Deluil-Martiny",
+      "feast_day": "27 febbraio",
+      "era": "XIX secolo",
+      "patronage": null,
+      "legacy": "Fondatrice delle Figlie del Cuore di Gesù",
+      "summary": "Maria di Gesù Deluil-Martiny fu una suora francese e fondatrice delle Figlie del Cuore di Gesù, una congregazione religiosa dedicata all'adorazione del Sacro Cuore di Gesù. Nata a Marsiglia nel 1841, mostrò fin da giovane una notevole profondità spirituale e capacità di guida, che la portarono a fondare la sua congregazione nel 1873. La sua vita fu segnata da prove personali e da un profondo impegno nella preghiera e nel sacrificio per la gloria di Dio e la santificazione dei sacerdoti.",
+      "image": "/images/saint_mary_of_jesus_deluil-martiny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_Deluil-Martiny"
+    }
+  ]
+}

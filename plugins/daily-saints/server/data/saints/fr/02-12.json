@@ -1,0 +1,34 @@
+{
+  "date": "02-12",
+  "feast_day": "12 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Les Sept Saints Fondateurs des Servites",
+      "feast_day": "12 février",
+      "era": "Médiéval",
+      "patronage": [
+        "serviteurs de Marie",
+        "retraites spirituelles"
+      ],
+      "legacy": "Fondateurs de l'Ordre des Servites",
+      "summary": "Les Sept Saints Fondateurs des Servites étaient un groupe d'hommes de Florence qui consacrèrent leur vie à Dieu au milieu du XIIIe siècle. Ils fondèrent l'Ordre des Serviteurs de Marie après avoir reçu une vision de la Bienheureuse Vierge Marie, les encourageant à mener une vie de prière et de pénitence. Leur engagement conduisit à la fondation d'un ordre religieux qui connut une croissance considérable à travers l'Europe et au-delà.",
+      "image": "/images/the_seven_holy_servite_founders.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Servites"
+    },
+    {
+      "name": "Benoît d'Aniane",
+      "feast_day": "12 février",
+      "era": "VIIIe siècle",
+      "patronage": [
+        "moines",
+        "spiritualité",
+        "vie monastique"
+      ],
+      "legacy": "Restaurateur de la discipline et de l'unité monastiques",
+      "summary": "Benoît d'Aniane fut un éminent abbé et réformateur de la vie monastique au VIIIe siècle. Il est connu pour avoir restauré la discipline monastique et établi une règle unifiée pour les moines en Occident, fondée sur la Règle de saint Benoît. Ses efforts influencèrent considérablement le développement du monachisme en France et en Allemagne, suscitant un renouveau de la ferveur spirituelle chez les moines.",
+      "image": "/images/saint_benedict_of_anian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_of_Aniane"
+    }
+  ]
+}

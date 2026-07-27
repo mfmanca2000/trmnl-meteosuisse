@@ -1,0 +1,27 @@
+{
+  "date": "04-18",
+  "feast_day": "18 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria dell'Incarnazione",
+      "feast_day": "18 aprile",
+      "era": "XVII secolo",
+      "patronage": null,
+      "legacy": "Carmelitana",
+      "summary": "La beata Maria dell'Incarnazione nacque a Parigi nel febbraio del 1565; entrambi i suoi genitori appartenevano alle più antiche famiglie di quella grande città. Prima della sua nascita, altri figli erano venuti alla luce, ma tutti erano morti in tenera età. Mentre attendeva questa bambina, sua madre la votò alla Beata Vergine e a san Claudio, promettendo di vestirla di bianco fino all'età di sette anni e di offrirla in una chiesa della Beata Vergine.",
+      "image": "/images/blessed_mary_of_the_incarnation_carmelite.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Apollonio",
+      "feast_day": "18 aprile",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Martire",
+      "summary": "L'imperatore romano Marco Aurelio aveva perseguitato i cristiani, ma suo figlio Commodo, che nel 180 gli succedette sul trono, fu loro favorevole, per riguardo verso la sua imperatrice Marcia, ammiratrice della Fede. Durante questa calma il numero dei fedeli aumentò notevolmente, e molte persone di primo rango, tra cui Apollonio, un senatore romano, si arruolarono sotto il vessillo della croce. Egli era già molto versato sia in filosofia che nelle Sacre Scritture, come apprendiamo da san Girolamo, che aveva letto e ammirato il suo discorso nel Senato di Roma in favore della religione cristiana.",
+      "image": "/images/saint_apollonius.jpg",
+      "wikipedia": null
+    }
+  ]
+}

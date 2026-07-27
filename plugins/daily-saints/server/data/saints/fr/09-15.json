@@ -1,0 +1,36 @@
+{
+  "date": "09-15",
+  "feast_day": "15 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "15 septembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "mères",
+        "douleurs",
+        "deuil",
+        "famille"
+      ],
+      "legacy": "Mère de Dieu et modèle de foi",
+      "summary": "Marie est vénérée comme la mère de Jésus-Christ et occupe un rôle central dans le christianisme. Elle est souvent représentée comme une figure de compassion et de douleur, en particulier en lien avec la Passion du Christ. Sa vie illustre une foi profonde et un dévouement maternel, faisant d'elle un modèle pour les croyants.",
+      "image": "/images/the_seven_sorrows_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Catherine de Gênes",
+      "feast_day": "15 septembre",
+      "era": "Renaissance",
+      "patronage": [
+        "malades",
+        "personnel hospitalier",
+        "mourants"
+      ],
+      "legacy": "Dévotion aux âmes souffrantes du purgatoire",
+      "summary": "Catherine de Gênes était une noble dame qui consacra sa vie à Dieu après avoir enduré un mariage difficile. Elle est connue pour sa profonde spiritualité, en particulier sa dévotion envers les âmes du purgatoire, et sa pénitence rigoureuse, qui incluait de vivre uniquement de la sainte Communion pendant de nombreuses années. Catherine servit également les malades et les pauvres de sa communauté, dirigeant finalement un grand hôpital à Gênes.",
+      "image": "/images/saint_catherine_of_genoa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Genoa"
+    }
+  ]
+}

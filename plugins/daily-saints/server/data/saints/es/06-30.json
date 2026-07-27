@@ -1,0 +1,21 @@
+{
+  "date": "06-30",
+  "feast_day": "30 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pablo",
+      "feast_day": "30 de junio",
+      "era": "Siglo I",
+      "patronage": [
+        "teólogos",
+        "misioneros",
+        "caballeros"
+      ],
+      "legacy": "Apóstol de los gentiles y teólogo",
+      "summary": "Pablo, conocido originalmente como Saulo de Tarso, fue una figura fundamental del cristianismo primitivo, conocido por su conversión de perseguidor de cristianos a apóstol de Cristo. Viajó extensamente, difundiendo el Evangelio y estableciendo iglesias, y se le atribuye la redacción de catorce Epístolas que forman una parte significativa del Nuevo Testamento. Sus enseñanzas y escritos han influido profundamente en la doctrina y la espiritualidad cristianas a lo largo de los siglos.",
+      "image": "/images/the_commemoration_of_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_Tarsus"
+    }
+  ]
+}

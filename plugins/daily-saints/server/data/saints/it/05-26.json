@@ -1,0 +1,21 @@
+{
+  "date": "05-26",
+  "feast_day": "26 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Filippo Neri",
+      "feast_day": "26 maggio",
+      "era": "XVI secolo",
+      "patronage": [
+        "giovani",
+        "gioia",
+        "clero"
+      ],
+      "legacy": "Apostolo di Roma e patrono della gioventù",
+      "summary": "Filippo Neri fu un sacerdote del XVI secolo, noto per il suo spirito gioioso e la sua dedizione ai giovani di Roma. Fondò l'Oratorio, una società di sacerdoti dedita all'educazione spirituale e alla cura pastorale. Rinomato per la sua pietà e per episodi di bilocazione, divenne una figura amata nella Chiesa cattolica, sottolineando l'importanza di servire Dio con letizia.",
+      "image": "/images/saint_philip_neri.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_Neri"
+    }
+  ]
+}

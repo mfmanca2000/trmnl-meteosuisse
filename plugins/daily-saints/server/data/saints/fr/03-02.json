@@ -1,0 +1,27 @@
+{
+  "date": "03-02",
+  "feast_day": "2 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Henri Suzo",
+      "feast_day": "2 mars",
+      "era": "XIVe siècle",
+      "patronage": null,
+      "legacy": "Mystique et écrivain d'une profonde spiritualité",
+      "summary": "Henri Suso était un frère dominicain allemand et mystique, connu pour ses écrits spirituels profonds et sa dévotion à la Passion du Christ. Il joua un rôle important dans le développement de la mystique allemande au XIVe siècle. Ses œuvres, en particulier « L'Exemplaire », soulignent l'importance de l'amour et de l'union avec Dieu.",
+      "image": "/images/blessed_henry_suzo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_Suso"
+    },
+    {
+      "name": "Simplice",
+      "feast_day": "2 mars",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "A guidé l'Église à travers des temps troublés",
+      "summary": "Simplice fut pape de 468 à 483, durant une période tumultueuse marquée par la chute de l'Empire romain d'Occident. Il œuvra sans relâche pour réconforter les affligés et répandre la foi catholique parmi les tribus barbares. Son leadership aida à guider l'Église à travers des défis considérables, notamment des mouvements hérétiques et une instabilité politique.",
+      "image": "/images/saint_simplicius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Simplicius"
+    }
+  ]
+}

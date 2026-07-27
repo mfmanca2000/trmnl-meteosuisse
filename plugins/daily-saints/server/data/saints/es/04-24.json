@@ -1,0 +1,35 @@
+{
+  "date": "04-24",
+  "feast_day": "24 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "María Eufrasia Pelletier",
+      "feast_day": "24 de abril",
+      "era": "Siglo XIX",
+      "patronage": [
+        "mujeres",
+        "niñas",
+        "trabajadores sociales"
+      ],
+      "legacy": "Defensora de las mujeres y de la justicia social",
+      "summary": "María Eufrasia Pelletier fue una religiosa francesa y fundadora de la Congregación de Nuestra Señora de la Caridad del Buen Pastor. Dedicó su vida al cuidado y la rehabilitación de mujeres y niñas, estableciendo numerosos hogares para quienes lo necesitaban. Canonizada en 1940, se la recuerda por su profunda compasión y su compromiso con la justicia social.",
+      "image": "/images/saint_mary_euphrasia_pelletier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Euphrasia_Pelletier"
+    },
+    {
+      "name": "Fidel de Sigmaringen",
+      "feast_day": "24 de abril",
+      "era": "Siglo XVII",
+      "patronage": [
+        "abogados",
+        "enfermos",
+        "mártires"
+      ],
+      "legacy": "Mártir por la fe católica y por los pobres",
+      "summary": "Fidel de Sigmaringen fue un fraile capuchino y mártir conocido por su dedicación a los pobres y su ferviente predicación contra el calvinismo. Nació en 1577 en Sigmaringen, Alemania, y tras una exitosa carrera jurídica, abrazó una vida de austeridad y servicio. Fidel fue martirizado en Suiza mientras defendía la fe católica, convirtiéndose en el primer mártir de la Congregación de Propaganda Fide.",
+      "image": "/images/saint_fidelis_of_sigmaringen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fidelis_of_Sigmaringen"
+    }
+  ]
+}

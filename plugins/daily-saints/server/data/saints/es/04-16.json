@@ -1,0 +1,30 @@
+{
+  "date": "04-16",
+  "feast_day": "16 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Benito José Labre",
+      "feast_day": "16 de abril",
+      "era": "Siglo XVIII",
+      "patronage": [
+        "personas sin hogar",
+        "peregrinos"
+      ],
+      "legacy": "Un modelo de humildad y peregrinación",
+      "summary": "Benito José Labre fue un mendigo y peregrino francés conocido por su profunda piedad y devoción al Santísimo Sacramento. Tras intentos fallidos de ingresar en varias órdenes religiosas, abrazó una vida de peregrinación, visitando numerosos santuarios cristianos por toda Europa mientras vivía en extrema pobreza. Se le recuerda por su humildad, su dedicación a la oración y su servicio a los pobres hasta su muerte en 1783.",
+      "image": "/images/saint_benedict_joseph_labre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Joseph_Labre"
+    },
+    {
+      "name": "Engracia y sus compañeros",
+      "feast_day": "16 de abril",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Mártires",
+      "summary": "La Iglesia celebra en este día el triunfo de santa Engracia, virgen y mártir, natural de Portugal. Su padre la había prometido en matrimonio a un hombre de calidad en el Rosellón, en la Galia, y para acompañarla hasta allí, envió como escolta para la boda a su tío Lupercio y un brillante séquito de otros dieciséis nobles, además de una sirvienta llamada Julia. Cuando llegaron a Zaragoza, se enteró de la horrible masacre de cristianos que se estaba llevando a cabo en ese momento, y de los tormentos que sufrían a manos de Daciano, quien gobernaba aquella región en nombre de los emperadores Diocleciano y Maximiano.",
+      "image": "/images/saint_engratia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

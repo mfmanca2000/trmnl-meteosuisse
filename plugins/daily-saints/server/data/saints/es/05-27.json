@@ -1,0 +1,21 @@
+{
+  "date": "05-27",
+  "feast_day": "27 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Beda el Venerable",
+      "feast_day": "27 de mayo",
+      "era": "Siglo VIII",
+      "patronage": [
+        "eruditos",
+        "historiadores",
+        "estudiantes"
+      ],
+      "legacy": "Padre de la historia y la erudición inglesas",
+      "summary": "Beda, conocido como Beda el Venerable, fue un monje e historiador inglés que vivió durante los siglos VII y VIII. Es conocido sobre todo por su obra 'Historia eclesiástica del pueblo inglés', fuente clave para la historia de la Inglaterra primitiva. Beda fue un erudito prolífico que contribuyó a diversos campos del saber, y es venerado como doctor de la Iglesia.",
+      "image": "/images/saint_bede_the_venerable.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bede"
+    }
+  ]
+}

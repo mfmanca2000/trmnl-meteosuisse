@@ -1,0 +1,21 @@
+{
+  "date": "01-28",
+  "feast_day": "28 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pedro Nolasco",
+      "feast_day": "28 de enero",
+      "era": "Siglo XIII",
+      "patronage": [
+        "cautivos",
+        "rescate",
+        "prisioneros"
+      ],
+      "legacy": "Defensor de los cautivos cristianos y de la libertad",
+      "summary": "Pedro Nolasco fue, en el siglo XIII, el fundador de la Orden de Nuestra Señora de la Merced, dedicada a la redención de los cautivos cristianos en manos de los moros. Dedicó su vida y su fortuna a rescatar a cristianos esclavizados, negociando a menudo con sus captores e incluso ofreciéndose a sí mismo como rescate. Canonizado en 1628, su legado continúa a través de la labor constante de su Orden en la predicación y los esfuerzos humanitarios.",
+      "image": "/images/saint_peter_nolasco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nolasco"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "06-01",
+  "feast_day": "1 de junio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ángela Merici",
+      "feast_day": "1 de junio",
+      "era": "Renacimiento",
+      "patronage": [
+        "educación",
+        "jóvenes",
+        "huérfanos"
+      ],
+      "legacy": "Pionera de la educación femenina y la espiritualidad",
+      "summary": "Ángela Merici fue una virgen y fundadora italiana nacida en 1474, conocida por su profunda piedad y su compromiso con la educación de las jóvenes en la fe cristiana. Tras experimentar una visión, fundó la Orden de las Ursulinas en 1535, dedicada a la educación y formación espiritual de las mujeres. Fue canonizada en 1807 y es recordada por sus contribuciones a la Iglesia y por promover el empoderamiento de la mujer a través de la educación.",
+      "image": "/images/saint_angela_merici.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Angela_Merici"
+    },
+    {
+      "name": "Pánfilo",
+      "feast_day": "1 de junio",
+      "era": "Principios del siglo IV",
+      "patronage": null,
+      "legacy": "Erudición y martirio en la fe",
+      "summary": "San Pánfilo fue un erudito y mártir de Berito, conocido por su dedicación al estudio de las Sagradas Escrituras y por establecer una escuela de literatura sagrada en Cesarea. Reunió una vasta biblioteca para la Iglesia y era célebre por su humildad y su vida austera. Pánfilo fue arrestado durante la persecución de los cristianos bajo Maximino Daya y finalmente martirizado por su fe, dejando un legado de firmeza y devoción.",
+      "image": "/images/saint_pamphilus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pamphilus_of_Caesarea"
+    }
+  ]
+}

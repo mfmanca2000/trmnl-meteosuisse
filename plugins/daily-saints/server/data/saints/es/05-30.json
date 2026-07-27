@@ -1,0 +1,33 @@
+{
+  "date": "05-30",
+  "feast_day": "30 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juana de Arco",
+      "feast_day": "30 de mayo",
+      "era": "Siglo XV",
+      "patronage": [
+        "Francia",
+        "soldados",
+        "mártires",
+        "mujeres",
+        "cautivos"
+      ],
+      "legacy": "Símbolo de fe y orgullo nacional",
+      "summary": "Juana de Arco, joven campesina nacida en Francia, desempeñó un papel crucial en la Guerra de los Cien Años al conducir a las tropas francesas hacia varias victorias importantes. Capturada por los ingleses, fue juzgada por herejía y quemada en la hoguera en 1431, convirtiéndose en mártir. Canonizada en 1920, es celebrada como heroína nacional de Francia y símbolo de coraje y fe.",
+      "image": "/images/saint_joan_of_arc.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+    },
+    {
+      "name": "Félix I",
+      "feast_day": "30 de mayo",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Defensor de la fe contra la herejía",
+      "summary": "Félix I fue un papa romano y mártir, que ejerció su cargo desde el 269 hasta el 274 d.C. Es conocido por sus cartas sobre la justicia eclesiástica y por refutar diversas herejías, incluidas las de Nestorio y Eutiques. Félix I fue martirizado durante una persecución bajo el emperador Aureliano, y su legado incluye la práctica de encerrar las reliquias de los santos en los altares.",
+      "image": "/images/saint_felix_i_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Felix_I"
+    }
+  ]
+}

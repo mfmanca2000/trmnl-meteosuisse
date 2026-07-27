@@ -1,0 +1,22 @@
+{
+  "date": "11-25",
+  "feast_day": "25 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catherine d'Alexandrie",
+      "feast_day": "25 novembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "étudiants",
+        "jeunes filles",
+        "philosophes",
+        "apologistes"
+      ],
+      "legacy": "Patronne des étudiants et des jeunes filles",
+      "summary": "Catherine d'Alexandrie était une noble vierge et martyre du quatrième siècle, célébrée pour son intelligence et son éloquence dans la défense de la foi chrétienne face aux philosophes païens. Elle débattit fameusement avec l'empereur Maximin II et convertit nombre de ses partisans avant d'endurer la torture et l'exécution pour sa constance. Son héritage perdure comme symbole de foi et de courage, et elle est vénérée comme la patronne des étudiants et des jeunes filles.",
+      "image": "/images/saint_catherine_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+    }
+  ]
+}

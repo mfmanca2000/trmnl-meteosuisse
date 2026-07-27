@@ -1,0 +1,35 @@
+{
+  "date": "04-24",
+  "feast_day": "24 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria Eufrasia Pelletier",
+      "feast_day": "24 aprile",
+      "era": "XIX secolo",
+      "patronage": [
+        "donne",
+        "ragazze",
+        "assistenti sociali"
+      ],
+      "legacy": "Paladina delle donne e della giustizia sociale",
+      "summary": "Maria Eufrasia Pelletier fu una religiosa francese e fondatrice della Congregazione di Nostra Signora della Carità del Buon Pastore. Dedicò la sua vita alla cura e alla riabilitazione di donne e ragazze, istituendo numerose case per chi era nel bisogno. Canonizzata nel 1940, è ricordata per la sua profonda compassione e il suo impegno per la giustizia sociale.",
+      "image": "/images/saint_mary_euphrasia_pelletier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Euphrasia_Pelletier"
+    },
+    {
+      "name": "Fedele da Sigmaringen",
+      "feast_day": "24 aprile",
+      "era": "XVII secolo",
+      "patronage": [
+        "avvocati",
+        "malati",
+        "martiri"
+      ],
+      "legacy": "Martire per la fede cattolica e per i poveri",
+      "summary": "Fedele da Sigmaringen fu un frate cappuccino e martire noto per la sua dedizione ai poveri e la sua fervente predicazione contro il calvinismo. Nacque nel 1577 a Sigmaringen, in Germania, e dopo una brillante carriera giuridica, abbracciò una vita di austerità e servizio. Fedele fu martirizzato in Svizzera mentre difendeva la fede cattolica, diventando il primo martire della Congregazione di Propaganda Fide.",
+      "image": "/images/saint_fidelis_of_sigmaringen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fidelis_of_Sigmaringen"
+    }
+  ]
+}

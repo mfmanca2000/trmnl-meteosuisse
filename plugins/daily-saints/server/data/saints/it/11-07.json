@@ -1,0 +1,47 @@
+{
+  "date": "11-07",
+  "feast_day": "7 novembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Willibrordo",
+      "feast_day": "7 novembre",
+      "era": "VII secolo",
+      "patronage": [
+        "la Frisia",
+        "missionari",
+        "educatori"
+      ],
+      "legacy": "Apostolo dei Frisoni ed educatore",
+      "summary": "San Willibrordo fu un missionario inglese divenuto il primo arcivescovo di Utrecht, che svolse un ruolo cruciale nella diffusione del cristianesimo tra i Frisoni nei Paesi Bassi. Fondò diverse chiese e scuole, ed era noto per i suoi miracoli e i suoi doni profetici. La sua dedizione alla fede e i suoi instancabili sforzi di evangelizzazione gli valsero un posto venerato nella storia della Chiesa.",
+      "image": "/images/saint_willibrord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Willibrord"
+    },
+    {
+      "name": "Giacinto Castañeda",
+      "feast_day": "7 novembre",
+      "era": "XVIII secolo",
+      "patronage": [
+        "missionari",
+        "martiri"
+      ],
+      "legacy": "Un martire della fede in Asia.",
+      "summary": "Giacinto Castañeda fu un sacerdote e missionario domenicano nato in Spagna che dedicò la sua vita alla diffusione del cristianesimo in Asia. Affrontò una persecuzione severa durante le sue missioni in Cina e Vietnam, venendo infine martirizzato per la sua fede. Fu canonizzato nel 1988, in riconoscimento del suo incrollabile impegno verso la sua missione e dei sacrifici che fece per il Vangelo.",
+      "image": "/images/saint_hyacinth_castaneda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hyacinth_Casteneda"
+    },
+    {
+      "name": "Vincenzo Liem de la Paz",
+      "feast_day": "7 novembre",
+      "era": "XVIII secolo",
+      "patronage": [
+        "Vietnam",
+        "martiri"
+      ],
+      "legacy": "Martirio per la fede in Vietnam",
+      "summary": "Vincenzo Liem de la Paz fu un sacerdote domenicano e martire originario del Vietnam, nato nel 1732. Dopo aver completato i suoi studi nelle Filippine, tornò in Vietnam per predicare la fede cattolica. Fu arrestato e giustiziato per le sue convinzioni il 7 novembre 1773, ed è venerato come santo nella Chiesa cattolica.",
+      "image": "/images/saint_vincent_liem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Liem"
+    }
+  ]
+}

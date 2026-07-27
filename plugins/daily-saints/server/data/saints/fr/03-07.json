@@ -1,0 +1,21 @@
+{
+  "date": "03-07",
+  "feast_day": "7 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Thomas d'Aquin",
+      "feast_day": "7 mars",
+      "era": "Époque médiévale",
+      "patronage": [
+        "les étudiants",
+        "les universités",
+        "les philosophes"
+      ],
+      "legacy": "Père de la scolastique et Docteur angélique",
+      "summary": "Thomas d'Aquin était un frère dominicain et théologien du XIIIe siècle, réputé pour ses œuvres influentes en philosophie et en théologie. Il est surtout connu pour sa synthèse de la philosophie aristotélicienne avec la doctrine chrétienne, notamment dans son ouvrage majeur, la « Somme théologique ». Reconnu comme Docteur de l'Église, il est célébré pour ses réflexions profondes sur la foi et la raison, et ses écrits continuent de façonner la pensée catholique aujourd'hui.",
+      "image": "/images/saint_thomas_aquinas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+    }
+  ]
+}

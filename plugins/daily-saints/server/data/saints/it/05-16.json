@@ -1,0 +1,46 @@
+{
+  "date": "05-16",
+  "feast_day": "16 maggio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Simone Stock",
+      "feast_day": "16 maggio",
+      "era": "Medievale",
+      "patronage": [
+        "carmelitani",
+        "malati di cancro al seno",
+        "coloro che cercano una buona morte"
+      ],
+      "legacy": "Promotore della crescita dell'Ordine carmelitano",
+      "summary": "Simone Stock fu un frate carmelitano inglese e Priore generale dell'Ordine carmelitano nel XIII secolo. È noto soprattutto per la sua profonda devozione alla Vergine Maria e per aver ricevuto lo Scapolare bruno, simbolo importante dell'Ordine carmelitano. La sua guida contribuì a far prosperare l'Ordine in Europa, in particolare durante i periodi di persecuzione e conflitto.",
+      "image": "/images/saint_simon_stock.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simon_Stock"
+    },
+    {
+      "name": "Brendano",
+      "feast_day": "16 maggio",
+      "era": "VI secolo",
+      "patronage": null,
+      "legacy": "Abate di Clonfert",
+      "summary": "San Brendano nacque nella contea di Kerry, in Irlanda, nell'anno 484. La sua educazione fu affidata a santa Ita, chiamata la Brigida del Munster, e in seguito a sant'Erc, che lo ordinò sacerdote nel 512. Tra il 512 e il 530 costruì celle monastiche ad Ardfert e Shanakeel, ai piedi della collina di Brandon.",
+      "image": "/images/saint_brendan_the_navigator.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Giovanni Nepomuceno",
+      "feast_day": "16 maggio",
+      "era": "XIV secolo",
+      "patronage": [
+        "confessori",
+        "ponti",
+        "acqua",
+        "silenzio"
+      ],
+      "legacy": "Martire del silenzio e della fedeltà a Dio",
+      "summary": "Giovanni Nepomuceno fu un sacerdote e martire nato in Boemia nel 1330. È noto per il suo incrollabile silenzio di fronte alla tortura e alla morte, rifiutandosi di tradire le confessioni dell'imperatrice. Dopo essere stato gettato nel fiume Moldava, il suo corpo fu ritrovato incorrotto, ed egli divenne un simbolo di fedeltà e della santità del sacramento della confessione.",
+      "image": "/images/saint_john_nepomucene.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Nepomucene"
+    }
+  ]
+}

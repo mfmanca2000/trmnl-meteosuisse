@@ -1,0 +1,31 @@
+{
+  "date": "05-21",
+  "feast_day": "21 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Andrea Bobola",
+      "feast_day": "21 maggio",
+      "era": "XVII secolo",
+      "patronage": [
+        "Polonia",
+        "gesuiti",
+        "vittime della persecuzione religiosa"
+      ],
+      "legacy": "Martirio per la fede e l'evangelizzazione",
+      "summary": "Andrea Bobola fu un sacerdote gesuita polacco e martire, noto per la sua devota opera missionaria in Lituania durante un periodo di grandi sconvolgimenti. Subì una brutale persecuzione a causa della sua fede, che portò infine al suo martirio nel 1657. La sua eredità è celebrata per il suo incrollabile impegno nell'evangelizzazione e per la sua compassione verso i sofferenti.",
+      "image": "/images/saint_andrew_bobola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bobola"
+    },
+    {
+      "name": "Ospizio",
+      "feast_day": "21 maggio",
+      "era": "VI secolo",
+      "patronage": null,
+      "legacy": "Un modello di ascesi e profezia",
+      "summary": "Sant'Ospizio fu un recluso che visse in una torre presso Nizza, in Provenza, nel VI secolo. Praticava un'ascesi estrema, sopravvivendo con pochissimo cibo e dedicando la sua vita alla preghiera e alla profezia. Noto per i suoi doni miracolosi, predisse l'invasione dei Longobardi e convertì un soldato che aveva tentato di fargli del male.",
+      "image": "/images/saint_hospitius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hospitius"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "02-16",
+  "feast_day": "16 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Onésime",
+      "feast_day": "16 février",
+      "era": "Ier siècle",
+      "patronage": [
+        "esclaves",
+        "prisonniers",
+        "évêques"
+      ],
+      "legacy": "D'esclave à évêque et martyr",
+      "summary": "Onésime était un esclave phrygien qui s'enfuit de chez son maître, Philémon, et se réfugia auprès de saint Paul à Rome. Après avoir été baptisé par Paul, il retourna auprès de Philémon, qui lui accorda la liberté et lui permit de servir comme évêque. Onésime devint plus tard martyr pour sa foi, endurant de graves tortures avant sa mort vers l'an 95 sous l'empereur Domitien.",
+      "image": "/images/saint_onesimus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Onesimus"
+    },
+    {
+      "name": "Jean de Britto",
+      "feast_day": "16 février",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "missionnaires",
+        "Inde"
+      ],
+      "legacy": "Un martyr et apôtre de l'Inde.",
+      "summary": "Jean de Britto était un missionnaire jésuite portugais qui consacra sa vie à la diffusion du christianisme en Inde, en particulier dans la région du Madura. Malgré une opposition sévère, notamment la torture et le martyre final, il resta fidèle à sa mission de conversion et d'aide à la population locale. Il fut canonisé en 1947, reconnu pour sa foi inébranlable et son engagement au service des autres.",
+      "image": "/images/saint_john_de_britto.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_de_Britto"
+    }
+  ]
+}

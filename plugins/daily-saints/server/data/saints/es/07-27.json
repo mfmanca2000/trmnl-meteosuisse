@@ -1,0 +1,20 @@
+{
+  "date": "07-27",
+  "feast_day": "27 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pantaleón",
+      "feast_day": "27 de julio",
+      "era": "Inicios del siglo IV",
+      "patronage": [
+        "médicos",
+        "sanadores"
+      ],
+      "legacy": "Sanador compasivo y mártir",
+      "summary": "San Pantaleón fue un médico y mártir originario de Nicomedia, conocido por sus milagrosas capacidades de sanación. Tras convertirse al cristianismo, dedicó su vida a servir a los pobres y a sanar a los enfermos, enfrentando finalmente la persecución por su fe. Fue martirizado durante el reinado del emperador Galerio Maximiano, y sus reliquias son veneradas en diversos lugares, incluidos Constantinopla y Francia.",
+      "image": "/images/saint_pantaleon_of_nicomedia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pantaleon_of_Nicomedia"
+    }
+  ]
+}

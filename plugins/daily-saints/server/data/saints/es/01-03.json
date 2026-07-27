@@ -1,0 +1,21 @@
+{
+  "date": "01-03",
+  "feast_day": "3 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Genoveva",
+      "feast_day": "3 de enero",
+      "era": "Siglo V",
+      "patronage": [
+        "París",
+        "matrimonios difíciles",
+        "niños enfermos"
+      ],
+      "legacy": "Patrona de París y protectora de los fieles.",
+      "summary": "Santa Genoveva fue una virgen del siglo V y patrona de París. Conocida por su piedad e intervenciones milagrosas, desempeñó un papel crucial en la protección de la ciudad durante los asedios, particularmente contra Atila el Huno. Su legado perdura como símbolo de fe y resiliencia frente a la adversidad.",
+      "image": "/images/saint_genevieve.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Genevieve_of_Paris"
+    }
+  ]
+}

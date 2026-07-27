@@ -1,0 +1,21 @@
+{
+  "date": "11-17",
+  "feast_day": "17 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregorio Taumaturgo",
+      "feast_day": "17 novembre",
+      "era": "III secolo",
+      "patronage": [
+        "teologi",
+        "studenti",
+        "convertiti"
+      ],
+      "legacy": "Taumaturgo e difensore della fede",
+      "summary": "San Gregorio Taumaturgo fu un vescovo e confessore noto per le sue opere miracolose e la sua dedizione nel diffondere il cristianesimo in una regione prevalentemente pagana. Fu allievo di Origene e divenne una figura chiave nella lotta contro le eresie, in particolare l'arianesimo, attraverso i suoi insegnamenti e la formulazione di un credo. La sua eredità comprende una profonda devozione alla Vergine Maria e un impegno verso la preghiera e la solitudine, che ispirò molti ad abbracciare la fede cristiana.",
+      "image": "/images/saint_gregory_thaumaturge.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus"
+    }
+  ]
+}

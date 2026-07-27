@@ -1,0 +1,34 @@
+{
+  "date": "10-25",
+  "feast_day": "25 ottobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Crisanto",
+      "feast_day": "25 ottobre",
+      "era": "III secolo",
+      "patronage": [
+        "martiri",
+        "convertiti"
+      ],
+      "legacy": "Martirio e fede nelle avversità",
+      "summary": "Crisanto fu un giovane martire romano che, insieme alla moglie Daria, convertì molte persone al cristianesimo attraverso la loro fede e il loro insegnamento. Nonostante la severa persecuzione subita dal padre e dalle autorità romane, rimase saldo nelle sue convinzioni. Alla fine, entrambi furono martirizzati venendo sepolti vivi per essersi rifiutati di rinnegare la loro fede.",
+      "image": "/images/saint_chrysanthus_and_saint_daria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chrysanthus"
+    },
+    {
+      "name": "Crispino e Crispiniano",
+      "feast_day": "25 ottobre",
+      "era": "III secolo",
+      "patronage": [
+        "calzolai",
+        "conciatori",
+        "coraggio"
+      ],
+      "legacy": "Martiri della fede e della perseveranza",
+      "summary": "Crispino e Crispiniano erano fratelli e martiri che predicarono il cristianesimo in Gallia nel III secolo. Erano noti per la loro abilità nel fare calzature e per la loro capacità di convertire molte persone grazie al loro modo affabile e alla loro profonda fede. Alla fine subirono torture severe e furono giustiziati per le loro convinzioni per ordine dell'imperatore Diocleziano, intorno all'anno 286.",
+      "image": "/images/saints_crispin_and_crispinian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Crispin_and_Crispinian"
+    }
+  ]
+}

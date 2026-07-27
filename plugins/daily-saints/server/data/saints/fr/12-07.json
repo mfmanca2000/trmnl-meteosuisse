@@ -1,0 +1,22 @@
+{
+  "date": "12-07",
+  "feast_day": "7 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ambroise",
+      "feast_day": "7 décembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "apiculteurs",
+        "ciriers",
+        "le savoir",
+        "la ville de Milan"
+      ],
+      "legacy": "Défenseur de la foi et docteur de l'Église",
+      "summary": "Ambroise était évêque de Milan et docteur de l'Église, connu pour la profondeur de sa théologie et son attention pastorale. Il joua un rôle déterminant dans la conversion de saint Augustin et fut un ardent défenseur de la foi contre l'hérésie. Son héritage comprend sa prédication éloquente, ses contributions liturgiques et son influence sur le développement de la doctrine chrétienne.",
+      "image": "/images/saint_ambrose.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ambrose_of_Milan"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "01-14",
+  "feast_day": "14 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hilario de Poitiers",
+      "feast_day": "14 de enero",
+      "era": "Siglo IV",
+      "patronage": [
+        "teólogos",
+        "exiliados"
+      ],
+      "legacy": "Defensor de la ortodoxia frente al arrianismo",
+      "summary": "Hilario de Poitiers fue un obispo y doctor de la Iglesia conocido por su firme defensa del cristianismo ortodoxo frente al arrianismo. Tras convertirse al cristianismo ya en su madurez, se convirtió en un teólogo destacado y escribió extensamente sobre la Trinidad. Sus esfuerzos por promover la fe le valieron el exilio, durante el cual continuó componiendo obras influyentes, hasta que finalmente regresó a su diócesis para proseguir su ministerio hasta su muerte.",
+      "image": "/images/saint_hilary_of_poitiers.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+    },
+    {
+      "name": "Félix de Nola",
+      "feast_day": "14 de enero",
+      "era": "Siglo III",
+      "patronage": [
+        "religiosas",
+        "oradores",
+        "quienes buscan superar la adversidad"
+      ],
+      "legacy": "Un modelo de fe y caridad",
+      "summary": "San Félix de Nola fue un sacerdote conocido por su profunda fe y su dedicación a servir a los demás durante una época de persecución de la Iglesia primitiva. Soportó prisión y tortura, pero permaneció firme en sus deberes pastorales, ayudando finalmente a su obispo, Máximo, en un momento de gran angustia. Tras el fin de la persecución, vivió una vida de pobreza y caridad, convirtiéndose en una figura muy querida en su comunidad.",
+      "image": "/images/saint_felix_of_nola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Nola"
+    }
+  ]
+}

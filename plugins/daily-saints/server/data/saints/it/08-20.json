@@ -1,0 +1,21 @@
+{
+  "date": "08-20",
+  "feast_day": "20 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bernardo di Chiaravalle",
+      "feast_day": "20 agosto",
+      "era": "XII secolo",
+      "patronage": [
+        "apicoltori",
+        "cerai",
+        "l'Ordine cistercense"
+      ],
+      "legacy": "Padre dell'Ordine cistercense",
+      "summary": "Bernardo di Chiaravalle fu un eminente abate e teologo del XII secolo, fondatore del monastero cistercense di Clairvaux. Rinomato per la sua eloquenza e la sua profonda spiritualità, ebbe un ruolo significativo nella promozione della Seconda Crociata e fu influente nella Chiesa del suo tempo. I suoi scritti e i suoi insegnamenti gli valsero il titolo di Dottore della Chiesa ed è ricordato come figura chiave del monachesimo medievale.",
+      "image": "/images/saint_bernard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"
+    }
+  ]
+}

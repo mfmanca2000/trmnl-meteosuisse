@@ -1,0 +1,49 @@
+{
+  "date": "04-29",
+  "feast_day": "29 de abril",
+  "count": 3,
+  "saints": [
+    {
+      "name": "José Benito Cottolengo",
+      "feast_day": "29 de abril",
+      "era": "Siglo XIX",
+      "patronage": [
+        "enfermos",
+        "pobres",
+        "niños huérfanos"
+      ],
+      "legacy": "Cuidado compasivo por los marginados",
+      "summary": "José Benito Cottolengo fue un sacerdote italiano conocido por su profunda compasión hacia los enfermos y los pobres. Fundó la Piccola Casa della Divina Provvidenza, una comunidad dedicada al cuidado de los necesitados, que llegó a convertirse en una auténtica ciudad de más de 7.000 personas. Su legado incluye la fundación de catorce comunidades religiosas centradas tanto en las obras de misericordia corporales como espirituales.",
+      "image": "/images/saint_joseph_benedict_cottolengo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Benedetto_Cottolengo"
+    },
+    {
+      "name": "Pedro de Verona",
+      "feast_day": "29 de abril",
+      "era": "Medieval",
+      "patronage": [
+        "mártires",
+        "predicadores",
+        "herejes"
+      ],
+      "legacy": "Valiente mártir y defensor de la fe",
+      "summary": "Pedro de Verona fue un sacerdote dominico y mártir nacido en 1206. Dedicó su vida a predicar contra la herejía y a convertir a muchos a la fe católica, enfrentando a menudo una fuerte oposición. Finalmente fue martirizado en 1252, dejando un legado de valor y fe inquebrantable.",
+      "image": "/images/saint_peter_of_verona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Verona"
+    },
+    {
+      "name": "Hugo de Cluny",
+      "feast_day": "29 de abril",
+      "era": "Medieval",
+      "patronage": [
+        "monjes",
+        "niños abandonados",
+        "hospitales"
+      ],
+      "legacy": "Promotor de la reforma monástica y de la espiritualidad",
+      "summary": "Hugo de Cluny fue un eminente abad que dirigió el movimiento de reforma cluniacense en el siglo XI. Se convirtió en abad de Cluny siendo joven y contribuyó de manera decisiva a ampliar la influencia de la abadía, que se convirtió en un centro de vida monástica y espiritualidad. Su legado incluye la fundación de numerosos monasterios y la promoción de un renovado compromiso con la disciplina monástica y la oración.",
+      "image": "/images/saint_hugh_of_cluny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Cluny"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "05-11",
+  "feast_day": "11 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Philippe",
+      "feast_day": "11 mai",
+      "era": "Ier siècle",
+      "patronage": [
+        "chapeliers",
+        "amoureux",
+        "diaconat"
+      ],
+      "legacy": "Apôtre connu pour son zèle évangélisateur",
+      "summary": "Philippe fut l'un des premiers disciples choisis par Jésus-Christ, connu pour avoir invité avec enthousiasme Nathanaël à rencontrer le Messie. On se souvient de sa profonde soif de Dieu, illustrée par sa fameuse demande à Jésus de lui montrer le Père. La tradition rapporte que Philippe fut martyrisé à Hiérapolis, et que ses reliques furent plus tard transférées à Rome.",
+      "image": "/images/saint_philip.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_the_Apostle"
+    },
+    {
+      "name": "Mamert",
+      "feast_day": "11 mai",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Archevêque de Vienne",
+      "summary": "Saint Mamert, archevêque de Vienne en Dauphiné au Ve siècle, fut un prélat renommé pour sa sainteté, son savoir et ses miracles. Il institua dans son diocèse les jeûnes et les supplications appelées Rogations, durant les trois jours précédant l'Ascension, pour remédier au relâchement religieux qui avait attiré sur l'ancienne Gaule de nombreux châtiments. Le Dieu tout-puissant, pour punir les péchés du peuple, l'avait frappé de guerres et d'autres calamités publiques, et avait tiré en particulier la ville de Vienne de sa léthargie spirituelle par les terreurs des tremblements de terre, des incendies et des bêtes féroces dévorantes, que l'on voyait parfois jusque sur la place du marché.",
+      "image": "/images/saint_mammertus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

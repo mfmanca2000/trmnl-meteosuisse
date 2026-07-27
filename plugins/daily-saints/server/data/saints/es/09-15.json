@@ -1,0 +1,36 @@
+{
+  "date": "09-15",
+  "feast_day": "15 de septiembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "María",
+      "feast_day": "15 de septiembre",
+      "era": "Siglo I",
+      "patronage": [
+        "madres",
+        "dolores",
+        "pérdida",
+        "familia"
+      ],
+      "legacy": "Madre de Dios y modelo de fe",
+      "summary": "María es venerada como la Madre de Jesucristo y ocupa un papel central en el cristianismo. A menudo se la representa como una figura de compasión y dolor, particularmente en relación con la Pasión de Cristo. Su vida ejemplifica una fe profunda y una devoción maternal, convirtiéndola en un modelo para los creyentes.",
+      "image": "/images/the_seven_sorrows_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Catalina de Génova",
+      "feast_day": "15 de septiembre",
+      "era": "Renacimiento",
+      "patronage": [
+        "enfermos",
+        "trabajadores de hospitales",
+        "moribundos"
+      ],
+      "legacy": "Devoción a las almas sufrientes del purgatorio",
+      "summary": "Catalina de Génova fue una noble que dedicó su vida a Dios tras soportar un matrimonio difícil. Es conocida por su profunda espiritualidad, particularmente su devoción hacia las almas del purgatorio, y su rigurosa penitencia, que incluyó vivir únicamente de la Sagrada Comunión durante muchos años. Catalina también sirvió a los enfermos y a los pobres de su comunidad, llegando a administrar un gran hospital en Génova.",
+      "image": "/images/saint_catherine_of_genoa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Genoa"
+    }
+  ]
+}

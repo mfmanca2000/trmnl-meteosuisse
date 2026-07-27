@@ -1,0 +1,21 @@
+{
+  "date": "10-21",
+  "feast_day": "21 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Orsola",
+      "feast_day": "21 ottobre",
+      "era": "IV secolo",
+      "patronage": [
+        "giovani insegnanti",
+        "vergini",
+        "studenti"
+      ],
+      "legacy": "Martirio e difesa della verginità",
+      "summary": "Sant'Orsola era una principessa britannica e martire che guidò un gruppo di undicimila vergini incontro alla morte piuttosto che sottomettersi al disonore. È celebrata per il suo coraggio e il suo impegno verso la fede, avendo consacrato la sua vita a Gesù Cristo. La sua eredità è particolarmente onorata a Colonia, dove numerose chiese custodiscono reliquie sue e delle sue compagne, attirando pellegrini in cerca di protezione e intercessione.",
+      "image": "/images/saint_ursula_and_her_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Ursula"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "07-20",
+  "feast_day": "20 luglio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Girolamo Emiliani",
+      "feast_day": "20 luglio",
+      "era": "Rinascimento",
+      "patronage": [
+        "bambini orfani",
+        "malati",
+        "personale ospedaliero"
+      ],
+      "legacy": "Campione degli orfani e dei malati",
+      "summary": "Girolamo Emiliani fu un soldato veneziano che trasformò la propria vita dopo essere stato imprigionato, dedicandosi al servizio degli orfani e dei malati. Fondò la Congregazione dei Chierici Regolari, nota come Somaschi, per prendersi cura dei bambini abbandonati e promuovere l'educazione cristiana. La sua eredità è segnata dalla profonda compassione e dall'impegno per la carità, in particolare durante i periodi di carestia ed epidemia.",
+      "image": "/images/saint_jerome_emiliani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerome_Emiliani"
+    },
+    {
+      "name": "Margherita di Antiochia",
+      "feast_day": "20 luglio",
+      "era": "III secolo",
+      "patronage": [
+        "donne incinte",
+        "parto",
+        "falsamente accusati"
+      ],
+      "legacy": "Coraggiosa martire e difensora della fede",
+      "summary": "Santa Margherita di Antiochia fu una vergine e martire cristiana nata nel terzo secolo ad Antiochia di Pisidia. Affrontò la persecuzione per la sua fede, rifiutando le avances di un prefetto romano e sopportando gravi torture, tra cui la prigionia e la decapitazione. La sua fermezza nella fede e l'eloquente difesa del cristianesimo ispirarono molti, portando al suo martirio e alla sua venerazione come santa.",
+      "image": "/images/saint_margaret_of_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Antioch"
+    }
+  ]
+}

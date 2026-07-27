@@ -1,0 +1,35 @@
+{
+  "date": "11-18",
+  "feast_day": "18 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pedro",
+      "feast_day": "18 de noviembre",
+      "era": "siglo I",
+      "patronage": [
+        "los pescadores",
+        "los fabricantes de redes",
+        "los constructores de barcos"
+      ],
+      "legacy": "Primer papa y líder de los apóstoles",
+      "summary": "Pedro, uno de los doce apóstoles de Jesucristo, es considerado el primer papa y una figura fundacional del cristianismo. Es conocido por su liderazgo entre los apóstoles y su papel en la difusión de las enseñanzas de Jesús. Pedro fue martirizado en Roma, y su tumba se encuentra bajo la basílica de San Pedro, en la Ciudad del Vaticano.",
+      "image": "/images/dedication_of_the_basilicas_of_saint_peter_and_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Odón de Cluny",
+      "feast_day": "18 de noviembre",
+      "era": "siglo X",
+      "patronage": [
+        "los monjes",
+        "los educadores",
+        "los niños"
+      ],
+      "legacy": "Pionero de la reforma monástica y la educación",
+      "summary": "Odón de Cluny fue un abad benedictino que desempeñó un papel decisivo en la reforma y organización de la vida monástica en el siglo X. Fundó la abadía de Cluny, que se convirtió en un centro de excelencia espiritual y educativa, atrayendo numerosas vocaciones y promoviendo la Regla de san Benito. Su legado incluye un compromiso con la caridad y la educación de los niños, así como el establecimiento de una federación de monasterios bajo la dirección de Cluny.",
+      "image": "/images/saint_odon_or_eudes_of_cluny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odo_of_Cluny"
+    }
+  ]
+}

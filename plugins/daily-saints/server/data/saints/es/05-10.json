@@ -1,0 +1,31 @@
+{
+  "date": "05-10",
+  "feast_day": "10 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Isidro de Madrid",
+      "feast_day": "10 de mayo",
+      "era": "Siglo XII",
+      "patronage": null,
+      "legacy": "Confesor",
+      "summary": "San Isidro Labrador, santo siempre muy popular en España, nació cerca de Madrid de padres muy pobres pero muy cristianos, que desde temprano le inspiraron el amor a Dios y el horror al pecado. Su educación fue obra enteramente del Espíritu Santo, que le enseñó, sin libros, la ciencia de la salvación. Se casó con una mujer rica en virtudes, María Torribia, y Dios los bendijo con un hijo al que criaron en los mismos sentimientos de piedad.",
+      "image": "/images/saint_isidore_of_madrid.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Antonino",
+      "feast_day": "10 de mayo",
+      "era": "Siglo XV",
+      "patronage": [
+        "pobres",
+        "clero",
+        "Orden dominicana"
+      ],
+      "legacy": "Un campeón de los pobres y los necesitados.",
+      "summary": "San Antonino fue arzobispo de Florencia, conocido por su profundo compromiso con los pobres y sus escritos teológicos. Ingresó en la Orden dominicana desde joven y se hizo célebre por su prudencia y sabiduría, ganándose el título de 'Padre de los pobres'. Su vida estuvo marcada por actos de caridad, incluida la donación de sus bienes a quienes lo necesitaban.",
+      "image": "/images/saint_antoninus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Antoninus_of_Florence"
+    }
+  ]
+}

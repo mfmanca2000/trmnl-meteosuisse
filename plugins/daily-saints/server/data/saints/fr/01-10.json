@@ -1,0 +1,17 @@
+{
+  "date": "01-10",
+  "feast_day": "10 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Guillaume de Bourges",
+      "feast_day": "10 janvier",
+      "era": "Moyen Âge",
+      "patronage": null,
+      "legacy": "Un modèle de piété et d'humilité",
+      "summary": "Guillaume de Bourges était un archevêque connu pour sa profonde piété et son engagement dans une vie d'austérité. Il servit d'abord comme chanoine avant de rejoindre les cisterciens, puis devint archevêque de Bourges, où il se consacra à mener une vie sainte et à faire pénitence pour autrui. Son tombeau devint le lieu de nombreux miracles, ce qui conduisit à sa canonisation seulement neuf ans après sa mort.",
+      "image": "/images/saint_william.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_of_Bourges"
+    }
+  ]
+}

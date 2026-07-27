@@ -1,0 +1,21 @@
+{
+  "date": "08-31",
+  "feast_day": "31 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Raimondo Nonnato",
+      "feast_day": "31 agosto",
+      "era": "Medioevo",
+      "patronage": [
+        "prigionieri",
+        "parto",
+        "ostetriche"
+      ],
+      "legacy": "Difensore dei prigionieri e degli oppressi",
+      "summary": "Raimondo Nonnato fu un santo spagnolo nato nel 1204 che dedicò la sua vita alla redenzione dei prigionieri. Entrò nell'Ordine di Nostra Signora della Mercede e rischiò la vita per liberare degli schiavi, diventando egli stesso infine un ostaggio. Dopo aver sopportato dure torture per la sua fede, morì nel 1240 e fu in seguito canonizzato, riconosciuto per il suo sacrificio disinteressato e la sua devozione alla salvezza delle anime.",
+      "image": "/images/saint_raymund_nonnatus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Nonnatus"
+    }
+  ]
+}

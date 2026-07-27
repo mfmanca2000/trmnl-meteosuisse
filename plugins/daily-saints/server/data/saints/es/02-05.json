@@ -1,0 +1,50 @@
+{
+  "date": "02-05",
+  "feast_day": "5 de febrero",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Águeda",
+      "feast_day": "5 de febrero",
+      "era": "Siglo III",
+      "patronage": [
+        "pacientes con cáncer de mama",
+        "enfermeras",
+        "bomberos",
+        "cocineros"
+      ],
+      "legacy": "Patrona de la pureza y la protección",
+      "summary": "Santa Águeda fue una mártir cristiana de Sicilia celebrada por su fe inquebrantable y su compromiso con la castidad. Soportó terribles torturas, incluida la mutilación, por negarse a renunciar a su fe, y permaneció devota a Cristo hasta su muerte. Su legado perdura, pues es venerada por su pureza e invocada para protección contra los desastres naturales, especialmente en su ciudad natal, Catania.",
+      "image": "/images/saint_agatha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agatha_of_Sicily"
+    },
+    {
+      "name": "Santos Mártires de Japón",
+      "feast_day": "5 de febrero",
+      "era": "Siglo XVI",
+      "patronage": [
+        "Japón",
+        "misioneros",
+        "mártires"
+      ],
+      "legacy": "Testigos valientes de la fe y el sacrificio.",
+      "summary": "Los Santos Mártires de Japón fueron un grupo de 26 cristianos, entre ellos seis franciscanos, tres jesuitas y diecisiete laicos, martirizados en 1597 durante un período de intensa persecución. Su fe inquebrantable y su disposición a morir por Cristo inspiraron a muchos y contribuyeron al crecimiento del cristianismo en Japón. Canonizados por el papa Pío IX en 1862, son recordados por su valentía y devoción a sus creencias.",
+      "image": "/images/the_holy_martyrs_of_japan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Martyrs_of_Jasenovac"
+    },
+    {
+      "name": "Felipe de Jesús",
+      "feast_day": "5 de febrero",
+      "era": "Siglo XVI",
+      "patronage": [
+        "México",
+        "franciscanos",
+        "mártires"
+      ],
+      "legacy": "Primer mártir de la misión cristiana de Japón",
+      "summary": "Felipe de Jesús fue un fraile franciscano y mártir nacido en México, que más tarde viajó a Japón como misionero. Fue arrestado y ejecutado por su fe durante un período de intensa persecución contra los cristianos en Japón. Su legado se honra como uno de los primeros mártires de Japón, y se le recuerda por su compromiso inquebrantable con su fe hasta la muerte.",
+      "image": "/images/saint_philip_of_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_of_Jesus"
+    }
+  ]
+}

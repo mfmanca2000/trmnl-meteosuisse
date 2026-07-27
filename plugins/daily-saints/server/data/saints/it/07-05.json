@@ -1,0 +1,35 @@
+{
+  "date": "07-05",
+  "feast_day": "5 luglio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Antonio Maria Zaccaria",
+      "feast_day": "5 luglio",
+      "era": "XVI secolo",
+      "patronage": [
+        "medici",
+        "malati",
+        "bambini malati"
+      ],
+      "legacy": "Rinnovò la vita cristiana attraverso l'educazione e il servizio.",
+      "summary": "Antonio Maria Zaccaria fu un sacerdote italiano e fondatore dell'ordine dei Barnabiti, dedito al rinnovamento della vita cristiana nel XVI secolo. Era noto per la sua profonda devozione a san Paolo e per il suo impegno nell'educare e assistere i bambini poveri e abbandonati. Nonostante l'opposizione incontrata, fondò comunità che ponevano l'accento sulla preghiera e sul servizio, lasciando un'impronta duratura nella Chiesa.",
+      "image": "/images/saint_anthony_maria_zaccaria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Maria_Zaccaria"
+    },
+    {
+      "name": "Pietro di Lussemburgo",
+      "feast_day": "5 luglio",
+      "era": "Medievale",
+      "patronage": [
+        "bambini",
+        "cause perse",
+        "sacerdoti diocesani"
+      ],
+      "legacy": "Un modello di santità giovanile e carità.",
+      "summary": "Pietro di Lussemburgo fu un vescovo e cardinale noto per la sua profonda pietà e il suo impegno al servizio della Chiesa. Nominato vescovo di Metz alla giovane età di quindici anni, governò con straordinario zelo e carità, spesso donando le proprie ricchezze. Morì a soli diciotto anni, lasciando un'eredità di santità e intercessione miracolosa.",
+      "image": "/images/blessed_peter_of_luxemburg.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Luxembourg"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-31",
+  "feast_day": "31 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ignacio de Loyola",
+      "feast_day": "31 de julio",
+      "era": "Siglo XVI",
+      "patronage": [
+        "soldados",
+        "ejercicios espirituales",
+        "educación"
+      ],
+      "legacy": "Fundador de los jesuitas y guía espiritual",
+      "summary": "San Ignacio de Loyola fue un sacerdote y teólogo español que fundó la Compañía de Jesús, también conocida como los jesuitas. Tras una profunda conversión espiritual ocurrida después de una grave herida, dedicó su vida al servicio de Dios y a ayudar a los demás a través de la educación y los ejercicios espirituales. Su legado incluye los Ejercicios Espirituales, una guía para el crecimiento espiritual que ha influido en innumerables personas y comunidades.",
+      "image": "/images/saint_ignatius_of_loyola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
+    }
+  ]
+}

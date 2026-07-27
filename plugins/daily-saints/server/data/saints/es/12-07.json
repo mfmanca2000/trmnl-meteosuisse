@@ -1,0 +1,22 @@
+{
+  "date": "12-07",
+  "feast_day": "7 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ambrosio",
+      "feast_day": "7 de diciembre",
+      "era": "Siglo IV",
+      "patronage": [
+        "apicultores",
+        "cereros",
+        "el estudio",
+        "la ciudad de Milán"
+      ],
+      "legacy": "Defensor de la fe y doctor de la Iglesia",
+      "summary": "Ambrosio fue obispo de Milán y doctor de la Iglesia, conocido por la profundidad de su teología y su cuidado pastoral. Desempeñó un papel crucial en la conversión de san Agustín y fue un firme defensor de la fe contra la herejía. Su legado incluye su elocuente predicación, sus aportaciones litúrgicas y su influencia en el desarrollo de la doctrina cristiana.",
+      "image": "/images/saint_ambrose.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ambrose_of_Milan"
+    }
+  ]
+}

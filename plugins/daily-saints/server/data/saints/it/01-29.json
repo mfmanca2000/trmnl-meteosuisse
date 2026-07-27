@@ -1,0 +1,22 @@
+{
+  "date": "01-29",
+  "feast_day": "29 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francesco di Sales",
+      "feast_day": "29 gennaio",
+      "era": "XVII secolo",
+      "patronage": [
+        "giornalisti",
+        "scrittori",
+        "sordi",
+        "venditori"
+      ],
+      "legacy": "Campione della mitezza e della guida spirituale",
+      "summary": "San Francesco di Sales fu un vescovo del XVII secolo noto per il suo approccio mite alla spiritualità e per i suoi sforzi nel convertire i calvinisti della regione dello Chiablese. Fondò insieme a santa Giovanna Francesca di Chantal l'Ordine della Visitazione e sottolineò l'importanza della mitezza e dell'umiltà. I suoi scritti, in particolare 'Filotea, ovvero introduzione alla vita devota', hanno avuto un impatto duraturo sulla spiritualità cattolica.",
+      "image": "/images/saint_francis_de_sales.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_de_Sales"
+    }
+  ]
+}

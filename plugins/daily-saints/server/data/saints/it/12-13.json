@@ -1,0 +1,22 @@
+{
+  "date": "12-13",
+  "feast_day": "13 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lucia di Siracusa",
+      "feast_day": "13 dicembre",
+      "era": "IV secolo",
+      "patronage": [
+        "cecità",
+        "martiri",
+        "scrittori",
+        "malattie della gola"
+      ],
+      "legacy": "Patrona dei ciechi e dei martiri",
+      "summary": "Santa Lucia di Siracusa era una giovane martire cristiana vissuta agli inizi del IV secolo. È nota per la sua fede incrollabile e per la guarigione miracolosa della madre, che la spinse a consacrare la propria vita a Dio e al servizio dei poveri. Fu infine martirizzata per le sue convinzioni durante la persecuzione di Diocleziano, diventando un simbolo di purezza e resilienza di fronte alle avversità.",
+      "image": "/images/saint_lucy_of_syracuse.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lucy_of_Syracuse"
+    }
+  ]
+}

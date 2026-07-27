@@ -1,0 +1,31 @@
+{
+  "date": "09-03",
+  "feast_day": "3 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pie X",
+      "feast_day": "3 septembre",
+      "era": "XXe siècle",
+      "patronage": [
+        "clergé",
+        "malades",
+        "enfants malades"
+      ],
+      "legacy": "Pape de la Communion fréquente et de la dévotion eucharistique.",
+      "summary": "Pie X fut un pape connu pour son fervent plaidoyer en faveur de la Communion fréquente et ses efforts pour combattre le modernisme au sein de l'Église. Né Joseph Sarto en 1836, il gravit les échelons du clergé, devenant un évêque apprécié puis patriarche de Venise avant son pontificat. Il fut canonisé en 1954, resté dans les mémoires pour sa piété, sa charité et son dévouement à l'Eucharistie.",
+      "image": "/images/saint_pius_x.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_X"
+    },
+    {
+      "name": "Séraphie",
+      "feast_day": "3 septembre",
+      "era": "Ier siècle",
+      "patronage": null,
+      "legacy": "Martyre pour une foi inébranlable dans le Christ",
+      "summary": "Sainte Séraphie était une vierge et martyre d'Antioche qui consacra sa vie à Dieu après la mort de ses parents. Elle devint servante de sainte Sabine, une noble romaine, et fut finalement martyrisée pour sa foi chrétienne. Malgré la torture qu'elle subit, sa foi inébranlable la conduisit à la décapitation, et elle fut enterrée avec grand respect par sa maîtresse.",
+      "image": "/images/saint_seraphia_and_saint_sabina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Serapia"
+    }
+  ]
+}

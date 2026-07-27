@@ -1,0 +1,31 @@
+{
+  "date": "04-17",
+  "feast_day": "17 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Kateri Tekakwitha",
+      "feast_day": "17 de abril",
+      "era": "Siglo XVII",
+      "patronage": [
+        "ecologistas",
+        "nativos americanos",
+        "personas exiliadas"
+      ],
+      "legacy": "Primera santa nativa americana de los Estados Unidos",
+      "summary": "Kateri Tekakwitha, conocida como el Lirio de los Mohawks, nació en 1656 de madre algonquina y de un jefe iroqués. Tras vivir una tragedia personal y una fuerte vocación espiritual, dedicó su vida a Dios y se convirtió en un símbolo de fe entre los nativos americanos. Fue canonizada en 1991 y es reconocida por su profunda devoción y su compromiso con la fe cristiana.",
+      "image": "/images/saint_kateri_tekakwitha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kateri_Tekakwitha"
+    },
+    {
+      "name": "Aniceto",
+      "feast_day": "17 de abril",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Defensor de la fe contra la herejía",
+      "summary": "San Aniceto fue el undécimo papa y mártir, en su cargo durante una época de importantes desafíos teológicos, en particular los del gnosticismo. Es conocido por su amistad con san Policarpo y por abordar las diferencias en la celebración de la Pascua entre las Iglesias de Oriente y Occidente. Aniceto instituyó la tonsura para el clero y es honrado por su firmeza en la fe, habiendo recibido finalmente el martirio por sus convicciones.",
+      "image": "/images/saint_anicetus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Anicetus"
+    }
+  ]
+}

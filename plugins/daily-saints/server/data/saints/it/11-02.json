@@ -1,0 +1,34 @@
+{
+  "date": "11-02",
+  "feast_day": "2 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Odilone di Cluny",
+      "feast_day": "2 novembre",
+      "era": "X secolo",
+      "patronage": [
+        "anime del purgatorio",
+        "monaci benedettini"
+      ],
+      "legacy": "Campione delle preghiere per i defunti",
+      "summary": "Sant'Odilone di Cluny fu un abate benedettino noto per aver istituito la commemorazione di tutti i fedeli defunti, che in seguito divenne nota come la Commemorazione dei defunti. I suoi sforzi nel promuovere le preghiere per i morti sottolinearono l'importanza dell'intercessione e della carità nella fede cristiana. L'eredità di Odilone continua a ispirare i fedeli a ricordare e pregare per coloro che sono deceduti.",
+      "image": "/images/commemoration_of_the_faithful_departed.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odilo_of_Cluny"
+    },
+    {
+      "name": "Malachia",
+      "feast_day": "2 novembre",
+      "era": "XII secolo",
+      "patronage": [
+        "Irlanda",
+        "sacerdoti",
+        "la diocesi di Armagh"
+      ],
+      "legacy": "Profeta dei futuri papi e riformatore",
+      "summary": "San Malachia fu un vescovo irlandese del XII secolo noto per la sua dedizione alla riforma della Chiesa e per le sue visioni profetiche riguardanti i futuri papi. Fu arcivescovo di Armagh e contribuì in modo determinante a rivitalizzare la fede tra il suo popolo, sopportando notevoli difficoltà durante il suo ministero. La sua eredità comprende una celebre profezia che elenca i motti dei futuri papi, che ha incuriosito studiosi e fedeli.",
+      "image": "/images/saint_malachy_d_armagh.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Malachy"
+    }
+  ]
+}

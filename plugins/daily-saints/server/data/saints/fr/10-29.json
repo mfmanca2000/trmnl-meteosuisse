@@ -1,0 +1,17 @@
+{
+  "date": "10-29",
+  "feast_day": "29 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Narcisse",
+      "feast_day": "29 octobre",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Un évêque dévoué et faiseur de miracles",
+      "summary": "Saint Narcisse était un évêque de Jérusalem connu pour son engagement profond envers les disciplines à la fois religieuses et humaines. Il présida un concile important concernant la célébration de Pâques et reste dans les mémoires pour avoir accompli des miracles, notamment en transformant de l'eau en huile pour les lampes de l'église. Malgré de fausses accusations et des ennemis, il resta dévoué à son troupeau et reprit ses fonctions jusqu'à sa mort à un âge très avancé.",
+      "image": "/images/saint_narcissus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Narcissus_of_Jerusalem"
+    }
+  ]
+}

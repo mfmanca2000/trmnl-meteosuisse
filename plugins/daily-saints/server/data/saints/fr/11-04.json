@@ -1,0 +1,21 @@
+{
+  "date": "11-04",
+  "feast_day": "4 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Charles Borromée",
+      "feast_day": "4 novembre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "catéchistes",
+        "chefs spirituels",
+        "séminaristes"
+      ],
+      "legacy": "Champion de la réforme de l'Église et de l'éducation",
+      "summary": "Saint Charles Borromée fut un archevêque influent de Milan durant la Contre-Réforme, connu pour son engagement envers la réforme de l'Église et l'éducation. Il joua un rôle important au Concile de Trente et travailla sans relâche à la mise en œuvre de ses décrets, fondant de nombreuses écoles et séminaires. Son dévouement envers son troupeau pendant les épidémies de peste et son sacrifice personnel illustrent sa profonde sollicitude pastorale et sa sainteté.",
+      "image": "/images/saint_charles_borromeo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Borromeo"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "04-25",
+  "feast_day": "25 aprile",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marco",
+      "feast_day": "25 aprile",
+      "era": null,
+      "patronage": null,
+      "legacy": "Evangelista",
+      "summary": "San Marco fu convertito alla Fede dal Principe degli Apostoli, che accompagnò poi a Roma, fungendo lì da suo segretario o interprete. Quando san Pietro scrisse la sua Prima Lettera alle Chiese dell'Asia, unì affettuosamente al proprio saluto quello del suo fedele compagno, che chiama mio figlio Marco. Il popolo romano supplicò san Marco di mettere per iscritto per loro la sostanza dei frequenti discorsi di san Pietro sulla vita di Nostro Signore.",
+      "image": "/images/saint_mark_evangelist.jpg",
+      "wikipedia": null
+    }
+  ]
+}

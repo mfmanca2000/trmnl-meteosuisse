@@ -1,0 +1,27 @@
+{
+  "date": "04-22",
+  "feast_day": "22 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Sotero e Caio",
+      "feast_day": "22 aprile",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Papi, Martiri",
+      "summary": "San Sotero fu elevato al papato alla morte di sant'Aniceto nel 161. Con la dolcezza dei suoi discorsi confortò tutte le persone afflitte con la tenerezza di un padre, e soccorse gli indigenti con generose elemosine, specialmente coloro che soffrivano per la Fede. Estese generosamente le sue opere di carità, secondo il costume dei suoi predecessori, fino alle chiese più lontane.",
+      "image": "/images/saint_soter_and_saint_caius.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Leonida",
+      "feast_day": "22 aprile",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Padre di Origene e martire dei primi tempi",
+      "summary": "Leonida fu un martire cristiano e padre del teologo Origene. Fu giustiziato durante la persecuzione dei cristiani sotto l'imperatore Severo nel 202 d.C. Il suo lascito è segnato dalla sua dedizione alla fede e dalla profonda influenza che ebbe su suo figlio, il quale divenne uno dei più importanti studiosi cristiani dei primi tempi.",
+      "image": "/images/saint_leonides.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leonides_of_Alexandria"
+    }
+  ]
+}

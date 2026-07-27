@@ -1,0 +1,31 @@
+{
+  "date": "09-23",
+  "feast_day": "23 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Lin",
+      "feast_day": "23 septembre",
+      "era": "Ier siècle",
+      "patronage": null,
+      "legacy": "Second pape et martyr chrétien primitif",
+      "summary": "Saint Lin fut un pape et martyr qui servit comme deuxième pape de l'Église catholique après saint Pierre. Originaire de Volterra, en Toscane, il était connu pour son zèle à prêcher et à convertir les idolâtres, notamment en Gaule. Il fut martyrisé pour sa foi et est enterré près de saint Pierre au Vatican.",
+      "image": "/images/saint_linus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Linus"
+    },
+    {
+      "name": "Thècle",
+      "feast_day": "23 septembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "vierges",
+        "théologiens",
+        "protection contre la tentation sexuelle"
+      ],
+      "legacy": "Patronne des vierges et martyre des premiers temps",
+      "summary": "Sainte Thècle est reconnue comme l'une des premières martyres chrétiennes et est célébrée pour son engagement inébranlable envers la virginité et la foi. Après avoir entendu les enseignements de saint Paul, elle rejeta son mariage terrestre et choisit de le suivre, endurant de sévères persécutions pour ses convictions. Ses épreuves légendaires incluent le fait d'avoir survécu à des bêtes sauvages et au feu, la conduisant finalement au martyre et à sa reconnaissance comme symbole de pureté et de dévotion.",
+      "image": "/images/saint_thecla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thecla"
+    }
+  ]
+}

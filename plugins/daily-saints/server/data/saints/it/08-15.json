@@ -1,0 +1,21 @@
+{
+  "date": "08-15",
+  "feast_day": "15 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Maria",
+      "feast_day": "15 agosto",
+      "era": "I secolo",
+      "patronage": [
+        "cielo",
+        "madri",
+        "donne incinte"
+      ],
+      "legacy": "Madre di Dio e Regina dei santi",
+      "summary": "L'Assunzione di Maria commemora la fede secondo cui la Beata Vergine Maria fu assunta in cielo alla fine della sua vita terrena. Questo evento segna il suo ruolo unico di Madre di Dio e la sua esaltazione al di sopra di tutti i santi. Viene celebrata come il culmine delle sue virtù e della sua partecipazione al piano divino della salvezza.",
+      "image": "/images/the_assumption_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Assumption_of_Mary"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "04-05",
+  "feast_day": "5 de abril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vicente Ferrer",
+      "feast_day": "5 de abril",
+      "era": "Medieval",
+      "patronage": [
+        "constructores",
+        "fontaneros",
+        "enfermos",
+        "contra la muerte repentina"
+      ],
+      "legacy": "Apóstol de la conversión y predicador milagroso",
+      "summary": "Vicente Ferrer fue un misionero dominico español conocido por su poderosa predicación y sus obras milagrosas. Dedicó su vida a convertir a los pecadores y a llevar la luz de Cristo a diversas comunidades de toda Europa, en una época de gran cisma en la Iglesia. Su legado incluye la fundación de numerosas instituciones religiosas y un profundo impacto en la vida espiritual de miles de personas.",
+      "image": "/images/saint_vincent_ferrer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Ferrer"
+    }
+  ]
+}

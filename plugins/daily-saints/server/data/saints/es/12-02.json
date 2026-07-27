@@ -1,0 +1,20 @@
+{
+  "date": "12-02",
+  "feast_day": "2 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bibiana",
+      "feast_day": "2 de diciembre",
+      "era": "Siglo IV",
+      "patronage": [
+        "vírgenes",
+        "mártires"
+      ],
+      "legacy": "Un símbolo de fe y valentía inquebrantables",
+      "summary": "Santa Bibiana fue una virgen y mártir romana que vivió en el siglo IV. Junto con su hermana Demetria y su madre Dafrosa, sufrió persecución por su fe cristiana durante el reinado del emperador Juliano el Apóstata. Bibiana soportó severas torturas y finalmente murió por sus creencias, convirtiéndose en un símbolo de fe firme y valentía frente a la adversidad.",
+      "image": "/images/saint_bibiana.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Bibiana"
+    }
+  ]
+}

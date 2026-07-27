@@ -1,0 +1,27 @@
+{
+  "date": "04-04",
+  "feast_day": "4 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Isidore",
+      "feast_day": "4 avril",
+      "era": "VIIe siècle",
+      "patronage": null,
+      "legacy": "Docteur de l'Église",
+      "summary": "désespéré de son peu de succès dans l'étude, il s'enfuit de l'école. Se reposant durant sa fuite près d'une source au bord du chemin, il observa une pierre creusée par la lente mais constante chute de l'eau. Cette leçon le décida à revenir, et alors, par une application déterminée, il réussit.",
+      "image": "/images/saint_isidore.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Benoît de Palerme",
+      "feast_day": "4 avril",
+      "era": "XVIe siècle",
+      "patronage": null,
+      "legacy": "Frère laïc",
+      "summary": "Saint Benoît le Maure, né en Sicile vers 1526, appartenait à la race africaine. Ses parents étaient chrétiens, vivant dans une ancienne ville de Sicile aujourd'hui nommée San Fratello (Saint Petit Frère), en mémoire de notre saint. Par leurs vertus, ils possédaient la liberté qui appartient à tous les vrais enfants de Dieu, quelle que soit leur condition.",
+      "image": "/images/saint_benedict_of_palermo.jpg",
+      "wikipedia": null
+    }
+  ]
+}

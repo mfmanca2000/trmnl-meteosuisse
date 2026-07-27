@@ -1,0 +1,20 @@
+{
+  "date": "10-19",
+  "feast_day": "19 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pedro de Alcántara",
+      "feast_day": "19 de octubre",
+      "era": "Siglo XVI",
+      "patronage": [
+        "directores espirituales",
+        "penitentes"
+      ],
+      "legacy": "Un modelo de penitencia y reforma",
+      "summary": "Pedro de Alcántara fue un sacerdote franciscano y reformador nacido en 1499 en España. Fundó la Congregación de San José de la Estricta Observancia para hacer cumplir la Regla de san Francisco y era conocido por su extrema penitencia y su dedicación a la oración. Su legado incluye la guía espiritual de figuras destacadas como santa Teresa de Ávila y la promoción del movimiento de reforma franciscano durante el tumultuoso siglo XVI.",
+      "image": "/images/saint_peter_of_alcantara.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Alc%C3%A1ntara"
+    }
+  ]
+}

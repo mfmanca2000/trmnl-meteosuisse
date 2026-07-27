@@ -1,0 +1,27 @@
+{
+  "date": "03-24",
+  "feast_day": "24 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gabriele Arcangelo",
+      "feast_day": "24 marzo",
+      "era": null,
+      "patronage": null,
+      "legacy": "Arcangelo",
+      "summary": "Il giorno prima della grande festa dell'Annunciazione, la Chiesa celebra la festa dell'Arcangelo che portò sulla terra il lieto annuncio che Maria era stata scelta per essere la Madre di Dio incarnato. Questo Messaggero angelico appare più volte nella storia del popolo eletto di Dio. Venne dal profeta Daniele dopo che questi ebbe una visione dei futuri imperi persiano e greco, per spiegargliela, come Daniele narra nell'ottavo capitolo del suo libro.",
+      "image": "/images/saint_gabriel_archangel.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Simone",
+      "feast_day": "24 marzo",
+      "era": "XV secolo",
+      "patronage": null,
+      "legacy": "Fanciullo martire",
+      "summary": "Salve, fiori dei martiri! canta la Chiesa nel suo Ufficio dei Santi Innocenti, che furono i primi a morire per Cristo; e in ogni epoca semplici fanciulli e infanti hanno gloriosamente confessato il suo nome. Gli ebrei della città di Trento, certamente posseduti in quel momento dai demoni dell'inferno, decisero nel 1472 di sfogare il loro odio per il Crocifisso uccidendo un bambino cristiano in occasione della Pasqua imminente.",
+      "image": "/images/saint_simon_infant_martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

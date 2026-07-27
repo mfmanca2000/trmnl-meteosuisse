@@ -1,0 +1,49 @@
+{
+  "date": "04-29",
+  "feast_day": "29 avril",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Joseph-Benoît Cottolengo",
+      "feast_day": "29 avril",
+      "era": "XIXe siècle",
+      "patronage": [
+        "malades",
+        "pauvres",
+        "enfants orphelins"
+      ],
+      "legacy": "Soins compatissants pour les marginaux",
+      "summary": "Joseph-Benoît Cottolengo fut un prêtre italien connu pour sa profonde compassion envers les malades et les pauvres. Il fonda la Piccola Casa della Divina Provvidenza, une communauté vouée au soin des personnes dans le besoin, qui se développa jusqu'à devenir une véritable cité de plus de 7 000 personnes. Son héritage comprend la fondation de quatorze communautés religieuses centrées à la fois sur les œuvres de miséricorde corporelles et spirituelles.",
+      "image": "/images/saint_joseph_benedict_cottolengo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Benedetto_Cottolengo"
+    },
+    {
+      "name": "Pierre de Vérone",
+      "feast_day": "29 avril",
+      "era": "Médiéval",
+      "patronage": [
+        "martyrs",
+        "prédicateurs",
+        "hérétiques"
+      ],
+      "legacy": "Martyr courageux et défenseur de la foi",
+      "summary": "Pierre de Vérone fut un prêtre dominicain et martyr né en 1206. Il consacra sa vie à prêcher contre l'hérésie et à convertir de nombreuses personnes à la foi catholique, affrontant souvent une opposition sévère. Il fut finalement martyrisé en 1252, laissant un héritage de courage et de foi inébranlable.",
+      "image": "/images/saint_peter_of_verona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Verona"
+    },
+    {
+      "name": "Hugues de Cluny",
+      "feast_day": "29 avril",
+      "era": "Médiéval",
+      "patronage": [
+        "moines",
+        "enfants abandonnés",
+        "hôpitaux"
+      ],
+      "legacy": "Promoteur de la réforme monastique et de la spiritualité",
+      "summary": "Hugues de Cluny fut un abbé éminent qui dirigea le mouvement de réforme clunisienne au XIe siècle. Il devint abbé de Cluny dès son jeune âge et contribua de manière décisive à étendre l'influence de l'abbaye, qui devint un centre de vie monastique et de spiritualité. Son héritage comprend la fondation de nombreux monastères et la promotion d'un engagement renouvelé envers la discipline monastique et la prière.",
+      "image": "/images/saint_hugh_of_cluny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Cluny"
+    }
+  ]
+}

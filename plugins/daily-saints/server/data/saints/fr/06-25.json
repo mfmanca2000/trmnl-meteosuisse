@@ -1,0 +1,30 @@
+{
+  "date": "06-25",
+  "feast_day": "25 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Guillaume de Verceil",
+      "feast_day": "25 juin",
+      "era": "12e siècle",
+      "patronage": [
+        "moines",
+        "pèlerins"
+      ],
+      "legacy": "Fondateur de la Congrégation du Mont-Vierge",
+      "summary": "Guillaume de Verceil était un abbé italien et le fondateur de la Congrégation du Mont-Vierge. Après une vie de pèlerinage et de contemplation, il établit une communauté monastique vouée à une vie austère et à la dévotion envers la Vierge Marie. Son héritage inclut la vénération continue d'un portrait de la Vierge conservé au monastère, qui attire de nombreux pèlerins.",
+      "image": "/images/saint_william_of_vercelli.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_of_Vercelli"
+    },
+    {
+      "name": "Prosper d'Aquitaine",
+      "feast_day": "25 juin",
+      "era": "5e siècle",
+      "patronage": null,
+      "legacy": "Défenseur des enseignements d'Augustin et de l'orthodoxie",
+      "summary": "Prosper d'Aquitaine fut un théologien éminent et Docteur de l'Église au 5e siècle, connu pour ses écrits et sa défense contre l'hérésie semi-pélagienne. Il collabora étroitement avec saint Augustin, contribuant aux débats théologiques de son époque et aidant à clarifier les enseignements d'Augustin. Son héritage comprend un rôle important dans les efforts de l'Église pour combattre l'hérésie et promouvoir une doctrine saine.",
+      "image": "/images/saint_prosper_of_aquitaine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine"
+    }
+  ]
+}

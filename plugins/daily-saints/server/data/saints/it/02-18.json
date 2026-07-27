@@ -1,0 +1,34 @@
+{
+  "date": "02-18",
+  "feast_day": "18 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Bernadette Soubirous",
+      "feast_day": "18 febbraio",
+      "era": "XIX secolo",
+      "patronage": [
+        "malati",
+        "poveri",
+        "mali del corpo"
+      ],
+      "legacy": "Visionaria di Lourdes e guaritrice dei malati",
+      "summary": "Bernadette Soubirous fu una vergine e mistica francese nota per le sue visioni della Beata Vergine Maria a Lourdes. All'età di quattordici anni, visse diciotto apparizioni, durante le quali le fu chiesto di rivelare i poteri curativi di una sorgente emersa nel sito. In seguito entrò tra le Suore della Carità e visse una vita di umiltà e sofferenza fino alla sua morte, avvenuta all'età di 36 anni.",
+      "image": "/images/saint_bernadette_soubirous.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernadette_Soubirous"
+    },
+    {
+      "name": "Simeone",
+      "feast_day": "18 febbraio",
+      "era": "I secolo",
+      "patronage": [
+        "martiri",
+        "Gerusalemme"
+      ],
+      "legacy": "Martire e guida della Chiesa di Gerusalemme",
+      "summary": "San Simeone fu il secondo vescovo di Gerusalemme e un martire che guidò la comunità cristiana durante un periodo turbolento. Era un parente di Gesù Cristo, figlio di Cleofa e cugino del Salvatore. Dopo aver subito persecuzioni ed essere stato infine crocifisso intorno all'anno 107, è ricordato per la sua fede costante e la sua guida.",
+      "image": "/images/saint_simeon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simeon_of_Jerusalem"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "05-18",
+  "feast_day": "18 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Félix de Cantalice",
+      "feast_day": "18 mai",
+      "era": "XVIe siècle",
+      "patronage": [
+        "pauvres",
+        "mendiants",
+        "frères capucins"
+      ],
+      "legacy": "Un modèle d'humilité et de dévotion",
+      "summary": "Saint Félix de Cantalice fut un frère capucin connu pour sa profonde dévotion à la prière et au service des pauvres à Rome. Il passa plus de quarante ans à quêter pour sa communauté et fut réputé pour sa douceur et sa bonté, intervenant souvent pour apaiser les conflits entre autrui. Canonisé en 1712, on se souvient de lui pour sa foi inébranlable et son amour pour la Vierge Marie.",
+      "image": "/images/saint_felix_of_cantalice.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Cantalice"
+    },
+    {
+      "name": "Venance de Camerino",
+      "feast_day": "18 mai",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyr",
+      "summary": "Saint Venance, né à Camerino en Italie, fut arrêté à l'âge de quinze ans durant la persécution de Dèce, en tant que chrétien prêchant le Christ à autrui. Son histoire est l'une des plus miraculeuses dans les annales des premiers martyrs. Ayant appris qu'il allait être arrêté, il se présenta lui-même au gouverneur de Camerino, Antiochus, aux portes de la ville, et lui déclara que la vie des dieux était remplie de toutes sortes de crimes, qu'il n'existait qu'un seul Dieu, dont le Fils unique s'était fait homme pour délivrer ses semblables de la tyrannie du péché.",
+      "image": "/images/saint_venantius_of_camerino.jpg",
+      "wikipedia": null
+    }
+  ]
+}

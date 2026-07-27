@@ -1,0 +1,20 @@
+{
+  "date": "05-02",
+  "feast_day": "2 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Atanasio",
+      "feast_day": "2 maggio",
+      "era": "IV secolo",
+      "patronage": [
+        "teologi",
+        "fedeltà"
+      ],
+      "legacy": "Difensore della divinità di Cristo",
+      "summary": "Sant'Atanasio fu un importante vescovo di Alessandria e un difensore fondamentale della fede cristiana contro l'eresia ariana, che negava la divinità di Cristo. Affrontò una notevole opposizione, tra cui diversi esili e scontri con quattro imperatori romani, rimanendo tuttavia saldo nelle sue convinzioni e nei suoi doveri pastorali. Riconosciuto come dottore della Chiesa, i suoi scritti e i suoi insegnamenti hanno avuto un impatto duraturo sulla teologia cristiana.",
+      "image": "/images/saint_athanasius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-14",
+  "feast_day": "14 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bonaventure",
+      "feast_day": "14 juillet",
+      "era": "Médiéval",
+      "patronage": [
+        "franciscains",
+        "Université Bonaventure",
+        "théologiens"
+      ],
+      "legacy": "Un théologien profond et un guide spirituel.",
+      "summary": "Bonaventure fut un théologien franciscain et cardinal-évêque du XIIIe siècle, connu pour sa profonde spiritualité et ses contributions savantes à l'Église. Il exerça la fonction de général de l'ordre franciscain et joua un rôle important au concile de Lyon, plaidant pour l'union des Églises grecque et romaine. Ses écrits témoignent d'un amour ardent pour Dieu, ce qui lui valut le titre de Docteur séraphique.",
+      "image": "/images/saint_bonaventure.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bonaventure"
+    }
+  ]
+}

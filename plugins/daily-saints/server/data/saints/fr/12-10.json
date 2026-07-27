@@ -1,0 +1,36 @@
+{
+  "date": "12-10",
+  "feast_day": "10 décembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Notre-Dame de Lorette",
+      "feast_day": "10 décembre",
+      "era": "Moyen Âge",
+      "patronage": [
+        "voyageurs aériens",
+        "bâtisseurs",
+        "familles",
+        "propriétaires"
+      ],
+      "legacy": "Symbole de foi et de pèlerinage",
+      "summary": "Notre-Dame de Lorette est un titre de la Vierge Marie associé à la Sainte Maison de Lorette, que l'on croit être la maison de Marie à Nazareth. Selon la tradition, la maison fut miraculeusement transportée à Lorette, en Italie, à la fin du XIIIe siècle. Ce site est devenu une importante destination de pèlerinage, symbolisant l'Incarnation et le rôle de Marie dans l'histoire du salut.",
+      "image": "/images/translation_of_the_holy_house_of_loreto.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Loreto"
+    },
+    {
+      "name": "Eulalie",
+      "feast_day": "10 décembre",
+      "era": "Début du IVe siècle",
+      "patronage": [
+        "Mérida",
+        "jeunes",
+        "martyrs"
+      ],
+      "legacy": "Martyre courageuse et patronne de Mérida",
+      "summary": "Sainte Eulalie était une jeune martyre chrétienne de Mérida, en Espagne, qui affronta courageusement la persécution sous le règne de l'empereur Dioclétien. À seulement douze ans, elle refusa de renier sa foi, endurant d'horribles tortures avant de succomber à ses blessures. Son héritage de symbole de courage et de foi continue d'inspirer beaucoup de gens, et elle est vénérée comme patronne de Mérida.",
+      "image": "/images/saint_eulalia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulalia_of_M%C3%A9rida"
+    }
+  ]
+}

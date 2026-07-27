@@ -1,0 +1,27 @@
+{
+  "date": "04-15",
+  "feast_day": "15 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pietro Gonzalez",
+      "feast_day": "15 aprile",
+      "era": "XIII secolo",
+      "patronage": null,
+      "legacy": "Sacerdote domenicano",
+      "summary": "San Pietro Gonzalez nacque in Spagna nel 1190, da genitori ricchi e nobili. Fu cresciuto dallo zio materno, vescovo nella regione di Astorga, e, ancora giovane, fu nominato canonico della sua cattedrale. Fu presto scelto come capo del capitolo della cattedrale; ma quando venne a prendere possesso di quella carica, montato su un cavallo finemente bardato, l'animale, con un falso passo, lo gettò nel fango.",
+      "image": "/images/saint_peter_gonzales.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Paterno",
+      "feast_day": "15 aprile",
+      "era": "VI secolo",
+      "patronage": null,
+      "legacy": "Evangelizzatore e fondatore di monasteri",
+      "summary": "San Paterno fu vescovo di Avranches e una figura di rilievo nella prima evangelizzazione cristiana della Francia. Nato a Poitiers intorno al 482, abbracciò la vita monastica e in seguito divenne noto per il suo austero stile di vita anacoretico e per il lavoro missionario svolto insieme a san Scubilione. Fu consacrato vescovo negli ultimi anni della sua vita ed è ricordato per i suoi miracoli e per la fondazione di diversi monasteri.",
+      "image": "/images/saint_paternus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paternus"
+    }
+  ]
+}

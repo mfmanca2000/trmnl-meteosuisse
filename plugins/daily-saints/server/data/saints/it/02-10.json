@@ -1,0 +1,21 @@
+{
+  "date": "02-10",
+  "feast_day": "10 febbraio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Scolastica",
+      "feast_day": "10 febbraio",
+      "era": "VI secolo",
+      "patronage": [
+        "monache",
+        "bambini con convulsioni",
+        "tempeste"
+      ],
+      "legacy": "Modello di devozione monastica e di amore fraterno.",
+      "summary": "Santa Scolastica fu una badessa e sorella di san Benedetto, il fondatore del monachesimo occidentale. Fondò un convento vicino a Montecassino e dedicò la sua vita alla preghiera e alla formazione spirituale della sua comunità. Nota per la sua profonda fede e il legame con il fratello, la sua vita esemplifica l'importanza della compagnia spirituale e della devozione a Dio.",
+      "image": "/images/saint_scholastica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Scholastica"
+    }
+  ]
+}

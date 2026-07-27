@@ -1,0 +1,27 @@
+{
+  "date": "03-23",
+  "feast_day": "23 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Victorien et ses compagnons",
+      "feast_day": "23 mars",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Martyrs",
+      "summary": "Hunéric, roi arien des Vandales en Afrique, succéda à son père Genséric en 477. Il agit d'abord avec modération envers les catholiques de Carthage, mais en 480 il entama une pénible persécution du clergé et des saintes vierges, qui devint générale en 484. De très nombreux catholiques furent mis à mort.",
+      "image": "/images/saint_victorian_and_companions.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Turribius",
+      "feast_day": "23 mars",
+      "era": "XVIIe siècle",
+      "patronage": null,
+      "legacy": "Archevêque de Lima",
+      "summary": "Saint Turribius, archevêque de Lima, naquit le 6 novembre 1538 à Mayorga, dans le royaume de León en Espagne. Élevé dans une famille pieuse où la dévotion était héréditaire, sa jeunesse fut un modèle pour tous ceux qui le connaissaient. Une tendre dévotion à la Bienheureuse Vierge et un amour des pauvres marquèrent cet enfant.",
+      "image": "/images/saint_turribius_of_lima.jpg",
+      "wikipedia": null
+    }
+  ]
+}

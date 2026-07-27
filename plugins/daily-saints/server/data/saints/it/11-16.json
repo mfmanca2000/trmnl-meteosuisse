@@ -1,0 +1,35 @@
+{
+  "date": "11-16",
+  "feast_day": "16 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gertrude",
+      "feast_day": "16 novembre",
+      "era": "Medievale",
+      "patronage": [
+        "anime del purgatorio",
+        "i malati",
+        "i malati di mente"
+      ],
+      "legacy": "Mistica e avvocata delle anime",
+      "summary": "Santa Gertrude di Eisleben, nota anche come Gertrude la Grande, fu una mistica e badessa del XIV secolo nota per le sue profonde intuizioni spirituali e la sua devozione alla Passione di Cristo. Nata in una famiglia nobile, dedicò la sua vita alla preghiera e alla contemplazione, ricevendo numerose esperienze mistiche e rivelazioni. I suoi scritti, in particolare il libro delle sue Rivelazioni, continuano a ispirare devozione e riflessione sull'amore di Dio e sulla salvezza delle anime.",
+      "image": "/images/saint_gertrude.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gertrude"
+    },
+    {
+      "name": "Edmondo di Canterbury",
+      "feast_day": "16 novembre",
+      "era": "Medievale",
+      "patronage": [
+        "arcivescovi",
+        "insegnanti",
+        "studenti"
+      ],
+      "legacy": "Difensore dei diritti della Chiesa e della carità",
+      "summary": "Sant'Edmondo di Canterbury fu un arcivescovo inglese noto per la sua pietà e la sua dedizione alla Chiesa. Difese i diritti della Chiesa contro l'avidità del re Enrico III e affrontò persecuzioni per la sua fermezza. Canonizzato poco dopo la sua morte, è ricordato per i suoi miracoli e il suo impegno verso una vita di preghiera e carità.",
+      "image": "/images/saint_edmund.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edmund_of_East_Anglia"
+    }
+  ]
+}

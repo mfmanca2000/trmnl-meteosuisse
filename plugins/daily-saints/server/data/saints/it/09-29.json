@@ -1,0 +1,22 @@
+{
+  "date": "09-29",
+  "feast_day": "29 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Michele Arcangelo",
+      "feast_day": "29 settembre",
+      "era": "Biblica",
+      "patronage": [
+        "militari",
+        "poliziotti",
+        "paramedici",
+        "malati"
+      ],
+      "legacy": "Protettore e capo degli eserciti celesti",
+      "summary": "Michele Arcangelo è venerato come il capo degli eserciti celesti e protettore dei fedeli. È noto per il suo ruolo nella lotta spirituale, in particolare per aver sconfitto Lucifero e difeso il popolo di Dio nel corso della storia. La Chiesa lo onora come custode e intercessore, specialmente in tempi di conflitto e durante il giudizio finale.",
+      "image": "/images/saint_michael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_the_Archangel"
+    }
+  ]
+}

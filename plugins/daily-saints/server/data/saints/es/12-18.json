@@ -1,0 +1,17 @@
+{
+  "date": "12-18",
+  "feast_day": "18 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gatian",
+      "feast_day": "18 de diciembre",
+      "era": "Siglo I",
+      "patronage": null,
+      "legacy": "Apóstol de las Galias y obispo",
+      "summary": "San Gatian fue el primer obispo de Tours y discípulo de los Apóstoles. Dedicó su vida a predicar el Evangelio y a convertir a los galos paganos, soportando persecuciones y dificultades en el proceso. Sus esfuerzos llevaron al establecimiento de comunidades cristianas y al abandono del culto pagano en la región.",
+      "image": "/images/saint_gatian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gatianus_of_Tours"
+    }
+  ]
+}

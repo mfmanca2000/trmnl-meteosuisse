@@ -1,0 +1,21 @@
+{
+  "date": "09-10",
+  "feast_day": "10 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nicola da Tolentino",
+      "feast_day": "10 settembre",
+      "era": "Medievale",
+      "patronage": [
+        "Chiesa universale",
+        "anime del purgatorio",
+        "moribondi"
+      ],
+      "legacy": "Patrono della Chiesa universale e delle anime",
+      "summary": "Nicola da Tolentino fu un confessore del XIII secolo noto per la sua profonda spiritualità e la sua dedizione al servizio di Dio. Era rinomato per i suoi miracoli, tra cui la resurrezione di bambini, e per la sua profonda carità verso le anime del purgatorio. Canonizzato nel 1446, è riconosciuto come patrono della Chiesa universale e continua a ispirare devozione tra i fedeli.",
+      "image": "/images/saint_nicholas_of_tolentino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Tolentino"
+    }
+  ]
+}

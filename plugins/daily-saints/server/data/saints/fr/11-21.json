@@ -1,0 +1,36 @@
+{
+  "date": "11-21",
+  "feast_day": "21 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "21 novembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "mères",
+        "vierges",
+        "les pauvres",
+        "toute l'humanité"
+      ],
+      "legacy": "Modèle de foi et de pureté",
+      "summary": "Marie, la mère de Jésus, est vénérée dans le christianisme comme la Mère de Dieu et un modèle de vertu. Selon la tradition, elle fut présentée au Temple dès son plus jeune âge, où elle consacra sa vie à la prière et au service. Sa sainteté unique et son rôle dans l'histoire du salut font d'elle une figure centrale de la dévotion et de la théologie chrétiennes.",
+      "image": "/images/the_presentation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Colomban",
+      "feast_day": "21 novembre",
+      "era": "VIe siècle",
+      "patronage": [
+        "moines",
+        "missionnaires",
+        "motocyclistes"
+      ],
+      "legacy": "Pionnier du monachisme en Europe",
+      "summary": "Colomban était un abbé et missionnaire irlandais qui joua un rôle important dans la diffusion du christianisme à travers l'Europe au début du Moyen Âge. Il fonda plusieurs monastères, notamment Luxeuil en France et Bobbio en Italie, qui devinrent des centres de savoir et de spiritualité. Connu pour sa ferme défense de la foi et son intégrité morale, il fit face à l'opposition de puissants seigneurs mais demeura fidèle à sa mission jusqu'à sa mort en 615.",
+      "image": "/images/saint_columbanus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Columbanus"
+    }
+  ]
+}

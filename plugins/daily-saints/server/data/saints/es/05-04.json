@@ -1,0 +1,22 @@
+{
+  "date": "05-04",
+  "feast_day": "4 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mónica",
+      "feast_day": "4 de mayo",
+      "era": "Siglo IV",
+      "patronage": [
+        "madres",
+        "esposas",
+        "conversiones",
+        "mujeres maltratadas"
+      ],
+      "legacy": "Un modelo de devoción materna y fe",
+      "summary": "Santa Mónica fue la madre de san Agustín, conocida por su profunda fe y su perseverancia en la oración. Nacida en 332 en el norte de África, dedicó su vida a la conversión de su esposo y su hijo, soportando numerosas pruebas con paciencia y amor. Sus incansables oraciones fueron decisivas para la conversión de Agustín al cristianismo, convirtiéndola en un modelo de devoción materna y fe.",
+      "image": "/images/saint_monica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Monica_of_Hippo"
+    }
+  ]
+}

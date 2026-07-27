@@ -1,0 +1,48 @@
+{
+  "date": "09-25",
+  "feast_day": "25 de septiembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Vicente Strambi",
+      "feast_day": "25 de septiembre",
+      "era": "Siglo XVIII",
+      "patronage": [
+        "clero",
+        "formación espiritual",
+        "pobres"
+      ],
+      "legacy": "Una vida de oración y servicio.",
+      "summary": "Vicente Strambi fue un sacerdote y obispo pasionista conocido por su profundo compromiso con la oración y el servicio a los pobres. Dedicó su vida a la predicación y al cuidado pastoral, subrayando la importancia de una instrucción adaptada a las distintas profesiones. Canonizado en 1950, es recordado por su humildad, sencillez y dedicación a la formación espiritual de sus seguidores.",
+      "image": "/images/saint_vincent_strambi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Strambi"
+    },
+    {
+      "name": "Fermín",
+      "feast_day": "25 de septiembre",
+      "era": "Siglo II",
+      "patronage": [
+        "Amiens",
+        "clero diocesano"
+      ],
+      "legacy": "Primer obispo de Amiens y mártir",
+      "summary": "San Fermín fue el primer obispo de Amiens y un mártir de comienzos del siglo II. Es conocido por su labor misionera en la Galia, donde predicó el Evangelio y convirtió a muchos paganos al cristianismo. Finalmente fue martirizado por su fe, cumpliendo su deseo de martirio y dejando un legado duradero en la ciudad de Amiens.",
+      "image": "/images/saint_firmin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Firmin_of_Amiens"
+    },
+    {
+      "name": "Finbarr",
+      "feast_day": "25 de septiembre",
+      "era": "Siglo VI",
+      "patronage": [
+        "Cork",
+        "estudiantes",
+        "educación"
+      ],
+      "legacy": "Fundador de Cork y su catedral",
+      "summary": "Finbarr fue un obispo del siglo VI y el fundador de la ciudad de Cork en Irlanda. Estableció un monasterio en Lough Eire, atrayendo a numerosos discípulos y transformando la zona en una próspera comunidad. Su legado perdura a través de la catedral y la iglesia que llevan su nombre, donde se conservan sus reliquias.",
+      "image": "/images/saint_finbarr.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Finbar_of_Cork"
+    }
+  ]
+}

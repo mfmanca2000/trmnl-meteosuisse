@@ -1,0 +1,22 @@
+{
+  "date": "01-29",
+  "feast_day": "29 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francisco de Sales",
+      "feast_day": "29 de enero",
+      "era": "Siglo XVII",
+      "patronage": [
+        "periodistas",
+        "escritores",
+        "sordos",
+        "vendedores"
+      ],
+      "legacy": "Defensor de la mansedumbre y la guía espiritual",
+      "summary": "San Francisco de Sales fue un obispo del siglo XVII conocido por su enfoque afable de la espiritualidad y sus esfuerzos por convertir a los calvinistas de la región del Chablais. Cofundó la Orden de la Visitación junto con santa Juana Francisca de Chantal y subrayó la importancia de la mansedumbre y la humildad. Sus escritos, en particular 'Introducción a la vida devota', han tenido un impacto duradero en la espiritualidad católica.",
+      "image": "/images/saint_francis_de_sales.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_de_Sales"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "08-08",
+  "feast_day": "8 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ciriaco",
+      "feast_day": "8 agosto",
+      "era": "Inizio del IV secolo",
+      "patronage": [
+        "esorcisti",
+        "guaritori",
+        "indemoniati"
+      ],
+      "legacy": "Patrono degli esorcisti e dei guaritori",
+      "summary": "San Ciriaco fu un diacono di Roma che dedicò la sua vita ad aiutare i poveri e i cristiani imprigionati durante il regno dell'imperatore Diocleziano. È noto per aver compiuto guarigioni miracolose, tra cui la liberazione dal demonio della figlia dell'imperatore e della figlia del re di Persia, portando a numerose conversioni. Fu infine martirizzato per la sua fede insieme ai suoi compagni, rifiutandosi di trarre profitto dai doni di Dio che condivideva con gli altri.",
+      "image": "/images/saint_cyriacus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyriacus"
+    },
+    {
+      "name": "Pietro Favre",
+      "feast_day": "8 agosto",
+      "era": "XVI secolo",
+      "patronage": [
+        "studenti",
+        "insegnanti",
+        "gesuiti"
+      ],
+      "legacy": "Pioniere dell'educazione e della spiritualità gesuitica.",
+      "summary": "Pietro Favre fu un sacerdote gesuita pioniere e uno dei primi compagni di Sant'Ignazio di Loyola. Ebbe un ruolo significativo nei primi anni della missione gesuita, in particolare in Germania, dove si adoperò per rafforzare la fede cattolica di fronte alle sfide della Riforma. Beatificato da papa Pio IX nel 1872, è ricordato per la sua dedizione all'educazione e alla guida spirituale.",
+      "image": "/images/blessed_peter_favre_of_villaret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Favre"
+    }
+  ]
+}

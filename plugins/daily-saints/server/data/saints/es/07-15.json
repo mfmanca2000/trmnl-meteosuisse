@@ -1,0 +1,21 @@
+{
+  "date": "07-15",
+  "feast_day": "15 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Enrique II",
+      "feast_day": "15 de julio",
+      "era": "Medieval",
+      "patronage": [
+        "Alemania",
+        "las personas sin hijos",
+        "matrimonios difíciles"
+      ],
+      "legacy": "Un modelo de piedad y liderazgo",
+      "summary": "Enrique II, también conocido como san Enrique, fue rey de Germania y emperador del Sacro Imperio Romano Germánico. Es recordado por su piedad, humildad y devoción a la fe cristiana, así como por sus esfuerzos para difundir el cristianismo en Europa del Este. Su reinado estuvo marcado por victorias militares y la fundación de numerosas iglesias y monasterios, reflejo de su compromiso al servicio de Dios.",
+      "image": "/images/saint_henry.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+    }
+  ]
+}

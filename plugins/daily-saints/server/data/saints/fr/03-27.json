@@ -1,0 +1,31 @@
+{
+  "date": "03-27",
+  "feast_day": "27 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean Damascène",
+      "feast_day": "27 mars",
+      "era": "VIIIe siècle",
+      "patronage": [
+        "les théologiens",
+        "les peintres d'icônes",
+        "les musiciens"
+      ],
+      "legacy": "Défenseur des icônes et de la pensée théologique",
+      "summary": "Jean Damascène fut un théologien éminent et Docteur de l'Église au VIIIe siècle, connu pour sa défense de la vénération des icônes durant la controverse iconoclaste. Il servit comme ministre à la cour du calife de Damas avant de se retirer dans un monastère, où il consacra sa vie à l'écriture et à la prière. Ses œuvres influencèrent considérablement la théologie chrétienne, notamment dans les domaines de l'apologétique et de la relation entre la foi et la raison.",
+      "image": "/images/saint_john_damascene.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Damascus"
+    },
+    {
+      "name": "Jean d'Égypte",
+      "feast_day": "27 mars",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Modèle de solitude et d'obéissance",
+      "summary": "Jean d'Égypte était un moine solitaire connu pour son profond engagement envers la prière et l'obéissance. Après avoir quitté sa vie de charpentier, il se retira dans le désert où il se forgea une réputation pour ses dons spirituels, notamment la guérison et la prophétie. Il est resté célèbre pour ses enseignements sur l'humilité et les dangers de la vanité, ainsi que pour sa foi inébranlable en Dieu jusqu'à sa mort en 394.",
+      "image": "/images/saint_john_of_egypt.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Egypt"
+    }
+  ]
+}

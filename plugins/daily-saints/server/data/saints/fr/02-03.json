@@ -1,0 +1,21 @@
+{
+  "date": "02-03",
+  "feast_day": "3 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Blaise",
+      "feast_day": "3 février",
+      "era": "IVe siècle",
+      "patronage": [
+        "maladies de la gorge",
+        "médecins",
+        "animaux"
+      ],
+      "legacy": "Protecteur contre les maux et maladies de la gorge.",
+      "summary": "Saint Blaise était un évêque et martyr connu pour ses dons de guérison et sa profonde spiritualité. Après être devenu évêque de Sébaste, en Arménie, il consacra sa vie au service de Dieu et à l'aide aux nécessiteux, accomplissant souvent des miracles. Il fut finalement martyrisé lors d'une persécution, et il est particulièrement invoqué pour la protection contre les maux de gorge.",
+      "image": "/images/saint_blaise.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Blaise_of_Sebaste"
+    }
+  ]
+}

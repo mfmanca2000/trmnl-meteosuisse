@@ -1,0 +1,21 @@
+{
+  "date": "03-08",
+  "feast_day": "8 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan de Dios",
+      "feast_day": "8 de marzo",
+      "era": "siglo XVI",
+      "patronage": [
+        "los hospitales",
+        "los enfermos",
+        "los bomberos"
+      ],
+      "legacy": "Patrono de los hospitales y los enfermos",
+      "summary": "Juan de Dios fue un santo portugués conocido por su profunda compasión y dedicación a los enfermos y los pobres. Tras una juventud turbulenta, fundó los Hermanos Hospitalarios, una orden dedicada al cuidado de los necesitados. Su legado perdura a través de su compromiso con la caridad y el cuidado de los marginados, inspirando a muchos en el campo de la salud y el servicio social.",
+      "image": "/images/saint_john_of_god.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_God"
+    }
+  ]
+}

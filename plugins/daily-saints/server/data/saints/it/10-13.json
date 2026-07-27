@@ -1,0 +1,21 @@
+{
+  "date": "10-13",
+  "feast_day": "13 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Edoardo il Confessore",
+      "feast_day": "13 ottobre",
+      "era": "XI secolo",
+      "patronage": [
+        "matrimoni difficili",
+        "pace",
+        "Inghilterra"
+      ],
+      "legacy": "Un re santo noto per la pace e la carità.",
+      "summary": "Edoardo il Confessore fu re d'Inghilterra dal 1042 fino alla sua morte, avvenuta nel 1066. Noto per la sua pietà e il suo impegno verso la Chiesa, governò privilegiando la pace e la carità, guadagnandosi l'affetto dei suoi sudditi. Il suo regno fu segnato dalla ricostruzione di chiese, tra cui l'abbazia di Westminster, e fu canonizzato nel 1161 grazie ai miracoli a lui attribuiti dopo la morte.",
+      "image": "/images/saint_edward_iii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+    }
+  ]
+}

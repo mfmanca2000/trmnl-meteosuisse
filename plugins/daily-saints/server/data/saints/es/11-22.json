@@ -1,0 +1,22 @@
+{
+  "date": "11-22",
+  "feast_day": "22 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cecilia",
+      "feast_day": "22 de noviembre",
+      "era": "siglo II",
+      "patronage": [
+        "los músicos",
+        "los poetas",
+        "la música sacra",
+        "los compositores"
+      ],
+      "legacy": "Patrona de los músicos y los mártires.",
+      "summary": "Santa Cecilia es venerada como una virgen mártir que vivió durante la era cristiana primitiva. Es conocida por su fe inquebrantable y su compromiso con su voto de virginidad, incluso frente a la persecución. Su legado perdura como patrona de los músicos, reflejando su asociación con la música y las artes.",
+      "image": "/images/saint_cecilia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cecilia"
+    }
+  ]
+}

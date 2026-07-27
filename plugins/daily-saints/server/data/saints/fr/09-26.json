@@ -1,0 +1,36 @@
+{
+  "date": "09-26",
+  "feast_day": "26 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Martyrs nord-américains",
+      "feast_day": "26 septembre",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "Canada",
+        "peuples autochtones",
+        "missionnaires"
+      ],
+      "legacy": "Martyrs de la foi et du dévouement",
+      "summary": "Les Martyrs nord-américains sont huit missionnaires jésuites qui furent martyrisés au XVIIe siècle alors qu'ils évangélisaient parmi les peuples autochtones d'Amérique du Nord. Ils firent face à d'extrêmes difficultés et à la violence, en particulier de la part des Iroquois, alors qu'ils cherchaient à répandre le christianisme. Leur dévouement et leur sacrifice ont fait d'eux des figures vénérées de l'Église catholique, symbolisant l'engagement envers la foi face à l'adversité.",
+      "image": "/images/the_holy_north_american_martyrs.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/North_American_Martyrs"
+    },
+    {
+      "name": "Cyprien",
+      "feast_day": "26 septembre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "magiciens",
+        "sorciers",
+        "conversion",
+        "protection contre le mal"
+      ],
+      "legacy": "Transformation des ténèbres vers la foi",
+      "summary": "Saint Cyprien était un évêque de Carthage du IIIe siècle qui pratiquait d'abord le paganisme et la magie noire avant de se convertir au christianisme. Sa conversion fut suscitée par sa rencontre avec une jeune chrétienne nommée Justine, qu'il tenta de séduire à l'aide de ses arts obscurs. Lui et Justine furent tous deux martyrisés lors de la persécution sous l'empereur Dioclétien, illustrant le pouvoir transformateur de la foi et de la grâce.",
+      "image": "/images/saint_cyprian_and_saint_justina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyprian_of_Carthage"
+    }
+  ]
+}

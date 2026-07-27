@@ -1,0 +1,21 @@
+{
+  "date": "01-03",
+  "feast_day": "3 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Genoveffa",
+      "feast_day": "3 gennaio",
+      "era": "V secolo",
+      "patronage": [
+        "Parigi",
+        "matrimoni difficili",
+        "bambini malati"
+      ],
+      "legacy": "Patrona di Parigi e protettrice dei fedeli.",
+      "summary": "Santa Genoveffa fu una vergine del V secolo e patrona di Parigi. Nota per la sua pietà e i suoi interventi miracolosi, svolse un ruolo cruciale nella protezione della città durante gli assedi, in particolare contro Attila l'Unno. La sua eredità perdura come simbolo di fede e resilienza di fronte alle avversità.",
+      "image": "/images/saint_genevieve.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Genevieve_of_Paris"
+    }
+  ]
+}

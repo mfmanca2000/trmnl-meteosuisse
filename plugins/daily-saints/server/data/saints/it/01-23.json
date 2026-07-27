@@ -1,0 +1,35 @@
+{
+  "date": "01-23",
+  "feast_day": "23 gennaio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Raimondo di Peñafort",
+      "feast_day": "23 gennaio",
+      "era": "XIII secolo",
+      "patronage": [
+        "avvocati",
+        "prigionieri",
+        "riscatto dei prigionieri"
+      ],
+      "legacy": "Patrono degli avvocati e dei prigionieri",
+      "summary": "Raimondo di Peñafort fu un sacerdote domenicano spagnolo e una figura di spicco del XIII secolo. È noto soprattutto per aver fondato l'Ordine di Nostra Signora della Mercede, dedicato alla redenzione dei prigionieri cristiani in mano musulmana. Il suo lascito include importanti contributi al diritto canonico e una vita segnata da miracoli e da una profonda devozione alla Vergine Maria.",
+      "image": "/images/saint_raymond_of_pennafort.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raymond_of_Pe%C3%B1afort"
+    },
+    {
+      "name": "Ildefonso",
+      "feast_day": "23 gennaio",
+      "era": "VII secolo",
+      "patronage": [
+        "teologi",
+        "vergini",
+        "Toledo"
+      ],
+      "legacy": "Difensore della perpetua verginità di Maria",
+      "summary": "Ildefonso fu un vescovo di Toledo del VII secolo noto per la sua difesa della perpetua verginità della Vergine Maria. Teologo di rilievo, scrisse ampiamente sulla dottrina mariana, guadagnandosi il titolo di 'Dottore della verginità della Madre di Dio'. Il suo lascito include numerosi miracoli a lui attribuiti e la fondazione di un monastero per vergini in onore di Maria.",
+      "image": "/images/saint_ildephonsus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ildephonsus_of_Toledo"
+    }
+  ]
+}

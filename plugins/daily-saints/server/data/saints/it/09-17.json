@@ -1,0 +1,36 @@
+{
+  "date": "09-17",
+  "feast_day": "17 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Francesco d'Assisi",
+      "feast_day": "17 settembre",
+      "era": "Medievale",
+      "patronage": [
+        "animali",
+        "ambiente",
+        "mercanti",
+        "clandestini"
+      ],
+      "legacy": "Patrono degli animali e dell'ecologia",
+      "summary": "Francesco d'Assisi fu un frate italiano del XIII secolo e fondatore dell'Ordine Francescano, noto per il suo profondo amore per la natura e il suo impegno per la povertà. È particolarmente celebre per aver ricevuto le Stimmate, le ferite di Cristo, che lo resero un vivo riflesso della sofferenza di Gesù. La sua vita e i suoi insegnamenti sottolineavano l'umiltà, la compassione e un profondo legame con tutto il creato.",
+      "image": "/images/the_stigmata_of_saint_francis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    },
+    {
+      "name": "Lamberto",
+      "feast_day": "17 settembre",
+      "era": "VII secolo",
+      "patronage": [
+        "vescovi",
+        "scalpellini",
+        "pescatori"
+      ],
+      "legacy": "Martirio per la fede e l'integrità",
+      "summary": "San Lamberto fu un vescovo di Maastricht e martire vissuto nel VII secolo. Noto per i suoi miracoli e la sua dedizione al Vangelo, fu scelto come successore del vescovo Teodardo in giovane età. La sua ferma opposizione alla corruzione morale portò infine al suo assassinio nel 705.",
+      "image": "/images/saint_lambert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lambert_of_Maastricht"
+    }
+  ]
+}

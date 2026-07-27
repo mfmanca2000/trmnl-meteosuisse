@@ -1,0 +1,21 @@
+{
+  "date": "08-21",
+  "feast_day": "21 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juana Francisca de Chantal",
+      "feast_day": "21 de agosto",
+      "era": "Siglo XVII",
+      "patronage": [
+        "viudas",
+        "matrimonios difíciles",
+        "pérdida de los padres"
+      ],
+      "legacy": "Fundadora de la Orden de la Visitación",
+      "summary": "Juana Francisca de Chantal fue una noble francesa que fundó la Orden de la Visitación de la Bienaventurada Virgen María. Tras sufrir tragedias personales, entre ellas la pérdida de su esposo y de sus hijos, dedicó su vida a Dios y al servicio de los demás. Su legado incluye la fundación de numerosos conventos que acogían a viudas y mujeres de salud frágil.",
+      "image": "/images/saint_jane_frances_de_chantal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal"
+    }
+  ]
+}

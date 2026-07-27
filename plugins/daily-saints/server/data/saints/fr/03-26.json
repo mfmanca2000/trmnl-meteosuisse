@@ -1,0 +1,21 @@
+{
+  "date": "03-26",
+  "feast_day": "26 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ludger",
+      "feast_day": "26 mars",
+      "era": "VIIIe siècle",
+      "patronage": [
+        "la Westphalie",
+        "la Frise",
+        "les éducateurs"
+      ],
+      "legacy": "Pionnier de la foi chrétienne en Europe du Nord",
+      "summary": "Saint Ludger fut le premier évêque de Münster et joua un rôle important dans la christianisation des Saxons en Frise. Formé sous saint Grégoire d'Utrecht et Alcuin en Angleterre, il fonda plusieurs monastères et églises au cours de son œuvre missionnaire. Connu pour sa profonde piété et ses miracles, il poursuivit ses fonctions pastorales jusqu'à sa mort le 26 mars 809.",
+      "image": "/images/saint_ludger.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ludger"
+    }
+  ]
+}

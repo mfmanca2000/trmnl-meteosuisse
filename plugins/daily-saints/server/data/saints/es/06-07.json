@@ -1,0 +1,27 @@
+{
+  "date": "06-07",
+  "feast_day": "7 de junio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Claudio",
+      "feast_day": "7 de junio",
+      "era": "Siglo VII",
+      "patronage": null,
+      "legacy": "Modelo de dedicación monástica y pastoral",
+      "summary": "San Claudio fue un influyente arzobispo y abad de la alta Edad Media, conocido por su profunda espiritualidad y su entrega a la vida monástica. Desempeñó un papel importante en la formación del clero y fue reconocido por sus poderosos sermones que inspiraban una transformación moral. Su legado incluye el compromiso con la oración, la humildad y el cuidado de una comunidad devota, que siguió floreciendo mucho después de su muerte.",
+      "image": "/images/saint_claude.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Claude_of_Besan%C3%A7on"
+    },
+    {
+      "name": "Roberto de Newminster",
+      "feast_day": "7 de junio",
+      "era": "Siglo XII",
+      "patronage": null,
+      "legacy": "Fundador de la abadía de Fountains y reformador monástico",
+      "summary": "Roberto de Newminster fue un abad inglés y una figura clave en la reforma de la orden benedictina durante el siglo XII. Fundó el monasterio de la abadía de Fountains y más tarde se convirtió en abad de Newminster, guiando a su comunidad hacia la santidad y una estricta observancia de la vida monástica. Su legado se caracteriza por su profundo compromiso con el ascetismo y el crecimiento espiritual de sus hermanos, lo que impulsó la fundación de varias nuevas comunidades monásticas.",
+      "image": "/images/saint_robert_of_newminster.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_of_Newminster"
+    }
+  ]
+}

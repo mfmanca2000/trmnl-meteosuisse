@@ -1,0 +1,17 @@
+{
+  "date": "01-08",
+  "feast_day": "8 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Apolinar",
+      "feast_day": "8 de enero",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Defensor de la fe en los inicios del cristianismo",
+      "summary": "Apolinar fue obispo de Hierápolis, en Frigia, y una figura destacada de la Iglesia primitiva. Es conocido sobre todo por su apología dirigida al emperador Marco Aurelio, en la que abogaba por la protección de los cristianos en una época de persecución. Aunque gran parte de su obra se ha perdido, fue muy valorado por los historiadores de la Iglesia primitiva por su defensa de la fe frente a las herejías.",
+      "image": "/images/saint_apollinaris_the_apologist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apollinaris_of_Hierapolis"
+    }
+  ]
+}

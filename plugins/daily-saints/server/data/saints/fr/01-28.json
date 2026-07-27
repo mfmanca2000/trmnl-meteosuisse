@@ -1,0 +1,21 @@
+{
+  "date": "01-28",
+  "feast_day": "28 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pierre Nolasque",
+      "feast_day": "28 janvier",
+      "era": "XIIIe siècle",
+      "patronage": [
+        "captifs",
+        "rançon",
+        "prisonniers"
+      ],
+      "legacy": "Champion des captifs chrétiens et de la liberté",
+      "summary": "Pierre Nolasque fut, au XIIIe siècle, le fondateur de l'Ordre de Notre-Dame de la Merci, consacré à la rédemption des captifs chrétiens détenus par les Maures. Il consacra sa vie et sa fortune à sauver des chrétiens réduits en esclavage, négociant souvent avec leurs ravisseurs et allant jusqu'à s'offrir lui-même en rançon. Canonisé en 1628, son héritage se perpétue à travers l'œuvre continue de son Ordre dans la prédication et les efforts humanitaires.",
+      "image": "/images/saint_peter_nolasco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nolasco"
+    }
+  ]
+}

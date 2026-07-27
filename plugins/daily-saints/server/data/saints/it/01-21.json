@@ -1,0 +1,21 @@
+{
+  "date": "01-21",
+  "feast_day": "21 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Agnese",
+      "feast_day": "21 gennaio",
+      "era": "IV secolo",
+      "patronage": [
+        "vergini",
+        "ragazze",
+        "vittime di stupro"
+      ],
+      "legacy": "Simbolo di purezza e fede incrollabile",
+      "summary": "Sant'Agnese fu una giovane martire cristiana vissuta a Roma all'inizio del IV secolo. A soli dodici anni, rifiutò di rinnegare la propria fede in Cristo, sopportando la tortura e infine la morte piuttosto che sottomettersi alle pratiche pagane. La sua fede incrollabile e la sua purezza ne hanno fatto una figura molto amata nella Chiesa cattolica, simbolo di innocenza e coraggio di fronte alla persecuzione.",
+      "image": "/images/saint_agnes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agnes_of_Rome"
+    }
+  ]
+}

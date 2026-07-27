@@ -1,0 +1,22 @@
+{
+  "date": "10-15",
+  "feast_day": "15 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Teresa de Ávila",
+      "feast_day": "15 de octubre",
+      "era": "Siglo XVI",
+      "patronage": [
+        "enfermos",
+        "pérdida de los padres",
+        "escritores",
+        "España"
+      ],
+      "legacy": "Pionera de la oración contemplativa y la reforma",
+      "summary": "Teresa de Ávila fue una mística española y reformadora de la Orden del Carmelo, conocida por sus profundos escritos espirituales y su papel en la reforma de su comunidad religiosa. Fundó numerosos conventos y se dedicó a una vida de oración y servicio, subrayando la importancia de una relación personal con Dios. Canonizada en 1622, es reconocida como Doctora de la Iglesia por sus aportaciones a la espiritualidad cristiana.",
+      "image": "/images/saint_teresa_of_avila.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "09-03",
+  "feast_day": "3 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pio X",
+      "feast_day": "3 settembre",
+      "era": "XX secolo",
+      "patronage": [
+        "clero",
+        "malati",
+        "bambini malati"
+      ],
+      "legacy": "Papa della Comunione frequente e della devozione eucaristica.",
+      "summary": "Pio X fu un papa noto per il suo fervente sostegno alla Comunione frequente e per i suoi sforzi nel combattere il modernismo all'interno della Chiesa. Nato Giuseppe Sarto nel 1836, salì i gradini della gerarchia ecclesiastica, diventando un amato vescovo e poi Patriarca di Venezia prima del suo pontificato. Fu canonizzato nel 1954, ricordato per la sua pietà, carità e dedizione all'Eucaristia.",
+      "image": "/images/saint_pius_x.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_X"
+    },
+    {
+      "name": "Serafia",
+      "feast_day": "3 settembre",
+      "era": "I secolo",
+      "patronage": null,
+      "legacy": "Martirio per una fede incrollabile in Cristo",
+      "summary": "Santa Serafia era una vergine e martire di Antiochia che dedicò la sua vita a Dio dopo la morte dei genitori. Divenne serva di Santa Sabina, una nobildonna romana, e fu infine martirizzata per la sua fede cristiana. Nonostante fosse sottoposta a tortura, la sua fede incrollabile la condusse alla decapitazione, e fu sepolta con grande rispetto dalla sua padrona.",
+      "image": "/images/saint_seraphia_and_saint_sabina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Serapia"
+    }
+  ]
+}

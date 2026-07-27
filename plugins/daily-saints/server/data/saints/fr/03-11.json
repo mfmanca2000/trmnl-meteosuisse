@@ -1,0 +1,20 @@
+{
+  "date": "03-11",
+  "feast_day": "11 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Euloge de Cordoue",
+      "feast_day": "11 mars",
+      "era": "IXe siècle",
+      "patronage": [
+        "les martyrs",
+        "les convertis chrétiens"
+      ],
+      "legacy": "Défenseur de la foi et martyr chrétien",
+      "summary": "Euloge de Cordoue était un martyr chrétien et prêtre du IXe siècle connu pour sa défense acharnée de la foi durant la période de domination musulmane en Espagne. Il fut exécuté pour ses critiques ouvertes de l'islam et ses efforts pour convertir les musulmans au christianisme. Ses écrits et son martyre ont fait de lui une figure importante de l'histoire de la résistance chrétienne dans la péninsule ibérique.",
+      "image": "/images/saint_eulogius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "date": "04-29",
+  "feast_day": "29 aprile",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Giuseppe Benedetto Cottolengo",
+      "feast_day": "29 aprile",
+      "era": "XIX secolo",
+      "patronage": [
+        "malati",
+        "poveri",
+        "bambini orfani"
+      ],
+      "legacy": "Cura compassionevole per gli emarginati",
+      "summary": "Giuseppe Benedetto Cottolengo fu un sacerdote italiano noto per la sua profonda compassione verso i malati e i poveri. Fondò la Piccola Casa della Divina Provvidenza, una comunità dedicata alla cura di chi era nel bisogno, che crebbe fino a diventare una vera e propria città di oltre 7.000 persone. Il suo lascito comprende la fondazione di quattordici comunità religiose incentrate sia sulle opere di misericordia corporali che spirituali.",
+      "image": "/images/saint_joseph_benedict_cottolengo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Benedetto_Cottolengo"
+    },
+    {
+      "name": "Pietro da Verona",
+      "feast_day": "29 aprile",
+      "era": "Medievale",
+      "patronage": [
+        "martiri",
+        "predicatori",
+        "eretici"
+      ],
+      "legacy": "Coraggioso martire e difensore della fede",
+      "summary": "Pietro da Verona fu un sacerdote domenicano e martire nato nel 1206. Dedicò la sua vita a predicare contro l'eresia e a convertire molti alla fede cattolica, affrontando spesso una forte opposizione. Fu infine martirizzato nel 1252, lasciando un'eredità di coraggio e fede incrollabile.",
+      "image": "/images/saint_peter_of_verona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Verona"
+    },
+    {
+      "name": "Ugo di Cluny",
+      "feast_day": "29 aprile",
+      "era": "Medievale",
+      "patronage": [
+        "monaci",
+        "bambini abbandonati",
+        "ospedali"
+      ],
+      "legacy": "Promotore della riforma monastica e della spiritualità",
+      "summary": "Ugo di Cluny fu un eminente abate che guidò il movimento di riforma cluniacense nell'XI secolo. Divenne abate di Cluny in giovane età e contribuì in modo determinante ad ampliare l'influenza dell'abbazia, che divenne un centro di vita monastica e spiritualità. Il suo lascito comprende la fondazione di numerosi monasteri e la promozione di un rinnovato impegno per la disciplina monastica e la preghiera.",
+      "image": "/images/saint_hugh_of_cluny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Cluny"
+    }
+  ]
+}

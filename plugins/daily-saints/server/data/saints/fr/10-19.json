@@ -1,0 +1,20 @@
+{
+  "date": "10-19",
+  "feast_day": "19 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pierre d'Alcantara",
+      "feast_day": "19 octobre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "directeurs spirituels",
+        "pénitents"
+      ],
+      "legacy": "Un modèle de pénitence et de réforme",
+      "summary": "Pierre d'Alcantara était un prêtre franciscain et réformateur né en 1499 en Espagne. Il fonda la Congrégation de Saint-Joseph de la Stricte Observance pour faire respecter la règle de saint François et était connu pour sa pénitence extrême et son dévouement à la prière. Son héritage comprend l'accompagnement spirituel de figures notables telles que sainte Thérèse d'Avila et la promotion du mouvement de réforme franciscain au cours du tumultueux XVIe siècle.",
+      "image": "/images/saint_peter_of_alcantara.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Alc%C3%A1ntara"
+    }
+  ]
+}

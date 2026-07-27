@@ -1,0 +1,50 @@
+{
+  "date": "02-05",
+  "feast_day": "5 febbraio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Agata",
+      "feast_day": "5 febbraio",
+      "era": "III secolo",
+      "patronage": [
+        "pazienti con cancro al seno",
+        "infermiere",
+        "vigili del fuoco",
+        "cuochi"
+      ],
+      "legacy": "Patrona della purezza e della protezione",
+      "summary": "Sant'Agata fu una martire cristiana siciliana celebrata per la sua fede incrollabile e il suo impegno per la castità. Subì torture atroci, comprese mutilazioni, per essersi rifiutata di rinnegare la sua fede, e rimase devota a Cristo fino alla morte. Il suo lascito continua poiché è venerata per la sua purezza ed è invocata per la protezione contro le calamità naturali, in particolare nella sua città natale, Catania.",
+      "image": "/images/saint_agatha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agatha_of_Sicily"
+    },
+    {
+      "name": "Santi Martiri del Giappone",
+      "feast_day": "5 febbraio",
+      "era": "XVI secolo",
+      "patronage": [
+        "Giappone",
+        "missionari",
+        "martiri"
+      ],
+      "legacy": "Coraggiosi testimoni di fede e sacrificio.",
+      "summary": "I Santi Martiri del Giappone furono un gruppo di 26 cristiani, tra cui sei francescani, tre gesuiti e diciassette laici, martirizzati nel 1597 durante un periodo di intensa persecuzione. La loro fede incrollabile e la loro disponibilità a morire per Cristo ispirarono molti e contribuirono alla crescita del cristianesimo in Giappone. Canonizzati da papa Pio IX nel 1862, sono ricordati per il loro coraggio e la loro devozione alle proprie convinzioni.",
+      "image": "/images/the_holy_martyrs_of_japan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Martyrs_of_Jasenovac"
+    },
+    {
+      "name": "Filippo di Gesù",
+      "feast_day": "5 febbraio",
+      "era": "XVI secolo",
+      "patronage": [
+        "Messico",
+        "francescani",
+        "martiri"
+      ],
+      "legacy": "Primo martire della missione cristiana in Giappone",
+      "summary": "Filippo di Gesù fu un frate francescano e martire nato in Messico, che in seguito si recò in Giappone come missionario. Fu arrestato e giustiziato per la sua fede durante un periodo di intensa persecuzione contro i cristiani in Giappone. Il suo lascito è onorato come uno dei primi martiri del Giappone, ed è ricordato per il suo incrollabile impegno nella fede fino alla morte.",
+      "image": "/images/saint_philip_of_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_of_Jesus"
+    }
+  ]
+}

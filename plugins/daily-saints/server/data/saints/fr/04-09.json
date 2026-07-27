@@ -1,0 +1,34 @@
+{
+  "date": "04-09",
+  "feast_day": "9 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean l'Aumônier",
+      "feast_day": "9 avril",
+      "era": "VIe siècle",
+      "patronage": [
+        "aumôniers",
+        "pauvres",
+        "charité"
+      ],
+      "legacy": "Champion des pauvres et de l'aumône",
+      "summary": "Jean l'Aumônier fut un patriarche d'Alexandrie du VIe siècle connu pour sa générosité extraordinaire et son engagement à aider les pauvres. Après avoir perdu sa famille, il consacra sa vie à l'aumône, nourrissant quotidiennement des milliers de nécessiteux. Son héritage comprend la fondation de nombreuses églises et une réputation de foi et de charité inébranlables.",
+      "image": "/images/saint_john_the_almsgiver.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Almsgiver"
+    },
+    {
+      "name": "Marie l'Égyptienne",
+      "feast_day": "9 avril",
+      "era": "Ve siècle",
+      "patronage": [
+        "pénitents",
+        "convertis"
+      ],
+      "legacy": "Un symbole de repentir et de rédemption.",
+      "summary": "Marie l'Égyptienne fut une ancienne prostituée qui connut une profonde conversion après un pèlerinage à Jérusalem. Après avoir pris conscience de sa vie de péché, elle se retira dans le désert où elle vécut dans la pénitence pour le reste de sa vie. Son histoire témoigne puissamment de la possibilité de la rédemption et de la grâce de Dieu.",
+      "image": "/images/saint_mary_of_egypt.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_of_Egypt"
+    }
+  ]
+}

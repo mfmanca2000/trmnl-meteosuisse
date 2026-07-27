@@ -1,0 +1,20 @@
+{
+  "date": "05-17",
+  "feast_day": "17 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pascal Baylon",
+      "feast_day": "17 mai",
+      "era": "XVIe siècle",
+      "patronage": [
+        "congrès eucharistiques",
+        "confréries"
+      ],
+      "legacy": "Dévotion à l'Eucharistie et humilité",
+      "summary": "Saint Pascal Baylon fut un frère laïc franciscain connu pour sa profonde dévotion au Saint-Sacrement. Il consacra sa vie au service de Dieu et à l'évangélisation des autres, bien qu'il fût sans instruction et humble dans ses tâches. Canonisé en 1690, il est reconnu comme le patron des congrès eucharistiques et des confréries.",
+      "image": "/images/saint_paschal_baylon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paschal_Bayl%C3%B3n"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "date": "09-25",
+  "feast_day": "25 settembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Vincenzo Strambi",
+      "feast_day": "25 settembre",
+      "era": "XVIII secolo",
+      "patronage": [
+        "clero",
+        "formazione spirituale",
+        "poveri"
+      ],
+      "legacy": "Una vita di preghiera e servizio.",
+      "summary": "Vincenzo Strambi fu un sacerdote e vescovo passionista noto per il suo profondo impegno nella preghiera e nel servizio ai poveri. Dedicò la sua vita alla predicazione e alla cura pastorale, sottolineando l'importanza di un'istruzione adattata alle diverse professioni. Canonizzato nel 1950, è ricordato per la sua umiltà, semplicità e dedizione alla formazione spirituale dei suoi seguaci.",
+      "image": "/images/saint_vincent_strambi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Strambi"
+    },
+    {
+      "name": "Firmino",
+      "feast_day": "25 settembre",
+      "era": "II secolo",
+      "patronage": [
+        "Amiens",
+        "clero diocesano"
+      ],
+      "legacy": "Primo vescovo di Amiens e martire",
+      "summary": "San Firmino fu il primo vescovo di Amiens e un martire dell'inizio del II secolo. È noto per il suo lavoro missionario in Gallia, dove predicò il Vangelo e convertì molti pagani al cristianesimo. Alla fine fu martirizzato per la sua fede, realizzando il suo desiderio di martirio e lasciando un'eredità duratura nella città di Amiens.",
+      "image": "/images/saint_firmin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Firmin_of_Amiens"
+    },
+    {
+      "name": "Finbarr",
+      "feast_day": "25 settembre",
+      "era": "VI secolo",
+      "patronage": [
+        "Cork",
+        "studenti",
+        "istruzione"
+      ],
+      "legacy": "Fondatore di Cork e della sua cattedrale",
+      "summary": "Finbarr fu un vescovo del VI secolo e il fondatore della città di Cork in Irlanda. Fondò un monastero a Lough Eire, attirando numerosi discepoli e trasformando l'area in una comunità fiorente. La sua eredità continua attraverso la cattedrale e la chiesa che portano il suo nome, dove sono conservate le sue reliquie.",
+      "image": "/images/saint_finbarr.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Finbar_of_Cork"
+    }
+  ]
+}

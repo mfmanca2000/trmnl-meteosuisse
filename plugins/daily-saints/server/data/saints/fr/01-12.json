@@ -1,0 +1,58 @@
+{
+  "date": "01-12",
+  "feast_day": "12 janvier",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Marguerite Bourgeoys",
+      "feast_day": "12 janvier",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "enseignants",
+        "Canada",
+        "éducation"
+      ],
+      "legacy": "Pionnière de l'éducation au Canada",
+      "summary": "Marguerite Bourgeoys était une religieuse française et la fondatrice de la Congrégation de Notre-Dame, vouée à l'éducation des enfants au Canada. Elle arriva en Nouvelle-France en 1653 et établit la première école de Montréal, contribuant de façon significative à l'éducation et au bien-être social de la communauté. Son héritage comprend la création de nombreuses écoles et son dévouement à l'accompagnement spirituel et pratique des jeunes femmes et des familles.",
+      "image": "/images/saint_margaret_bourgeoys.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Bourgeoys"
+    },
+    {
+      "name": "Aelred",
+      "feast_day": "12 janvier",
+      "era": "Moyen Âge",
+      "patronage": [
+        "amitié",
+        "spiritualité"
+      ],
+      "legacy": "Champion de l'amour et de l'amitié spirituelle",
+      "summary": "Saint Aelred était un abbé cistercien connu pour ses enseignements profonds sur l'amour et l'amitié. Il consacra sa vie au monachisme, dirigeant une communauté de moines et rédigeant des œuvres influentes sur la spiritualité. Son héritage souligne l'importance de l'amour divin et du pouvoir transformateur de l'amitié dans la recherche de Dieu.",
+      "image": "/images/saint_aelred_or_alfred.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aelred_of_Rievaulx"
+    },
+    {
+      "name": "Arcade",
+      "feast_day": "12 janvier",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Courageux martyr de l'Église primitive",
+      "summary": "Saint Arcade était un martyr chrétien originaire d'Afrique qui souffrit lors d'une persécution féroce au IIIe siècle. Il refusa courageusement de sacrifier aux dieux païens, endurant à la place de brutales tortures. Sa foi inébranlable et son ultime sacrifice inspirèrent de nombreux chrétiens à demeurer fidèles à Dieu face à l'adversité.",
+      "image": "/images/saint_arcadius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Arcadius"
+    },
+    {
+      "name": "Benoît Biscop",
+      "feast_day": "12 janvier",
+      "era": "VIIe siècle",
+      "patronage": [
+        "bibliothèques",
+        "artistes",
+        "moines"
+      ],
+      "legacy": "Pionnier de l'éducation monastique et artistique en Angleterre",
+      "summary": "Benoît Biscop était un abbé anglo-saxon et une figure clé de l'établissement du monachisme en Angleterre au VIIe siècle. Il effectua plusieurs pèlerinages à Rome, en rapportant des livres, des œuvres d'art et des connaissances architecturales qui influencèrent grandement la vie monastique anglaise. Son dévouement à l'éducation et aux arts contribua à poser les fondations des futures communautés monastiques en Northumbrie.",
+      "image": "/images/saint_benedict_biscop.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Biscop"
+    }
+  ]
+}

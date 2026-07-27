@@ -1,0 +1,31 @@
+{
+  "date": "03-27",
+  "feast_day": "27 de marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan Damasceno",
+      "feast_day": "27 de marzo",
+      "era": "siglo VIII",
+      "patronage": [
+        "los teólogos",
+        "los pintores de iconos",
+        "los músicos"
+      ],
+      "legacy": "Defensor de los iconos y del pensamiento teológico",
+      "summary": "Juan Damasceno fue un destacado teólogo y Doctor de la Iglesia en el siglo VIII, conocido por su defensa de la veneración de los iconos durante la controversia iconoclasta. Sirvió como ministro en la corte del Califa de Damasco antes de retirarse a un monasterio, donde dedicó su vida a la escritura y la oración. Sus obras influyeron significativamente en la teología cristiana, particularmente en los campos de la apologética y la relación entre fe y razón.",
+      "image": "/images/saint_john_damascene.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Damascus"
+    },
+    {
+      "name": "Juan de Egipto",
+      "feast_day": "27 de marzo",
+      "era": "siglo IV",
+      "patronage": null,
+      "legacy": "Modelo de soledad y obediencia",
+      "summary": "Juan de Egipto fue un monje solitario conocido por su profundo compromiso con la oración y la obediencia. Tras dejar su vida como carpintero, se retiró al desierto, donde se ganó una reputación por sus dones espirituales, incluidas la curación y la profecía. Es recordado por sus enseñanzas sobre la humildad y los peligros de la vanidad, así como por su fe inquebrantable en Dios hasta su muerte en 394.",
+      "image": "/images/saint_john_of_egypt.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Egypt"
+    }
+  ]
+}

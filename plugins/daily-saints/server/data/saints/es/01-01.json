@@ -1,0 +1,40 @@
+{
+  "date": "01-01",
+  "feast_day": "1 de enero",
+  "count": 3,
+  "saints": [
+    {
+      "name": "El Padre Eterno",
+      "feast_day": "1 de enero",
+      "era": null,
+      "patronage": null,
+      "legacy": "La encarnación de la paternidad divina",
+      "summary": "El Padre Eterno es un título utilizado para referirse a Dios Padre en la teología cristiana. Es reconocido como el creador y sustentador del universo, encarnando el amor y la autoridad. El concepto pone énfasis en la relación entre el Padre y el Hijo, particularmente en el contexto de la Santísima Trinidad.",
+      "image": "/images/the_eternal_father.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/God_the_Father"
+    },
+    {
+      "name": "La Circuncisión de Nuestro Señor",
+      "feast_day": "1 de enero",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "La circuncisión era un sacramento de la Antigua Ley, y la primera observancia legal exigida a los descendientes de Abraham por Dios Todopoderoso. Era un sacramento de iniciación al servicio de Dios, y una promesa, un compromiso, de creer y actuar como Él había revelado y ordenado. La ley de la circuncisión permaneció vigente hasta la muerte de Cristo.",
+      "image": "/images/the_circumcision_of_our_lord.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Fulgencio",
+      "feast_day": "1 de enero",
+      "era": "Siglo VI",
+      "patronage": [
+        "teólogos",
+        "clero exiliado"
+      ],
+      "legacy": "Defensor de la fe y de los exiliados.",
+      "summary": "Fulgencio fue un obispo y teólogo norteafricano conocido por su firme defensa de la doctrina católica contra el arrianismo y el pelagianismo. Tras soportar la persecución y el exilio, regresó a su diócesis para restaurar el orden y la disciplina entre los fieles. Sus escritos siguen influyendo en el pensamiento cristiano, y es recordado por su profunda espiritualidad y su compromiso con los pobres.",
+      "image": "/images/saint_fulgentius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fulgentius_of_Ruspe"
+    }
+  ]
+}

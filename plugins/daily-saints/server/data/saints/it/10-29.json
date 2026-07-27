@@ -1,0 +1,17 @@
+{
+  "date": "10-29",
+  "feast_day": "29 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Narciso",
+      "feast_day": "29 ottobre",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Un vescovo devoto e taumaturgo",
+      "summary": "San Narciso fu un vescovo di Gerusalemme noto per il suo profondo impegno sia nella disciplina religiosa che in quella umana. Presiedette un importante concilio riguardante la celebrazione della Pasqua ed è ricordato per aver compiuto miracoli, tra cui la trasformazione dell'acqua in olio per le lampade della chiesa. Nonostante false accuse e nemici, rimase dedito al suo gregge e riprese le sue funzioni fino alla morte, in età molto avanzata.",
+      "image": "/images/saint_narcissus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Narcissus_of_Jerusalem"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "01-16",
+  "feast_day": "16 janvier",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Marcel",
+      "feast_day": "16 janvier",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Direction pontificale durant la persécution des premiers chrétiens",
+      "summary": "Saint Marcel fut pape à une époque tumultueuse pour l'Église primitive, confrontée à une sévère persécution sous l'empereur Dioclétien. Il réorganisa la structure de l'Église, établissant des paroisses afin de mieux servir les fidèles et répondre aux besoins de la communauté chrétienne en pleine croissance. Il fut finalement martyrisé pour son leadership inébranlable et son engagement à maintenir la discipline de l'Église face aux défis de l'apostasie.",
+      "image": "/images/saint_marcellus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcellus_I"
+    },
+    {
+      "name": "Stéphanie Quinzani",
+      "feast_day": "16 janvier",
+      "era": "XVe siècle",
+      "patronage": null,
+      "legacy": "Une vie de souffrance et de service",
+      "summary": "La bienheureuse Stéphanie Quinzani naquit en 1457 en Italie et consacra sa vie à Dieu dès son plus jeune âge. Elle devint membre du Tiers Ordre de saint Dominique, endurant de grandes souffrances physiques et spirituelles tout au long de sa vie. Connue pour ses expériences mystiques et ses œuvres de miséricorde, elle fonda un monastère à Soncino et fut béatifiée en 1740 grâce aux miracles attribués à son intercession.",
+      "image": "/images/blessed_stephanie_quinzani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_Quinzani"
+    },
+    {
+      "name": "Honorat",
+      "feast_day": "16 janvier",
+      "era": "Ve siècle",
+      "patronage": [
+        "moines",
+        "ermites"
+      ],
+      "legacy": "Fondateur du monastère de Lérins",
+      "summary": "Saint Honorat fut une figure marquante des débuts du christianisme, connu pour avoir fondé le célèbre monastère de Lérins vers l'an 400. Il vécut d'abord en ermite avant d'être contraint de servir comme archevêque d'Arles en 426. Sa vie fut marquée par l'austérité, la dévotion et un engagement à guider les autres dans la foi chrétienne.",
+      "image": "/images/saint_honoratus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Honoratus_of_Arles"
+    }
+  ]
+}

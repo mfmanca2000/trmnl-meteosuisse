@@ -1,0 +1,17 @@
+{
+  "date": "01-02",
+  "feast_day": "2 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Macario de Alejandría",
+      "feast_day": "2 de enero",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Ejemplo de espiritualidad eremítica y de oración",
+      "summary": "San Macario de Alejandría fue un ermitaño y discípulo de san Antonio el Grande. Es conocido por sus intensas prácticas espirituales y sus luchas contra la tentación, entregándose a menudo a formas extremas de mortificación. Su vida ejemplifica la búsqueda de la santidad a través de la oración, la vigilancia y la negación de sí mismo.",
+      "image": "/images/saint_macarius_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Macarius_of_Alexandria"
+    }
+  ]
+}

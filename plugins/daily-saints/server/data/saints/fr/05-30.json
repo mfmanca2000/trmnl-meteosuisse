@@ -1,0 +1,33 @@
+{
+  "date": "05-30",
+  "feast_day": "30 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jeanne d'Arc",
+      "feast_day": "30 mai",
+      "era": "XVe siècle",
+      "patronage": [
+        "France",
+        "soldats",
+        "martyrs",
+        "femmes",
+        "captifs"
+      ],
+      "legacy": "Symbole de foi et de fierté nationale",
+      "summary": "Jeanne d'Arc, jeune paysanne née en France, joua un rôle crucial dans la guerre de Cent Ans en menant les troupes françaises à plusieurs victoires importantes. Capturée par les Anglais, elle fut jugée pour hérésie et brûlée vive en 1431, devenant ainsi martyre. Canonisée en 1920, elle est célébrée comme une héroïne nationale de la France et un symbole de courage et de foi.",
+      "image": "/images/saint_joan_of_arc.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+    },
+    {
+      "name": "Félix Ier",
+      "feast_day": "30 mai",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi contre l'hérésie",
+      "summary": "Félix Ier fut un pape romain et martyr, qui exerça sa charge de 269 à 274 après J.-C. Il est connu pour ses lettres traitant de la justice ecclésiastique et réfutant diverses hérésies, dont celles de Nestorius et d'Eutychès. Félix Ier fut martyrisé lors d'une persécution sous l'empereur Aurélien, et son héritage comprend la pratique consistant à enfermer les reliques des saints dans les autels.",
+      "image": "/images/saint_felix_i_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Felix_I"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "date": "09-07",
+  "feast_day": "7 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cloud",
+      "feast_day": "7 septembre",
+      "era": "VIe siècle",
+      "patronage": [
+        "ermites",
+        "moines"
+      ],
+      "legacy": "Un modèle de dévotion monastique et de charité.",
+      "summary": "Saint Cloud, également connu sous le nom de Clodoald, était un prince mérovingien qui renonça à son héritage royal pour mener une vie de piété et de service à Dieu. Après avoir été témoin de la mort tragique de ses frères, il se consacra à la vie monastique et devint un chef spirituel vénéré. Il fonda un monastère à Nogent, où il guida de nombreux fidèles jusqu'à sa mort en 560.",
+      "image": "/images/saint_cloud_or_clodoald.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clodoald"
+    }
+  ]
+}

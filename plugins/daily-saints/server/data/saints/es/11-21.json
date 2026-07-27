@@ -1,0 +1,36 @@
+{
+  "date": "11-21",
+  "feast_day": "21 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "María",
+      "feast_day": "21 de noviembre",
+      "era": "siglo I",
+      "patronage": [
+        "las madres",
+        "las vírgenes",
+        "los pobres",
+        "toda la humanidad"
+      ],
+      "legacy": "Modelo de fe y pureza",
+      "summary": "María, la madre de Jesús, es venerada en el cristianismo como la Madre de Dios y un modelo de virtud. Según la tradición, fue presentada en el Templo cuando era joven, donde dedicó su vida a la oración y al servicio. Su singular santidad y su papel en la historia de la salvación la convierten en una figura central de la devoción y la teología cristianas.",
+      "image": "/images/the_presentation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Columbano",
+      "feast_day": "21 de noviembre",
+      "era": "siglo VI",
+      "patronage": [
+        "los monjes",
+        "los misioneros",
+        "los motociclistas"
+      ],
+      "legacy": "Pionero del monacato en Europa",
+      "summary": "Columbano fue un abad y misionero irlandés que desempeñó un papel importante en la difusión del cristianismo por Europa durante la Alta Edad Media. Fundó varios monasterios, especialmente Luxeuil en Francia y Bobbio en Italia, que se convirtieron en centros de saber y espiritualidad. Conocido por su firme defensa de la fe y su integridad moral, enfrentó la oposición de poderosos nobles, pero permaneció fiel a su misión hasta su muerte en 615.",
+      "image": "/images/saint_columbanus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Columbanus"
+    }
+  ]
+}

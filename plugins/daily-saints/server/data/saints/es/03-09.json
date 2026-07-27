@@ -1,0 +1,21 @@
+{
+  "date": "03-09",
+  "feast_day": "9 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francisca Romana",
+      "feast_day": "9 de marzo",
+      "era": "siglo XV",
+      "patronage": [
+        "las viudas",
+        "los trabajadores domésticos",
+        "contra las tentaciones"
+      ],
+      "legacy": "Un modelo de fe en la vida doméstica",
+      "summary": "Francisca Romana fue una noble nacida en Roma en 1384 que, a pesar de la voluntad de sus padres, se casó con Lorenzo Ponziano y dedicó su vida a Dios a través de sus deberes domésticos y la oración. Tras soportar tragedias personales, incluida la pérdida de dos hijos, fundó una comunidad de monjas oblatas benedictinas tras la muerte de su esposo. Conocida por su profunda espiritualidad y sus visiones, es recordada por su fe inquebrantable y su compromiso de servir a Dios tanto en su vida familiar como religiosa.",
+      "image": "/images/saint_frances_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frances_of_Rome"
+    }
+  ]
+}

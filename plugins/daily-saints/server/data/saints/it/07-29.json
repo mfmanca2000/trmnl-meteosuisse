@@ -1,0 +1,21 @@
+{
+  "date": "07-29",
+  "feast_day": "29 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marta",
+      "feast_day": "29 luglio",
+      "era": "I secolo",
+      "patronage": [
+        "cuochi",
+        "servitori",
+        "ospitalità"
+      ],
+      "legacy": "Modello di servizio e fede in Cristo",
+      "summary": "Marta di Betania è nota per il suo ruolo nel Nuovo Testamento come sorella di Maria e Lazzaro, ed è raffigurata come una devota serva di Gesù. È celebrata per la sua salda fede, in particolare nel racconto della risurrezione di Lazzaro, dove esprime la propria fiducia nel potere di Gesù. La tradizione narra che, dopo la morte di Gesù, si recò in Francia, dove condusse una vita di austerità e santità.",
+      "image": "/images/saint_martha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martha_of_Bethany"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "04-21",
+  "feast_day": "21 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anselme",
+      "feast_day": "21 avril",
+      "era": "Médiéval",
+      "patronage": [
+        "théologiens",
+        "étudiants",
+        "curés de paroisse"
+      ],
+      "legacy": "Père de la théologie scolastique et de la dévotion",
+      "summary": "Anselme de Cantorbéry fut un moine bénédictin italien qui devint archevêque de Cantorbéry à la fin du XIe siècle. Il est réputé pour ses contributions à la théologie scolastique et pour sa défense de l'indépendance de l'Église face à l'autorité séculière. Anselme est également crédité de l'établissement de la fête de l'Immaculée Conception en Occident et est considéré comme docteur de l'Église.",
+      "image": "/images/saint_anselm.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+    }
+  ]
+}

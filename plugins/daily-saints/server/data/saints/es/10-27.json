@@ -1,0 +1,20 @@
+{
+  "date": "10-27",
+  "feast_day": "27 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Frumencio",
+      "feast_day": "27 de octubre",
+      "era": "Siglo IV",
+      "patronage": [
+        "Etiopía",
+        "misioneros"
+      ],
+      "legacy": "Apóstol de Etiopía y líder cristiano de los primeros tiempos",
+      "summary": "San Frumencio era un niño llevado a Etiopía junto con su hermano Edesio tras el ataque a su barco. Se convirtió en consejero de confianza del rey etíope y más tarde fue consagrado primer obispo de Etiopía por san Atanasio. Gracias a sus esfuerzos, logró difundir el cristianismo por toda la nación, cumpliendo una profecía de Isaías.",
+      "image": "/images/saint_frumentius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frumentius"
+    }
+  ]
+}

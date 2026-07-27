@@ -1,0 +1,17 @@
+{
+  "date": "08-06",
+  "feast_day": "6 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Trasfigurazione del Signore",
+      "feast_day": "6 agosto",
+      "era": "I secolo",
+      "patronage": null,
+      "legacy": "Uno squarcio di gloria divina rivelata",
+      "summary": "La Trasfigurazione del Signore è un evento significativo del Nuovo Testamento in cui Gesù rivela la sua gloria divina a tre dei suoi apostoli: Pietro, Giacomo e Giovanni. L'evento avviene su un alto monte, tradizionalmente identificato con il monte Tabor, dove l'aspetto di Gesù si trasforma ed egli conversa con Mosè ed Elia. La voce di Dio afferma che Gesù è il suo Figlio prediletto, sottolineando la sua autorità e l'importanza di ascoltarlo.",
+      "image": "/images/the_transfiguration_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus"
+    }
+  ]
+}

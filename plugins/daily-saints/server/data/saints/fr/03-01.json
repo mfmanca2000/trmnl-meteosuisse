@@ -1,0 +1,35 @@
+{
+  "date": "03-01",
+  "feast_day": "1 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Aubin",
+      "feast_day": "1 mars",
+      "era": "VIe siècle",
+      "patronage": [
+        "évêques",
+        "moines",
+        "les esclaves"
+      ],
+      "legacy": "Un modèle de vertu et de charité",
+      "summary": "Saint Aubin fut un évêque et abbé connu pour sa profonde piété et son engagement envers la vie monastique. Il consacra sa vie à la nourriture spirituelle de sa communauté et œuvra sans relâche pour la rédemption des chrétiens réduits en esclavage lors des invasions barbares. Son héritage comprend de nombreux miracles et une forte influence sur la discipline ecclésiastique dans sa région.",
+      "image": "/images/saint_albinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albinus_of_Angers"
+    },
+    {
+      "name": "David",
+      "feast_day": "1 mars",
+      "era": "VIe siècle",
+      "patronage": [
+        "Pays de Galles",
+        "végétariens",
+        "ouvriers laitiers"
+      ],
+      "legacy": "Saint patron du Pays de Galles et de la vie monastique",
+      "summary": "Saint David fut un archevêque influent et le saint patron du Pays de Galles, connu pour sa piété et son dévouement à Dieu. Il fonda plusieurs monastères, dont le principal à Glyn Rhosyn (aujourd'hui St Davids), où il mena une vie monastique stricte. Ses enseignements et ses miracles aidèrent à combattre l'hérésie en Grande-Bretagne au début du sixième siècle, et il est célébré pour son humilité et son leadership spirituel.",
+      "image": "/images/saint_david_of_wales.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/David_of_Wales"
+    }
+  ]
+}

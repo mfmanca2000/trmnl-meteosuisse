@@ -1,0 +1,20 @@
+{
+  "date": "06-26",
+  "feast_day": "26 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean et Paul",
+      "feast_day": "26 juin",
+      "era": "4e siècle",
+      "patronage": [
+        "martyrs",
+        "soldats"
+      ],
+      "legacy": "Martyrs d'une foi inébranlable et de charité",
+      "summary": "Saints Jean et Paul étaient des frères et officiers de l'armée romaine qui servirent sous le règne de Constantin le Grand. Ils devinrent martyrs après avoir refusé de renier leur foi chrétienne sous le règne de Julien l'Apostat. Leur héritage se caractérise par leur constance dans la foi et leurs œuvres de charité, qui menèrent à leur martyre au 4e siècle.",
+      "image": "/images/saints_john_and_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_and_Paul"
+    }
+  ]
+}

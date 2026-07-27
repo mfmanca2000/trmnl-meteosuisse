@@ -1,0 +1,37 @@
+{
+  "date": "02-01",
+  "feast_day": "1 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ignace d'Antioche",
+      "feast_day": "1 février",
+      "era": "Ier siècle",
+      "patronage": [
+        "dirigeants d'Église",
+        "martyrs",
+        "malades"
+      ],
+      "legacy": "Un champion de l'unité et de la foi chrétiennes",
+      "summary": "Ignace d'Antioche était un évêque chrétien des premiers temps et un martyr qui a joué un rôle important dans le développement de l'Église. Il est connu pour ses lettres, qui soulignaient l'importance de l'unité et de l'Eucharistie, ainsi que pour sa fermeté face à la persécution. Ignace fut martyrisé à Rome vers l'an 107, exprimant célèbrement son désir d'être « le froment du Christ » broyé par les dents des bêtes sauvages.",
+      "image": "/images/saint_ignatius_of_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch"
+    },
+    {
+      "name": "Brigide d'Irlande",
+      "feast_day": "1 février",
+      "era": "Ve siècle",
+      "patronage": [
+        "Irlande",
+        "brasseurs",
+        "poètes",
+        "enfants",
+        "agriculteurs"
+      ],
+      "legacy": "Patronne de l'Irlande et de la charité",
+      "summary": "Brigide d'Irlande, également connue sous le nom de Brigide de Kildare, était une abbesse du Ve siècle et la fondatrice de plusieurs monastères en Irlande. Elle est vénérée pour sa profonde spiritualité, ses actes de charité et la fondation du premier couvent d'Irlande à Kildare. Son héritage continue d'inspirer beaucoup de gens comme symbole de compassion et de dévouement à Dieu.",
+      "image": "/images/saint_bridgid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brigid_of_Kildare"
+    }
+  ]
+}

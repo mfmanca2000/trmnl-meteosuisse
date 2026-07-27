@@ -1,0 +1,20 @@
+{
+  "date": "03-30",
+  "feast_day": "30 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan Clímaco",
+      "feast_day": "30 de marzo",
+      "era": "siglo VI",
+      "patronage": [
+        "los monjes",
+        "el crecimiento espiritual"
+      ],
+      "legacy": "Guía del ascenso espiritual y la sabiduría",
+      "summary": "Juan Clímaco fue un monje y abad del siglo VI conocido por sus escritos espirituales, en particular 'La Escalera del Paraíso', que traza el camino hacia la perfección espiritual. Pasó gran parte de su vida en soledad en el monte Sinaí, donde se hizo célebre por su sabiduría y santidad. Sus enseñanzas siguen inspirando a los cristianos que buscan profundizar su vida espiritual.",
+      "image": "/images/saint_john_climacus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Climacus"
+    }
+  ]
+}

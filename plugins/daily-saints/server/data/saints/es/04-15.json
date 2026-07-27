@@ -1,0 +1,27 @@
+{
+  "date": "04-15",
+  "feast_day": "15 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pedro González",
+      "feast_day": "15 de abril",
+      "era": "Siglo XIII",
+      "patronage": null,
+      "legacy": "Sacerdote dominico",
+      "summary": "San Pedro González nació en España en 1190, de padres ricos y nobles. Fue criado por su tío materno, obispo en la región de Astorga, y, siendo aún joven, fue nombrado canónigo de su catedral. Pronto fue elegido para presidir el cabildo de la catedral; pero cuando fue a tomar posesión de ese cargo, montado en un caballo finamente enjaezado, el animal, con un paso en falso, lo arrojó al barro.",
+      "image": "/images/saint_peter_gonzales.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Paterno",
+      "feast_day": "15 de abril",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Evangelizador y fundador de monasterios",
+      "summary": "San Paterno fue obispo de Avranches y una figura destacada en la primera evangelización cristiana de Francia. Nacido en Poitiers hacia el año 482, abrazó la vida monástica y más tarde se hizo conocido por su austero estilo de vida anacorético y su labor misionera junto a san Escubilión. Fue consagrado obispo en sus últimos años y se le recuerda por sus milagros y por la fundación de varios monasterios.",
+      "image": "/images/saint_paternus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paternus"
+    }
+  ]
+}

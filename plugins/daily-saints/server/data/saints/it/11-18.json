@@ -1,0 +1,35 @@
+{
+  "date": "11-18",
+  "feast_day": "18 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pietro",
+      "feast_day": "18 novembre",
+      "era": "I secolo",
+      "patronage": [
+        "pescatori",
+        "fabbricanti di reti",
+        "costruttori navali"
+      ],
+      "legacy": "Primo papa e capo degli apostoli",
+      "summary": "Pietro, uno dei dodici apostoli di Gesù Cristo, è considerato il primo papa e una figura fondamentale del cristianesimo. È noto per la sua guida tra gli apostoli e il suo ruolo nella diffusione degli insegnamenti di Gesù. Pietro fu martirizzato a Roma, e la sua tomba si trova sotto la basilica di San Pietro, nella Città del Vaticano.",
+      "image": "/images/dedication_of_the_basilicas_of_saint_peter_and_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Odone di Cluny",
+      "feast_day": "18 novembre",
+      "era": "X secolo",
+      "patronage": [
+        "monaci",
+        "educatori",
+        "bambini"
+      ],
+      "legacy": "Pioniere della riforma monastica e dell'istruzione",
+      "summary": "Odone di Cluny fu un abate benedettino che svolse un ruolo determinante nella riforma e nell'organizzazione della vita monastica nel X secolo. Fondò l'abbazia di Cluny, che divenne un centro di eccellenza spirituale ed educativa, attirando numerose vocazioni e promuovendo la Regola di san Benedetto. La sua eredità comprende l'impegno per la carità e l'istruzione dei bambini, nonché la creazione di una federazione di monasteri sotto la guida di Cluny.",
+      "image": "/images/saint_odon_or_eudes_of_cluny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odo_of_Cluny"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "04-15",
+  "feast_day": "15 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre Gonzalez",
+      "feast_day": "15 avril",
+      "era": "XIIIe siècle",
+      "patronage": null,
+      "legacy": "Prêtre dominicain",
+      "summary": "Saint Pierre Gonzalez naquit en Espagne en 1190, de parents riches et nobles. Il fut élevé par son oncle maternel, évêque dans la région d'Astorga, et fut nommé, encore jeune, chanoine de sa cathédrale. Il fut bientôt choisi pour être doyen du chapitre de la cathédrale ; mais lorsqu'il vint prendre possession de cette charge, monté sur un cheval richement paré, l'animal, par un faux pas, le jeta dans la boue.",
+      "image": "/images/saint_peter_gonzales.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Paterne",
+      "feast_day": "15 avril",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Évangélisateur et fondateur de monastères",
+      "summary": "Saint Paterne fut évêque d'Avranches et une figure marquante de l'évangélisation chrétienne primitive de la France. Né à Poitiers vers 482, il embrassa la vie monastique et devint plus tard connu pour son mode de vie érémitique austère et son travail missionnaire aux côtés de saint Scubilion. Il fut consacré évêque dans les dernières années de sa vie et l'on se souvient de lui pour ses miracles et la fondation de plusieurs monastères.",
+      "image": "/images/saint_paternus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paternus"
+    }
+  ]
+}

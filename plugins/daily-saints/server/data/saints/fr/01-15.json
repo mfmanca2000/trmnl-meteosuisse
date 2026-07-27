@@ -1,0 +1,34 @@
+{
+  "date": "01-15",
+  "feast_day": "15 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Paul l'Ermite",
+      "feast_day": "15 janvier",
+      "era": "IIIe siècle",
+      "patronage": [
+        "ermites",
+        "habitants du désert"
+      ],
+      "legacy": "Le premier ermite et modèle de la solitude",
+      "summary": "Saint Paul l'Ermite est reconnu comme le premier ermite et est connu pour sa vie de solitude dans le désert égyptien. Après avoir fui la persécution, il vécut près de quatre-vingt-dix ans dans la prière et la pénitence, ne comptant que sur la providence de Dieu pour sa subsistance. Son héritage est étroitement lié à saint Antoine, qui le découvrit et partagea sa vie spirituelle avant la mort de Paul.",
+      "image": "/images/saint_paul_hermit.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_Thebes"
+    },
+    {
+      "name": "Maur",
+      "feast_day": "15 janvier",
+      "era": "VIe siècle",
+      "patronage": [
+        "moines",
+        "abbés",
+        "France"
+      ],
+      "legacy": "Modèle d'humilité et de dévouement monastique",
+      "summary": "Saint Maur était un abbé bénédictin connu pour sa profonde humilité et ses dons miraculeux. Disciple de saint Benoît, il joua un rôle important dans l'établissement de la vie monastique en France, en fondant l'abbaye de Glanfeuil. Son héritage comprend une forte dévotion parmi les fidèles et une influence durable sur les pratiques monastiques de la région.",
+      "image": "/images/saint_maurus_abbot.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Maurus"
+    }
+  ]
+}

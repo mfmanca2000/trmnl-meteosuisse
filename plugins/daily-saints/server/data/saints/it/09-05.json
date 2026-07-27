@@ -1,0 +1,21 @@
+{
+  "date": "09-05",
+  "feast_day": "5 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lorenzo Giustiniani",
+      "feast_day": "5 settembre",
+      "era": "XV secolo",
+      "patronage": [
+        "patroni di Venezia",
+        "clero",
+        "guide spirituali"
+      ],
+      "legacy": "Primo Patriarca di Venezia e riformatore",
+      "summary": "Lorenzo Giustiniani fu il primo Patriarca di Venezia, noto per la sua profonda spiritualità e il suo impegno nella riforma della Chiesa. Fondò numerosi monasteri e chiese, sottolineando l'umiltà e l'importanza della Comunione frequente. La sua eredità è segnata dalla dedizione ai poveri e da una vita esemplare di mortificazione e preghiera.",
+      "image": "/images/saint_lawrence_justinian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Justinian"
+    }
+  ]
+}

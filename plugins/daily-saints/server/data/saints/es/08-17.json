@@ -1,0 +1,31 @@
+{
+  "date": "08-17",
+  "feast_day": "17 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jacinto",
+      "feast_day": "17 de agosto",
+      "era": "Siglo XIII",
+      "patronage": [
+        "misioneros",
+        "Polonia",
+        "comerciantes"
+      ],
+      "legacy": "Apóstol del Norte y obrador de milagros",
+      "summary": "San Jacinto fue un misionero polaco y uno de los primeros miembros de la Orden de Predicadores, fundada por santo Domingo. Viajó extensamente por Europa y Asia, evangelizando y convirtiendo a numerosas personas al cristianismo, y se le atribuye el bautismo de más de 120.000 personas. Conocido por su profunda devoción a la Virgen María, obró numerosos milagros y es recordado por su fe inquebrantable y su dedicación a difundir el Evangelio.",
+      "image": "/images/saint_hyacinth.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hyacinth_of_Poland"
+    },
+    {
+      "name": "Liberato",
+      "feast_day": "17 de agosto",
+      "era": "Siglo V",
+      "patronage": null,
+      "legacy": "Martirio por la fe y la unidad en Cristo.",
+      "summary": "San Liberato fue un mártir cristiano que vivió bajo el reinado del rey vándalo arriano Hunerico, en África. Junto con seis compañeros, fue encarcelado y torturado por su fe inquebrantable en la Trinidad y el Bautismo. Finalmente fueron ejecutados quemándolos en el mar, pero su legado de valentía y fe sigue inspirando a los cristianos hoy en día.",
+      "image": "/images/saint_liberatus_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberatus_of_Carthage"
+    }
+  ]
+}

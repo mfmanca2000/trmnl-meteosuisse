@@ -1,0 +1,22 @@
+{
+  "date": "10-20",
+  "feast_day": "20 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni Cantius",
+      "feast_day": "20 ottobre",
+      "era": "XV secolo",
+      "patronage": [
+        "Polonia",
+        "Lituania",
+        "studenti",
+        "poveri"
+      ],
+      "legacy": "Un modello di carità e pietà",
+      "summary": "Giovanni Cantius fu un sacerdote e teologo polacco noto per la sua profonda pietà e il suo impegno verso i poveri. Insegnò come professore all'Università di Cracovia ed era rinomato per i suoi atti di carità, tra cui il sostentamento dei bisognosi e la difesa degli emarginati. Canonizzato nel 1767, è ricordato per la sua dedizione all'educazione, alla preghiera e al servizio verso gli altri.",
+      "image": "/images/saint_john_cantius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Cantius"
+    }
+  ]
+}

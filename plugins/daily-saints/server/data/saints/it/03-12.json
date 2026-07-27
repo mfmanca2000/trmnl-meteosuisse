@@ -1,0 +1,22 @@
+{
+  "date": "03-12",
+  "feast_day": "12 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregorio Magno",
+      "feast_day": "12 marzo",
+      "era": "VI secolo",
+      "patronage": [
+        "gli insegnanti",
+        "i musicisti",
+        "gli studenti",
+        "i papi"
+      ],
+      "legacy": "Pioniere della riforma della Chiesa medievale",
+      "summary": "Gregorio Magno fu un importante Papa e Dottore della Chiesa che ebbe un ruolo cruciale nella Chiesa dell'alto Medioevo. È noto per i suoi contributi alla liturgia, la promozione del monachesimo e l'evangelizzazione dell'Inghilterra. Il suo pontificato segnò un periodo di riforma e consolidamento all'interno della Chiesa, ed è ricordato per i suoi numerosi scritti e sermoni che sottolineavano l'importanza delle Scritture.",
+      "image": "/images/saint_gregory_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_the_Great"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "03-05",
+  "feast_day": "5 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni Giuseppe della Croce",
+      "feast_day": "5 marzo",
+      "era": "XVIII secolo",
+      "patronage": null,
+      "legacy": "Modello di umiltà e fervore monastico",
+      "summary": "Giovanni Giuseppe della Croce fu un sacerdote francescano e confessore noto per la sua profonda spiritualità e il suo impegno per la vita monastica. Fondò diversi monasteri in Italia e fu riconosciuto per la sua umiltà, disciplina e doni soprannaturali, tra cui la profezia e i miracoli. Canonizzato nel 1839, è ricordato per la sua dedizione ai principi della contemplazione e della penitenza all'interno dell'Ordine francescano.",
+      "image": "/images/saint_john_joseph_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Joseph_of_the_Cross"
+    },
+    {
+      "name": "Adriano ed Eubulo",
+      "feast_day": "5 marzo",
+      "era": "Inizio del IV secolo",
+      "patronage": null,
+      "legacy": "Martiri di fede e coraggio incrollabili",
+      "summary": "I santi Adriano ed Eubulo furono martiri che soffrirono durante la persecuzione dei cristiani sotto l'imperatore Diocleziano. Furono torturati e infine uccisi per essersi rifiutati di rinnegare la loro fede e di sacrificare agli idoli. La loro fermezza di fronte alla persecuzione esemplifica il richiamo cristiano a portare la propria croce e a rimanere fedeli a Cristo.",
+      "image": "/images/saints_adrian_and_eubulus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Adrian_of_Batanea"
+    }
+  ]
+}

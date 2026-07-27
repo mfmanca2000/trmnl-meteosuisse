@@ -1,0 +1,17 @@
+{
+  "date": "11-01",
+  "feast_day": "1 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tous les Saints",
+      "feast_day": "1 novembre",
+      "era": null,
+      "patronage": null,
+      "legacy": "Célébration de tous les saints hommes et femmes",
+      "summary": "La Toussaint est une fête chrétienne célébrée en l'honneur de tous les saints, connus et inconnus. Elle rappelle la communion des saints et l'importance de l'intercession dans la foi chrétienne. Cette fête est célébrée le 1er novembre et constitue un jour de précepte pour les catholiques.",
+      "image": "/images/all_saints_day.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/All_Saints%27_Day"
+    }
+  ]
+}

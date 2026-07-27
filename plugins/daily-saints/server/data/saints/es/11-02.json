@@ -1,0 +1,34 @@
+{
+  "date": "11-02",
+  "feast_day": "2 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Odilón de Cluny",
+      "feast_day": "2 de noviembre",
+      "era": "siglo X",
+      "patronage": [
+        "las almas del purgatorio",
+        "los monjes benedictinos"
+      ],
+      "legacy": "Campeón de las oraciones por los difuntos",
+      "summary": "San Odilón de Cluny fue un abad benedictino conocido por instituir la conmemoración de todos los fieles difuntos, que más tarde se conocería como el Día de los Difuntos. Sus esfuerzos por promover la oración por los muertos subrayaron la importancia de la intercesión y la caridad en la fe cristiana. El legado de Odilón sigue inspirando a los fieles a recordar y orar por quienes han fallecido.",
+      "image": "/images/commemoration_of_the_faithful_departed.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odilo_of_Cluny"
+    },
+    {
+      "name": "Malaquías",
+      "feast_day": "2 de noviembre",
+      "era": "siglo XII",
+      "patronage": [
+        "Irlanda",
+        "los sacerdotes",
+        "la diócesis de Armagh"
+      ],
+      "legacy": "Profeta de los futuros papas y reformador",
+      "summary": "San Malaquías fue un obispo irlandés del siglo XII conocido por su dedicación a la reforma de la Iglesia y por sus visiones proféticas sobre los futuros papas. Fue arzobispo de Armagh y contribuyó decisivamente a revitalizar la fe entre su pueblo, soportando grandes dificultades durante su ministerio. Su legado incluye una famosa profecía que enumera los lemas de los futuros papas, la cual ha intrigado a estudiosos y fieles por igual.",
+      "image": "/images/saint_malachy_d_armagh.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Malachy"
+    }
+  ]
+}

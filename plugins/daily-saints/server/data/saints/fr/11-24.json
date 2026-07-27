@@ -1,0 +1,21 @@
+{
+  "date": "11-24",
+  "feast_day": "24 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean de la Croix",
+      "feast_day": "24 novembre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "mystiques",
+        "poètes",
+        "poètes espagnols"
+      ],
+      "legacy": "Un guide vers l'union mystique avec Dieu.",
+      "summary": "Jean de la Croix était un mystique espagnol et une figure majeure de la Contre-Réforme. Il cofonda les Carmes déchaux avec sainte Thérèse d'Ávila et est connu pour ses écrits spirituels profonds, qui explorent le cheminement de l'âme vers Dieu. Il fut déclaré docteur de l'Église en 1926 pour ses contributions à la théologie mystique.",
+      "image": "/images/saint_john_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "09-26",
+  "feast_day": "26 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Martiri Nordamericani",
+      "feast_day": "26 settembre",
+      "era": "XVII secolo",
+      "patronage": [
+        "Canada",
+        "popolazioni indigene",
+        "missionari"
+      ],
+      "legacy": "Martiri della fede e della dedizione",
+      "summary": "I Martiri Nordamericani sono otto missionari gesuiti che furono martirizzati nel XVII secolo mentre evangelizzavano tra le popolazioni indigene del Nord America. Affrontarono estreme difficoltà e violenze, in particolare da parte degli Irochesi, nel loro tentativo di diffondere il cristianesimo. La loro dedizione e il loro sacrificio ne hanno fatto figure venerate nella Chiesa cattolica, simboleggiando l'impegno per la fede di fronte alle avversità.",
+      "image": "/images/the_holy_north_american_martyrs.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/North_American_Martyrs"
+    },
+    {
+      "name": "Cipriano",
+      "feast_day": "26 settembre",
+      "era": "III secolo",
+      "patronage": [
+        "maghi",
+        "stregoni",
+        "conversione",
+        "protezione contro il male"
+      ],
+      "legacy": "Trasformazione dalle tenebre alla fede",
+      "summary": "San Cipriano fu un vescovo di Cartagine del III secolo che praticava inizialmente il paganesimo e la magia nera prima di convertirsi al cristianesimo. La sua conversione fu innescata dall'incontro con una giovane cristiana di nome Giustina, che tentò di sedurre usando le sue arti oscure. Sia lui che Giustina furono martirizzati durante la persecuzione sotto l'imperatore Diocleziano, esemplificando il potere trasformatore della fede e della grazia.",
+      "image": "/images/saint_cyprian_and_saint_justina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyprian_of_Carthage"
+    }
+  ]
+}

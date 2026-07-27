@@ -1,0 +1,22 @@
+{
+  "date": "02-02",
+  "feast_day": "2 de febrero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "María",
+      "feast_day": "2 de febrero",
+      "era": "Siglo I",
+      "patronage": [
+        "madres",
+        "mujeres embarazadas",
+        "familia",
+        "pérdida de los padres"
+      ],
+      "legacy": "Modelo de fe y humildad",
+      "summary": "María es venerada como la madre de Jesucristo y es una figura central en el cristianismo. Su papel en la Presentación de Jesús en el Templo pone de relieve su obediencia a la ley judía y su profunda fe. A menudo se la honra por su humildad y devoción, sirviendo de modelo para los creyentes que buscan seguir la voluntad de Dios.",
+      "image": "/images/the_presentation_of_jesus_in_the_temple.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

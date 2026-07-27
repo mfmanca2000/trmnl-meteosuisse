@@ -1,0 +1,20 @@
+{
+  "date": "05-02",
+  "feast_day": "2 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Athanase",
+      "feast_day": "2 mai",
+      "era": "IVe siècle",
+      "patronage": [
+        "théologiens",
+        "fidélité"
+      ],
+      "legacy": "Défenseur de la divinité du Christ",
+      "summary": "Saint Athanase fut un éminent évêque d'Alexandrie et un défenseur majeur de la foi chrétienne face à l'hérésie arienne, qui niait la divinité du Christ. Il affronta une opposition considérable, subissant plusieurs exils et des confrontations avec quatre empereurs romains, tout en restant fidèle à ses convictions et à ses devoirs pastoraux. Reconnu docteur de l'Église, ses écrits et son enseignement ont exercé une influence durable sur la théologie chrétienne.",
+      "image": "/images/saint_athanasius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+    }
+  ]
+}

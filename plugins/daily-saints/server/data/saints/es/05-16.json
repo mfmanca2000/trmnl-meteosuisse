@@ -1,0 +1,46 @@
+{
+  "date": "05-16",
+  "feast_day": "16 de mayo",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Simón Stock",
+      "feast_day": "16 de mayo",
+      "era": "Medieval",
+      "patronage": [
+        "carmelitas",
+        "pacientes con cáncer de mama",
+        "quienes buscan una buena muerte"
+      ],
+      "legacy": "Promotor del crecimiento de la Orden del Carmen",
+      "summary": "Simón Stock fue un fraile carmelita inglés y Superior General de la Orden del Carmen en el siglo XIII. Es conocido sobre todo por su profunda devoción a la Virgen María y por haber recibido el Escapulario Marrón, símbolo importante de la Orden del Carmen. Su liderazgo ayudó a que la Orden floreciera en Europa, especialmente durante épocas de persecución y conflicto.",
+      "image": "/images/saint_simon_stock.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simon_Stock"
+    },
+    {
+      "name": "Brandán",
+      "feast_day": "16 de mayo",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Abad de Clonfert",
+      "summary": "San Brandán nació en el condado de Kerry, Irlanda, en el año 484. Su educación fue confiada a santa Ita, llamada la Brígida de Munster, y más tarde a san Erc, quien lo ordenó sacerdote en 512. Entre los años 512 y 530 construyó celdas monásticas en Ardfert y Shanakeel, al pie de la colina de Brandon.",
+      "image": "/images/saint_brendan_the_navigator.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Juan Nepomuceno",
+      "feast_day": "16 de mayo",
+      "era": "Siglo XIV",
+      "patronage": [
+        "confesores",
+        "puentes",
+        "agua",
+        "silencio"
+      ],
+      "legacy": "Mártir del silencio y la fidelidad a Dios",
+      "summary": "Juan Nepomuceno fue un sacerdote y mártir nacido en Bohemia en 1330. Es conocido por su inquebrantable silencio ante la tortura y la muerte, negándose a traicionar las confesiones de la emperatriz. Tras ser arrojado al río Moldava, su cuerpo fue hallado incorrupto, y se convirtió en símbolo de fidelidad y de la santidad del sacramento de la confesión.",
+      "image": "/images/saint_john_nepomucene.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Nepomucene"
+    }
+  ]
+}

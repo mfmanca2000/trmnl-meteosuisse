@@ -1,0 +1,21 @@
+{
+  "date": "10-07",
+  "feast_day": "7 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nuestra Señora del Rosario",
+      "feast_day": "7 de octubre",
+      "era": "Época moderna",
+      "patronage": [
+        "oraciones",
+        "victoria en la batalla",
+        "la Iglesia católica"
+      ],
+      "legacy": "Promotora de la devoción del Rosario",
+      "summary": "Nuestra Señora del Rosario es un título de la Bienaventurada Virgen María asociado a la oración del Rosario. Esta devoción subraya la importancia de meditar sobre los misterios de la vida de Cristo mediante la recitación de oraciones. La fiesta de Nuestra Señora del Rosario fue instituida para conmemorar la victoria en la batalla de Lepanto y para promover el Rosario como una poderosa herramienta de oración y reflexión.",
+      "image": "/images/our_lady_of_the_rosary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary"
+    }
+  ]
+}

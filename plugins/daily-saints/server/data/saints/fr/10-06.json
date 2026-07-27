@@ -1,0 +1,21 @@
+{
+  "date": "10-06",
+  "feast_day": "6 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bruno",
+      "feast_day": "6 octobre",
+      "era": "Médiéval",
+      "patronage": [
+        "moines",
+        "étudiants",
+        "l'ordre des Chartreux"
+      ],
+      "legacy": "Fondateur de l'ordre des Chartreux",
+      "summary": "Saint Bruno fut le fondateur de l'ordre des Chartreux, connu pour son engagement envers une vie de contemplation et de solitude. Né à Cologne vers 1030, il devint chanoine et résista à la corruption de l'Église avant de se retirer dans un lieu sauvage avec des compagnons pour mener une vie monastique. Il mourut en Calabre en 1101, laissant l'héritage d'une profonde dévotion spirituelle et de l'établissement d'une communauté monastique unique.",
+      "image": "/images/saint_bruno.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "02-04",
+  "feast_day": "4 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "André Corsini",
+      "feast_day": "4 février",
+      "era": "XIVe siècle",
+      "patronage": [
+        "Florence",
+        "évêques",
+        "artisans de paix"
+      ],
+      "legacy": "Artisan de paix et faiseur de miracles de Florence",
+      "summary": "André Corsini naquit à Florence en 1301 et mena d'abord une vie dissolue avant de se repentir et de rejoindre l'Ordre des Carmes. Il devint connu comme artisan de paix et fut consacré évêque de Fiesole, où il se forgea une réputation pour son amour des pauvres et ses guérisons miraculeuses. Canonisé en 1629, il est célébré pour sa dévotion et son intervention en temps de conflit.",
+      "image": "/images/saint_andrew_corsini.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Corsini"
+    },
+    {
+      "name": "Jeanne de Valois",
+      "feast_day": "4 février",
+      "era": "Renaissance",
+      "patronage": [
+        "femmes",
+        "mariages difficiles",
+        "malades"
+      ],
+      "legacy": "Une reine dévouée et fondatrice d'un ordre religieux.",
+      "summary": "Jeanne de Valois était une reine de France qui affronta d'importantes épreuves personnelles, notamment le délaissement et la trahison de son époux, Louis XII. Malgré ces difficultés, elle consacra sa vie à Dieu et fonda l'Ordre de l'Annonciation, destiné à honorer les vertus de la Vierge Marie. Son héritage comprend son engagement envers la prière et le service, qui inspira beaucoup de gens de son vivant et au-delà.",
+      "image": "/images/saint_jane_of_valois.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jane_de_Valois"
+    }
+  ]
+}

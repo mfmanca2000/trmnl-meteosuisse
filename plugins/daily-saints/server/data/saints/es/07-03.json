@@ -1,0 +1,27 @@
+{
+  "date": "07-03",
+  "feast_day": "3 de julio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "León II",
+      "feast_day": "3 de julio",
+      "era": "Siglo VII",
+      "patronage": null,
+      "legacy": "Un papa de música y caridad",
+      "summary": "León II fue papa en el siglo VII, conocido por su breve pero influyente pontificado. Abordó cuestiones importantes entre la Santa Sede y los emperadores de Constantinopla, asegurando que los obispos de Rávena fueran consagrados en Roma. Sus contribuciones a la música y la caridad, junto con sus esfuerzos por sostener la doctrina de la Iglesia, dejaron un legado duradero.",
+      "image": "/images/saint_leo_ii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Leo_II"
+    },
+    {
+      "name": "Heliodoro",
+      "feast_day": "3 de julio",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Defensor de la fe católica y la piedad",
+      "summary": "San Heliodoro fue obispo de Altino, conocido por su piedad y dedicación a la fe católica. Fue discípulo de san Jerónimo y desempeñó un papel importante en la lucha contra la herejía arriana de su época. Su vida ejemplificó un equilibrio entre el ministerio activo y la espiritualidad contemplativa hasta su muerte, ocurrida hacia el año 390.",
+      "image": "/images/saint_heliodorus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Heliodorus_of_Altino"
+    }
+  ]
+}

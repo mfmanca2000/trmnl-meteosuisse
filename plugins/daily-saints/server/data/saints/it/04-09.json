@@ -1,0 +1,34 @@
+{
+  "date": "04-09",
+  "feast_day": "9 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni l'Elemosiniere",
+      "feast_day": "9 aprile",
+      "era": "VI secolo",
+      "patronage": [
+        "elemosinieri",
+        "poveri",
+        "carità"
+      ],
+      "legacy": "Campione dei poveri e dell'elemosina",
+      "summary": "Giovanni l'Elemosiniere fu un patriarca di Alessandria del VI secolo, noto per la sua straordinaria generosità e il suo impegno nell'aiutare i poveri. Dopo aver perso la sua famiglia, dedicò la sua vita all'elemosina, sfamando quotidianamente migliaia di bisognosi. Il suo lascito comprende la fondazione di numerose chiese e una reputazione di fede e carità incrollabili.",
+      "image": "/images/saint_john_the_almsgiver.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Almsgiver"
+    },
+    {
+      "name": "Maria Egiziaca",
+      "feast_day": "9 aprile",
+      "era": "V secolo",
+      "patronage": [
+        "penitenti",
+        "convertiti"
+      ],
+      "legacy": "Un simbolo di pentimento e redenzione.",
+      "summary": "Maria Egiziaca fu un'ex prostituta che visse una profonda conversione dopo un pellegrinaggio a Gerusalemme. Resasi conto della sua vita di peccato, si ritirò nel deserto, dove visse in penitenza per il resto della sua vita. La sua storia è una potente testimonianza della possibilità della redenzione e della grazia di Dio.",
+      "image": "/images/saint_mary_of_egypt.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_of_Egypt"
+    }
+  ]
+}

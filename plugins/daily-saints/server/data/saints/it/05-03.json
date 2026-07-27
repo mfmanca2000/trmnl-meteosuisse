@@ -1,0 +1,17 @@
+{
+  "date": "05-03",
+  "feast_day": "3 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "L'Invenzione della Santa Croce",
+      "feast_day": "3 maggio",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": null,
+      "summary": "Quando Dio restituì la pace alla sua Chiesa innalzando Costantino il Grande al trono imperiale, quel pio principe, che aveva trionfato sui suoi nemici grazie al potere miracoloso della Croce di Cristo, desiderò vivamente esprimere la sua venerazione per i luoghi santi che erano stati onorati e santificati dalla presenza e dalle sofferenze del nostro beato Redentore sulla terra. Decise quindi di costruire una magnifica chiesa nella città di Gerusalemme. Sant'Elena, madre dell'Imperatore, desiderando visitare quei luoghi santi, intraprese un viaggio in Palestina nel 326, sebbene avesse allora quasi ottant'anni.",
+      "image": "/images/the_finding_of_the_holy_cross.jpg",
+      "wikipedia": null
+    }
+  ]
+}

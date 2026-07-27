@@ -1,0 +1,49 @@
+{
+  "date": "10-16",
+  "feast_day": "16 octobre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Gérard Majella",
+      "feast_day": "16 octobre",
+      "era": "XVIIIe siècle",
+      "patronage": [
+        "femmes enceintes",
+        "enfants",
+        "faussement accusés"
+      ],
+      "legacy": "Faiseur de miracles et rédemptoriste dévoué",
+      "summary": "Gérard Majella était un frère rédemptoriste italien connu pour ses œuvres miraculeuses et sa profonde dévotion à Dieu. Il fit preuve de vertus extraordinaires et fut renommé pour son don de bilocation, souvent vu venant en aide aux malades pendant une épidémie. Il fut canonisé en 1904 et est célébré pour sa charité profonde et son engagement envers sa vie religieuse.",
+      "image": "/images/saint_gerard_majella.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Majella"
+    },
+    {
+      "name": "Gall",
+      "feast_day": "16 octobre",
+      "era": "VIIe siècle",
+      "patronage": [
+        "Suisse",
+        "moines",
+        "étudiants"
+      ],
+      "legacy": "Pionnier du christianisme en Suisse",
+      "summary": "Saint Gall était un abbé et missionnaire irlandais qui joua un rôle important dans la propagation du christianisme en Suisse. Il accompagna saint Colomban en France, puis s'établit près du lac de Constance, où il fonda un monastère qui devint un centre d'enseignement chrétien. Connu pour son humilité et son dévouement, il convertit de nombreux idolâtres et reste dans les mémoires pour ses actes miraculeux et sa coexistence paisible avec la nature.",
+      "image": "/images/saint_gall.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Gall"
+    },
+    {
+      "name": "Hedwige",
+      "feast_day": "16 octobre",
+      "era": "Médiéval",
+      "patronage": [
+        "Silésie",
+        "veuves",
+        "pauvres"
+      ],
+      "legacy": "Un modèle de charité et de dévotion",
+      "summary": "Sainte Hedwige était une duchesse polonaise connue pour sa piété et ses œuvres charitables. Après la mort de son époux, elle consacra sa vie au couvent cistercien de Trebnitz, où elle servit sous l'autorité de sa fille, l'abbesse. Elle reste dans les mémoires pour sa dévotion au Saint-Sacrement et son souci des pauvres et des marginalisés.",
+      "image": "/images/saint_hedwig.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hedwig_of_Silesia"
+    }
+  ]
+}

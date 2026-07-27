@@ -1,0 +1,31 @@
+{
+  "date": "05-21",
+  "feast_day": "21 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "André Bobola",
+      "feast_day": "21 mai",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "Pologne",
+        "jésuites",
+        "victimes de persécution religieuse"
+      ],
+      "legacy": "Martyre pour la foi et l'évangélisation",
+      "summary": "André Bobola fut un prêtre jésuite polonais et martyr, connu pour son œuvre missionnaire dévouée en Lituanie durant une période de grands troubles. Il subit une persécution brutale en raison de sa foi, ce qui conduisit finalement à son martyre en 1657. Son héritage est célébré pour son engagement inébranlable envers l'évangélisation et sa compassion pour les souffrants.",
+      "image": "/images/saint_andrew_bobola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bobola"
+    },
+    {
+      "name": "Hospice",
+      "feast_day": "21 mai",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Un modèle d'ascèse et de prophétie",
+      "summary": "Saint Hospice fut un reclus qui vécut dans une tour près de Nice, en Provence, au VIe siècle. Il pratiquait une ascèse extrême, survivant avec très peu de nourriture et consacrant sa vie à la prière et à la prophétie. Connu pour ses dons miraculeux, il prédit l'invasion des Lombards et convertit un soldat qui avait tenté de lui faire du mal.",
+      "image": "/images/saint_hospitius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hospitius"
+    }
+  ]
+}

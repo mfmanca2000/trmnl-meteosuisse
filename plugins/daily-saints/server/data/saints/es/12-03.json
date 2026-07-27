@@ -1,0 +1,22 @@
+{
+  "date": "12-03",
+  "feast_day": "3 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francisco Javier",
+      "feast_day": "3 de diciembre",
+      "era": "Siglo XVI",
+      "patronage": [
+        "misioneros",
+        "misiones extranjeras",
+        "India",
+        "Japón"
+      ],
+      "legacy": "Pionero de las misiones cristianas en Asia",
+      "summary": "Francisco Javier fue un misionero jesuita español que desempeñó un papel crucial en la propagación del cristianismo en Asia durante el siglo XVI. Es conocido sobre todo por su intensa labor misionera en la India y Japón, donde bautizó a miles de personas y fundó numerosas iglesias. Su dedicación y sus obras milagrosas le valieron el título de Apóstol de las Indias y de Japón.",
+      "image": "/images/saint_francis_xavier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Xavier"
+    }
+  ]
+}

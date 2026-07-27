@@ -1,0 +1,27 @@
+{
+  "date": "05-29",
+  "feast_day": "29 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie-Madeleine de Pazzi",
+      "feast_day": "29 mai",
+      "era": "XVIIe siècle",
+      "patronage": null,
+      "legacy": "Carmélite",
+      "summary": "Sainte Marie-Madeleine de Pazzi fut la fille unique de l'illustre Camille de Pazzi, apparenté aux Médicis de Florence. Elle naquit en l'an 1566 et fut baptisée sous le nom de Catherine. Enfant, elle aimait se retirer dans des lieux solitaires pour entrer en prière avec Dieu, qui se révéla à elle dès son plus jeune âge, sans le secours de maîtres, comme son Créateur, son Rédempteur et son Sanctificateur.",
+      "image": "/images/saint_mary_magdalene_of_pazzi.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Cyrille",
+      "feast_day": "29 mai",
+      "era": null,
+      "patronage": null,
+      "legacy": "Enfant martyr",
+      "summary": "encore enfant à Césarée de Cappadoce, souffrit durant les persécutions du troisième siècle. Il avait été secrètement instruit dans le christianisme et répétait sans cesse le nom du Christ, confessant que la simple prononciation de ce Nom lui était bénéfique. Pour cela, son père païen, plongé dans les superstitions du paganisme, lui fit subir toutes sortes de mauvais traitements.",
+      "image": "/images/saint_cyril_boy-martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

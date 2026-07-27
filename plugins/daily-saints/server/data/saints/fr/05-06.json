@@ -1,0 +1,35 @@
+{
+  "date": "05-06",
+  "feast_day": "6 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Dominique Savio",
+      "feast_day": "6 mai",
+      "era": "XIXe siècle",
+      "patronage": [
+        "enfants de chœur",
+        "délinquants juvéniles",
+        "étudiants"
+      ],
+      "legacy": "Une inspiration pour la jeunesse par la foi et la joie",
+      "summary": "Dominique Savio était un jeune étudiant italien et membre de la Société salésienne, connu pour son profond engagement dans la foi et son désir de sainteté dès son plus jeune âge. Proche collaborateur de saint Jean Bosco, il fonda la Sodalité de l'Immaculée Conception pour promouvoir la foi parmi ses camarades. Malgré sa courte vie, on se souvient de lui pour son caractère joyeux et son dévouement à aider les autres à grandir dans la foi.",
+      "image": "/images/saint_dominic_savio.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Savio"
+    },
+    {
+      "name": "Jean",
+      "feast_day": "6 mai",
+      "era": "Ier siècle",
+      "patronage": [
+        "auteurs",
+        "théologiens",
+        "apothicaires"
+      ],
+      "legacy": "Disciple bien-aimé et auteur de l'Apocalypse",
+      "summary": "Saint Jean l'Évangéliste fut le dernier apôtre survivant et joua un rôle important dans l'Église primitive, en particulier en Asie Mineure. Il échappa miraculeusement au martyre lorsqu'il fut plongé dans une chaudière d'huile bouillante, qui ne lui causa aucun mal. Il fut finalement exilé sur l'île de Patmos, où il reçut les visions qui allaient devenir le Livre de l'Apocalypse.",
+      "image": "/images/saint_john_before_the_latin_gate.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Evangelist"
+    }
+  ]
+}

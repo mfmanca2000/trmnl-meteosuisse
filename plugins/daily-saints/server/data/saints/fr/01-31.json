@@ -1,0 +1,36 @@
+{
+  "date": "01-31",
+  "feast_day": "31 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean Bosco",
+      "feast_day": "31 janvier",
+      "era": "XIXe siècle",
+      "patronage": [
+        "jeunesse",
+        "étudiants",
+        "apprentis",
+        "magiciens"
+      ],
+      "legacy": "Champion de la jeunesse et de l'éducation",
+      "summary": "Jean Bosco était un prêtre et éducateur italien qui consacra sa vie au bien-être des jeunes défavorisés. Il fonda la Société salésienne, dédiée à l'éducation et au développement spirituel des jeunes. Son héritage se perpétue à travers les nombreuses institutions salésiennes à travers le monde qui perpétuent sa mission d'amour et d'éducation.",
+      "image": "/images/saint_john_bosco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Bosco"
+    },
+    {
+      "name": "Marcelle",
+      "feast_day": "31 janvier",
+      "era": "Début du Ve siècle",
+      "patronage": [
+        "veuves",
+        "femmes de la noblesse",
+        "croissance spirituelle"
+      ],
+      "legacy": "Modèle de veuvage chrétien et de piété",
+      "summary": "Marcelle était une noble veuve romaine qui consacra sa vie à l'ascétisme et à l'étude des Écritures sous la direction de saint Jérôme. Elle devint une figure de proue parmi les femmes chrétiennes, les rassemblant pour la croissance spirituelle et le soutien mutuel. Marcelle mourut lors du siège gothique de Rome en 410, ayant vécu une vie de piété et de service envers les pauvres.",
+      "image": "/images/saint_marcella.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Marcella"
+    }
+  ]
+}

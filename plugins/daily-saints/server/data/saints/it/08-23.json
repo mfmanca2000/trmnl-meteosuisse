@@ -1,0 +1,21 @@
+{
+  "date": "08-23",
+  "feast_day": "23 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Filippo Benizi",
+      "feast_day": "23 agosto",
+      "era": "Medioevo",
+      "patronage": [
+        "malati",
+        "professionisti della salute",
+        "serviti"
+      ],
+      "legacy": "Un modello di umiltà e servizio",
+      "summary": "Filippo Benizi fu un sacerdote servita nato a Firenze nel 1233. Dedicò la sua vita al servizio di Dio e all'aiuto del prossimo, noto per la sua umiltà e il suo impegno per la pace in un periodo di lotte civili in Italia. Il suo lascito comprende il suo impegno nella preghiera e nella penitenza, oltre al suo ruolo nella fondazione e nella guida dell'Ordine dei Servi di Maria.",
+      "image": "/images/saint_philip_benizi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_Benizi_de_Damiani"
+    }
+  ]
+}

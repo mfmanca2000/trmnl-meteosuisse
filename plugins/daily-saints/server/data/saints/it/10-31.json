@@ -1,0 +1,21 @@
+{
+  "date": "10-31",
+  "feast_day": "31 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Quintino",
+      "feast_day": "31 ottobre",
+      "era": "III secolo",
+      "patronage": [
+        "birrai",
+        "idraulici",
+        "pittori"
+      ],
+      "legacy": "Martirio e miracoli in Gallia",
+      "summary": "San Quintino fu un martire romano che evangelizzò la Gallia nel III secolo. Era noto per le sue guarigioni miracolose e la sua fede incrollabile, che alla fine portarono al suo brutale martirio per ordine del procuratore romano Rictiovaro. La sua eredità sopravvive in Francia, dove numerose chiese e luoghi gli sono dedicati, ed è venerato come protettore dei fedeli.",
+      "image": "/images/saint_quentin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Quentin"
+    }
+  ]
+}

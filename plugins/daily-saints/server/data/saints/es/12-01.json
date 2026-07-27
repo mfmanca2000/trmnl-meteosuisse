@@ -1,0 +1,23 @@
+{
+  "date": "12-01",
+  "feast_day": "1 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eloy",
+      "feast_day": "1 de diciembre",
+      "era": "Siglo VII",
+      "patronage": [
+        "orfebres",
+        "metalúrgicos",
+        "agricultores",
+        "pobres",
+        "joyeros"
+      ],
+      "legacy": "Patrono de los orfebres y de los pobres",
+      "summary": "Eloy fue un hábil metalúrgico y orfebre que llegó a ser conocido por su piedad y caridad. Nombrado orfebre real por el rey Clotario II, dedicó su vida a servir a los pobres y a crear hermosos relicarios para los santos. Más tarde, se convirtió en obispo de Noyon, donde continuó sus buenas obras y fue conocido por realizar milagros.",
+      "image": "/images/saint_eligius_or_eloy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Eligius"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "01-14",
+  "feast_day": "14 gennaio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ilario di Poitiers",
+      "feast_day": "14 gennaio",
+      "era": "IV secolo",
+      "patronage": [
+        "teologi",
+        "esiliati"
+      ],
+      "legacy": "Difensore dell'ortodossia contro l'arianesimo",
+      "summary": "Ilario di Poitiers fu un vescovo e dottore della Chiesa noto per la sua strenua difesa del cristianesimo ortodosso contro l'arianesimo. Dopo essersi convertito al cristianesimo in età matura, divenne un teologo di primo piano e scrisse ampiamente sulla Trinità. I suoi sforzi per promuovere la fede gli valsero l'esilio, durante il quale continuò a comporre opere influenti, prima di tornare infine nella sua diocesi per proseguire il suo ministero fino alla morte.",
+      "image": "/images/saint_hilary_of_poitiers.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+    },
+    {
+      "name": "Felice di Nola",
+      "feast_day": "14 gennaio",
+      "era": "III secolo",
+      "patronage": [
+        "religiose",
+        "oratori",
+        "coloro che cercano di superare le avversità"
+      ],
+      "legacy": "Un modello di fede e carità",
+      "summary": "San Felice di Nola fu un sacerdote noto per la sua profonda fede e la sua dedizione al servizio degli altri durante un periodo di persecuzione della Chiesa primitiva. Sopportò prigionia e tortura, ma rimase fedele ai suoi doveri pastorali, aiutando infine il suo vescovo, Massimo, in un momento di grande difficoltà. Terminata la persecuzione, visse in povertà e carità, diventando una figura amata dalla sua comunità.",
+      "image": "/images/saint_felix_of_nola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Nola"
+    }
+  ]
+}

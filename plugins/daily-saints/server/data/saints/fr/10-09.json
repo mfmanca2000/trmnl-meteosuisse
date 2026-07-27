@@ -1,0 +1,34 @@
+{
+  "date": "10-09",
+  "feast_day": "9 octobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Louis Bertrand",
+      "feast_day": "9 octobre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "missionnaires",
+        "peuples indigènes"
+      ],
+      "legacy": "Défenseur des droits des indigènes et de la foi",
+      "summary": "Louis Bertrand était un missionnaire dominicain espagnol connu pour son œuvre dévouée dans la conversion des peuples indigènes des Amériques au XVIe siècle. Il fit preuve d'une remarquable douceur et compassion, même face à l'adversité, et fut doté du don de prophétie et de miracles. Son héritage comprend le baptême de milliers de personnes et un engagement à défendre les droits des communautés indigènes opprimées.",
+      "image": "/images/saint_louis_bertrand.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_Bertrand_(saint)"
+    },
+    {
+      "name": "Denys l'Aréopagite",
+      "feast_day": "9 octobre",
+      "era": "Ier siècle",
+      "patronage": [
+        "France",
+        "philosophes",
+        "théologiens"
+      ],
+      "legacy": "Pionnier du christianisme en Gaule",
+      "summary": "Denys l'Aréopagite était un éminent missionnaire chrétien des premiers temps et le premier évêque d'Athènes, converti par saint Paul. Il joua un rôle important dans la diffusion du christianisme en Gaule, en particulier à Paris, où il fonda plusieurs églises. Il est resté dans les mémoires comme martyr, ayant été exécuté pour sa foi vers l'an 117.",
+      "image": "/images/saint_dionysius_the_areopagite.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dionysius_the_Areopagite"
+    }
+  ]
+}

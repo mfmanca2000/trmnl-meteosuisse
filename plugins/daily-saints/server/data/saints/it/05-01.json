@@ -1,0 +1,22 @@
+{
+  "date": "05-01",
+  "feast_day": "1 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giuseppe",
+      "feast_day": "1 maggio",
+      "era": "I secolo",
+      "patronage": [
+        "lavoratori",
+        "padri",
+        "falegnami",
+        "famiglie"
+      ],
+      "legacy": "Patrono dei lavoratori e delle famiglie",
+      "summary": "San Giuseppe è riconosciuto come il padre terreno di Gesù Cristo e lo sposo della Vergine Maria. È celebrato per la sua umiltà, obbedienza e dedizione alla famiglia, incarnando le virtù della fede e della rettitudine. La sua festa, istituita da papa Pio XII, onora il suo ruolo di santo patrono dei lavoratori e delle famiglie.",
+      "image": "/images/saint_joseph_the_worker.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Nazareth"
+    }
+  ]
+}

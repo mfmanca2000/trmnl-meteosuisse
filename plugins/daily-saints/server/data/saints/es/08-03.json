@@ -1,0 +1,35 @@
+{
+  "date": "08-03",
+  "feast_day": "3 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pedro Julián Eymard",
+      "feast_day": "3 de agosto",
+      "era": "Siglo XIX",
+      "patronage": [
+        "adoración eucarística",
+        "clero",
+        "Santísimo Sacramento"
+      ],
+      "legacy": "Defensor de la devoción y la espiritualidad eucarística.",
+      "summary": "Pedro Julián Eymard fue un sacerdote francés y fundador de la Congregación del Santísimo Sacramento. Dedicó su vida a promover la devoción a la Eucaristía y fundó comunidades para sostener esta misión. Canonizado en 1962, es recordado por su profunda espiritualidad y su compromiso con la vida sacramental de la Iglesia.",
+      "image": "/images/saint_peter-julian_eymard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Julian_Eymard"
+    },
+    {
+      "name": "Esteban",
+      "feast_day": "3 de agosto",
+      "era": "Siglo I",
+      "patronage": [
+        "diáconos",
+        "canteros",
+        "muerte súbita"
+      ],
+      "legacy": "Primer mártir y defensor de la fe",
+      "summary": "San Esteban es reconocido como el primer mártir cristiano, conocido por su fe inquebrantable y su poderosa predicación. Fue apedreado hasta la muerte por sus creencias, según se relata en los Hechos de los Apóstoles. Sus reliquias fueron descubiertas en el año 415, dando lugar a una importante fiesta en su honor y a la curación de numerosos afligidos.",
+      "image": "/images/the_finding_of_saint_stephens_relics.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_the_Protomartyr"
+    }
+  ]
+}

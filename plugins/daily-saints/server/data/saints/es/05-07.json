@@ -1,0 +1,21 @@
+{
+  "date": "05-07",
+  "feast_day": "7 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Estanislao",
+      "feast_day": "7 de mayo",
+      "era": "Siglo XI",
+      "patronage": [
+        "Polonia",
+        "obispos",
+        "mártires"
+      ],
+      "legacy": "Defensor de la fe y de los pobres",
+      "summary": "San Estanislao fue obispo de Cracovia y mártir, que se opuso valientemente al rey Boleslao II por sus acciones inmorales. Es conocido por su profunda piedad, su compromiso con los pobres y sus actos milagrosos, incluida la resurrección de un muerto para testificar en su favor. Su firmeza en la fe lo llevó finalmente al martirio, siendo asesinado ante el altar durante la Misa en 1079.",
+      "image": "/images/saint_stanislaus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stanislaus"
+    }
+  ]
+}

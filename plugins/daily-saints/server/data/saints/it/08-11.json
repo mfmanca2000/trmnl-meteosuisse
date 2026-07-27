@@ -1,0 +1,41 @@
+{
+  "date": "08-11",
+  "feast_day": "11 agosto",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Filomena",
+      "feast_day": "11 agosto",
+      "era": "III secolo",
+      "patronage": [
+        "bambini",
+        "cause perse",
+        "vergini"
+      ],
+      "legacy": "Protettrice dei bambini e taumaturga",
+      "summary": "Santa Filomena è una vergine e martire che si ritiene sia morta nel III secolo sotto l'imperatore romano Diocleziano. La sua tomba fu scoperta agli inizi del XIX secolo, suscitando un'ondata di devozione e testimonianze di miracoli attribuiti alla sua intercessione. È particolarmente venerata come protettrice dei bambini ed è nota per le sue opere miracolose, che le valsero il titolo di taumaturga del XIX secolo.",
+      "image": "/images/saint_philomena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philomena"
+    },
+    {
+      "name": "Tiburzio",
+      "feast_day": "11 agosto",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Martirio per una fede incrollabile in Dio",
+      "summary": "San Tiburzio fu un martire cristiano, figlio del prefetto romano Agrestio Cromazio. Fu battezzato insieme al padre e in seguito ordinato suddiacono, noto per i suoi atti miracolosi, tra cui la risurrezione di un morto. Tiburzio fu infine martirizzato durante la persecuzione di Diocleziano per la sua fede incrollabile in Dio.",
+      "image": "/images/saint_tiburtius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Tiburtius"
+    },
+    {
+      "name": "Susanna",
+      "feast_day": "11 agosto",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Coraggiosa martire dei primi tempi del cristianesimo",
+      "summary": "Santa Susanna era una nobile vergine romana e martire, nota per il suo saldo impegno nel voto di castità. Rifiutò di sposare Massimiano, il favorito dell'imperatore Diocleziano, e fu in seguito arrestata e giustiziata per la sua fede. Il suo lascito è onorato nella tradizione cristiana, in particolare per il suo coraggio e la sua dedizione a Dio di fronte alla persecuzione.",
+      "image": "/images/saint_susanna.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Susanna"
+    }
+  ]
+}

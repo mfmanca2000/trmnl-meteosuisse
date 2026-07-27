@@ -1,0 +1,22 @@
+{
+  "date": "09-08",
+  "feast_day": "8 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "María",
+      "feast_day": "8 de septiembre",
+      "era": "Siglo I",
+      "patronage": [
+        "madres",
+        "mujeres embarazadas",
+        "pérdida de los padres",
+        "enfermos"
+      ],
+      "legacy": "Madre de Dios e intercesora de todos",
+      "summary": "María es venerada como la madre de Jesucristo y ocupa un lugar central en la teología cristiana. Es celebrada por su pureza y su obediencia a la voluntad de Dios, habiendo sido concebida sin pecado original. La Natividad de la Bienaventurada Virgen María se conmemora como un acontecimiento significativo del calendario cristiano, que marca su nacimiento y el inicio del camino hacia la salvación.",
+      "image": "/images/the_nativity_of_the_blessed_virgin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "10-18",
+  "feast_day": "18 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lucas",
+      "feast_day": "18 de octubre",
+      "era": "Siglo I",
+      "patronage": [
+        "médicos",
+        "artistas",
+        "carniceros",
+        "panaderos"
+      ],
+      "legacy": "Evangelista y compañero de san Pablo",
+      "summary": "Lucas es reconocido como el autor del Evangelio de Lucas y de los Hechos de los Apóstoles, que ofrecen un relato detallado de la vida de Jesús y de la Iglesia primitiva. Médico de profesión, fue compañero de san Pablo y desempeñó un papel importante en la difusión del cristianismo. Sus representaciones artísticas de la Virgen María y sus escritos meticulosos lo han convertido en una figura venerada de la tradición cristiana.",
+      "image": "/images/saint_luke.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luke_the_Evangelist"
+    }
+  ]
+}

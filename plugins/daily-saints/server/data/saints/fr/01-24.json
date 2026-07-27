@@ -1,0 +1,21 @@
+{
+  "date": "01-24",
+  "feast_day": "24 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Timothée",
+      "feast_day": "24 janvier",
+      "era": "Ier siècle",
+      "patronage": [
+        "brasseurs",
+        "malades",
+        "étudiants"
+      ],
+      "legacy": "Un disciple dévoué et chef de l'Église primitive.",
+      "summary": "Timothée était un compagnon et disciple de saint Paul, qui devint le premier évêque d'Éphèse. Il est connu pour son dévouement à la propagation du christianisme et pour son rôle dans la conduite des premières communautés chrétiennes. Timothée finit par être martyrisé, tué alors qu'il tentait de calmer une émeute en l'honneur de la déesse Diane à Éphèse.",
+      "image": "/images/saint_timothy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Timothy"
+    }
+  ]
+}

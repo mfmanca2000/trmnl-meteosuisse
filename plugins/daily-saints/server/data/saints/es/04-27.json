@@ -1,0 +1,35 @@
+{
+  "date": "04-27",
+  "feast_day": "27 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pedro Canisio",
+      "feast_day": "27 de abril",
+      "era": "Siglo XVI",
+      "patronage": [
+        "Alemania",
+        "catequistas",
+        "estudiantes"
+      ],
+      "legacy": "Campeón de la Contrarreforma católica",
+      "summary": "Pedro Canisio fue un sacerdote jesuita y teólogo neerlandés que desempeñó un papel crucial en la Contrarreforma católica. Fue decisivo en la fundación de colegios jesuitas y en el desarrollo de materiales catequéticos, especialmente su célebre catecismo. Canonizado en 1621 y declarado Doctor de la Iglesia en 1927, se le recuerda por su dedicación a la renovación de la fe católica en Alemania y más allá.",
+      "image": "/images/saint_peter_canisius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Canisius"
+    },
+    {
+      "name": "Zita",
+      "feast_day": "27 de abril",
+      "era": "Medieval",
+      "patronage": [
+        "sirvientes",
+        "empleados domésticos",
+        "causas perdidas"
+      ],
+      "legacy": "Patrona de los sirvientes y trabajadores",
+      "summary": "Santa Zita fue una virgen y sirvienta del siglo XIII originaria de Lucca, Italia, conocida por su fe inquebrantable y su dedicación a la oración. A pesar de sufrir malos tratos por parte de sus empleadores y de sus compañeros de servicio, permaneció paciente y bondadosa, ganándose finalmente su respeto y admiración. Su vida ejemplifica las virtudes del trabajo constante y la devoción, lo que llevó a su reconocimiento como santa tras su muerte en 1278.",
+      "image": "/images/saint_zita.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zita_of_Lucca"
+    }
+  ]
+}

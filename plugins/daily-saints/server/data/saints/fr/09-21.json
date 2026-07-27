@@ -1,0 +1,21 @@
+{
+  "date": "09-21",
+  "feast_day": "21 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Matthieu",
+      "feast_day": "21 septembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "percepteurs d'impôts",
+        "comptables",
+        "banquiers"
+      ],
+      "legacy": "Apôtre et évangéliste de Jésus-Christ",
+      "summary": "Matthieu, appelé à l'origine Lévi, était un collecteur d'impôts appelé par Jésus à devenir l'un de ses apôtres. Il est traditionnellement crédité de la rédaction de l'Évangile selon Matthieu, qui souligne que Jésus accomplit les prophéties de l'Ancien Testament. Après avoir prêché en Judée, il passa de nombreuses années à évangéliser en Égypte et en Éthiopie, où il devint finalement martyr pour sa foi.",
+      "image": "/images/saint_matthew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+    }
+  ]
+}

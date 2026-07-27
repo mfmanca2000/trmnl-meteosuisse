@@ -1,0 +1,35 @@
+{
+  "date": "06-03",
+  "feast_day": "3 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Charles Lwanga",
+      "feast_day": "3 juin",
+      "era": "19e siècle",
+      "patronage": [
+        "jeunesse",
+        "catéchistes",
+        "missions africaines"
+      ],
+      "legacy": "Martyre pour la foi et émancipation de la jeunesse",
+      "summary": "Charles Lwanga était un martyr ougandais qui joua un rôle déterminant dans la communauté chrétienne naissante de l'Ouganda à la fin du 19e siècle. Il était un chef parmi les pages du roi Mwanga et contribua grandement à l'enseignement du catéchisme à ses pairs. Lwanga fut exécuté pour sa foi le 3 juin 1886, avec d'autres jeunes chrétiens, et est célébré pour son courage et son engagement envers le christianisme.",
+      "image": "/images/the_holy_martyrs_of_uganda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lwanga"
+    },
+    {
+      "name": "Clotilde",
+      "feast_day": "3 juin",
+      "era": "6e siècle",
+      "patronage": [
+        "reines",
+        "convertis",
+        "France"
+      ],
+      "legacy": "Mère spirituelle de la France catholique",
+      "summary": "Sainte Clotilde était la reine consort de Clovis Ier, premier roi des Francs, et joua un rôle crucial dans sa conversion au christianisme. Sa piété et son engagement dans la foi inspirèrent son époux et contribuèrent à l'établissement du christianisme en France. Après la mort de Clovis, elle consacra sa vie à la prière et à la charité, devenant une figure marquante des premiers temps de l'Église.",
+      "image": "/images/saint_clotilda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clotilde"
+    }
+  ]
+}

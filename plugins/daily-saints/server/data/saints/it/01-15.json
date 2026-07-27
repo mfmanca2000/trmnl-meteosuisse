@@ -1,0 +1,34 @@
+{
+  "date": "01-15",
+  "feast_day": "15 gennaio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Paolo l'Eremita",
+      "feast_day": "15 gennaio",
+      "era": "III secolo",
+      "patronage": [
+        "eremiti",
+        "abitanti del deserto"
+      ],
+      "legacy": "Il primo eremita e modello di solitudine",
+      "summary": "San Paolo l'Eremita è riconosciuto come il primo eremita ed è noto per la sua vita di solitudine nel deserto egiziano. Dopo essere fuggito dalla persecuzione, visse per quasi novant'anni in preghiera e penitenza, affidandosi unicamente alla provvidenza di Dio per il proprio sostentamento. Il suo lascito è strettamente legato a sant'Antonio, che lo scoprì e condivise con lui la vita spirituale prima della morte di Paolo.",
+      "image": "/images/saint_paul_hermit.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_Thebes"
+    },
+    {
+      "name": "Mauro",
+      "feast_day": "15 gennaio",
+      "era": "VI secolo",
+      "patronage": [
+        "monaci",
+        "abati",
+        "Francia"
+      ],
+      "legacy": "Modello di umiltà e dedizione monastica",
+      "summary": "San Mauro fu un abate benedettino noto per la sua profonda umiltà e le sue capacità miracolose. Discepolo di san Benedetto, svolse un ruolo significativo nell'affermazione della vita monastica in Francia, fondando l'abbazia di Glanfeuil. Il suo lascito include una forte devozione tra i fedeli e un'influenza duratura sulle pratiche monastiche della regione.",
+      "image": "/images/saint_maurus_abbot.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Maurus"
+    }
+  ]
+}

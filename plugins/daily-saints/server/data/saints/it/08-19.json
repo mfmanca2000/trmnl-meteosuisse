@@ -1,0 +1,35 @@
+{
+  "date": "08-19",
+  "feast_day": "19 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni Eudes",
+      "feast_day": "19 agosto",
+      "era": "XVII secolo",
+      "patronage": [
+        "clero",
+        "parroci",
+        "direttori spirituali"
+      ],
+      "legacy": "Pioniere della devozione al Sacro Cuore",
+      "summary": "Giovanni Eudes fu un sacerdote francese, fondatore della Congregazione di Gesù e Maria e delle Suore di Nostra Signora della Carità. È noto per la sua devozione al Sacro Cuore di Gesù e al Cuore Immacolato di Maria, oltre che per il suo impegno nella fondazione di seminari e nell'evangelizzazione dei poveri. Eudes fu canonizzato nel 1925 ed è ricordato per i suoi importanti contributi alla Chiesa cattolica nel XVII secolo.",
+      "image": "/images/saint_john_eudes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Eudes"
+    },
+    {
+      "name": "Luigi di Tolosa",
+      "feast_day": "19 agosto",
+      "era": "Medioevo",
+      "patronage": [
+        "poveri",
+        "studenti",
+        "francescani"
+      ],
+      "legacy": "Una vita di umiltà e servizio",
+      "summary": "Luigi di Tolosa fu un vescovo noto per la sua profonda pietà e il suo impegno al servizio di Dio fin da giovane età. Nonostante fosse nato nobile, scelse una vita di umiltà e servizio, dedicandosi alla cura dei poveri e dei malati. Divenne arcivescovo di Tolosa ed è ricordato per il suo stile di vita austero e la sua devozione fino alla morte prematura all'età di ventitré anni.",
+      "image": "/images/saint_louis_of_toulouse.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_of_Toulouse"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "09-14",
+  "feast_day": "14 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Exaltation de la Sainte Croix",
+      "feast_day": "14 septembre",
+      "era": "VIIe siècle",
+      "patronage": null,
+      "legacy": "Célébration du triomphe de la Croix",
+      "summary": "L'Exaltation de la Sainte Croix commémore le recouvrement de la Vraie Croix par l'empereur Héraclius en 628 après qu'elle eut été prise par les Perses. Cet événement symbolise le triomphe du christianisme sur le paganisme et l'importance de la Croix dans la foi. La fête rappelle la signification de la Croix dans la vie des croyants et les miracles qui lui sont associés.",
+      "image": "/images/the_exaltation_of_the_holy_cross_of_our_lord_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Exaltation_of_the_Holy_Cross"
+    }
+  ]
+}

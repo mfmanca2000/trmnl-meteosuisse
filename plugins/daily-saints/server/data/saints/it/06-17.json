@@ -1,0 +1,21 @@
+{
+  "date": "06-17",
+  "feast_day": "17 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Avito",
+      "feast_day": "17 giugno",
+      "era": "VI secolo",
+      "patronage": [
+        "monaci",
+        "i poveri",
+        "miracoli"
+      ],
+      "legacy": "Taumaturgo e abate devoto",
+      "summary": "Sant'Avito fu un monaco e abate noto per il suo profondo impegno verso Dio e per il servizio ai poveri. Divenne abate di un monastero a Orléans e in seguito visse in solitudine, dove compì miracoli, tra cui la guarigione di un pastore muto a cui restituì la parola. Il suo lascito comprende la fondazione di un monastero che portò il suo nome e la sua fama di preghiera intercessoria e opere miracolose.",
+      "image": "/images/saint_avitus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Avitus"
+    }
+  ]
+}

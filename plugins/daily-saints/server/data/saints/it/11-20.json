@@ -1,0 +1,21 @@
+{
+  "date": "11-20",
+  "feast_day": "20 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Felice di Valois",
+      "feast_day": "20 novembre",
+      "era": "Medievale",
+      "patronage": [
+        "prigionieri",
+        "carcerati",
+        "l'Ordine Trinitario"
+      ],
+      "legacy": "Cofondatore dell'Ordine Trinitario",
+      "summary": "San Felice di Valois fu cofondatore dell'Ordine Trinitario, dedicato alla redenzione dei prigionieri cristiani. Nato in una famiglia nobile, condusse una vita di austerità e virtù, fondando infine una comunità monastica in Francia. La sua eredità è segnata dalla rapida crescita dell'Ordine Trinitario, che divenne fondamentale per la liberazione dei prigionieri durante il Medioevo.",
+      "image": "/images/saint_felix_of_valois.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Valois"
+    }
+  ]
+}

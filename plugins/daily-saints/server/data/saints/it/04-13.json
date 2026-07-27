@@ -1,0 +1,20 @@
+{
+  "date": "04-13",
+  "feast_day": "13 aprile",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ermenegildo",
+      "feast_day": "13 aprile",
+      "era": "VI secolo",
+      "patronage": [
+        "martiri",
+        "conversioni"
+      ],
+      "legacy": "Un martirio che ispira la fede e la conversione",
+      "summary": "Sant'Ermenegildo fu un principe visigoto e martire, giustiziato da suo padre, il re Leovigildo, per essersi convertito al cristianesimo. Nonostante severe torture e la tentazione di rinnegare la sua fede, rimase saldo e scelse di morire piuttosto che tradire le sue convinzioni. Il suo martirio ispirò molti, incluso suo fratello Recaredo, che in seguito convertì i Visigoti al cristianesimo.",
+      "image": "/images/saint_hermenegild.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hermenegild"
+    }
+  ]
+}

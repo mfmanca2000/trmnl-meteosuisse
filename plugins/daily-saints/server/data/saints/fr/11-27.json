@@ -1,0 +1,31 @@
+{
+  "date": "11-27",
+  "feast_day": "27 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catherine Labouré",
+      "feast_day": "27 novembre",
+      "era": "XIXe siècle",
+      "patronage": [
+        "la Médaille miraculeuse",
+        "les malades",
+        "les filles de la charité"
+      ],
+      "legacy": "Visionnaire de la Médaille miraculeuse",
+      "summary": "Catherine Labouré était une religieuse française des Filles de la Charité, connue pour ses visions de la Vierge Marie. En 1830, elle reçut une vision qui inspira la création de la Médaille miraculeuse, devenue depuis un puissant symbole de foi et de dévotion. Sa vie et son œuvre soulignent l'importance de la prière et de l'intercession de Marie dans la vie des fidèles.",
+      "image": "/images/the_miraculous_medal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+    },
+    {
+      "name": "Maxime",
+      "feast_day": "27 novembre",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Un modèle d'humilité et de vertu",
+      "summary": "Saint Maxime fut évêque de Riez au Ve siècle, connu pour sa profonde piété et son engagement envers la vertu. Il résista d'abord à devenir évêque, préférant une vie d'humilité et de service dans son monastère. Son leadership se caractérisa par la douceur et la bonté, lui valant l'affection de son clergé et du peuple qu'il servit jusqu'à sa mort en 460.",
+      "image": "/images/saint_maximus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

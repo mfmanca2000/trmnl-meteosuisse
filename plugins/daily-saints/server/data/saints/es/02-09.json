@@ -1,0 +1,35 @@
+{
+  "date": "02-09",
+  "feast_day": "9 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cirilo de Alejandría",
+      "feast_day": "9 de febrero",
+      "era": "Siglo V",
+      "patronage": [
+        "teólogos",
+        "estudiantes",
+        "Egipto"
+      ],
+      "legacy": "Defensor de la Encarnación y de la Theotokos",
+      "summary": "Cirilo de Alejandría fue un destacado teólogo y patriarca de Alejandría a comienzos del siglo V. Desempeñó un papel crucial en las controversias cristológicas de su época, oponiéndose en particular al nestorianismo y defendiendo el título de Theotokos para María. Sus escritos y su pensamiento teológico moldearon significativamente la doctrina cristiana y le valieron el título de Doctor de la Iglesia.",
+      "image": "/images/saint_cyril_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
+    },
+    {
+      "name": "Apolonia",
+      "feast_day": "9 de febrero",
+      "era": "Siglo III",
+      "patronage": [
+        "dentistas",
+        "dolores de muelas",
+        "mártires"
+      ],
+      "legacy": "Testigo valiente de la fe y el martirio",
+      "summary": "Santa Apolonia fue una mártir cristiana de Alejandría, conocida por su fe inquebrantable durante una brutal persecución de cristianos en el año 249 d. C. Fue sometida a torturas horribles, incluida la rotura de sus dientes, antes de ser conducida a una hoguera donde eligió morir antes que renegar de Cristo. Su valentía y firmeza ante la muerte la han convertido en un símbolo de fe y martirio en la tradición cristiana.",
+      "image": "/images/saint_apollonia_virgin_and_the_martyrs_of_alexandr.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Apollonia"
+    }
+  ]
+}

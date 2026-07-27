@@ -1,0 +1,31 @@
+{
+  "date": "08-22",
+  "feast_day": "22 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "22 août",
+      "era": "Époque moderne",
+      "patronage": [
+        "mères",
+        "familles",
+        "malades"
+      ],
+      "legacy": "Symbole de l'amour maternel et de l'intercession",
+      "summary": "Le Cœur Immaculé de Marie représente l'amour pur et la compassion de la Vierge Marie pour son Fils, Jésus-Christ, et pour toute l'humanité. Cette dévotion souligne l'importance du rôle maternel de Marie dans la vie spirituelle des croyants et de son pouvoir d'intercession. Le message de Fatima en 1917 mit en avant l'appel à la dévotion envers son Cœur Immaculé comme moyen d'obtenir la paix et le salut.",
+      "image": "/images/the_immaculate_heart_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Immaculate_Heart_of_Mary"
+    },
+    {
+      "name": "Symphorien",
+      "feast_day": "22 août",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Un symbole de foi chrétienne inébranlable",
+      "summary": "Saint Symphorien était un jeune martyr chrétien d'Autun, en France, qui refusa d'adorer les idoles païennes lors d'une procession publique en l'honneur de la déesse Cérès, vers l'an 180. Il proclama hardiment sa foi devant le magistrat et subit une torture sévère, avant d'être finalement exécuté par le glaive. Sa mère, témoin de son martyre, l'encouragea à rester fidèle à Dieu, et tous deux sont restés célèbres pour leur engagement inébranlable envers le Christ.",
+      "image": "/images/saint_symphorian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Symphorian_and_Timotheus"
+    }
+  ]
+}

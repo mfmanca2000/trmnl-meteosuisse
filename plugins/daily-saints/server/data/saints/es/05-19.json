@@ -1,0 +1,30 @@
+{
+  "date": "05-19",
+  "feast_day": "19 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pedro Celestino",
+      "feast_day": "19 de mayo",
+      "era": "Siglo XIII",
+      "patronage": [
+        "celibato",
+        "elecciones papales"
+      ],
+      "legacy": "Papa y fundador de los Celestinos",
+      "summary": "Pedro Celestino fue un papa del siglo XIII, fundador de la Orden de los Celestinos, una rama de los Benedictinos. Conocido por su profunda espiritualidad y su deseo de soledad, renunció al papado tras solo cinco meses, considerándose inadecuado para el cargo. Pasó el resto de su vida en reclusión, realizando milagros y cultivando una estrecha relación con Dios y los ángeles.",
+      "image": "/images/saint_peter_celestine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Celestine"
+    },
+    {
+      "name": "Ivo",
+      "feast_day": "19 de mayo",
+      "era": "Siglo XIV",
+      "patronage": null,
+      "legacy": "Confesor",
+      "summary": "San Ivo Hélori, descendiente de una familia noble y virtuosa cerca de Tréguier, en Bretaña, nació en 1253. A los catorce años se trasladó a París, y después a Orleans, para proseguir sus estudios. Su madre solía decirle a menudo que debía vivir de manera que llegara a ser un santo, a lo que él respondía siempre que en efecto esperaba serlo.",
+      "image": "/images/saint_yves.jpg",
+      "wikipedia": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "date": "07-12",
+  "feast_day": "12 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni Gualberto",
+      "feast_day": "12 luglio",
+      "era": "XI secolo",
+      "patronage": [
+        "contro la simonia",
+        "parroci"
+      ],
+      "legacy": "Un campione del perdono e della vita monastica.",
+      "summary": "Giovanni Gualberto fu un santo italiano dell'XI secolo che fondò l'ordine benedettino vallombrosano. Dopo una profonda conversione personale segnata dal perdono concesso all'assassino del fratello, dedicò la propria vita alla preghiera, alla penitenza e alla promozione della fede. La sua eredità comprende un forte accento sulla misericordia e sulla lotta contro la simonia all'interno della Chiesa.",
+      "image": "/images/saint_john_gualbert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Gualbert"
+    }
+  ]
+}

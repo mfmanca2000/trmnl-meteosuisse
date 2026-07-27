@@ -1,0 +1,21 @@
+{
+  "date": "01-19",
+  "feast_day": "19 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Canut",
+      "feast_day": "19 janvier",
+      "era": "XIe siècle",
+      "patronage": [
+        "Danemark",
+        "souverains",
+        "marins"
+      ],
+      "legacy": "Un roi martyr dévoué à la justice et à la foi.",
+      "summary": "Canut, roi du Danemark, fut un souverain pieux et juste qui régna au XIe siècle. Il est connu pour ses succès militaires et ses efforts pour répandre le christianisme dans son royaume. Il fut finalement martyrisé lors d'une rébellion, démontrant ainsi sa foi inébranlable et son dévouement envers son peuple.",
+      "image": "/images/saint_canutus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Canute_the_Great"
+    }
+  ]
+}

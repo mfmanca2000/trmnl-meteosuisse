@@ -1,0 +1,22 @@
+{
+  "date": "11-19",
+  "feast_day": "19 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Isabel de Hungría",
+      "feast_day": "19 de noviembre",
+      "era": "Medieval",
+      "patronage": [
+        "los pobres",
+        "el personal hospitalario",
+        "la enfermería",
+        "los panaderos"
+      ],
+      "legacy": "Un modelo de caridad y humildad",
+      "summary": "Isabel de Hungría fue una princesa conocida por su profunda compasión y dedicación hacia los pobres. A pesar de su condición real, eligió una vida de servicio, construyendo hospitales y cuidando a los enfermos. Tras la muerte de su esposo, enfrentó grandes adversidades, pero continuó viviendo una vida de humildad y caridad hasta su muerte a una edad temprana.",
+      "image": "/images/saint_elizabeth_of_hungary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary"
+    }
+  ]
+}

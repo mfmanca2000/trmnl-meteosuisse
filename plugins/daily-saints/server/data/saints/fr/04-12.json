@@ -1,0 +1,27 @@
+{
+  "date": "04-12",
+  "feast_day": "12 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catherine de Saint-Augustin",
+      "feast_day": "12 avril",
+      "era": "XVIIe siècle",
+      "patronage": null,
+      "legacy": "Vierge",
+      "summary": "Jeune future missionnaire en Nouvelle-France, Catherine de Longpré, en religion sœur Marie-Catherine de Saint-Augustin, fut une religieuse hospitalière dans la communauté des Hospitalières de Saint-Augustin d'Évreux. Née en France en 1632, elle se rendit à Québec à l'âge de seize ans. Ayant offert sa vie pour les malades et la sanctification des âmes, elle trouva à Québec un hôpital nouvellement établi et très pauvre, où elle œuvra pendant vingt ans avec une dévotion et un courage sans faille.",
+      "image": "/images/blessed_catherine_of_st_augustine.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Jules Ier",
+      "feast_day": "12 avril",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Défenseur du christianisme nicéen",
+      "summary": "Jules Ier fut un pape romain qui exerça sa charge de 337 à 352 après J.-C. Il est connu pour sa défense de la foi nicéenne contre l'arianisme et pour avoir accueilli à Rome des évêques exilés. Sa papauté fut marquée par d'importantes réformes ecclésiastiques et la construction de basiliques et de cimetières dans la ville.",
+      "image": "/images/saint_julius_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julius_I"
+    }
+  ]
+}

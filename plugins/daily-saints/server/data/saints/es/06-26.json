@@ -1,0 +1,20 @@
+{
+  "date": "06-26",
+  "feast_day": "26 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan y Pablo",
+      "feast_day": "26 de junio",
+      "era": "Siglo IV",
+      "patronage": [
+        "mártires",
+        "soldados"
+      ],
+      "legacy": "Mártires de fe firme y caridad",
+      "summary": "Los santos Juan y Pablo fueron hermanos y oficiales del ejército romano que sirvieron durante el reinado de Constantino el Grande. Se convirtieron en mártires tras negarse a renunciar a su fe cristiana bajo el gobierno de Juliano el Apóstata. Su legado se caracteriza por su firmeza en la fe y sus obras de caridad, que condujeron a su martirio en el siglo IV.",
+      "image": "/images/saints_john_and_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_and_Paul"
+    }
+  ]
+}

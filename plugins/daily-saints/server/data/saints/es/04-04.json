@@ -1,0 +1,27 @@
+{
+  "date": "04-04",
+  "feast_day": "4 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Isidoro",
+      "feast_day": "4 de abril",
+      "era": "Siglo VII",
+      "patronage": null,
+      "legacy": "Doctor de la Iglesia",
+      "summary": "desesperado por su escaso éxito en los estudios, huyó de la escuela. Descansando durante su huida junto a un manantial al borde del camino, observó una piedra horadada por el goteo lento pero constante del agua. Esta lección lo decidió a regresar, y entonces, con aplicación decidida, tuvo éxito.",
+      "image": "/images/saint_isidore.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Benito de Palermo",
+      "feast_day": "4 de abril",
+      "era": "Siglo XVI",
+      "patronage": null,
+      "legacy": "Hermano lego",
+      "summary": "San Benito el Moro, nacido en Sicilia hacia 1526, pertenecía a la raza africana. Sus padres eran cristianos, y vivían en una antigua ciudad de Sicilia hoy llamada San Fratello (Santo Hermanito), en memoria de nuestro Santo. Por sus virtudes poseían la libertad que pertenece a todos los verdaderos hijos de Dios, sea cual sea su condición.",
+      "image": "/images/saint_benedict_of_palermo.jpg",
+      "wikipedia": null
+    }
+  ]
+}

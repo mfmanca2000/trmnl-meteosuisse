@@ -1,0 +1,31 @@
+{
+  "date": "01-04",
+  "feast_day": "4 gennaio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Angela da Foligno",
+      "feast_day": "4 gennaio",
+      "era": "Medioevo",
+      "patronage": [
+        "penitenti",
+        "malati",
+        "mistici"
+      ],
+      "legacy": "Ispirazione per penitenti e mistici",
+      "summary": "Angela da Foligno fu una mistica del XIII secolo che visse una profonda conversione dopo aver condotto una vita di peccato. Ispirata dagli ideali di san Francesco d'Assisi, divenne terziaria francescana e visse una vita di penitenza e carità. Le sue visioni e la sua profonda comunione con Dio ne fecero una figura significativa della tradizione francescana, offrendo speranza e ispirazione ai peccatori in cerca di redenzione.",
+      "image": "/images/saint_angela_of_foligno.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Angela_of_Foligno"
+    },
+    {
+      "name": "Gregorio di Langres",
+      "feast_day": "4 gennaio",
+      "era": "VI secolo",
+      "patronage": null,
+      "legacy": "Un modello di umiltà e cura pastorale.",
+      "summary": "Gregorio di Langres fu un amministratore ed episcopo cristiano noto per la sua vita virtuosa e la sua dedizione ai doveri pastorali. Dopo aver rinunciato alla carica di conte di Autun, divenne vescovo e si distinse per l'umiltà, la preghiera e gli sforzi nel convertire molti al cristianesimo. Servì come vescovo per trentatré anni, fondando monasteri e lasciando un'impronta duratura nella sua diocesi prima della sua morte nel 539.",
+      "image": "/images/saint_gregory_of_langres.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_of_Langres"
+    }
+  ]
+}

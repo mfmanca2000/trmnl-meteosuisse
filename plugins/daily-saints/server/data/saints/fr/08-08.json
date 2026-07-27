@@ -1,0 +1,35 @@
+{
+  "date": "08-08",
+  "feast_day": "8 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cyriaque",
+      "feast_day": "8 août",
+      "era": "Début du IVe siècle",
+      "patronage": [
+        "exorcistes",
+        "guérisseurs",
+        "possédés"
+      ],
+      "legacy": "Patron des exorcistes et des guérisseurs",
+      "summary": "Saint Cyriaque était un diacre de Rome qui consacra sa vie à venir en aide aux pauvres et aux chrétiens emprisonnés sous le règne de l'empereur Dioclétien. Il est connu pour avoir accompli des guérisons miraculeuses, notamment en délivrant du démon la fille de l'empereur et la fille du roi de Perse, ce qui entraîna de nombreuses conversions. Il fut finalement martyrisé pour sa foi avec ses compagnons, refusant de tirer profit des dons de Dieu qu'il partageait avec autrui.",
+      "image": "/images/saint_cyriacus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyriacus"
+    },
+    {
+      "name": "Pierre Favre",
+      "feast_day": "8 août",
+      "era": "XVIe siècle",
+      "patronage": [
+        "étudiants",
+        "enseignants",
+        "jésuites"
+      ],
+      "legacy": "Pionnier de l'éducation et de la spiritualité jésuites.",
+      "summary": "Pierre Favre fut un prêtre jésuite pionnier et l'un des premiers compagnons de saint Ignace de Loyola. Il joua un rôle important dans les débuts de la mission jésuite, notamment en Allemagne, où il œuvra à renforcer la foi catholique face aux défis de la Réforme. Béatifié par le pape Pie IX en 1872, il est resté célèbre pour son dévouement à l'éducation et à l'accompagnement spirituel.",
+      "image": "/images/blessed_peter_favre_of_villaret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Favre"
+    }
+  ]
+}

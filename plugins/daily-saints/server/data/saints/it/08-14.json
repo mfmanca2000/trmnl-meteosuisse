@@ -1,0 +1,32 @@
+{
+  "date": "08-14",
+  "feast_day": "14 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Massimiliano Kolbe",
+      "feast_day": "14 agosto",
+      "era": "XX secolo",
+      "patronage": [
+        "prigionieri",
+        "giornalisti",
+        "famiglie",
+        "il movimento pro-vita"
+      ],
+      "legacy": "Martire della carità e della fede",
+      "summary": "Massimiliano Kolbe fu un sacerdote francescano polacco noto per la sua profonda devozione alla Vergine Maria e per il suo impegno nel diffondere la fede attraverso i media e l'attività missionaria. Fondò la Milizia dell'Immacolata, un'organizzazione dedicata a promuovere la venerazione di Maria e la conversione dei peccatori. Kolbe fu martirizzato ad Auschwitz durante la Seconda guerra mondiale, sacrificando la propria vita per un compagno di prigionia, ed è ricordato per la sua fede e il suo amore incrollabili di fronte alla persecuzione.",
+      "image": "/images/saint_maximilian_kolbe.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_Kolbe"
+    },
+    {
+      "name": "Eusebio di Roma",
+      "feast_day": "14 agosto",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Coraggio e fedeltà nella fede",
+      "summary": "Eusebio di Roma fu un sacerdote e martire vissuto al tempo delle persecuzioni cristiane nell'Impero romano. È ricordato per la sua fede e il suo coraggio incrollabili di fronte alla tortura e all'esecuzione. Il suo martirio testimonia la forza e la fedeltà dei primi cristiani, ispirando molti a sopportare la sofferenza per le proprie convinzioni.",
+      "image": "/images/saint_eusebius_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eusebius_of_Rome"
+    }
+  ]
+}

@@ -4,9 +4,14 @@ no_screen_padding: "no"
 dark_mode: "no"
 static_data: ""
 polling_verb: get
-polling_url: "https://trmnl-plugins-mfmanca-server.vercel.app/api/daily-saints/today"
+polling_url: "https://trmnl-plugins-mfmanca-server.vercel.app/api/daily-saints/today?language={{language}}"
 polling_headers: ""
 id: 50002
-custom_fields: []
+custom_fields:
+  - keyname: "language"
+    field_type: string
+    name: "Language"
+    description: "The language for the daily saints information."
+    placeholder: "choose one: en, fr, it, es"
 name: "Saint of the Day"
 refresh_interval: 60

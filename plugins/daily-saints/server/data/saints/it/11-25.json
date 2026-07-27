@@ -1,0 +1,22 @@
+{
+  "date": "11-25",
+  "feast_day": "25 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Caterina d'Alessandria",
+      "feast_day": "25 novembre",
+      "era": "IV secolo",
+      "patronage": [
+        "studenti",
+        "ragazze",
+        "filosofi",
+        "apologeti"
+      ],
+      "legacy": "Patrona degli studenti e delle ragazze",
+      "summary": "Caterina d'Alessandria fu una nobile vergine e martire del quarto secolo, celebrata per la sua intelligenza ed eloquenza nel difendere la fede cristiana contro i filosofi pagani. Discusse celebremente con l'imperatore Massimino II e convertì molti dei suoi seguaci prima di subire tortura ed esecuzione per la sua fermezza. La sua eredità perdura come simbolo di fede e coraggio, ed è venerata come patrona degli studenti e delle ragazze.",
+      "image": "/images/saint_catherine_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+    }
+  ]
+}

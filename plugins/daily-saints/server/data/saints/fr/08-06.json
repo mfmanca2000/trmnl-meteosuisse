@@ -1,0 +1,17 @@
+{
+  "date": "08-06",
+  "feast_day": "6 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Transfiguration du Seigneur",
+      "feast_day": "6 août",
+      "era": "1er siècle",
+      "patronage": null,
+      "legacy": "Un aperçu de la gloire divine révélée",
+      "summary": "La Transfiguration du Seigneur est un événement majeur du Nouveau Testament au cours duquel Jésus révèle sa gloire divine à trois de ses apôtres : Pierre, Jacques et Jean. Cet événement se déroule sur une haute montagne, traditionnellement identifiée comme le mont Thabor, où l'apparence de Jésus se transforme et où il s'entretient avec Moïse et Élie. La voix de Dieu proclame Jésus comme son Fils bien-aimé, soulignant son autorité et l'importance de l'écouter.",
+      "image": "/images/the_transfiguration_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus"
+    }
+  ]
+}

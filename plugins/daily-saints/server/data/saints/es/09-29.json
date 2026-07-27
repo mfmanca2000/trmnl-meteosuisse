@@ -1,0 +1,22 @@
+{
+  "date": "09-29",
+  "feast_day": "29 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Miguel Arcángel",
+      "feast_day": "29 de septiembre",
+      "era": "Bíblica",
+      "patronage": [
+        "militares",
+        "policías",
+        "paramédicos",
+        "enfermos"
+      ],
+      "legacy": "Protector y jefe de los ejércitos celestiales",
+      "summary": "Miguel Arcángel es venerado como el jefe de los ejércitos celestiales y protector de los fieles. Es conocido por su papel en la guerra espiritual, especialmente por haber derrotado a Lucifer y defendido al pueblo de Dios a lo largo de la historia. La Iglesia lo honra como guardián e intercesor, especialmente en tiempos de conflicto y durante el juicio final.",
+      "image": "/images/saint_michael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_the_Archangel"
+    }
+  ]
+}

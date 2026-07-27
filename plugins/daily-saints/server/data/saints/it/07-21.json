@@ -1,0 +1,49 @@
+{
+  "date": "07-21",
+  "feast_day": "21 luglio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Francesco de Laval",
+      "feast_day": "21 luglio",
+      "era": "XVII secolo",
+      "patronage": [
+        "Canada",
+        "clero",
+        "evangelizzazione"
+      ],
+      "legacy": "Pioniere della Chiesa in Canada",
+      "summary": "Francesco de Laval fu il primo vescovo di Québec e svolse un ruolo cruciale nella fondazione della Chiesa cattolica in Canada. Era noto per la sua carità, pietà e dedizione alla formazione del clero, fondando il Seminario di Québec a sostegno di questa missione. Nonostante le notevoli difficoltà, tra cui l'opposizione delle autorità laiche e la lotta contro il commercio di alcolici, rimase saldo nel suo impegno per l'evangelizzazione e il benessere della sua comunità.",
+      "image": "/images/blessed_francois_de_montmorency-laval.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_Laval"
+    },
+    {
+      "name": "Vittore di Marsiglia",
+      "feast_day": "21 luglio",
+      "era": "III secolo",
+      "patronage": [
+        "martiri",
+        "soldati",
+        "prigionieri"
+      ],
+      "legacy": "Martire coraggioso e difensore della fede",
+      "summary": "Vittore di Marsiglia fu un ufficiale cristiano dell'esercito romano, divenuto martire per la propria fede sotto il regno dell'imperatore Massimiano, intorno all'anno 290. Sfidò coraggiosamente gli ordini dell'imperatore di adorare gli dèi pagani, sopportando gravi torture e infine la morte per le proprie convinzioni. La sua eredità comprende numerosi miracoli attribuiti alla sua intercessione, in particolare presso il suo luogo di sepoltura, dove molti fedeli cercavano il suo aiuto.",
+      "image": "/images/saint_victor_of_marseille.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Victor_of_Marseilles"
+    },
+    {
+      "name": "Prassede",
+      "feast_day": "21 luglio",
+      "era": "II secolo",
+      "patronage": [
+        "vergini",
+        "i poveri",
+        "prigionieri"
+      ],
+      "legacy": "Serva compassionevole dei fedeli perseguitati",
+      "summary": "Santa Prassede fu una vergine romana, figlia di un senatore, nota per la sua profonda compassione e dedizione alla fede cristiana in un periodo di persecuzione. Dedicò la propria vita alla preghiera, al digiuno e all'assistenza dei poveri, in particolare di coloro che soffrivano per le proprie convinzioni. Prassede è ricordata per i suoi atti di carità, tra cui la cura dei cristiani imprigionati, ai quali offriva conforto e sostegno.",
+      "image": "/images/saint_praxedes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Praxedes"
+    }
+  ]
+}

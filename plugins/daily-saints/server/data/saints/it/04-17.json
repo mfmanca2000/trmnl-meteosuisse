@@ -1,0 +1,31 @@
+{
+  "date": "04-17",
+  "feast_day": "17 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Kateri Tekakwitha",
+      "feast_day": "17 aprile",
+      "era": "XVII secolo",
+      "patronage": [
+        "ambientalisti",
+        "nativi americani",
+        "persone in esilio"
+      ],
+      "legacy": "Prima santa nativa americana degli Stati Uniti",
+      "summary": "Kateri Tekakwitha, conosciuta come il Giglio dei Mohawk, nacque nel 1656 da madre algonchina e da un capo irochese. Dopo aver vissuto una tragedia personale e una forte vocazione spirituale, dedicò la sua vita a Dio e divenne un simbolo di fede tra i nativi americani. Fu canonizzata nel 1991 ed è riconosciuta per la sua profonda devozione e il suo impegno per la fede cristiana.",
+      "image": "/images/saint_kateri_tekakwitha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kateri_Tekakwitha"
+    },
+    {
+      "name": "Aniceto",
+      "feast_day": "17 aprile",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede contro l'eresia",
+      "summary": "Sant'Aniceto fu l'undicesimo papa e martire, in carica in un'epoca di importanti sfide teologiche, in particolare quelle poste dallo gnosticismo. È noto per la sua amicizia con san Policarpo e per aver affrontato le differenze nella celebrazione della Pasqua tra le Chiese orientale e occidentale. Aniceto istituì la tonsura per il clero ed è onorato per la sua fermezza nella fede, avendo infine ricevuto il martirio per le sue convinzioni.",
+      "image": "/images/saint_anicetus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Anicetus"
+    }
+  ]
+}

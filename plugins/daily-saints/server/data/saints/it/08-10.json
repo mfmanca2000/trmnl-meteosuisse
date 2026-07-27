@@ -1,0 +1,22 @@
+{
+  "date": "08-10",
+  "feast_day": "10 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lorenzo",
+      "feast_day": "10 agosto",
+      "era": "III secolo",
+      "patronage": [
+        "diaconi",
+        "poveri",
+        "cuochi",
+        "vigili del fuoco"
+      ],
+      "legacy": "Patrono dei poveri e dei diaconi",
+      "summary": "San Lorenzo fu un diacono di Roma, noto per la sua fede incrollabile e la sua carità verso i poveri. Fu martirizzato nel 258 d.C. durante la persecuzione dei cristiani sotto l'imperatore Valeriano, sopportando, secondo la tradizione, il supplizio con umorismo. La sua eredità di patrono dei poveri e simbolo di carità continua a ispirare molti fedeli cattolici.",
+      "image": "/images/saint_lawrence.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_of_Rome"
+    }
+  ]
+}

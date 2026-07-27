@@ -1,0 +1,20 @@
+{
+  "date": "06-19",
+  "feast_day": "19 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giuliana Falconieri",
+      "feast_day": "19 giugno",
+      "era": "Medioevo",
+      "patronage": [
+        "malati",
+        "chi soffre di disturbi allo stomaco"
+      ],
+      "legacy": "Devozione e carità al servizio degli altri.",
+      "summary": "Giuliana Falconieri fu una vergine del XIV secolo e fondatrice delle Mantellate, un ramo dell'Ordine dei Servi di Maria. Nota per la sua profonda devozione e modestia, dedicò la sua vita al servizio del prossimo e condusse una vita di carità apostolica. La sua morte fu segnata da un segno miracoloso, con la forma del Santissimo Sacramento apparsa sul suo cuore.",
+      "image": "/images/saint_juliana_falconieri.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Juliana_Falconieri"
+    }
+  ]
+}

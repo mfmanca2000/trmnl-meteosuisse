@@ -1,0 +1,17 @@
+{
+  "date": "01-10",
+  "feast_day": "10 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Guglielmo di Bourges",
+      "feast_day": "10 gennaio",
+      "era": "Medioevo",
+      "patronage": null,
+      "legacy": "Un modello di pietà e umiltà",
+      "summary": "Guglielmo di Bourges fu un arcivescovo noto per la sua profonda pietà e il suo impegno in una vita di austerità. Servì inizialmente come canonico prima di entrare tra i cistercensi, e divenne poi arcivescovo di Bourges, dove si dedicò a condurre una vita santa e a fare penitenza per gli altri. La sua tomba divenne luogo di numerosi miracoli, portando alla sua canonizzazione appena nove anni dopo la sua morte.",
+      "image": "/images/saint_william.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_of_Bourges"
+    }
+  ]
+}

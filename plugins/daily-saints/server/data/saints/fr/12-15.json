@@ -1,0 +1,27 @@
+{
+  "date": "12-15",
+  "feast_day": "15 décembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean le Déchaux",
+      "feast_day": "15 décembre",
+      "era": "XIVe siècle",
+      "patronage": null,
+      "legacy": "Une vie d'humilité et de service",
+      "summary": "Le bienheureux Jean le Déchaux était un frère franciscain connu pour son mode de vie austère et son dévouement au service des pauvres et des malades. Il passa de nombreuses années comme curé de paroisse, marchant pieds nus pour visiter ses paroissiens et menant une vie de mortification extrême. On se souvient de lui pour ses dons prophétiques et son service compatissant durant les épidémies de peste, mourant finalement du fléau même qu'il cherchait à soulager.",
+      "image": "/images/blessed_john_the_discalced.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    },
+    {
+      "name": "Maximin de Verdun",
+      "feast_day": "15 décembre",
+      "era": "Haut Moyen Âge",
+      "patronage": null,
+      "legacy": "Thaumaturge et chef monastique",
+      "summary": "Saint Maximin de Verdun était un abbé et une figure marquante du monachisme du haut Moyen Âge. Il était connu pour ses œuvres miraculeuses, notamment le fait de pourvoir aux besoins des nécessiteux pendant une famine et de guérir des aveugles. Sa direction attira de nombreux jeunes hommes vers la vie religieuse, et l'on se souvient de lui pour sa piété et son dévouement à Dieu.",
+      "image": "/images/saint_maximin_or_mesmin_of_verdun.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mesmin"
+    }
+  ]
+}

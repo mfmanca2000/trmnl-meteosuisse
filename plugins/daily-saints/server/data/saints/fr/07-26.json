@@ -1,0 +1,22 @@
+{
+  "date": "07-26",
+  "feast_day": "26 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anne",
+      "feast_day": "26 juillet",
+      "era": "Ier siècle",
+      "patronage": [
+        "mères",
+        "grands-mères",
+        "femmes en couches",
+        "femmes au foyer"
+      ],
+      "legacy": "Mère de la Bienheureuse Vierge Marie",
+      "summary": "Sainte Anne est vénérée comme la mère de la Bienheureuse Vierge Marie et la grand-mère de Jésus-Christ. Elle et son époux, saint Joachim, étaient connus pour leur piété et leur dévotion à Dieu, malgré l'épreuve de la stérilité qu'ils affrontèrent pendant de nombreuses années. Leur héritage est célébré dans divers sanctuaires, notamment en France et au Canada, où ils sont honorés pour leur rôle au sein de la Sainte Famille.",
+      "image": "/images/saint_anne.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anne"
+    }
+  ]
+}

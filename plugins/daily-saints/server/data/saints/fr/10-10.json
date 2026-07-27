@@ -1,0 +1,21 @@
+{
+  "date": "10-10",
+  "feast_day": "10 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "François Borgia",
+      "feast_day": "10 octobre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "jésuites",
+        "nobles",
+        "mourants"
+      ],
+      "legacy": "Un noble devenu serviteur de Dieu",
+      "summary": "François Borgia était un noble espagnol devenu jésuite qui servit comme Général de la Compagnie de Jésus. Après avoir été témoin de la mort de l'impératrice Isabelle, il renonça à ses ambitions mondaines et consacra sa vie au service de Dieu et des pauvres. Il joua un rôle déterminant dans la fondation de collèges et de maisons jésuites à travers l'Espagne et le Portugal, et mourut au service de l'Église en 1572.",
+      "image": "/images/saint_francis_borgia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Borgia"
+    }
+  ]
+}

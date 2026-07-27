@@ -1,0 +1,17 @@
+{
+  "date": "08-06",
+  "feast_day": "6 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Transfiguración del Señor",
+      "feast_day": "6 de agosto",
+      "era": "Siglo I",
+      "patronage": null,
+      "legacy": "Un vislumbre de la gloria divina revelada",
+      "summary": "La Transfiguración del Señor es un acontecimiento significativo del Nuevo Testamento en el que Jesús revela su gloria divina a tres de sus apóstoles: Pedro, Santiago y Juan. Este suceso tiene lugar en un monte alto, tradicionalmente identificado como el monte Tabor, donde el aspecto de Jesús se transforma y conversa con Moisés y Elías. La voz de Dios proclama a Jesús como su Hijo amado, subrayando su autoridad y la importancia de escucharlo.",
+      "image": "/images/the_transfiguration_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus"
+    }
+  ]
+}

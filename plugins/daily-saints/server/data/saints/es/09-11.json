@@ -1,0 +1,30 @@
+{
+  "date": "09-11",
+  "feast_day": "11 de septiembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan Gabriel Perboyre",
+      "feast_day": "11 de septiembre",
+      "era": "Siglo XIX",
+      "patronage": [
+        "misioneros",
+        "mártires"
+      ],
+      "legacy": "Un mártir de la fe y la devoción",
+      "summary": "Juan Gabriel Perboyre fue un sacerdote lazarista francés y mártir conocido por su profunda devoción al Santísimo Sacramento. Dedicó su vida al trabajo misionero en China, donde enfrentó una severa persecución y finalmente dio su vida por su fe. Su compromiso inquebrantable con Dios y su valerosa respuesta ante la tortura lo han convertido en una figura venerada en la Iglesia católica.",
+      "image": "/images/saint_john_gabriel_perboyre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Gabriel_Perboyre"
+    },
+    {
+      "name": "Pafnucio",
+      "feast_day": "11 de septiembre",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Defensor de la fe católica",
+      "summary": "San Pafnucio fue un obispo y confesor egipcio que vivió durante la segunda mitad del siglo IV. Fue conocido por su firme defensa de la fe católica contra la herejía arriana y fue una figura destacada en el Concilio de Nicea en 325. Tras soportar la persecución y perder un ojo por sus convicciones, regresó a su diócesis para guiar a su grey con gran santidad.",
+      "image": "/images/saint_paphnutius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Paphnutius_the_Bishop"
+    }
+  ]
+}

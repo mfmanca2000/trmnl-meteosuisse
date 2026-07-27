@@ -1,0 +1,21 @@
+{
+  "date": "02-08",
+  "feast_day": "8 febbraio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni di Matha",
+      "feast_day": "8 febbraio",
+      "era": "Medievale",
+      "patronage": [
+        "prigionieri",
+        "carcerati",
+        "trinitari"
+      ],
+      "legacy": "Difensore dei prigionieri e dei poveri",
+      "summary": "San Giovanni di Matha fu un sacerdote francese e il fondatore dell'Ordine della Santissima Trinità, dedito alla redenzione dei prigionieri cristiani. Dedicò la sua vita al servizio dei poveri e alla liberazione di coloro che erano stati resi schiavi durante le crociate. La sua opera fu riconosciuta da papa Innocenzo III, che approvò la fondazione del suo ordine nel 1198.",
+      "image": "/images/saint_john_of_matha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Matha"
+    }
+  ]
+}

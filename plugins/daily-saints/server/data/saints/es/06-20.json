@@ -1,0 +1,17 @@
+{
+  "date": "06-20",
+  "feast_day": "20 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Silverio",
+      "feast_day": "20 de junio",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Martirio por la integridad de la fe",
+      "summary": "Silverio fue el papa y mártir que ejerció su ministerio durante un período turbulento de la historia de la Iglesia. Elegido papa en 536, enfrentó la oposición de la emperatriz Teodora y finalmente fue depuesto mediante traición. Murió en el exilio, en la isla de Palmaria, soportando grandes sufrimientos por su fidelidad a la fe católica.",
+      "image": "/images/saint_silverius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Silverius"
+    }
+  ]
+}

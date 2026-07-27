@@ -1,0 +1,20 @@
+{
+  "date": "11-06",
+  "feast_day": "6 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Leonardo",
+      "feast_day": "6 de noviembre",
+      "era": "siglo VI",
+      "patronage": [
+        "los prisioneros",
+        "las mujeres en el parto"
+      ],
+      "legacy": "Santo patrono de los prisioneros y la libertad",
+      "summary": "San Leonardo fue un ermitaño y el santo patrono de los prisioneros, conocido por su profunda compasión y dedicación a ayudar a quienes lo necesitaban. Se ganó la reputación de hacer milagros, particularmente al liberar a prisioneros de sus cadenas mediante la oración. Su legado continúa inspirando devoción, especialmente en Francia, donde muchas iglesias y monasterios están dedicados a él.",
+      "image": "/images/saint_leonard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leonard_of_Noblac"
+    }
+  ]
+}

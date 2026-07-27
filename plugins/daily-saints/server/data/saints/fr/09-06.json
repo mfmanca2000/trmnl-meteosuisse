@@ -1,0 +1,30 @@
+{
+  "date": "09-06",
+  "feast_day": "6 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Rosalie",
+      "feast_day": "6 septembre",
+      "era": "XIIe siècle",
+      "patronage": [
+        "Sicile",
+        "victimes de la peste"
+      ],
+      "legacy": "Patronne de Palerme et de la Sicile",
+      "summary": "Sainte Rosalie était une vierge et ermite du XIIe siècle originaire de Palerme, en Sicile. Elle est connue pour sa profonde dévotion à Dieu, ayant choisi une vie de solitude et de pénitence plutôt que les plaisirs du monde. Son intercession est créditée d'avoir sauvé la ville de Palerme d'une peste au XVIIe siècle, ce qui conduisit à sa vénération comme sainte patronne de la ville.",
+      "image": "/images/saint_rosalia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rosalia_of_Palermo"
+    },
+    {
+      "name": "Éleuthère",
+      "feast_day": "6 septembre",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Un modèle d'humilité et de prière",
+      "summary": "Saint Éleuthère était un abbé du VIe siècle connu pour sa simplicité et son profond esprit de componction. Il présida le monastère de Saint-Marc près de Spolète et fut favorisé du don des miracles, notamment la guérison d'un enfant possédé par le démon. Après avoir résigné son abbatiat, il mourut à Rome, laissant un héritage d'humilité et de dévotion à Dieu.",
+      "image": "/images/saint_eleutherius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eleutherius"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-10",
+  "feast_day": "10 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Félicité",
+      "feast_day": "10 juillet",
+      "era": "IIe siècle",
+      "patronage": [
+        "mères",
+        "martyrs",
+        "accouchements difficiles"
+      ],
+      "legacy": "Une foi courageuse face à la persécution.",
+      "summary": "Sainte Félicité fut une noble matrone romaine connue pour sa foi inébranlable et sa vertu. Elle éleva ses sept fils dans la foi chrétienne, les encourageant à rester fermes dans leurs convictions même face à la persécution. Finalement, elle et ses fils furent martyrisés pour avoir refusé de renier leur foi, incarnant le courage et le dévouement envers Dieu.",
+      "image": "/images/saint_felicity_and_her_seven_sons.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felicitas_of_Rome"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "11-29",
+  "feast_day": "29 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Saturnin",
+      "feast_day": "29 novembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "Toulouse",
+        "France",
+        "agriculteurs"
+      ],
+      "legacy": "Martyr et évangélisateur des premiers chrétiens",
+      "summary": "Saint Saturnin fut un évêque et martyr qui joua un rôle déterminant dans la diffusion précoce du christianisme dans le sud de la France. Il fut connu pour ses miracles et sa constance face à la persécution, ce qui mena finalement à son martyre. Son héritage est célébré dans la tradition chrétienne, en particulier à Toulouse, où il est vénéré comme saint patron.",
+      "image": "/images/saint_saturninus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saturninus_of_Toulouse"
+    }
+  ]
+}

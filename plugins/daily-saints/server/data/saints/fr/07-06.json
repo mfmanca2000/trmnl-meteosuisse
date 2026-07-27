@@ -1,0 +1,48 @@
+{
+  "date": "07-06",
+  "feast_day": "6 juillet",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Thomas More",
+      "feast_day": "6 juillet",
+      "era": "Renaissance",
+      "patronage": [
+        "hommes politiques",
+        "fonctionnaires",
+        "avocats",
+        "martyrs"
+      ],
+      "legacy": "Défenseur de la foi et de la conscience.",
+      "summary": "Thomas More fut un juriste, philosophe et écrivain anglais, surtout connu pour son livre 'Utopia'. Il exerça la fonction de Lord Chancelier d'Angleterre, mais démissionna en opposition à la séparation du roi Henri VIII d'avec l'Église catholique. More fut exécuté pour avoir refusé de reconnaître la suprématie du roi sur l'Église, et il est célébré comme martyr et saint dans l'Église catholique.",
+      "image": "/images/saint_thomas_more.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More"
+    },
+    {
+      "name": "Palladius",
+      "feast_day": "6 juillet",
+      "era": "Ve siècle",
+      "patronage": [
+        "Écosse",
+        "missionnaires"
+      ],
+      "legacy": "Premier évêque et apôtre des Écossais",
+      "summary": "Saint Palladius fut le premier évêque et apôtre des Écossais, envoyé par le pape Célestin en 429 pour prêcher le christianisme dans le nord de la Grande-Bretagne. Il est reconnu pour ses efforts dans la lutte contre l'hérésie et l'établissement de la foi catholique parmi les Écossais et dans certaines parties de l'Irlande. Palladius est souvent considéré comme un précurseur de saint Patrick dans l'évangélisation de l'Irlande.",
+      "image": "/images/saint_palladius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palladius_(bishop_of_Ireland)"
+    },
+    {
+      "name": "Goar",
+      "feast_day": "6 juillet",
+      "era": "VIe siècle",
+      "patronage": [
+        "hospitalité",
+        "voyageurs"
+      ],
+      "legacy": "Patron de l'hospitalité et des voyageurs",
+      "summary": "Saint Goar fut un prêtre et ermite connu pour sa piété et sa prédication fervente au VIe siècle. Il consacra sa vie au service de Dieu dans la solitude, tout en convertissant de nombreuses personnes par son exemple et ses miracles. Réputé pour son hospitalité, il devint une figure vénérée dans la région de Trèves, en Allemagne, où il établit un ermitage et une église.",
+      "image": "/images/saint_goar.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Goar_of_Aquitaine"
+    }
+  ]
+}

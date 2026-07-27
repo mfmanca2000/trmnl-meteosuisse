@@ -1,0 +1,21 @@
+{
+  "date": "01-17",
+  "feast_day": "17 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Antonio del Deserto",
+      "feast_day": "17 gennaio",
+      "era": "III secolo",
+      "patronage": [
+        "monaci",
+        "becchini",
+        "animali"
+      ],
+      "legacy": "Padre del monachesimo cristiano",
+      "summary": "Sant'Antonio del Deserto, nato nell'Alto Egitto intorno al 251, è riconosciuto come il padre del monachesimo. Rinunciò alle proprie ricchezze per vivere una vita di solitudine e preghiera nel deserto, dove affrontò numerose tentazioni e battaglie spirituali. Il suo lascito include la fondazione di comunità monastiche e una profonda influenza sull'ascetismo cristiano.",
+      "image": "/images/saint_anthony_of_the_desert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Egypt"
+    }
+  ]
+}

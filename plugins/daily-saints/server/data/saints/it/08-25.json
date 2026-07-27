@@ -1,0 +1,37 @@
+{
+  "date": "08-25",
+  "feast_day": "25 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Luigi IX",
+      "feast_day": "25 agosto",
+      "era": "Medioevo",
+      "patronage": [
+        "Francia",
+        "crociati",
+        "lebbrosi",
+        "barbieri",
+        "moribondi"
+      ],
+      "legacy": "Un modello di regalità cristiana e di giustizia.",
+      "summary": "Luigi IX, noto anche come San Luigi, fu re di Francia dal 1226 fino alla sua morte nel 1270. Rinomato per la sua profonda pietà e il suo impegno per la giustizia, guidò due crociate e fu protettore dei deboli e degli oppressi. Il suo lascito comprende la costruzione della Sainte-Chapelle a Parigi, che custodisce la Corona di spine, ed è ricordato come modello di regalità cristiana.",
+      "image": "/images/saint_louis_ix.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+    },
+    {
+      "name": "Maria Micaela",
+      "feast_day": "25 agosto",
+      "era": "XIX secolo",
+      "patronage": [
+        "ragazze",
+        "educazione",
+        "carità"
+      ],
+      "legacy": "Una pioniera dell'educazione e della carità",
+      "summary": "Maria Micaela, conosciuta anche come Madre Sacramento, fu una fondatrice spagnola che dedicò la sua vita all'educazione e al recupero delle giovani in difficoltà. Fondò l'Istituto delle Religiose Adoratrici Schiave del Santissimo Sacramento e della Carità, incentrato su un profondo amore per l'Eucaristia e il servizio agli altri. Beatificata nel 1925 e canonizzata nel 1934, la sua eredità continua attraverso il suo ordine religioso e le sue opere caritative.",
+      "image": "/images/saint_mary_micaela.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maria_Micaela_Desmaisieres"
+    }
+  ]
+}

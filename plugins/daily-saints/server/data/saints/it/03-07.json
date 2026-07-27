@@ -1,0 +1,21 @@
+{
+  "date": "03-07",
+  "feast_day": "7 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tommaso d'Aquino",
+      "feast_day": "7 marzo",
+      "era": "Epoca medievale",
+      "patronage": [
+        "gli studenti",
+        "le università",
+        "i filosofi"
+      ],
+      "legacy": "Padre della Scolastica e Dottore Angelico",
+      "summary": "Tommaso d'Aquino fu un frate domenicano e teologo del XIII secolo, celebre per le sue influenti opere di filosofia e teologia. È noto soprattutto per la sua sintesi della filosofia aristotelica con la dottrina cristiana, in particolare nella sua opera fondamentale, la 'Summa Theologiae'. Riconosciuto come Dottore della Chiesa, è celebrato per le sue profonde intuizioni sulla fede e sulla ragione, e i suoi scritti continuano a plasmare il pensiero cattolico ancora oggi.",
+      "image": "/images/saint_thomas_aquinas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+    }
+  ]
+}

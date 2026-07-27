@@ -1,0 +1,30 @@
+{
+  "date": "10-30",
+  "feast_day": "30 ottobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Alfonso Rodriguez",
+      "feast_day": "30 ottobre",
+      "era": "XVI secolo",
+      "patronage": [
+        "spiritualità",
+        "gesuiti"
+      ],
+      "legacy": "Un modello di umiltà e servizio",
+      "summary": "Sant'Alfonso Rodriguez fu un gesuita spagnolo noto per la sua profonda spiritualità e il suo impegno verso l'umiltà e il servizio. Dopo aver vissuto tragedie personali, dedicò la sua vita a Dio e divenne portinaio in un collegio gesuita a Maiorca, dove condusse una vita di penitenza e devozione. È ricordato per il suo profondo amore per Cristo e la sua influenza su altri gesuiti, tra cui san Pietro Claver.",
+      "image": "/images/saint_alphonsus_rodriguez.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alphonsus_Rodriguez"
+    },
+    {
+      "name": "Marcello",
+      "feast_day": "30 ottobre",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Martirio per la fede e la famiglia",
+      "summary": "San Marcello fu un centurione romano convertitosi al cristianesimo insieme alla sua famiglia. Si rifiutò di partecipare ai sacrifici pagani, dichiarandosi soldato di Cristo, il che portò al suo martirio. Anche i suoi figli seguirono il suo esempio, subendo il martirio per la loro fede, e la madre si assicurò che fossero sepolti in una chiesa a loro dedicata a León.",
+      "image": "/images/saint_marcellus_the_centurion_and_his_children.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcellus_the_Centurion"
+    }
+  ]
+}

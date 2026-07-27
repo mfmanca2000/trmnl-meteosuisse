@@ -1,0 +1,36 @@
+{
+  "date": "06-27",
+  "feast_day": "27 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Notre-Dame du Perpétuel Secours",
+      "feast_day": "27 juin",
+      "era": "Médiéval",
+      "patronage": [
+        "mères",
+        "les malades",
+        "voyageurs"
+      ],
+      "legacy": "Un symbole d'espérance et d'intercession",
+      "summary": "Notre-Dame du Perpétuel Secours est une icône vénérée de la Vierge Marie et de l'Enfant Jésus, connue pour son style byzantin. L'image est source de dévotion et de miracles depuis son arrivée à Rome en provenance de Crète au 15e siècle. Elle est célébrée pour son rôle de réconfort et d'aide apportés aux fidèles dans les moments de besoin.",
+      "image": "/images/our_lady_of_perpetual_help.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Perpetual_Help"
+    },
+    {
+      "name": "Ladislas Ier",
+      "feast_day": "27 juin",
+      "era": "Médiéval",
+      "patronage": [
+        "Hongrie",
+        "soldats",
+        "paix",
+        "enfants"
+      ],
+      "legacy": "Un roi pieux et défenseur de la foi",
+      "summary": "Ladislas Ier fut roi de Hongrie de 1077 jusqu'à sa mort en 1095, connu pour sa piété, sa charité et ses talents militaires. Il fut un ardent défenseur de la foi chrétienne et œuvra pour restaurer les lois établies par son prédécesseur, saint Étienne. Canonisé en 1199, il est resté dans les mémoires pour sa vie vertueuse et les miracles qui lui furent attribués après sa mort.",
+      "image": "/images/saint_ladislas_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ladislaus_I_of_Hungary"
+    }
+  ]
+}

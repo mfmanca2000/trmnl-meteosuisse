@@ -1,0 +1,20 @@
+{
+  "date": "10-28",
+  "feast_day": "28 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Simone",
+      "feast_day": "28 ottobre",
+      "era": "I secolo",
+      "patronage": [
+        "conciatori",
+        "zeloti"
+      ],
+      "legacy": "Apostolo noto per la sua fervente fede",
+      "summary": "Simone lo Zelota fu uno dei dodici apostoli di Gesù ed è tradizionalmente considerato un fratello di Gesù. Predicò il Vangelo in diverse regioni, tra cui l'Egitto e la Persia, dove infine subì il martirio insieme a san Giuda. Noto per il suo zelo nel diffondere il cristianesimo, Simone è ricordato per la sua fede incrollabile e la sua dedizione a Dio, anche di fronte alla persecuzione.",
+      "image": "/images/saint_simon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simon_the_Zealot"
+    }
+  ]
+}

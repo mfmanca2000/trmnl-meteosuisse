@@ -1,0 +1,45 @@
+{
+  "date": "06-09",
+  "feast_day": "9 juin",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Anne-Marie Taigi",
+      "feast_day": "9 juin",
+      "era": "19e siècle",
+      "patronage": [
+        "employés de maison",
+        "mères",
+        "malades"
+      ],
+      "legacy": "Un modèle d'humilité et de dévouement familial",
+      "summary": "Anne-Marie Taigi était une épouse et mère dévouée devenue tertiaire trinitaire, connue pour sa profonde spiritualité et ses expériences mystiques extraordinaires. Malgré les épreuves d'une vie de famille tumultueuse, elle maintint un foyer paisible et aimant, élevant ses enfants dans la vertu et la compassion. Béatifiée par le pape Benoît XV en 1920, elle est restée dans les mémoires pour son service désintéressé envers autrui et sa profonde union à Dieu.",
+      "image": "/images/blessed_anna_maria_taigi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anna_Maria_Taigi"
+    },
+    {
+      "name": "Prime et Félicien",
+      "feast_day": "9 juin",
+      "era": "3e siècle",
+      "patronage": null,
+      "legacy": "Martyrs de la foi et de la charité",
+      "summary": "Saints Prime et Félicien étaient des frères et martyrs qui vécurent à Rome durant la seconde moitié du 3e siècle. Convertis au christianisme sous l'influence du pape Félix Ier, ils consacrèrent leur vie au service des pauvres et à l'encouragement de leurs frères chrétiens en temps de persécution. Finalement arrêtés et exécutés pour leur foi, ils endurèrent de sévères tortures avant d'être décapités le 9 juin 286.",
+      "image": "/images/saints_primus_and_felicianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Primus_and_Felician"
+    },
+    {
+      "name": "Columba",
+      "feast_day": "9 juin",
+      "era": "6e siècle",
+      "patronage": [
+        "accouchements difficiles",
+        "poètes",
+        "navigateurs"
+      ],
+      "legacy": "Apôtre des Pictes et fondateur d'Iona",
+      "summary": "Saint Columba, né en 521 en Irlande, est réputé comme l'apôtre des Pictes en Écosse. Il fonda de nombreux monastères, notamment sur l'île d'Iona, où il établit un centre important d'étude chrétienne et de travail missionnaire. Sa vie fut marquée par un profond engagement dans la prière, la charité et la conversion des âmes, ce qui lui valut une vénération et un respect largement répandus.",
+      "image": "/images/saint_columba_or_columkille.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Columba"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "10-24",
+  "feast_day": "24 de octubre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Rafael",
+      "feast_day": "24 de octubre",
+      "era": "Bíblica",
+      "patronage": [
+        "sanadores",
+        "viajeros",
+        "ciegos"
+      ],
+      "legacy": "Ángel de la sanación y la guía",
+      "summary": "Rafael es uno de los siete arcángeles que están ante Dios y es conocido por su papel en el Libro de Tobías, donde guía a Tobías en un viaje para recuperar el dinero de su padre y encontrar esposa. Está asociado con la sanación, pues ayuda a curar la ceguera del padre de Tobías y se cree que agitaba las aguas de la piscina de Betesda para la curación. El nombre Rafael significa 'Dios sana', y es venerado por su ayuda y su guía en los momentos de necesidad.",
+      "image": "/images/saint_raphael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raphael_the_Archangel"
+    },
+    {
+      "name": "Magloire",
+      "feast_day": "24 de octubre",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Devoto abad y hacedor de milagros",
+      "summary": "San Magloire fue un abad bretón que dedicó su vida al servicio monástico y a la oración. Gobernó el monasterio de Lanmeur durante más de cincuenta años antes de convertirse en abad de Dol. Conocido por su piedad y sus intercesiones milagrosas, se le recuerda por su profunda devoción y por la fundación de un monasterio en la isla de Jersey.",
+      "image": "/images/saint_magloire.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Magloire"
+    }
+  ]
+}

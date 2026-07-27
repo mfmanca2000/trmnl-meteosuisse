@@ -1,0 +1,21 @@
+{
+  "date": "12-26",
+  "feast_day": "26 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Stefano",
+      "feast_day": "26 dicembre",
+      "era": "I secolo",
+      "patronage": [
+        "diaconi",
+        "scalpellini",
+        "cappellai"
+      ],
+      "legacy": "Primo martire e diacono della Chiesa",
+      "summary": "Santo Stefano è riconosciuto come il primo martire cristiano, noto per la sua fede incrollabile e la sua eloquente difesa di Gesù Cristo. Fu uno dei sette diaconi designati dagli Apostoli per assistere nelle opere di carità e fu ricolmo di Spirito Santo. La sua audace proclamazione del Vangelo lo condusse al martirio per lapidazione, facendone una figura di rilievo nel cristianesimo delle origini.",
+      "image": "/images/saint_stephen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen"
+    }
+  ]
+}

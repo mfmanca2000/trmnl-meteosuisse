@@ -1,0 +1,31 @@
+{
+  "date": "10-22",
+  "feast_day": "22 de octubre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hilarión",
+      "feast_day": "22 de octubre",
+      "era": "Siglo IV",
+      "patronage": [
+        "monjes",
+        "sanadores",
+        "enfermos"
+      ],
+      "legacy": "Fundador de la vida monástica en Palestina",
+      "summary": "San Hilarión fue un destacado monje cristiano de los primeros tiempos y el fundador de la vida monástica en Palestina. Conocido por su severo ascetismo y sus obras milagrosas, atrajo a numerosos seguidores y fue venerado por sus dotes de sanación. Murió en el año 372, dejando un legado de devoción y monacato que influyó en la comunidad cristiana.",
+      "image": "/images/saint_hilarion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilarion"
+    },
+    {
+      "name": "Mello de Cardiff",
+      "feast_day": "22 de octubre",
+      "era": "Principios del siglo IV",
+      "patronage": null,
+      "legacy": "Apóstol de Ruan y hacedor de milagros",
+      "summary": "San Mello de Cardiff fue un obispo de los primeros tiempos cristianos que desempeñó un papel importante en la difusión del Evangelio en Neustria, la actual Normandía. Tras convertirse de la idolatría, fue ordenado por el papa san Esteban y realizó numerosos milagros, entre ellos curaciones e incluso una resurrección. Se le recuerda por su largo episcopado en Ruan, donde fundó una iglesia y bautizó a numerosos conversos, dejando un legado duradero en la región.",
+      "image": "/images/saint_mello_of_cardiff.jpg",
+      "wikipedia": null
+    }
+  ]
+}

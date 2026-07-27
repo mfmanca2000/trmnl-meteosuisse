@@ -1,0 +1,21 @@
+{
+  "date": "06-17",
+  "feast_day": "17 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Avit",
+      "feast_day": "17 juin",
+      "era": "6e siècle",
+      "patronage": [
+        "moines",
+        "les pauvres",
+        "miracles"
+      ],
+      "legacy": "Faiseur de miracles et abbé dévoué",
+      "summary": "Saint Avit était un moine et abbé connu pour son profond engagement envers Dieu et son service aux pauvres. Il devint abbé d'un monastère à Orléans, puis vécut dans la solitude, où il accomplit des miracles, notamment en rendant la parole à un berger muet. Son héritage inclut la fondation d'un monastère qui porta son nom, ainsi que sa réputation de prière d'intercession et d'actes miraculeux.",
+      "image": "/images/saint_avitus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Avitus"
+    }
+  ]
+}

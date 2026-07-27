@@ -1,0 +1,21 @@
+{
+  "date": "05-20",
+  "feast_day": "20 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bernardino de Siena",
+      "feast_day": "20 de mayo",
+      "era": "Siglo XV",
+      "patronage": [
+        "publicistas",
+        "relaciones públicas",
+        "hostelería"
+      ],
+      "legacy": "Un campeón del Santo Nombre de Jesús",
+      "summary": "San Bernardino de Siena fue un misionero y predicador franciscano, conocido por su poderosa oratoria y su devoción al Santo Nombre de Jesús. A pesar de las dificultades, incluido un defecto del habla y acusaciones de herejía, logró reformar gran parte de Italia a través de sus sermones y obras milagrosas. Fue canonizado en 1450, y su legado continúa a través de la fiesta del Santo Nombre de Jesús, que él contribuyó a promover.",
+      "image": "/images/saint_bernardine_of_siena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernardino_of_Siena"
+    }
+  ]
+}

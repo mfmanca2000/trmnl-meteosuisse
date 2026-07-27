@@ -1,0 +1,30 @@
+{
+  "date": "11-26",
+  "feast_day": "26 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean Berchmans",
+      "feast_day": "26 novembre",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "étudiants",
+        "novices jésuites"
+      ],
+      "legacy": "Un modèle de piété et de dévouement",
+      "summary": "Jean Berchmans était un séminariste jésuite belge connu pour sa profonde piété et son dévouement à l'éducation. Il excellait dans ses études et était aimé des enfants pour ses leçons de catéchisme captivantes. Sa vie fut marquée par l'humilité et la charité, et il mourut jeune, laissant un héritage de sainteté et de dévotion.",
+      "image": "/images/saint_john_berchmans.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Berchmans"
+    },
+    {
+      "name": "Pierre d'Alexandrie",
+      "feast_day": "26 novembre",
+      "era": "Début du IVe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi durant la persécution",
+      "summary": "Pierre d'Alexandrie était un patriarche et martyr qui dirigea l'Église d'Alexandrie durant les sévères persécutions sous l'empereur Dioclétien. Il est connu pour sa position ferme contre l'hérésie et sa sollicitude pastorale envers les chrétiens emprisonnés, les encourageant à rester fermes dans leur foi. Il fut finalement martyrisé par décapitation le 26 novembre 310, après une vie consacrée au service de Dieu et de l'Église.",
+      "image": "/images/saint_peter_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Alexandria"
+    }
+  ]
+}

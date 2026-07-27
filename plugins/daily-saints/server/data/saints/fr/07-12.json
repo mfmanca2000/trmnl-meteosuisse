@@ -1,0 +1,20 @@
+{
+  "date": "07-12",
+  "feast_day": "12 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean Gualbert",
+      "feast_day": "12 juillet",
+      "era": "XIe siècle",
+      "patronage": [
+        "contre la simonie",
+        "curés de paroisse"
+      ],
+      "legacy": "Un champion du pardon et de la vie monastique.",
+      "summary": "Jean Gualbert fut un saint italien du XIe siècle qui fonda l'ordre bénédictin de Vallombreuse. Après une profonde conversion personnelle marquée par le pardon accordé au meurtrier de son frère, il consacra sa vie à la prière, à la pénitence et à la promotion de la foi. Son héritage se caractérise par un fort accent sur la miséricorde et la lutte contre la simonie au sein de l'Église.",
+      "image": "/images/saint_john_gualbert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Gualbert"
+    }
+  ]
+}

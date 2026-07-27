@@ -1,0 +1,21 @@
+{
+  "date": "06-10",
+  "feast_day": "10 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Margarita",
+      "feast_day": "10 de junio",
+      "era": "Medieval",
+      "patronage": [
+        "Escocia",
+        "matrimonios difíciles",
+        "viudas"
+      ],
+      "legacy": "Una reina de fe y caridad",
+      "summary": "Santa Margarita de Escocia fue una reina conocida por su profunda piedad y su compromiso con la Iglesia. Contribuyó decisivamente a la mejora espiritual y material de su reino, construyendo iglesias y educando a sus hijos en la fe. Su vida ejemplificó un equilibrio entre el deber real y la santidad personal, lo que llevó a que fuera venerada como santa tras su muerte en 1093.",
+      "image": "/images/saint_margaret_queen_of_scotland.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Scotland"
+    }
+  ]
+}

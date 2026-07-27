@@ -1,0 +1,20 @@
+{
+  "date": "07-12",
+  "feast_day": "12 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan Gualberto",
+      "feast_day": "12 de julio",
+      "era": "Siglo XI",
+      "patronage": [
+        "contra la simonía",
+        "párrocos"
+      ],
+      "legacy": "Un campeón del perdón y la vida monástica.",
+      "summary": "Juan Gualberto fue un santo italiano del siglo XI que fundó la orden benedictina de Vallombrosa. Tras una profunda conversión personal marcada por el perdón concedido al asesino de su hermano, dedicó su vida a la oración, la penitencia y la promoción de la fe. Su legado incluye un fuerte énfasis en la misericordia y la lucha contra la simonía dentro de la Iglesia.",
+      "image": "/images/saint_john_gualbert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Gualbert"
+    }
+  ]
+}

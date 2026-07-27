@@ -1,0 +1,27 @@
+{
+  "date": "04-12",
+  "feast_day": "12 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catalina de San Agustín",
+      "feast_day": "12 de abril",
+      "era": "Siglo XVII",
+      "patronage": null,
+      "legacy": "Virgen",
+      "summary": "Joven futura misionera en Nueva Francia, Catalina de Longpré, en religión sor María Catalina de San Agustín, fue una religiosa enfermera en la comunidad de las Hermanas Hospitalarias de San Agustín de Évreux. Nacida en Francia en 1632, viajó a Quebec a los dieciséis años. Habiendo ofrecido su vida por los enfermos y la santificación de las almas, encontró en la ciudad de Quebec un hospital recién fundado y muy pobre, donde trabajó durante veinte años con inquebrantable devoción y coraje.",
+      "image": "/images/blessed_catherine_of_st_augustine.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Julio I",
+      "feast_day": "12 de abril",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Defensor del cristianismo niceno",
+      "summary": "Julio I fue un papa romano que ejerció su cargo del año 337 al 352 d.C. Es conocido por su defensa de la fe nicena contra el arrianismo y por acoger en Roma a los obispos exiliados. Su pontificado estuvo marcado por importantes reformas eclesiásticas y la construcción de basílicas y cementerios en la ciudad.",
+      "image": "/images/saint_julius_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julius_I"
+    }
+  ]
+}

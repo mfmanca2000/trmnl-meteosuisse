@@ -1,0 +1,22 @@
+{
+  "date": "11-11",
+  "feast_day": "11 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Martino di Tours",
+      "feast_day": "11 novembre",
+      "era": "IV secolo",
+      "patronage": [
+        "soldati",
+        "cavalli",
+        "vignaioli",
+        "mendicanti"
+      ],
+      "legacy": "Apostolo delle Gallie e modello di carità",
+      "summary": "Martino di Tours fu un vescovo del IV secolo noto per la sua opera missionaria nelle Gallie. È famoso per il suo gesto di carità in cui condivise il proprio mantello con un mendicante, che portò a una visione di Cristo. I suoi sforzi nell'evangelizzare e convertire la popolazione pagana gli valsero il titolo di Luce e Apostolo delle Gallie.",
+      "image": "/images/saint_martin_of_tours.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Tours"
+    }
+  ]
+}

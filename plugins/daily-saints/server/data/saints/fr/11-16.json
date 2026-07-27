@@ -1,0 +1,35 @@
+{
+  "date": "11-16",
+  "feast_day": "16 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gertrude",
+      "feast_day": "16 novembre",
+      "era": "Médiéval",
+      "patronage": [
+        "âmes du purgatoire",
+        "les malades",
+        "les malades mentaux"
+      ],
+      "legacy": "Mystique et avocate des âmes",
+      "summary": "Sainte Gertrude d'Eisleben, également connue sous le nom de Gertrude la Grande, était une mystique et abbesse du XIVe siècle connue pour ses profondes intuitions spirituelles et sa dévotion à la Passion du Christ. Née dans une famille noble, elle consacra sa vie à la prière et à la contemplation, recevant de nombreuses expériences mystiques et révélations. Ses écrits, en particulier le livre de ses Révélations, continuent d'inspirer la dévotion et la réflexion sur l'amour de Dieu et le salut des âmes.",
+      "image": "/images/saint_gertrude.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gertrude"
+    },
+    {
+      "name": "Edmond",
+      "feast_day": "16 novembre",
+      "era": "Médiéval",
+      "patronage": [
+        "archevêques",
+        "enseignants",
+        "étudiants"
+      ],
+      "legacy": "Défenseur des droits de l'Église et de la charité",
+      "summary": "Saint Edmond de Cantorbéry était un archevêque anglais connu pour sa piété et son dévouement envers l'Église. Il défendit les droits de l'Église contre la cupidité du roi Henri III et fut persécuté pour sa fermeté. Canonisé peu après sa mort, on se souvient de lui pour ses miracles et son engagement envers une vie de prière et de charité.",
+      "image": "/images/saint_edmund.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edmund_of_East_Anglia"
+    }
+  ]
+}

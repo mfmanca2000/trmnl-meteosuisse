@@ -1,0 +1,21 @@
+{
+  "date": "06-13",
+  "feast_day": "13 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Antoine de Padoue",
+      "feast_day": "13 juin",
+      "era": "Médiéval",
+      "patronage": [
+        "objets perdus",
+        "voyageurs",
+        "les pauvres"
+      ],
+      "legacy": "Faiseur de miracles et prédicateur bien-aimé",
+      "summary": "Antoine de Padoue était un frère franciscain et prédicateur portugais connu pour ses sermons puissants et ses miracles. Il devint Docteur de l'Église et est souvent représenté tenant l'Enfant Jésus, symbole de sa foi profonde et de sa dévotion. Sa vie fut marquée par un engagement envers l'enseignement et l'aide aux pauvres, et il est largement vénéré comme le saint patron des objets perdus et de ceux qui cherchent.",
+      "image": "/images/saint_anthony_of_padua.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Padua"
+    }
+  ]
+}

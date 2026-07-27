@@ -1,0 +1,21 @@
+{
+  "date": "09-18",
+  "feast_day": "18 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "José de Cupertino",
+      "feast_day": "18 de septiembre",
+      "era": "Siglo XVII",
+      "patronage": [
+        "estudiantes",
+        "aviadores",
+        "astronautas"
+      ],
+      "legacy": "Santo patrono de los estudiantes y los aviadores",
+      "summary": "José de Cupertino fue un sacerdote franciscano conocido por su profunda espiritualidad y sus experiencias místicas, a menudo descrito como en estado de éxtasis. A pesar de numerosas dificultades, incluida la falta de educación formal y las burlas de los demás, se convirtió en una figura muy querida por su humildad y devoción. Es especialmente recordado por sus milagrosas levitaciones durante la oración y su fe inquebrantable hasta su muerte en 1663.",
+      "image": "/images/saint_joseph_of_cupertino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Cupertino"
+    }
+  ]
+}

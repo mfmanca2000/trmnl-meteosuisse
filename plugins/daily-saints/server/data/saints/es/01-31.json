@@ -1,0 +1,36 @@
+{
+  "date": "01-31",
+  "feast_day": "31 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan Bosco",
+      "feast_day": "31 de enero",
+      "era": "Siglo XIX",
+      "patronage": [
+        "juventud",
+        "estudiantes",
+        "aprendices",
+        "magos"
+      ],
+      "legacy": "Defensor de la juventud y la educación",
+      "summary": "Juan Bosco fue un sacerdote y educador italiano que dedicó su vida al bienestar de los jóvenes desfavorecidos. Fundó la Sociedad Salesiana, centrada en la educación y el desarrollo espiritual de los jóvenes. Su legado continúa a través de las numerosas instituciones salesianas alrededor del mundo que mantienen viva su misión de amor y educación.",
+      "image": "/images/saint_john_bosco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Bosco"
+    },
+    {
+      "name": "Marcela",
+      "feast_day": "31 de enero",
+      "era": "Principios del siglo V",
+      "patronage": [
+        "viudas",
+        "mujeres nobles",
+        "crecimiento espiritual"
+      ],
+      "legacy": "Modelo de viudez cristiana y piedad",
+      "summary": "Marcela fue una noble viuda romana que dedicó su vida al ascetismo y al estudio de las Escrituras bajo la guía de san Jerónimo. Se convirtió en una figura destacada entre las mujeres cristianas, reuniéndolas para el crecimiento espiritual y el apoyo mutuo. Marcela murió durante el asedio godo de Roma en el año 410, tras haber vivido una vida de piedad y servicio a los pobres.",
+      "image": "/images/saint_marcella.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Marcella"
+    }
+  ]
+}

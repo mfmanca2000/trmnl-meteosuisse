@@ -1,0 +1,34 @@
+{
+  "date": "10-25",
+  "feast_day": "25 octobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Chrysanthe",
+      "feast_day": "25 octobre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "martyrs",
+        "convertis"
+      ],
+      "legacy": "Martyre et foi dans l'adversité",
+      "summary": "Chrysanthe était un jeune martyr romain qui, avec son épouse Darie, convertit de nombreuses personnes au christianisme par leur foi et leur enseignement. Malgré une sévère persécution de la part de son père et des autorités romaines, il resta inébranlable dans ses croyances. Finalement, tous deux furent martyrisés en étant enterrés vivants pour avoir refusé de renier leur foi.",
+      "image": "/images/saint_chrysanthus_and_saint_daria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chrysanthus"
+    },
+    {
+      "name": "Crépin et Crépinien",
+      "feast_day": "25 octobre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "cordonniers",
+        "ouvriers du cuir",
+        "bravoure"
+      ],
+      "legacy": "Martyrs de la foi et de la persévérance",
+      "summary": "Crépin et Crépinien étaient des frères et martyrs qui prêchèrent le christianisme en Gaule au IIIe siècle. Ils étaient connus pour leur talent de cordonniers et leur capacité à convertir de nombreuses personnes grâce à leur caractère affable et leur foi profonde. Ils finirent par subir de sévères tortures et furent exécutés pour leurs croyances sur ordre de l'empereur Dioclétien vers l'an 286.",
+      "image": "/images/saints_crispin_and_crispinian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Crispin_and_Crispinian"
+    }
+  ]
+}

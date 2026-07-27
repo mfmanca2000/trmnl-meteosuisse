@@ -1,0 +1,22 @@
+{
+  "date": "09-27",
+  "feast_day": "27 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Côme et Damien",
+      "feast_day": "27 septembre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "médecins",
+        "chirurgiens",
+        "barbiers",
+        "contre la peste"
+      ],
+      "legacy": "Patrons des médecins et des professionnels de santé",
+      "summary": "Les saints Côme et Damien étaient des frères jumeaux et médecins qui vécurent au IIIe siècle. Ils sont connus pour leur foi chrétienne inébranlable et leur pratique de la médecine sans accepter de paiement, ce qui leur valut un grand respect parmi le peuple. Ils furent martyrisés lors de la persécution de Dioclétien pour avoir refusé de renier leur foi et pour avoir continué à guérir au nom du Christ.",
+      "image": "/images/saint_cosmas_and_saint_damian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cosmas_and_Damian"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "02-24",
+  "feast_day": "24 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Matías",
+      "feast_day": "24 de febrero",
+      "era": "Siglo I",
+      "patronage": [
+        "cristianos perseguidos",
+        "sastres"
+      ],
+      "legacy": "Apóstol elegido para reemplazar a Judas",
+      "summary": "Matías fue elegido por los apóstoles para reemplazar a Judas Iscariote después de la Ascensión de Jesús. Es conocido por su dedicación y perseverancia al predicar el Evangelio, especialmente en Judea, donde sufrió persecución. Tradicionalmente se cree que Matías murió lapidado hacia el año 63 d. C.",
+      "image": "/images/saint_matthias.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matthias"
+    },
+    {
+      "name": "Roberto de Arbrissel",
+      "feast_day": "24 de febrero",
+      "era": "Siglo XI",
+      "patronage": [
+        "ermitaños",
+        "monjes",
+        "reformadores"
+      ],
+      "legacy": "Campeón de la pobreza y la reforma en la Iglesia",
+      "summary": "Roberto de Arbrissel fue un destacado abad del siglo XI, conocido por su celo reformador y su dedicación a los ideales de pobreza y caridad. Fundó el famoso monasterio de Fontevrault, que se convirtió en un centro donde hombres y mujeres vivían en comunidades separadas dedicadas al Evangelio. Su legado incluye el compromiso de sanar disputas y promover el crecimiento espiritual entre sus seguidores por todo el oeste de Francia.",
+      "image": "/images/blessed_robert_of_arbrissel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_of_Arbrissel"
+    }
+  ]
+}

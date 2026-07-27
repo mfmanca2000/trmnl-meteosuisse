@@ -1,0 +1,27 @@
+{
+  "date": "04-08",
+  "feast_day": "8 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie Assunta",
+      "feast_day": "8 avril",
+      "era": "XXe siècle",
+      "patronage": null,
+      "legacy": "Missionnaire franciscaine",
+      "summary": "Saint Pie X promulgua son décret Quam Singulari, recommandant la communion fréquente pour tous et la première communion précoce pour les enfants, seulement deux ans après la mort de la bienheureuse Marie Assunta. Cette sainte jeune religieuse, particulièrement dévouée au Saint-Sacrement dès sa jeunesse, bien qu'elle n'ait pas pu bénéficier de ce décret, est une preuve vivante de la sagesse de sa décision. Les saints parmi les enfants et les jeunes, dont il prédit la multiplication, ont toujours eu une telle dévotion, et Dieu nous montre ainsi que ce n'est pas le nombre d'années qui compte.",
+      "image": "/images/blessed_mary_assunta.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Perpet",
+      "feast_day": "8 avril",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Un évêque dévoué et défenseur des pauvres.",
+      "summary": "Saint Perpet fut le huitième évêque de Tours, exerçant sa charge de 461 à 494. Il fut connu pour son dévouement à conduire les âmes vers la vertu par ses sermons, ses synodes et l'embellissement des édifices religieux, en particulier l'église Saint-Martin. Son héritage comprend un testament d'amour pour les pauvres et la création d'un fonds pour les vases sacrés, reflétant son profond engagement envers la charité et la communauté.",
+      "image": "/images/saint_perpetuus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Perpetuus_of_Tours"
+    }
+  ]
+}

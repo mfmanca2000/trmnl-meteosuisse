@@ -1,0 +1,30 @@
+{
+  "date": "03-20",
+  "feast_day": "20 de marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hermano André",
+      "feast_day": "20 de marzo",
+      "era": "siglo XX",
+      "patronage": null,
+      "legacy": "Hermano lego, taumaturgo",
+      "summary": "El pequeño Alfred Bessette, nacido en St. Grégoire, Quebec, el 9 de agosto de 1845, tenía sus raíces en nuestra propia tierra. El futuro San Hermano André del Monte Royal era hijo de esta tierra y de la familia franco-canadiense.",
+      "image": "/images/saint_brother_andrew_ODM.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Wulfrano",
+      "feast_day": "20 de marzo",
+      "era": "época medieval",
+      "patronage": [
+        "los misioneros",
+        "Frisia"
+      ],
+      "legacy": "Un misionero compasivo y taumaturgo.",
+      "summary": "San Wulfrano fue arzobispo de Sens que renunció a la grandeza mundana para servir a Dios y a la Iglesia. Se convirtió en misionero en Frisia, donde bautizó a muchas personas y realizó milagros, incluida la salvación de un niño del sacrificio. Sus esfuerzos ayudaron a establecer el cristianismo en una tierra pagana, y es recordado por su compasión y dedicación a la fe.",
+      "image": "/images/saint_wulfran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wulfram_of_Sens"
+    }
+  ]
+}

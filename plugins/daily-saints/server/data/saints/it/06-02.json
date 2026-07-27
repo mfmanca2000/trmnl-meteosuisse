@@ -1,0 +1,31 @@
+{
+  "date": "06-02",
+  "feast_day": "2 giugno",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria dell'Incarnazione",
+      "feast_day": "2 giugno",
+      "era": "XVII secolo",
+      "patronage": [
+        "Canada",
+        "missionari",
+        "vedove"
+      ],
+      "legacy": "Pioniera della Chiesa nella Nuova Francia",
+      "summary": "Maria dell'Incarnazione fu una vedova francese e monaca orsolina che divenne una delle prime religiose a recarsi in Canada per svolgere opera missionaria. Dedicò la sua vita all'insegnamento delle giovani indigene e scrisse dizionari per facilitare la comunicazione e la catechesi. La sua eredità di pioniera della Chiesa nella Nuova Francia e modello di santità continua a ispirare molti.",
+      "image": "/images/saint_mary_of_the_incarnation.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_of_the_Incarnation_(Ursuline)"
+    },
+    {
+      "name": "Potino",
+      "feast_day": "2 giugno",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Martirio e fede nel primo cristianesimo",
+      "summary": "San Potino fu vescovo di Lione durante le prime persecuzioni cristiane nell'Impero romano. Fu martirizzato intorno al 177 d.C., subendo severe torture nonostante la sua età avanzata, a causa della sua fede. La sua fermezza e il suo zelo per Cristo ispirarono molti, tra cui il suo successore, sant'Ireneo.",
+      "image": "/images/sts_pothinus_blandina_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Pothinus"
+    }
+  ]
+}

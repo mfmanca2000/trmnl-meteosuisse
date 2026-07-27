@@ -1,0 +1,31 @@
+{
+  "date": "02-23",
+  "feast_day": "23 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pier Damiani",
+      "feast_day": "23 febbraio",
+      "era": "XI secolo",
+      "patronage": [
+        "cardinali",
+        "studenti",
+        "teologi"
+      ],
+      "legacy": "Riformatore e difensore dell'integrità della Chiesa",
+      "summary": "Pier Damiani fu un eminente cardinale e vescovo dell'XI secolo, noto per i suoi sforzi di riforma all'interno della Chiesa. Dedicò la sua vita a combattere la simonia e la corruzione ecclesiastica, servendo come consigliere di sette papi. Il suo impegno nella preghiera e nell'ascesi, insieme alla sua guida, lasciarono un impatto duraturo sull'orientamento morale e spirituale della Chiesa.",
+      "image": "/images/saint_peter_damian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Damian"
+    },
+    {
+      "name": "Sereno",
+      "feast_day": "23 febbraio",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Martirio per la fede e la virtù",
+      "summary": "San Sereno fu un martire greco vissuto all'inizio del IV secolo. Dedicò la sua vita a Dio attraverso il celibato, la penitenza e la preghiera, coltivando un giardino a Sirmio, in Pannonia. Dopo essere stato falsamente accusato di condotta scorretta, professò coraggiosamente la sua fede cristiana e fu decapitato per essersi rifiutato di sacrificare agli dei.",
+      "image": "/images/saint_serenus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Serenus"
+    }
+  ]
+}

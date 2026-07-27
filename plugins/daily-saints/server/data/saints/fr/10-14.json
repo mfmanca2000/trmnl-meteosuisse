@@ -1,0 +1,20 @@
+{
+  "date": "10-14",
+  "feast_day": "14 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Calixte Ier",
+      "feast_day": "14 octobre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "cimetières",
+        "martyrs"
+      ],
+      "legacy": "Pape, martyr et protecteur des fidèles",
+      "summary": "Calixte Ier fut un pape et martyr du début du IIIe siècle qui joua un rôle important dans l'administration de l'Église et le soin des cimetières chrétiens de Rome. Il est connu pour avoir institué le jeûne des Quatre-Temps et supervisé la construction d'églises en une période de persécution. Son autorité entraîna de nombreuses conversions, mais il finit par subir lui-même le martyre, étant tué pour sa foi.",
+      "image": "/images/saint_callistus_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Callistus_I"
+    }
+  ]
+}

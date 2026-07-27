@@ -1,0 +1,22 @@
+{
+  "date": "02-02",
+  "feast_day": "2 febbraio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Maria",
+      "feast_day": "2 febbraio",
+      "era": "I secolo",
+      "patronage": [
+        "madri",
+        "donne incinte",
+        "famiglia",
+        "perdita dei genitori"
+      ],
+      "legacy": "Modello di fede e umiltà",
+      "summary": "Maria è venerata come la madre di Gesù Cristo ed è una figura centrale nel cristianesimo. Il suo ruolo nella Presentazione di Gesù al Tempio evidenzia la sua obbedienza alla legge ebraica e la sua profonda fede. È spesso onorata per la sua umiltà e devozione, servendo da modello per i credenti che cercano di seguire la volontà di Dio.",
+      "image": "/images/the_presentation_of_jesus_in_the_temple.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "12-27",
+  "feast_day": "27 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean",
+      "feast_day": "27 décembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "auteurs",
+        "théologiens",
+        "amour",
+        "amitié"
+      ],
+      "legacy": "Disciple bien-aimé et auteur de l'Apocalypse",
+      "summary": "Jean, le frère de Jacques, était l'un des douze apôtres et est souvent désigné comme le disciple bien-aimé de Jésus. La tradition lui attribue la rédaction de l'Évangile de Jean, de trois épîtres et de l'Apocalypse. Après la crucifixion, il devint une figure clé de l'Église primitive, évangélisant en Asie Mineure et exerçant la charge de premier archevêque d'Éphèse.",
+      "image": "/images/saint_john.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Apostle"
+    }
+  ]
+}

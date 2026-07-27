@@ -1,0 +1,35 @@
+{
+  "date": "02-11",
+  "feast_day": "11 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Notre-Dame de Lourdes",
+      "feast_day": "11 février",
+      "era": "Moderne",
+      "patronage": [
+        "malades",
+        "personnel hospitalier",
+        "maux corporels"
+      ],
+      "legacy": "Un symbole de guérison et d'espérance",
+      "summary": "Notre-Dame de Lourdes désigne les apparitions de la Bienheureuse Vierge Marie à Bernadette Soubirous en 1858 à Lourdes, en France. Lors de ces apparitions, Marie s'identifia comme l'Immaculée Conception, confirmant le dogme proclamé par le pape Pie IX en 1854. Le site est depuis devenu une destination de pèlerinage majeure, connue pour ses guérisons miraculeuses et une profonde dévotion envers Marie, Mère de Dieu.",
+      "image": "/images/our_lady_of_lourdes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Lourdes"
+    },
+    {
+      "name": "Séverin",
+      "feast_day": "11 février",
+      "era": "Début du VIe siècle",
+      "patronage": [
+        "guérisseurs",
+        "malades",
+        "moines"
+      ],
+      "legacy": "Thaumaturge et saint abbé",
+      "summary": "Saint Séverin était un abbé de Bourgogne qui consacra sa vie à Dieu dans le monastère d'Agaune. Il devint célèbre pour ses guérisons miraculeuses, notamment celle du roi Clovis de France. Après sa mort en 507, il fut vénéré comme saint, et son héritage se perpétue à travers l'abbaye de Saint-Séverin.",
+      "image": "/images/saint_severinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Severinus"
+    }
+  ]
+}

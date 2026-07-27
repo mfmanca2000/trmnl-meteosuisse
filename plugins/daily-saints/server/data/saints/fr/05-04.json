@@ -1,0 +1,22 @@
+{
+  "date": "05-04",
+  "feast_day": "4 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Monique",
+      "feast_day": "4 mai",
+      "era": "IVe siècle",
+      "patronage": [
+        "mères",
+        "épouses",
+        "conversions",
+        "femmes maltraitées"
+      ],
+      "legacy": "Un modèle de dévotion maternelle et de foi",
+      "summary": "Sainte Monique était la mère de saint Augustin, connue pour sa foi profonde et sa persévérance dans la prière. Née en 332 en Afrique du Nord, elle consacra sa vie à la conversion de son mari et de son fils, endurant de nombreuses épreuves avec patience et amour. Ses prières inlassables contribuèrent grandement à la conversion finale d'Augustin au christianisme, faisant d'elle un modèle de dévotion maternelle et de foi.",
+      "image": "/images/saint_monica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Monica_of_Hippo"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "05-25",
+  "feast_day": "25 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregorio VII",
+      "feast_day": "25 maggio",
+      "era": "XI secolo",
+      "patronage": null,
+      "legacy": "Campione della riforma e dell'indipendenza della Chiesa",
+      "summary": "Gregorio VII, nato Ildebrando, fu un papa determinante, noto per i suoi sforzi riformatori all'interno della Chiesa cattolica nell'XI secolo. Si oppose fermamente alla simonia e all'ingerenza dei sovrani laici negli affari ecclesiastici, scomunicando in particolare l'imperatore Enrico IV. Il suo pontificato fu segnato da importanti lotte per l'indipendenza della Chiesa, che portarono infine al suo esilio e alla sua morte nel 1085.",
+      "image": "/images/saint_gregory_vii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+    }
+  ]
+}

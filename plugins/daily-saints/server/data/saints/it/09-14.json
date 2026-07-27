@@ -1,0 +1,17 @@
+{
+  "date": "09-14",
+  "feast_day": "14 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Esaltazione della Santa Croce",
+      "feast_day": "14 settembre",
+      "era": "VII secolo",
+      "patronage": null,
+      "legacy": "Celebrazione del trionfo della Croce",
+      "summary": "L'Esaltazione della Santa Croce commemora il recupero della Vera Croce da parte dell'imperatore Eraclio nel 628 d.C., dopo che era stata sottratta dai Persiani. Questo evento simboleggia il trionfo del cristianesimo sul paganesimo e l'importanza della Croce nella fede. La festa serve a ricordare il significato della Croce nella vita dei credenti e i miracoli ad essa associati.",
+      "image": "/images/the_exaltation_of_the_holy_cross_of_our_lord_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Exaltation_of_the_Holy_Cross"
+    }
+  ]
+}

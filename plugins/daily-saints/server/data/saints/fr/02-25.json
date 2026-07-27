@@ -1,0 +1,17 @@
+{
+  "date": "02-25",
+  "feast_day": "25 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tarase",
+      "feast_day": "25 février",
+      "era": "VIIIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur des icônes et de l'intégrité de l'Église",
+      "summary": "Tarase fut le patriarche de Constantinople de 784 à 806, connu pour sa ferme défense de la vénération des icônes durant la controverse iconoclaste. C'était un homme d'une grande vertu et d'une grande simplicité, menant une vie de prière et de service tout en refusant de transiger sur ses principes, même face à la pression impériale. Son héritage comprend son engagement pour l'intégrité de l'Église et la promotion des images saintes, confirmée par le deuxième concile de Nicée.",
+      "image": "/images/saint_tarasius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarasios_of_Constantinople"
+    }
+  ]
+}

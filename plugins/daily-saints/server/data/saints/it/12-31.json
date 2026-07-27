@@ -1,0 +1,21 @@
+{
+  "date": "12-31",
+  "feast_day": "31 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Silvestro",
+      "feast_day": "31 dicembre",
+      "era": "IV secolo",
+      "patronage": [
+        "papa",
+        "malattia",
+        "battesimo"
+      ],
+      "legacy": "Papa durante l'ascesa del cristianesimo",
+      "summary": "San Silvestro fu papa e confessore, che esercitò il suo ministero in un'epoca turbolenta per i cristiani agli inizi del IV secolo. È noto soprattutto per il suo lungo pontificato, che comprese il Concilio di Nicea e il battesimo dell'imperatore Costantino. La sua guida contribuì a consolidare la posizione della Chiesa nell'Impero romano e segnò una svolta decisiva nella storia cristiana.",
+      "image": "/images/saint_sylvester.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_I_of_Rome"
+    }
+  ]
+}

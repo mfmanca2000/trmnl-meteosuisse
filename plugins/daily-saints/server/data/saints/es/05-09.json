@@ -1,0 +1,21 @@
+{
+  "date": "05-09",
+  "feast_day": "9 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregorio Nacianceno",
+      "feast_day": "9 de mayo",
+      "era": "Siglo IV",
+      "patronage": [
+        "teólogos",
+        "estudiantes",
+        "oradores"
+      ],
+      "legacy": "Campeón de la ortodoxia cristiana y la elocuencia.",
+      "summary": "Gregorio Nacianceno fue un influyente teólogo del cristianismo primitivo y arzobispo de Constantinopla. Conocido por sus elocuentes sermones y escritos, desempeñó un papel crucial en el desarrollo de la doctrina cristiana durante la controversia arriana. Su legado como doctor de la Iglesia y campeón de la ortodoxia sigue celebrándose en la tradición cristiana.",
+      "image": "/images/saint_gregory_nazianzen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Nazianzen"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "04-28",
+  "feast_day": "28 de abril",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Luis María de Montfort",
+      "feast_day": "28 de abril",
+      "era": "Siglo XVIII",
+      "patronage": null,
+      "legacy": "Doctor de María",
+      "summary": "Uno de los grandes Santos cuya misión aparece confirmada y en aumento con el paso de los años, mientras nos encontramos en medio de los últimos tiempos, san Luis María de Montfort puede reconocerse ahora como un profeta y un oráculo de Dios para la santificación de la Iglesia, que debe resistir los males predichos de este período. Autor de una Oración Profética pidiendo los Apóstoles de los Últimos Tiempos, es también el ferviente apóstol de la Verdadera Devoción a la Santísima Virgen y el Santo del amor por la Cruz del Señor, como se ve en su Carta a los Amigos de la Cruz y en toda su vida de actividad misionera. Nacido en Montfort-la-Cane, cerca de Saint-Malo, en 1673, era el mayor de ocho hermanos.",
+      "image": "/images/saint_louis_mary_de_montfort.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Pablo de la Cruz",
+      "feast_day": "28 de abril",
+      "era": "Siglo XVIII",
+      "patronage": [
+        "desolación espiritual",
+        "los Pasionistas"
+      ],
+      "legacy": "Fundador de la Orden de los Pasionistas",
+      "summary": "Pablo de la Cruz fue el fundador de la Orden de los Pasionistas, dedicada a la meditación de la Pasión de Jesucristo. A lo largo de su vida, soportó un considerable sufrimiento físico y espiritual, que asumió como medio para profundizar su fe y su compromiso con Dios. Se le recuerda por su profunda espiritualidad y por la fundación de una comunidad religiosa centrada en la Pasión de Cristo.",
+      "image": "/images/saint_paul_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_the_Cross"
+    },
+    {
+      "name": "Luquesio",
+      "feast_day": "28 de abril",
+      "era": "Siglo XIII",
+      "patronage": [
+        "mercaderes",
+        "pobres",
+        "tercera orden de san Francisco"
+      ],
+      "legacy": "Primer miembro de la Tercera Orden franciscana",
+      "summary": "Luquesio fue un rico mercader de Poggibonsi, Italia, que experimentó una profunda conversión tras escuchar predicar a san Francisco de Asís. Se convirtió en el primer miembro de la Tercera Orden de san Francisco, dedicando su vida a la caridad y al servicio de los pobres. Junto a su esposa, Bona Dona, fundó una comunidad que atendía a los necesitados y se hizo conocida por sus obras de misericordia.",
+      "image": "/images/blessed_luchesio.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luchesius_Modestini"
+    },
+    {
+      "name": "Vidal de Rávena",
+      "feast_day": "28 de abril",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Mártir",
+      "summary": "San Vidal fue un ciudadano cristiano de Milán del siglo primero y padre de los hermanos gemelos y futuros mártires, los santos Gervasio y Protasio. Es el principal patrono de Rávena, donde fue martirizado. La divina providencia lo había conducido a esa ciudad, donde vio comparecer ante el tribunal a un médico cristiano llamado Ursicino, que había sido torturado y que luego fue condenado a perder la cabeza por su fe.",
+      "image": "/images/saint_vitalis_of_ravenna.jpg",
+      "wikipedia": null
+    }
+  ]
+}

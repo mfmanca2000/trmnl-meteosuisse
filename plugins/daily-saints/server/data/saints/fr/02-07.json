@@ -1,0 +1,21 @@
+{
+  "date": "02-07",
+  "feast_day": "7 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Romuald",
+      "feast_day": "7 février",
+      "era": "Xe siècle",
+      "patronage": [
+        "ermites",
+        "moines",
+        "spiritualité"
+      ],
+      "legacy": "Fondateur de l'ordre camaldule",
+      "summary": "Saint Romuald était un moine bénédictin et le fondateur de l'ordre camaldule au Xe siècle. Il consacra sa vie à restaurer la règle primitive de saint Benoît et fonda de nombreux monastères à travers l'Italie et la France. Connu pour sa profonde spiritualité et son attachement à la solitude, il surmonta de nombreuses tentations et épreuves, menant finalement une vie d'une profonde sainteté jusqu'à sa mort en 1027.",
+      "image": "/images/saint_romuald.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romuald"
+    }
+  ]
+}

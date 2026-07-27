@@ -1,0 +1,21 @@
+{
+  "date": "09-28",
+  "feast_day": "28 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Venceslas",
+      "feast_day": "28 septembre",
+      "era": "Xe siècle",
+      "patronage": [
+        "République tchèque",
+        "mariages difficiles",
+        "paysans"
+      ],
+      "legacy": "Martyre et dévotion dans l'exercice du pouvoir",
+      "summary": "Venceslas était un duc chrétien de Bohême qui devint martyr pour sa foi au Xe siècle. Élevé par sa grand-mère pieuse, il gouverna avec dévotion et compassion, servant souvent les pauvres en secret. Son règne se termina tragiquement lorsqu'il fut assassiné par son frère, mais il reste dans les mémoires comme un symbole de vertu chrétienne et de leadership.",
+      "image": "/images/saint_wenceslas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wenceslas"
+    }
+  ]
+}

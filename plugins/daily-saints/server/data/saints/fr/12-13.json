@@ -1,0 +1,22 @@
+{
+  "date": "12-13",
+  "feast_day": "13 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lucie de Syracuse",
+      "feast_day": "13 décembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "cécité",
+        "martyrs",
+        "écrivains",
+        "maladies de la gorge"
+      ],
+      "legacy": "Patronne des aveugles et des martyrs",
+      "summary": "Sainte Lucie de Syracuse était une jeune martyre chrétienne qui vécut au début du IVe siècle. Elle est connue pour sa foi inébranlable et la guérison miraculeuse de sa mère, ce qui la poussa à consacrer sa vie à Dieu et au service des pauvres. Elle fut finalement martyrisée pour ses croyances durant la persécution de Dioclétien, devenant un symbole de pureté et de résilience face à l'adversité.",
+      "image": "/images/saint_lucy_of_syracuse.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lucy_of_Syracuse"
+    }
+  ]
+}

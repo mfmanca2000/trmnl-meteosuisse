@@ -1,0 +1,31 @@
+{
+  "date": "08-09",
+  "feast_day": "9 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan María Vianney",
+      "feast_day": "9 de agosto",
+      "era": "Siglo XIX",
+      "patronage": [
+        "sacerdotes",
+        "enfermos",
+        "confesión sacramental"
+      ],
+      "legacy": "Modelo de cuidado pastoral y santidad",
+      "summary": "Juan María Vianney, conocido como el Cura de Ars, fue un sacerdote humilde célebre por su extraordinario cuidado pastoral y su dedicación al sacramento de la confesión. Transformó la parroquia de Ars, en Francia, en una comunidad cristiana vibrante gracias a su piedad, su predicación y sus obras de caridad. Su vida de penitencia y devoción lo ha convertido en modelo para los sacerdotes y en un santo muy querido en la Iglesia católica.",
+      "image": "/images/saint_john_vianney.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Vianney"
+    },
+    {
+      "name": "Román",
+      "feast_day": "9 de agosto",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Un mártir inspirado por una fe inquebrantable",
+      "summary": "San Román era un soldado de la legión romana bajo el emperador Valeriano, que se convirtió al cristianismo tras presenciar la firmeza de san Lorenzo durante su martirio. Conmovido por la gracia que había percibido, Román abrazó la fe y fue posteriormente encarcelado por sus creencias. Fue condenado y decapitado por su fe el 9 de agosto del 258, y sus restos son venerados en Lucca, Italia.",
+      "image": "/images/saint_romanus_statue.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romanus_of_Rome"
+    }
+  ]
+}

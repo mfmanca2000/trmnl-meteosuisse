@@ -1,0 +1,17 @@
+{
+  "date": "01-10",
+  "feast_day": "10 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Guillermo de Bourges",
+      "feast_day": "10 de enero",
+      "era": "Medieval",
+      "patronage": null,
+      "legacy": "Un modelo de piedad y humildad",
+      "summary": "Guillermo de Bourges fue un arzobispo conocido por su profunda piedad y su compromiso con una vida de austeridad. Sirvió primero como canónigo antes de unirse a los cistercienses y más tarde se convirtió en arzobispo de Bourges, donde se dedicó a llevar una vida santa y a hacer penitencia por los demás. Su tumba se convirtió en lugar de numerosos milagros, lo que llevó a su canonización apenas nueve años después de su muerte.",
+      "image": "/images/saint_william.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_of_Bourges"
+    }
+  ]
+}

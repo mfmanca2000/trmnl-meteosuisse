@@ -1,0 +1,46 @@
+{
+  "date": "05-16",
+  "feast_day": "16 mai",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Simon Stock",
+      "feast_day": "16 mai",
+      "era": "Médiéval",
+      "patronage": [
+        "carmes",
+        "patients atteints d'un cancer du sein",
+        "ceux qui recherchent une bonne mort"
+      ],
+      "legacy": "Promoteur de l'essor de l'ordre du Carmel",
+      "summary": "Simon Stock fut un frère carme anglais et Supérieur général de l'ordre du Carmel au XIIIe siècle. Il est surtout connu pour sa profonde dévotion à la Vierge Marie et pour avoir reçu le Scapulaire brun, symbole important de l'ordre du Carmel. Sa direction contribua à faire prospérer l'Ordre en Europe, en particulier durant les périodes de persécution et de conflit.",
+      "image": "/images/saint_simon_stock.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simon_Stock"
+    },
+    {
+      "name": "Brendan",
+      "feast_day": "16 mai",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Abbé de Clonfert",
+      "summary": "Saint Brendan naquit dans le comté de Kerry, en Irlande, en l'an 484. Son éducation fut confiée à sainte Ita, appelée la Brigitte du Munster, puis à saint Erc, qui l'ordonna prêtre en 512. Entre 512 et 530, il bâtit des cellules monastiques à Ardfert et à Shanakeel, au pied de la colline de Brandon.",
+      "image": "/images/saint_brendan_the_navigator.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Jean Népomucène",
+      "feast_day": "16 mai",
+      "era": "XIVe siècle",
+      "patronage": [
+        "confesseurs",
+        "ponts",
+        "eau",
+        "silence"
+      ],
+      "legacy": "Martyr du silence et de la fidélité à Dieu",
+      "summary": "Jean Népomucène fut un prêtre et martyr né en Bohême en 1330. Il est connu pour son silence inébranlable face à la torture et à la mort, refusant de trahir les confessions de l'impératrice. Après avoir été jeté dans la rivière Moldau, son corps fut retrouvé incorrompu, et il devint un symbole de fidélité et de la sainteté du sacrement de la confession.",
+      "image": "/images/saint_john_nepomucene.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Nepomucene"
+    }
+  ]
+}

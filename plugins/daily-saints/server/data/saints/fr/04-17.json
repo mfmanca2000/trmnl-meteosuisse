@@ -1,0 +1,31 @@
+{
+  "date": "04-17",
+  "feast_day": "17 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Kateri Tekakwitha",
+      "feast_day": "17 avril",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "écologistes",
+        "Amérindiens",
+        "personnes en exil"
+      ],
+      "legacy": "Première sainte amérindienne des États-Unis",
+      "summary": "Kateri Tekakwitha, connue comme le Lys des Mohawks, naquit en 1656 d'une mère algonquine et d'un chef iroquois. Après avoir vécu une tragédie personnelle et un profond appel spirituel, elle consacra sa vie à Dieu et devint un symbole de foi parmi les Amérindiens. Elle fut canonisée en 1991 et est reconnue pour sa profonde dévotion et son engagement envers sa foi chrétienne.",
+      "image": "/images/saint_kateri_tekakwitha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kateri_Tekakwitha"
+    },
+    {
+      "name": "Anicet",
+      "feast_day": "17 avril",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi contre l'hérésie",
+      "summary": "Saint Anicet fut le onzième pape et martyr, exerçant sa charge à une époque de défis théologiques importants, notamment ceux du gnosticisme. Il est connu pour son amitié avec saint Polycarpe et pour avoir abordé les différences dans la célébration de Pâques entre les Églises d'Orient et d'Occident. Anicet institua la tonsure pour le clergé et est honoré pour sa fermeté dans la foi, ayant finalement reçu le martyre pour ses convictions.",
+      "image": "/images/saint_anicetus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Anicetus"
+    }
+  ]
+}

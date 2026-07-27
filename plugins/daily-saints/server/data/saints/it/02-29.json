@@ -1,0 +1,21 @@
+{
+  "date": "02-29",
+  "feast_day": "29 febbraio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Oswald",
+      "feast_day": "29 febbraio",
+      "era": "X secolo",
+      "patronage": [
+        "Inghilterra",
+        "arcivescovi",
+        "guaritori"
+      ],
+      "legacy": "Rinnovatore della vita monastica in Inghilterra",
+      "summary": "Oswald fu un influente arcivescovo di York nel X secolo, noto per il suo impegno nella riforma del clero e nella promozione della vita monastica. Fondò sette case religiose e lavorò instancabilmente per ripristinare la disciplina tra i canonici secolari. Il suo lascito comprende un significativo rinnovamento monastico in Inghilterra e una reputazione di pietà, culminata nella sua morte mentre serviva i poveri.",
+      "image": "/images/saint_oswald.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Oswald_of_Worcester"
+    }
+  ]
+}

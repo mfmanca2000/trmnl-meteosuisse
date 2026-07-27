@@ -1,0 +1,34 @@
+{
+  "date": "10-12",
+  "feast_day": "12 octobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jeanne Le Ber",
+      "feast_day": "12 octobre",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "recluses",
+        "contemplatifs"
+      ],
+      "legacy": "Un modèle de prière contemplative et de service.",
+      "summary": "La bienheureuse Jeanne Le Ber était une recluse canadienne connue pour sa vie contemplative profonde et son dévouement à la prière. Elle vécut une vie de pauvreté stricte et de service, confectionnant des vêtements liturgiques et des décorations d'autel pour les églises de Montréal. L'engagement de Jeanne envers sa foi et son rôle de guide spirituel ont laissé un héritage durable dans la communauté catholique canadienne.",
+      "image": "/images/blessed_jeanne_leber.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jeanne_Le_Ber"
+    },
+    {
+      "name": "Wilfrid",
+      "feast_day": "12 octobre",
+      "era": "VIIe siècle",
+      "patronage": [
+        "York",
+        "guides spirituels",
+        "moines"
+      ],
+      "legacy": "Défenseur du catholicisme romain en Angleterre",
+      "summary": "Wilfrid fut un influent archevêque d'York qui joua un rôle clé dans l'alignement de l'Église anglaise sur les pratiques romaines. Il fonda plusieurs monastères et était connu pour son soutien vigoureux à la discipline et à la doctrine catholiques romaines. Malgré l'exil et l'emprisonnement, il demeura inébranlable dans sa mission de réforme de l'Église en Angleterre jusqu'à sa mort en 709.",
+      "image": "/images/saint_wilfrid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wilfrid_of_York"
+    }
+  ]
+}

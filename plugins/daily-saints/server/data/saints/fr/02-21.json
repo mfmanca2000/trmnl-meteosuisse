@@ -1,0 +1,30 @@
+{
+  "date": "02-21",
+  "feast_day": "21 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Didace Pelletier",
+      "feast_day": "21 février",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "frères laïcs",
+        "charpentiers"
+      ],
+      "legacy": "Premier frère laïc récollet né au Canada",
+      "summary": "Didace Pelletier, connu sous le nom de Bienheureux Frère Didace, fut le premier frère laïc récollet né au Canada, en Nouvelle-France. C'était un charpentier habile qui contribua de manière significative à la construction de diverses missions et églises au Canada. Sa vie de piété et de dévouement à son travail laissa un héritage durable de sainteté dans l'histoire canadienne.",
+      "image": "/images/blessed_brother_didace_pelletier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Diane_Pelletier"
+    },
+    {
+      "name": "Sévérien",
+      "feast_day": "21 février",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Courageux défenseur de la foi",
+      "summary": "Saint Sévérien était un évêque et martyr connu pour sa résistance constante à l'hérésie eutychienne sous le règne de l'empereur Marcien. Il s'opposa courageusement au moine tyrannique Théodose, qui persécutait les chrétiens à Jérusalem. Sévérien paya finalement le prix ultime pour sa foi, martyrisé vers l'an 452 ou 453.",
+      "image": "/images/saint_severianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Severianus,_Bishop_of_Scythopolis"
+    }
+  ]
+}

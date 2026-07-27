@@ -1,0 +1,21 @@
+{
+  "date": "10-07",
+  "feast_day": "7 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Notre-Dame du Rosaire",
+      "feast_day": "7 octobre",
+      "era": "Époque moderne",
+      "patronage": [
+        "prières",
+        "victoire au combat",
+        "l'Église catholique"
+      ],
+      "legacy": "Promotrice de la dévotion du Rosaire",
+      "summary": "Notre-Dame du Rosaire est un titre de la Bienheureuse Vierge Marie associé à la prière du Rosaire. Cette dévotion souligne l'importance de la méditation sur les mystères de la vie du Christ à travers la récitation des prières. La fête de Notre-Dame du Rosaire fut instituée pour commémorer la victoire à la bataille de Lépante et pour promouvoir le Rosaire comme un puissant outil de prière et de réflexion.",
+      "image": "/images/our_lady_of_the_rosary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "02-16",
+  "feast_day": "16 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Onesimo",
+      "feast_day": "16 febbraio",
+      "era": "I secolo",
+      "patronage": [
+        "schiavi",
+        "prigionieri",
+        "vescovi"
+      ],
+      "legacy": "Da schiavo a vescovo e martire",
+      "summary": "Onesimo era uno schiavo frigio fuggito dal suo padrone, Filemone, che si rifugiò presso san Paolo a Roma. Dopo essere stato battezzato da Paolo, tornò da Filemone, che gli concesse la libertà e gli permise di servire come vescovo. Onesimo divenne in seguito martire per la sua fede, subendo gravi torture prima della sua morte, avvenuta intorno all'anno 95 sotto l'imperatore Domiziano.",
+      "image": "/images/saint_onesimus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Onesimus"
+    },
+    {
+      "name": "Giovanni de Britto",
+      "feast_day": "16 febbraio",
+      "era": "XVII secolo",
+      "patronage": [
+        "missionari",
+        "India"
+      ],
+      "legacy": "Un martire e apostolo dell'India.",
+      "summary": "Giovanni de Britto fu un missionario gesuita portoghese che dedicò la sua vita alla diffusione del cristianesimo in India, in particolare nella regione di Madura. Nonostante una forte opposizione, comprese torture e il successivo martirio, rimase fermo nella sua missione di convertire e aiutare la popolazione locale. Fu canonizzato nel 1947, riconosciuto per la sua fede incrollabile e il suo impegno al servizio degli altri.",
+      "image": "/images/saint_john_de_britto.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_de_Britto"
+    }
+  ]
+}

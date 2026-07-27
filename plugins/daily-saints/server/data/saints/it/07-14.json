@@ -1,0 +1,21 @@
+{
+  "date": "07-14",
+  "feast_day": "14 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bonaventura",
+      "feast_day": "14 luglio",
+      "era": "Medievale",
+      "patronage": [
+        "francescani",
+        "Università Bonaventure",
+        "teologi"
+      ],
+      "legacy": "Un profondo teologo e guida spirituale.",
+      "summary": "Bonaventura fu un teologo francescano e cardinale-vescovo del XIII secolo, noto per la sua profonda spiritualità e i suoi contributi dotti alla Chiesa. Ricoprì la carica di ministro generale dell'ordine francescano e svolse un ruolo significativo nel concilio di Lione, sostenendo l'unione tra le Chiese greca e romana. I suoi scritti riflettono un fervente amore per Dio, che gli valse il titolo di Dottore Serafico.",
+      "image": "/images/saint_bonaventure.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bonaventure"
+    }
+  ]
+}

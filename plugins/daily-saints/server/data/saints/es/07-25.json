@@ -1,0 +1,35 @@
+{
+  "date": "07-25",
+  "feast_day": "25 de julio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Santiago el Mayor",
+      "feast_day": "25 de julio",
+      "era": "Siglo I",
+      "patronage": [
+        "España",
+        "peregrinos",
+        "boticarios"
+      ],
+      "legacy": "Primer apóstol en ser martirizado",
+      "summary": "Santiago el Mayor fue uno de los doce apóstoles y un compañero cercano de Jesús, conocido por su fe ferviente y su carácter franco. Según la tradición, predicó en España tras la resurrección de Cristo, y fue el primer apóstol en ser martirizado, ejecutado por el rey Herodes Agripa hacia el año 44. Su legado se conmemora en la Basílica del Apóstol Santiago de Compostela, un importante lugar de peregrinación en España.",
+      "image": "/images/saint_james_the_greater.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_the_Great"
+    },
+    {
+      "name": "Cristóbal",
+      "feast_day": "25 de julio",
+      "era": "Siglo III",
+      "patronage": [
+        "viajeros",
+        "conductores",
+        "niños"
+      ],
+      "legacy": "Protector de los viajeros y los niños",
+      "summary": "San Cristóbal es un venerado mártir, conocido por su extraordinaria fe y valentía frente a la persecución. Según la tradición, convirtió a miles de personas al cristianismo a través de su predicación y sus actos milagrosos. Su martirio se celebra el 25 de julio, en conmemoración de su firmeza y los milagros que se le atribuyen, incluidas curaciones y protecciones.",
+      "image": "/images/saint_christopher.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher"
+    }
+  ]
+}

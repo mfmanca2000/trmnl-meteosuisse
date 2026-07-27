@@ -1,0 +1,27 @@
+{
+  "date": "04-20",
+  "feast_day": "20 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Agnese di Montepulciano",
+      "feast_day": "20 aprile",
+      "era": "XIV secolo",
+      "patronage": null,
+      "legacy": "Vergine",
+      "summary": "Sant'Agnese nacque in Italia nel 1274, dolce futura gloria dell'Ordine di san Domenico. Suo padre era un eminente cristiano che viveva nel villaggio di Gracciano Vecchio, presso il lago di Perugia, nell'Italia centrale. Proprio nel giorno della sua nascita, un primo miracolo annunciò ai presenti che si trattava di una bambina predestinata: apparvero misteriose torce ardenti, che brillavano splendidamente vicino alla sua culla.",
+      "image": "/images/saint_agnes_of_monte_pulciano.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Marcellino",
+      "feast_day": "20 aprile",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Vescovo di Embrun",
+      "summary": "San Marcellino nacque in Africa da una famiglia nobile; insieme ad altri due cristiani desiderosi di evangelizzare la Gallia, Vincenzo e Domnino, si recò da papa san Damaso. I giovani furono inviati a Eusebio, vescovo di Vercelli, che li incoraggiò nella loro missione e annunciò loro che avrebbero avuto molto da soffrire. I tre furono ordinati, e Marcellino fu consacrato vescovo di Embrun da Eusebio e dal vescovo di Valence.",
+      "image": "/images/saint_marcellinus_of_embrun.jpg",
+      "wikipedia": null
+    }
+  ]
+}

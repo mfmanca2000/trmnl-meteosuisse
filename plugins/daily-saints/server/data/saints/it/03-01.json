@@ -1,0 +1,35 @@
+{
+  "date": "03-01",
+  "feast_day": "1 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Albino",
+      "feast_day": "1 marzo",
+      "era": "VI secolo",
+      "patronage": [
+        "vescovi",
+        "monaci",
+        "gli schiavi"
+      ],
+      "legacy": "Un modello di virtù e carità",
+      "summary": "Sant'Albino fu un vescovo e abate noto per la sua profonda pietà e il suo impegno per la vita monastica. Dedicò la sua vita al nutrimento spirituale della sua comunità e lavorò instancabilmente per la redenzione dei cristiani ridotti in schiavitù durante le invasioni barbariche. La sua eredità comprende numerosi miracoli e una forte influenza sulla disciplina ecclesiastica nella sua regione.",
+      "image": "/images/saint_albinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albinus_of_Angers"
+    },
+    {
+      "name": "Davide",
+      "feast_day": "1 marzo",
+      "era": "VI secolo",
+      "patronage": [
+        "Galles",
+        "vegetariani",
+        "lavoratori del settore lattiero-caseario"
+      ],
+      "legacy": "Santo patrono del Galles e della vita monastica",
+      "summary": "San Davide fu un influente arcivescovo e il santo patrono del Galles, noto per la sua pietà e la sua dedizione a Dio. Fondò diversi monasteri, tra cui quello principale a Glyn Rhosyn (oggi St Davids), dove condusse una rigida vita monastica. I suoi insegnamenti e i suoi miracoli aiutarono a combattere l'eresia in Gran Bretagna all'inizio del VI secolo, ed è celebrato per la sua umiltà e la sua guida spirituale.",
+      "image": "/images/saint_david_of_wales.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/David_of_Wales"
+    }
+  ]
+}

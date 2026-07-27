@@ -1,0 +1,35 @@
+{
+  "date": "03-28",
+  "feast_day": "28 de marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan de Capistrano",
+      "feast_day": "28 de marzo",
+      "era": "siglo XV",
+      "patronage": [
+        "los capellanes militares",
+        "los prisioneros",
+        "los enfermos"
+      ],
+      "legacy": "Defensor de la fe y reformador",
+      "summary": "Juan de Capistrano fue un fraile franciscano italiano conocido por su poderosa predicación y su dedicación a la reforma de la Iglesia. Desempeñó un papel importante en la defensa de los territorios cristianos frente a la amenaza otomana, dirigiendo especialmente una exitosa cruzada en Belgrado en 1456. Canonizado en 1690, es recordado por su humildad, su perseverancia y los numerosos milagros que se le atribuyeron después de su muerte.",
+      "image": "/images/saint_john_capistran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Capistran"
+    },
+    {
+      "name": "Gontrán",
+      "feast_day": "28 de marzo",
+      "era": "siglo VI",
+      "patronage": [
+        "los reyes",
+        "los enfermos",
+        "la paz"
+      ],
+      "legacy": "Un rey compasivo y protector de la paz.",
+      "summary": "San Gontrán fue rey de Borgoña y Orleans, conocido por su piedad y su dedicación a sus súbditos. Reinó en una época de división entre sus hermanos y buscó mantener la paz y la justicia en su reino. Su legado incluye la fundación de iglesias y monasterios, así como una reputación de misericordia y compasión hacia los oprimidos.",
+      "image": "/images/saint_gontran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gontran"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "09-01",
+  "feast_day": "1 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Egidio",
+      "feast_day": "1 settembre",
+      "era": "VII secolo",
+      "patronage": [
+        "mendicanti",
+        "poveri",
+        "disabili",
+        "birrai"
+      ],
+      "legacy": "Patrono dei poveri e dei disabili",
+      "summary": "Sant'Egidio fu un eremita del VII secolo noto per la sua profonda compassione e le sue opere miracolose. Nato ad Atene da una famiglia nobile, dedicò la sua vita alla povertà e alla solitudine, compiendo numerosi miracoli che attiravano le persone a lui. La sua eredità include la fondazione di un monastero in Francia che divenne un centro dell'Ordine Benedettino.",
+      "image": "/images/saint_giles.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giles_of_Provence"
+    }
+  ]
+}

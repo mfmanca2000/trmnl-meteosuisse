@@ -1,0 +1,37 @@
+{
+  "date": "04-07",
+  "feast_day": "7 aprile",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Giuliana di Mont Cornillon",
+      "feast_day": "7 aprile",
+      "era": "XIII secolo",
+      "patronage": null,
+      "legacy": "Vergine",
+      "summary": "Santa Giuliana nacque presso Liegi, in Belgio, nel 1193. All'età di cinque anni perse i genitori e fu posta nel convento del Monte Cornillon. Fece rapidi progressi nella virtù e leggeva con piacere gli scritti di sant'Agostino e di san Bernardo.",
+      "image": "/images/saint_juliana_of_mont_cornillon.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Ermanno Giuseppe di Steinfeld",
+      "feast_day": "7 aprile",
+      "era": "XIII secolo",
+      "patronage": null,
+      "legacy": "Sacerdote",
+      "summary": "Il beato Ermanno, fin dai suoi primi anni, fu un devoto servitore della Madre di Dio. Da piccolo trascorreva tutto il suo tempo di gioco nella chiesa di Colonia davanti a una statua di Maria, dove riceveva molte grazie. Un giorno di rigido inverno, mentre il piccolo Ermanno entrava scalzo in chiesa, la sua Madre celeste, apparendogli, gli chiese con affetto perché avesse i piedi nudi con un freddo così intenso.",
+      "image": "/images/blessed_herman_joseph_of_steinfeld.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Egesippo",
+      "feast_day": "7 aprile",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Storico della Chiesa primitiva e difensore della tradizione",
+      "summary": "Sant'Egesippo fu un convertito ebreo al cristianesimo e uno storico della Chiesa primitiva. È noto per la sua opera «Memorie», che documentava la storia della Chiesa dalla Passione di Cristo fino al suo tempo, sottolineando l'importanza della tradizione apostolica. I suoi scritti furono molto stimati dai Padri della Chiesa primitiva, come san Girolamo ed Eusebio, sebbene gran parte della sua opera sia purtroppo andata perduta.",
+      "image": "/images/saint_hegesippus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Hegesippus"
+    }
+  ]
+}

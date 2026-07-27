@@ -1,0 +1,17 @@
+{
+  "date": "08-26",
+  "feast_day": "26 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Zeffirino",
+      "feast_day": "26 agosto",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Difensore della divinità di Cristo e della fede",
+      "summary": "San Zeffirino fu papa e martire, che guidò la Chiesa in un periodo di dura persecuzione sotto l'imperatore Settimio Severo. È ricordato per la sua costante difesa della fede contro le eresie e per la sua guida compassionevole del suo gregge. Zeffirino governò la Chiesa per diciannove anni prima di morire martire intorno all'anno 217.",
+      "image": "/images/saint_zephyrinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zephyrinus"
+    }
+  ]
+}

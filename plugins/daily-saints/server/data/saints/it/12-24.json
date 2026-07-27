@@ -1,0 +1,41 @@
+{
+  "date": "12-24",
+  "feast_day": "24 dicembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Charbel Makhlouf",
+      "feast_day": "24 dicembre",
+      "era": "XIX secolo",
+      "patronage": [
+        "guaritori",
+        "malati",
+        "Libano"
+      ],
+      "legacy": "Un modello di preghiera e di guarigione",
+      "summary": "Charbel Makhlouf era un sacerdote ed eremita maronita del Libano, noto per la sua profonda spiritualità e le sue guarigioni miracolose. Condusse una vita di estrema ascesi, dedicandosi alla preghiera e alla solitudine in un eremo per oltre due decenni. Dopo la sua morte, numerosi miracoli a lui attribuiti hanno attirato molti pellegrini alla sua tomba, consolidando il suo lascito di potente intercessore.",
+      "image": "/images/saint_charbel_makhlouf.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charbel_Makhlouf"
+    },
+    {
+      "name": "Tarsilla e Emiliana",
+      "feast_day": "24 dicembre",
+      "era": "VI secolo",
+      "patronage": null,
+      "legacy": "Modelli di verginità e di perseveranza spirituale",
+      "summary": "Tarsilla ed Emiliana erano due sorelle, zie di san Gregorio Magno, che consacrarono la loro vita a Dio nella verginità. Vissero insieme in una comunità spirituale, incoraggiandosi reciprocamente nella virtù mentre piangevano il ritorno della sorella Gordiana a una vita mondana. Le loro vite esemplificano l'importanza della perseveranza nella fede e la chiamata a una vita spirituale più profonda.",
+      "image": "/images/saints_tarsilla_and_emiliana.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Trasilla_and_Emiliana"
+    },
+    {
+      "name": "Delfino",
+      "feast_day": "24 dicembre",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Difensore della verità e dell'ortodossia",
+      "summary": "San Delfino fu vescovo di Bordeaux, noto per la sua ferma difesa degli insegnamenti cristiani ortodossi durante i primi tempi della Chiesa. Svolse un ruolo significativo nella condanna dei movimenti eretici, in particolare al Concilio di Saragozza nel 380. La sua influenza si estese a figure importanti come san Paolino, che battezzò e ispirò a una vita di santità.",
+      "image": "/images/saint_delphinus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

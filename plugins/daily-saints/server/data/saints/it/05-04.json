@@ -1,0 +1,22 @@
+{
+  "date": "05-04",
+  "feast_day": "4 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Monica",
+      "feast_day": "4 maggio",
+      "era": "IV secolo",
+      "patronage": [
+        "madri",
+        "mogli",
+        "conversioni",
+        "donne maltrattate"
+      ],
+      "legacy": "Un modello di devozione materna e di fede",
+      "summary": "Santa Monica fu la madre di sant'Agostino, nota per la sua fede profonda e la sua perseveranza nella preghiera. Nata nel 332 nell'Africa del Nord, dedicò la sua vita alla conversione del marito e del figlio, sopportando numerose prove con pazienza e amore. Le sue instancabili preghiere furono determinanti per la conversione di Agostino al cristianesimo, facendone un modello di devozione materna e di fede.",
+      "image": "/images/saint_monica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Monica_of_Hippo"
+    }
+  ]
+}

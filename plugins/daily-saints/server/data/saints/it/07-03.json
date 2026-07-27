@@ -1,0 +1,27 @@
+{
+  "date": "07-03",
+  "feast_day": "3 luglio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Leone II",
+      "feast_day": "3 luglio",
+      "era": "VII secolo",
+      "patronage": null,
+      "legacy": "Un papa di musica e carità",
+      "summary": "Leone II fu papa nel VII secolo, noto per il suo pontificato breve ma significativo. Affrontò importanti questioni tra la Santa Sede e gli imperatori di Costantinopoli, assicurando che i vescovi di Ravenna fossero consacrati a Roma. I suoi contributi alla musica e alla carità, insieme ai suoi sforzi per sostenere la dottrina della Chiesa, gli lasciarono un'eredità duratura.",
+      "image": "/images/saint_leo_ii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Leo_II"
+    },
+    {
+      "name": "Eliodoro",
+      "feast_day": "3 luglio",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede cattolica e della pietà",
+      "summary": "Sant'Eliodoro fu vescovo di Altino, noto per la sua pietà e devozione alla fede cattolica. Fu discepolo di san Girolamo e svolse un ruolo significativo nel contrastare l'eresia ariana del suo tempo. La sua vita esemplificò un equilibrio tra ministero attivo e spiritualità contemplativa fino alla sua morte, avvenuta intorno all'anno 390.",
+      "image": "/images/saint_heliodorus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Heliodorus_of_Altino"
+    }
+  ]
+}

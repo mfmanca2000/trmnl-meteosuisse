@@ -1,0 +1,21 @@
+{
+  "date": "09-21",
+  "feast_day": "21 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mateo",
+      "feast_day": "21 de septiembre",
+      "era": "Siglo I",
+      "patronage": [
+        "recaudadores de impuestos",
+        "contadores",
+        "banqueros"
+      ],
+      "legacy": "Apóstol y Evangelista de Jesucristo",
+      "summary": "Mateo, originalmente conocido como Leví, era un recaudador de impuestos llamado por Jesús para ser uno de sus apóstoles. Se le atribuye tradicionalmente la escritura del Evangelio de Mateo, que subraya que Jesús es el cumplimiento de las profecías del Antiguo Testamento. Tras predicar en Judea, pasó muchos años evangelizando en Egipto y Etiopía, donde finalmente se convirtió en mártir por su fe.",
+      "image": "/images/saint_matthew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matthew_the_Apostle"
+    }
+  ]
+}

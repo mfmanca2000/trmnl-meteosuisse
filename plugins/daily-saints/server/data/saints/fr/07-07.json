@@ -1,0 +1,34 @@
+{
+  "date": "07-07",
+  "feast_day": "7 juillet",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cyrille et Méthode",
+      "feast_day": "7 juillet",
+      "era": "IXe siècle",
+      "patronage": [
+        "peuples slaves",
+        "linguistes",
+        "éducateurs"
+      ],
+      "legacy": "Pionniers de l'alphabétisation slave et du christianisme",
+      "summary": "Les saints Cyrille et Méthode étaient des frères originaires de Thessalonique, devenus connus comme les Apôtres des peuples slaves. Ils créèrent l'alphabet glagolitique, qui permit la traduction de la Bible et d'autres textes dans les langues slaves. Leur œuvre missionnaire contribua de manière significative à la diffusion du christianisme en Europe de l'Est au IXe siècle.",
+      "image": "/images/saints_cyril_and_methodius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_and_Methodius"
+    },
+    {
+      "name": "Pantænus",
+      "feast_day": "7 juillet",
+      "era": "IIe siècle",
+      "patronage": [
+        "enseignants",
+        "missionnaires"
+      ],
+      "legacy": "Pionnier de l'éducation chrétienne et des missions",
+      "summary": "Pantænus fut un éminent enseignant et théologien chrétien du deuxième siècle, connu pour avoir dirigé l'école chrétienne d'Alexandrie. Il se rendit en Inde pour répandre l'Évangile, où il découvrit d'anciens enseignements chrétiens et l'Évangile de Matthieu en hébreu. Son dévouement à l'éducation et à l'évangélisation influença considérablement la diffusion du christianisme dans les régions orientales.",
+      "image": "/images/saint_pantaenus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pantaenus"
+    }
+  ]
+}

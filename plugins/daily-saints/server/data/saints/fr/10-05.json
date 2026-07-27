@@ -1,0 +1,20 @@
+{
+  "date": "10-05",
+  "feast_day": "5 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Placide",
+      "feast_day": "5 octobre",
+      "era": "VIe siècle",
+      "patronage": [
+        "moines",
+        "Sicile"
+      ],
+      "legacy": "Premier martyr et fondateur bénédictin",
+      "summary": "Saint Placide était un moine bénédictin né à Rome vers 515. Il fonda un monastère à Messine, en Sicile, où il était connu pour son humilité et ses guérisons miraculeuses. Il fut martyrisé par des pirates sarrasins en 541, devenant ainsi le premier martyr bénédictin.",
+      "image": "/images/saint_placid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Placidus"
+    }
+  ]
+}

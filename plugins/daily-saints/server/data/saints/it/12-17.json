@@ -1,0 +1,21 @@
+{
+  "date": "12-17",
+  "feast_day": "17 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Olimpia di Costantinopoli",
+      "feast_day": "17 dicembre",
+      "era": "Epoca paleocristiana",
+      "patronage": [
+        "vedove",
+        "diaconesse",
+        "poveri"
+      ],
+      "legacy": "Modello di carità e fede incrollabile",
+      "summary": "Sant'Olimpia di Costantinopoli era una nobile vedova e diaconessa, nota per il suo profondo impegno nella preghiera, nella penitenza e nella carità. Dopo la morte del marito, dedicò la sua vita al servizio dei poveri e al sostegno della Chiesa, assistendo in particolare san Giovanni Crisostomo nelle sue opere caritative. Nonostante la persecuzione e l'esilio, rimase salda nella sua fede e nelle sue buone opere fino alla morte, avvenuta nel 410.",
+      "image": "/images/saint_olympia_of_constantinople.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "04-07",
+  "feast_day": "7 de abril",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Juliana de Monte Cornillon",
+      "feast_day": "7 de abril",
+      "era": "Siglo XIII",
+      "patronage": null,
+      "legacy": "Virgen",
+      "summary": "Santa Juliana nació cerca de Lieja, en Bélgica, en 1193. A los cinco años perdió a sus padres y fue colocada en el convento del Monte Cornillon. Progresó rápidamente en la virtud y leía con gusto los escritos de san Agustín y san Bernardo.",
+      "image": "/images/saint_juliana_of_mont_cornillon.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Hermann José de Steinfeld",
+      "feast_day": "7 de abril",
+      "era": "Siglo XIII",
+      "patronage": null,
+      "legacy": "Sacerdote",
+      "summary": "El beato Hermann, desde sus primeros años, fue un devoto siervo de la Madre de Dios. De niño pasaba todo su tiempo de juego en la iglesia de Colonia ante una estatua de María, donde recibió muchos favores. Un día de crudo invierno, mientras el pequeño Hermann entraba descalzo en la iglesia, su Madre celestial, apareciéndosele, le preguntó con cariño por qué tenía los pies descalzos con un frío tan intenso.",
+      "image": "/images/blessed_herman_joseph_of_steinfeld.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Hegesipo",
+      "feast_day": "7 de abril",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Historiador de la Iglesia primitiva y defensor de la tradición",
+      "summary": "San Hegesipo fue un converso judío al cristianismo y un historiador de la Iglesia primitiva. Es conocido por su obra «Memorias», que documentaba la historia de la Iglesia desde la Pasión de Cristo hasta su época, subrayando la importancia de la tradición apostólica. Sus escritos fueron muy estimados por los primeros Padres de la Iglesia, como san Jerónimo y Eusebio, aunque la mayor parte de su obra se ha perdido lamentablemente.",
+      "image": "/images/saint_hegesippus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Hegesippus"
+    }
+  ]
+}

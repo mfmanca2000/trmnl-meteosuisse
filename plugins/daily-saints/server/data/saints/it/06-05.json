@@ -1,0 +1,21 @@
+{
+  "date": "06-05",
+  "feast_day": "5 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bonifacio",
+      "feast_day": "5 giugno",
+      "era": "VIII secolo",
+      "patronage": [
+        "Germania",
+        "missionari",
+        "birrai"
+      ],
+      "legacy": "Un pioniere del cristianesimo in Germania",
+      "summary": "San Bonifacio fu un missionario e vescovo inglese che svolse un ruolo cruciale nella cristianizzazione della Germania nell'VIII secolo. Affrontò numerose difficoltà, tra cui violenza e povertà, ma rimase fermo nella sua missione di convertire le tribù pagane. Fu infine martirizzato mentre amministrava la Confermazione, testimoniando così la sua dedizione alla fede e al suo gregge.",
+      "image": "/images/saint_boniface.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boniface"
+    }
+  ]
+}

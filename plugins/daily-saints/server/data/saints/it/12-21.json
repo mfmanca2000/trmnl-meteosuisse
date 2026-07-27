@@ -1,0 +1,22 @@
+{
+  "date": "12-21",
+  "feast_day": "21 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tommaso",
+      "feast_day": "21 dicembre",
+      "era": "I secolo",
+      "patronage": [
+        "architetti",
+        "costruttori",
+        "India",
+        "increduli"
+      ],
+      "legacy": "Dal dubbio alla fede, una testimonianza potente.",
+      "summary": "Tommaso era uno dei dodici apostoli di Gesù, noto per il suo dubbio iniziale riguardo alla risurrezione di Cristo. Pronunciò la celebre frase: «Mio Signore e mio Dio!» alla vista del Cristo risorto, simboleggiando il cammino dal dubbio alla fede. Dopo aver diffuso il Vangelo in varie regioni, divenne infine martire in India, dove è venerato come figura fondante della comunità cristiana locale.",
+      "image": "/images/saint_thomas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_the_Apostle"
+    }
+  ]
+}

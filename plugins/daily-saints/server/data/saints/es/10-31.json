@@ -1,0 +1,21 @@
+{
+  "date": "10-31",
+  "feast_day": "31 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Quintín",
+      "feast_day": "31 de octubre",
+      "era": "Siglo III",
+      "patronage": [
+        "cerveceros",
+        "fontaneros",
+        "pintores"
+      ],
+      "legacy": "Martirio y milagros en la Galia",
+      "summary": "San Quintín fue un mártir romano que evangelizó la Galia durante el siglo III. Era conocido por sus curaciones milagrosas y su fe inquebrantable, lo que finalmente condujo a su brutal martirio a manos del procurador romano Rictiovaro. Su legado perdura en Francia, donde numerosas iglesias y lugares están dedicados a él, y es venerado como protector de los fieles.",
+      "image": "/images/saint_quentin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Quentin"
+    }
+  ]
+}

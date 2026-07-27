@@ -1,0 +1,22 @@
+{
+  "date": "11-19",
+  "feast_day": "19 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Elisabetta d'Ungheria",
+      "feast_day": "19 novembre",
+      "era": "Medievale",
+      "patronage": [
+        "i poveri",
+        "il personale ospedaliero",
+        "gli infermieri",
+        "i fornai"
+      ],
+      "legacy": "Un modello di carità e umiltà",
+      "summary": "Elisabetta d'Ungheria fu una principessa nota per la sua profonda compassione e dedizione verso i poveri. Nonostante il suo status regale, scelse una vita di servizio, costruendo ospedali e prendendosi cura dei malati. Dopo la morte del marito, affrontò grandi avversità ma continuò a vivere una vita di umiltà e carità fino alla sua morte in giovane età.",
+      "image": "/images/saint_elizabeth_of_hungary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "09-12",
+  "feast_day": "12 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Saint Nom de Marie",
+      "feast_day": "12 septembre",
+      "era": "Moderne",
+      "patronage": null,
+      "legacy": "Célébration du pouvoir intercesseur de Marie",
+      "summary": "La fête du Saint Nom de Marie est célébrée le 12 septembre, commémorant l'intercession de la Bienheureuse Vierge Marie lors du siège de Vienne en 1683. Cette fête fut instituée par le pape Innocent XI en action de grâce pour la délivrance de la ville des envahisseurs turcs. Elle souligne l'importance du rôle de Marie dans la protection de l'Église et des fidèles.",
+      "image": "/images/feast_of_the_holy_name_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Name_of_Mary"
+    },
+    {
+      "name": "Guy d'Anderlecht",
+      "feast_day": "12 septembre",
+      "era": "Xe siècle",
+      "patronage": [
+        "pèlerins",
+        "pauvres"
+      ],
+      "legacy": "Dévotion à la prière et service aux pauvres",
+      "summary": "Saint Guy d'Anderlecht était un ermite et pèlerin du Xe siècle connu pour sa profonde dévotion à la prière et son service auprès des pauvres. Après une brève période d'inconstance dans sa vie, il se consacra à une vie de pénitence et de pèlerinage, visitant d'importants lieux de dévotion. Il est resté célèbre pour son humilité et son engagement envers l'Église, s'éteignant en 1012, une lumière ayant, dit-on, brillé autour de lui à sa mort.",
+      "image": "/images/saint_guy_of_anderlecht.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guy_of_Anderlecht"
+    }
+  ]
+}

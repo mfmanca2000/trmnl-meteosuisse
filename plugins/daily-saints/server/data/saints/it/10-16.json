@@ -1,0 +1,49 @@
+{
+  "date": "10-16",
+  "feast_day": "16 ottobre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Gerardo Maiella",
+      "feast_day": "16 ottobre",
+      "era": "XVIII secolo",
+      "patronage": [
+        "future madri",
+        "bambini",
+        "falsamente accusati"
+      ],
+      "legacy": "Taumaturgo e devoto redentorista",
+      "summary": "Gerardo Maiella fu un fratello redentorista italiano noto per le sue opere miracolose e la sua profonda devozione a Dio. Dimostrò virtù straordinarie e fu celebre per il suo dono della bilocazione, spesso visto assistere i malati durante un'epidemia di peste. Fu canonizzato nel 1904 ed è celebrato per la sua profonda carità e il suo impegno nella vita religiosa.",
+      "image": "/images/saint_gerard_majella.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Majella"
+    },
+    {
+      "name": "Gallo",
+      "feast_day": "16 ottobre",
+      "era": "VII secolo",
+      "patronage": [
+        "Svizzera",
+        "monaci",
+        "studenti"
+      ],
+      "legacy": "Pioniere del cristianesimo in Svizzera",
+      "summary": "San Gallo fu un abate e missionario irlandese che ebbe un ruolo significativo nella diffusione del cristianesimo in Svizzera. Accompagnò san Colombano in Francia e in seguito si stabilì presso il lago di Costanza, dove fondò un monastero che divenne un centro di insegnamento cristiano. Noto per la sua umiltà e dedizione, convertì molti idolatri ed è ricordato per le sue opere miracolose e per la sua pacifica convivenza con la natura.",
+      "image": "/images/saint_gall.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Gall"
+    },
+    {
+      "name": "Edvige",
+      "feast_day": "16 ottobre",
+      "era": "Medievale",
+      "patronage": [
+        "Slesia",
+        "vedove",
+        "poveri"
+      ],
+      "legacy": "Un modello di carità e devozione",
+      "summary": "Santa Edvige fu una duchessa polacca nota per la sua pietà e le sue opere di carità. Dopo la morte del marito, dedicò la sua vita al convento cistercense di Trebnitz, dove servì sotto la guida della figlia, badessa del monastero. È ricordata per la sua devozione al Santissimo Sacramento e per la sua cura verso i poveri e gli emarginati.",
+      "image": "/images/saint_hedwig.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hedwig_of_Silesia"
+    }
+  ]
+}

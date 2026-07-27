@@ -1,0 +1,21 @@
+{
+  "date": "09-24",
+  "feast_day": "24 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pierre Nolasque",
+      "feast_day": "24 septembre",
+      "era": "Médiéval",
+      "patronage": [
+        "captifs",
+        "prisonniers",
+        "ceux qui ont besoin de rédemption"
+      ],
+      "legacy": "Champion des captifs et de la miséricorde",
+      "summary": "Pierre Nolasque était un saint espagnol et le fondateur de l'ordre de Notre-Dame de la Merci, créé pour racheter les captifs chrétiens de la captivité musulmane. Il consacra sa vie aux œuvres caritatives et fit vœu de chasteté, engageant sa fortune au service de l'Église. Ses efforts furent reconnus par le roi Jacques Ier d'Aragon, et il reste dans les mémoires pour sa foi profonde et son engagement en faveur de la libération des opprimés.",
+      "image": "/images/our_lady_of_ransom_or_of_mercy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nolasco"
+    }
+  ]
+}

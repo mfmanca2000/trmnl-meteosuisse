@@ -1,0 +1,41 @@
+{
+  "date": "08-11",
+  "feast_day": "11 août",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Philomène",
+      "feast_day": "11 août",
+      "era": "IIIe siècle",
+      "patronage": [
+        "enfants",
+        "causes désespérées",
+        "vierges"
+      ],
+      "legacy": "Protectrice des enfants et faiseuse de miracles",
+      "summary": "Sainte Philomène est une vierge et martyre que l'on croit morte au IIIe siècle sous l'empereur romain Dioclétien. Son tombeau fut découvert au début du XIXe siècle, suscitant un regain de dévotion et des témoignages de miracles attribués à son intercession. Elle est particulièrement vénérée comme protectrice des enfants et connue pour ses œuvres miraculeuses, ce qui lui valut le titre de thaumaturge du XIXe siècle.",
+      "image": "/images/saint_philomena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philomena"
+    },
+    {
+      "name": "Tiburce",
+      "feast_day": "11 août",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyre pour une foi inébranlable en Dieu",
+      "summary": "Saint Tiburce était un martyr chrétien, fils du préfet romain Agrestius Chromatius. Il fut baptisé aux côtés de son père et ordonné plus tard sous-diacre, connu pour ses actes miraculeux, notamment celui d'avoir ressuscité un mort. Tiburce fut finalement martyrisé sous la persécution de Dioclétien pour sa foi inébranlable en Dieu.",
+      "image": "/images/saint_tiburtius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Tiburtius"
+    },
+    {
+      "name": "Suzanne",
+      "feast_day": "11 août",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyre courageuse des débuts du christianisme",
+      "summary": "Sainte Suzanne était une noble vierge romaine et martyre, connue pour son ferme attachement à son vœu de chasteté. Elle refusa d'épouser Maximien, le favori de l'empereur Dioclétien, et fut par la suite arrêtée et exécutée pour sa foi. Son héritage est honoré dans la tradition chrétienne, particulièrement pour son courage et son dévouement à Dieu face à la persécution.",
+      "image": "/images/saint_susanna.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Susanna"
+    }
+  ]
+}

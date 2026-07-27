@@ -1,0 +1,30 @@
+{
+  "date": "05-24",
+  "feast_day": "24 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "María Auxiliadora",
+      "feast_day": "24 de mayo",
+      "era": "Época moderna",
+      "patronage": [
+        "Iglesia católica",
+        "cristianismo"
+      ],
+      "legacy": "Patrona de las luchas de la Iglesia católica",
+      "summary": "María Auxiliadora es un título de la Santísima Virgen María, reconocido por su intercesión y su ayuda a la Iglesia. Instituida por el papa Pío VII en 1815, esta fiesta conmemora su papel de apoyo al papado en tiempos de adversidad, en particular durante el reinado de Napoleón. Esta devoción fue promovida especialmente por san Juan Bosco, quien dedicó su Orden salesiana a ella y construyó una iglesia en su honor en Turín.",
+      "image": "/images/our_lady_help_of_christians.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_Help_of_Christians"
+    },
+    {
+      "name": "Donaciano y Rogaciano",
+      "feast_day": "24 de mayo",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Mártires de la fe y la fraternidad",
+      "summary": "Donaciano y Rogaciano eran hermanos nobles de Nantes que vivieron a finales del siglo III. Fueron martirizados por su fe cristiana: Donaciano convertía activamente a otros, mientras que Rogaciano expresaba su deseo de recibir el bautismo. Ambos hermanos sufrieron una brutal tortura y ejecución, muriendo finalmente por su inquebrantable compromiso con Cristo.",
+      "image": "/images/saints_donatian_and_rogatian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Donatian_and_Rogatian"
+    }
+  ]
+}

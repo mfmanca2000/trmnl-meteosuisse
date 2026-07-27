@@ -1,0 +1,37 @@
+{
+  "date": "11-03",
+  "feast_day": "3 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Martin de Porres",
+      "feast_day": "3 novembre",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "justice sociale",
+        "personnes métisses",
+        "victimes innocentes",
+        "les pauvres"
+      ],
+      "legacy": "Guérisseur compatissant et défenseur des pauvres",
+      "summary": "Martin de Porres était un frère laïc dominicain né à Lima, au Pérou, en 1579. Connu pour sa profonde humilité et son extraordinaire compassion, il consacra sa vie au service des pauvres et des malades, accomplissant souvent des miracles de guérison. Canonisé en 1962, il est vénéré comme un puissant intercesseur pour ceux qui sont dans le besoin.",
+      "image": "/images/saint_martin_de_porres.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_de_Porres"
+    },
+    {
+      "name": "Hubert",
+      "feast_day": "3 novembre",
+      "era": "Haut Moyen Âge",
+      "patronage": [
+        "chasseurs",
+        "chiens",
+        "travailleurs forestiers",
+        "mathématiciens"
+      ],
+      "legacy": "Saint patron des chasseurs et de la forêt.",
+      "summary": "Saint Hubert était un évêque connu pour sa foi profonde et son engagement envers la vie chrétienne après une rencontre bouleversante lors d'une expédition de chasse. Il devint un apôtre zélé, consacrant sa vie au service des pauvres et à la diffusion de l'Évangile. Son héritage comprend la fondation du diocèse de Liège et une réputation d'accomplir des miracles.",
+      "image": "/images/saint_hubert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Hubert_of_Liege"
+    }
+  ]
+}

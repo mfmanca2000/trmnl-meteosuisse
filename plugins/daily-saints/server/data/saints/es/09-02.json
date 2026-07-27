@@ -1,0 +1,22 @@
+{
+  "date": "09-02",
+  "feast_day": "2 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Esteban",
+      "feast_day": "2 de septiembre",
+      "era": "Siglo XI",
+      "patronage": [
+        "Hungría",
+        "gobernantes",
+        "políticos",
+        "albañiles"
+      ],
+      "legacy": "Apóstol de Hungría y rey cristiano",
+      "summary": "Esteban de Hungría fue el primer rey de Hungría, reinando desde el año 1000 hasta su muerte en 1038. Desempeñó un papel crucial en la conversión del pueblo húngaro al cristianismo y sentó las bases del estado húngaro. Su legado incluye la promoción de los valores cristianos y el establecimiento de la Iglesia católica en Hungría.",
+      "image": "/images/saint_stephen_king_of_hungary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+    }
+  ]
+}

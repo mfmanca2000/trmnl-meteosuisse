@@ -1,0 +1,21 @@
+{
+  "date": "05-05",
+  "feast_day": "5 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pio V",
+      "feast_day": "5 maggio",
+      "era": "XVI secolo",
+      "patronage": [
+        "Stati pontifici",
+        "riforma liturgica",
+        "il concilio di Trento"
+      ],
+      "legacy": "Campione della riforma della Chiesa e della liturgia",
+      "summary": "Pio V fu un papa noto per il suo forte impegno nel riformare la Chiesa cattolica e nel far rispettare i decreti del concilio di Trento. È riconosciuto per il ruolo avuto nella vittoria della battaglia di Lepanto, attribuita alle sue preghiere e alla sua guida. Il suo pontificato fu segnato dalla dedizione alla disciplina ecclesiastica e dalla promozione del Messale Romano.",
+      "image": "/images/saint_pius_v.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_V"
+    }
+  ]
+}

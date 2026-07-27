@@ -1,0 +1,37 @@
+{
+  "date": "11-03",
+  "feast_day": "3 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Martino de Porres",
+      "feast_day": "3 novembre",
+      "era": "XVII secolo",
+      "patronage": [
+        "giustizia sociale",
+        "persone di razza mista",
+        "vittime innocenti",
+        "i poveri"
+      ],
+      "legacy": "Guaritore compassionevole e difensore dei poveri",
+      "summary": "Martino de Porres fu un fratello laico domenicano nato a Lima, in Perù, nel 1579. Noto per la sua profonda umiltà e straordinaria compassione, dedicò la sua vita al servizio dei poveri e dei malati, compiendo spesso miracoli di guarigione. Canonizzato nel 1962, è ricordato come un potente intercessore per coloro che sono nel bisogno.",
+      "image": "/images/saint_martin_de_porres.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_de_Porres"
+    },
+    {
+      "name": "Uberto",
+      "feast_day": "3 novembre",
+      "era": "Alto Medioevo",
+      "patronage": [
+        "cacciatori",
+        "cani",
+        "lavoratori forestali",
+        "matematici"
+      ],
+      "legacy": "Santo patrono dei cacciatori e della foresta.",
+      "summary": "Sant'Uberto fu un vescovo noto per la sua profonda fede e il suo impegno nella vita cristiana dopo un incontro trasformativo durante una battuta di caccia. Divenne un apostolo zelante, dedicando la sua vita al servizio dei poveri e alla diffusione del Vangelo. La sua eredità comprende la fondazione della diocesi di Liegi e una reputazione di operare miracoli.",
+      "image": "/images/saint_hubert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Hubert_of_Liege"
+    }
+  ]
+}

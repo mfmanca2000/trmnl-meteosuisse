@@ -1,0 +1,34 @@
+{
+  "date": "09-19",
+  "feast_day": "19 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nostra Signora della Salette",
+      "feast_day": "19 settembre",
+      "era": "XIX secolo",
+      "patronage": [
+        "riconciliazione",
+        "pace"
+      ],
+      "legacy": "Appello al pentimento e al rinnovamento della fede",
+      "summary": "Nostra Signora della Salette è un titolo della Beata Vergine Maria associato alla sua apparizione a due pastorelli in Francia nel 1846. Durante questa apparizione, ella pronunciò un messaggio di avvertimento e speranza, esortando i fedeli a tornare a Dio e a vivere secondo i suoi insegnamenti. L'evento ha ispirato devozione e la fondazione di comunità religiose dedicate al suo messaggio.",
+      "image": "/images/our_lady_of_la_salette.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette"
+    },
+    {
+      "name": "Gennaro",
+      "feast_day": "19 settembre",
+      "era": "III secolo",
+      "patronage": [
+        "donatori di sangue",
+        "vulcani",
+        "Napoli"
+      ],
+      "legacy": "Sangue miracoloso e fede incrollabile",
+      "summary": "San Gennaro fu un vescovo di Benevento e martire morto durante la persecuzione dei cristiani sotto l'imperatore Diocleziano, intorno all'anno 305. È celebre per la miracolosa liquefazione del suo sangue, che avviene ogni anno nel giorno della sua festa e che si crede protegga la città di Napoli dalle calamità. Le sue reliquie sono venerate nella cattedrale di Napoli, dove gli sono stati attribuiti numerosi miracoli, portando alla conversione di migliaia di persone.",
+      "image": "/images/saint_januarius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Januarius"
+    }
+  ]
+}

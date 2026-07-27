@@ -1,0 +1,17 @@
+{
+  "date": "10-29",
+  "feast_day": "29 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Narciso",
+      "feast_day": "29 de octubre",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Un obispo devoto y hacedor de milagros",
+      "summary": "San Narciso fue un obispo de Jerusalén conocido por su profundo compromiso con la disciplina tanto religiosa como humana. Presidió un importante concilio sobre la celebración de la Pascua y se le recuerda por haber realizado milagros, entre ellos convertir agua en aceite para las lámparas de la iglesia. A pesar de las falsas acusaciones y de sus enemigos, permaneció fiel a su rebaño y retomó sus funciones hasta su muerte en edad muy avanzada.",
+      "image": "/images/saint_narcissus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Narcissus_of_Jerusalem"
+    }
+  ]
+}

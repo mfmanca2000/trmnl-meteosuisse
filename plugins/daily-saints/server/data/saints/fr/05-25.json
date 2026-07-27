@@ -1,0 +1,17 @@
+{
+  "date": "05-25",
+  "feast_day": "25 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Grégoire VII",
+      "feast_day": "25 mai",
+      "era": "XIe siècle",
+      "patronage": null,
+      "legacy": "Champion de la réforme et de l'indépendance de l'Église",
+      "summary": "Grégoire VII, nommé à l'origine Hildebrand, fut un pape déterminant, connu pour ses efforts de réforme au sein de l'Église catholique au XIe siècle. Il s'opposa fermement à la simonie et à l'ingérence des souverains laïcs dans les affaires ecclésiastiques, excommuniant notamment l'empereur Henri IV. Son pontificat fut marqué par d'importantes luttes pour l'indépendance de l'Église, qui aboutirent finalement à son exil et à sa mort en 1085.",
+      "image": "/images/saint_gregory_vii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+    }
+  ]
+}

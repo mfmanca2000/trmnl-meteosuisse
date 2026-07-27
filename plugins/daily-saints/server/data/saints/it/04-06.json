@@ -1,0 +1,17 @@
+{
+  "date": "04-06",
+  "feast_day": "6 aprile",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Celestino",
+      "feast_day": "6 aprile",
+      "era": "Inizio del V secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede e della misericordia",
+      "summary": "San Celestino I fu papa dal 422 al 432, noto per la sua ferma posizione contro l'eresia. Condannò gli insegnamenti di Nestorio e inviò missionari in Britannia e in Irlanda per combattere la diffusione del pelagianesimo. Il suo pontificato sottolineò l'importanza del pentimento e della misericordia di Dio verso i peccatori.",
+      "image": "/images/saint_celestine_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Celestine_I"
+    }
+  ]
+}

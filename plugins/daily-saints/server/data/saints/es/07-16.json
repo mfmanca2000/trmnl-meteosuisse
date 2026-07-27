@@ -1,0 +1,21 @@
+{
+  "date": "07-16",
+  "feast_day": "16 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nuestra Señora del Monte Carmelo",
+      "feast_day": "16 de julio",
+      "era": "Medieval",
+      "patronage": [
+        "carmelitas",
+        "quienes buscan protección",
+        "gente de mar"
+      ],
+      "legacy": "Patrona de la Orden Carmelita",
+      "summary": "Nuestra Señora del Monte Carmelo es un título dado a la Santísima Virgen María en su papel de patrona de la Orden Carmelita. Según la tradición, se apareció a san Simón Stock en 1251, entregándole el escapulario marrón como señal de su protección. Esta devoción se ha extendido ampliamente desde entonces, simbolizando la intercesión y el cuidado de María por sus fieles.",
+      "image": "/images/our_lady_of_mount_carmel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Mount_Carmel"
+    }
+  ]
+}

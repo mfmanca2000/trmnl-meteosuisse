@@ -1,0 +1,48 @@
+{
+  "date": "07-06",
+  "feast_day": "6 de julio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Tomás Moro",
+      "feast_day": "6 de julio",
+      "era": "Renacimiento",
+      "patronage": [
+        "políticos",
+        "funcionarios públicos",
+        "abogados",
+        "mártires"
+      ],
+      "legacy": "Defensor de la fe y la conciencia.",
+      "summary": "Tomás Moro fue un abogado, filósofo y escritor inglés, conocido sobre todo por su libro 'Utopía'. Ejerció como Lord Canciller de Inglaterra, pero renunció en oposición a la separación del rey Enrique VIII de la Iglesia católica. Moro fue ejecutado por negarse a reconocer la supremacía del rey sobre la Iglesia, y es celebrado como mártir y santo en la Iglesia católica.",
+      "image": "/images/saint_thomas_more.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More"
+    },
+    {
+      "name": "Paladio",
+      "feast_day": "6 de julio",
+      "era": "Siglo V",
+      "patronage": [
+        "Escocia",
+        "misioneros"
+      ],
+      "legacy": "Primer obispo y apóstol de los escoceses",
+      "summary": "San Paladio fue el primer obispo y apóstol de los escoceses, enviado por el papa Celestino en 429 para predicar el cristianismo en el norte de Britania. Es reconocido por sus esfuerzos para combatir la herejía y establecer la fe católica entre los escoceses y en partes de Irlanda. Paladio es considerado a menudo un precursor de san Patricio en la evangelización de Irlanda.",
+      "image": "/images/saint_palladius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palladius_(bishop_of_Ireland)"
+    },
+    {
+      "name": "Goar",
+      "feast_day": "6 de julio",
+      "era": "Siglo VI",
+      "patronage": [
+        "hospitalidad",
+        "viajeros"
+      ],
+      "legacy": "Patrono de la hospitalidad y los viajeros",
+      "summary": "San Goar fue un sacerdote y ermitaño conocido por su piedad y su ferviente predicación en el siglo VI. Dedicó su vida a servir a Dios en soledad, convirtiendo al mismo tiempo a muchos a través de su ejemplo y sus milagros. Célebre por su hospitalidad, se convirtió en una figura venerada en la región cercana a Tréveris, Alemania, donde estableció una ermita y una iglesia.",
+      "image": "/images/saint_goar.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Goar_of_Aquitaine"
+    }
+  ]
+}

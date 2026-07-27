@@ -1,0 +1,21 @@
+{
+  "date": "09-28",
+  "feast_day": "28 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Venceslao",
+      "feast_day": "28 settembre",
+      "era": "X secolo",
+      "patronage": [
+        "Repubblica Ceca",
+        "matrimoni difficili",
+        "contadini"
+      ],
+      "legacy": "Martirio e devozione nella guida",
+      "summary": "Venceslao fu un duca cristiano di Boemia che divenne martire per la sua fede nel X secolo. Cresciuto dalla sua pia nonna, governò con devozione e compassione, servendo spesso i poveri in segreto. Il suo regno terminò tragicamente quando fu assassinato dal fratello, ma è ricordato come un simbolo di virtù cristiana e di guida.",
+      "image": "/images/saint_wenceslas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wenceslas"
+    }
+  ]
+}

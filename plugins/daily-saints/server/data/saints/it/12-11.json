@@ -1,0 +1,17 @@
+{
+  "date": "12-11",
+  "feast_day": "11 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Damaso",
+      "feast_day": "11 dicembre",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Promotore della Vulgata e dell'unità della Chiesa",
+      "summary": "San Damaso I fu papa dal 366 al 384 ed è noto per il suo impegno nel contrastare l'arianesimo e l'apollinarismo. Incaricò san Girolamo di realizzare la Vulgata, un'importante traduzione latina della Bibbia. Damaso si adoperò anche per abbellire la Chiesa e onorare i martiri, lasciando un'eredità duratura nella storia della Chiesa cattolica.",
+      "image": "/images/saint_damasus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Damasus_I"
+    }
+  ]
+}

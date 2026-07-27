@@ -1,0 +1,22 @@
+{
+  "date": "06-24",
+  "feast_day": "24 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni Battista",
+      "feast_day": "24 giugno",
+      "era": "I secolo",
+      "patronage": [
+        "battesimo",
+        "conversioni",
+        "pittori",
+        "stampatori"
+      ],
+      "legacy": "Precursore di Cristo e martire",
+      "summary": "Giovanni Battista è una figura di primo piano nel cristianesimo, noto per il suo ruolo di precursore di Gesù Cristo. Predicò la conversione e battezzò Gesù nel fiume Giordano, segnando l'inizio del ministero pubblico di Cristo. La sua vita fu caratterizzata dall'ascesi e da un profondo impegno verso Dio, che portò infine al suo martirio per mano di Erode Antipa.",
+      "image": "/images/saint_john_the_baptist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Baptist"
+    }
+  ]
+}

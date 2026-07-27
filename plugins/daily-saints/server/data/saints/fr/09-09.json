@@ -1,0 +1,31 @@
+{
+  "date": "09-09",
+  "feast_day": "9 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre Claver",
+      "feast_day": "9 septembre",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "Colombie",
+        "esclaves",
+        "missions africaines"
+      ],
+      "legacy": "Un champion de la dignité des Africains asservis",
+      "summary": "Pierre Claver était un missionnaire jésuite espagnol connu pour son dévouement au service des Africains réduits en esclavage en Colombie au XVIIe siècle. Au cours de ses 44 années de ministère, il baptisa environ 400 000 personnes et œuvra sans relâche pour améliorer leurs conditions spirituelles et physiques. Sa vie illustra une profonde charité et un engagement envers les marginalisés, lui valant d'être reconnu comme le saint patron de la Colombie et des personnes réduites en esclavage.",
+      "image": "/images/saint_peter_claver.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Claver"
+    },
+    {
+      "name": "Omer",
+      "feast_day": "9 septembre",
+      "era": "VIIe siècle",
+      "patronage": null,
+      "legacy": "Évêque dévoué et chef missionnaire",
+      "summary": "Saint Omer était un évêque du VIIe siècle connu pour son dévouement à la conversion des païens dans la région de Thérouanne, en France. Il entra dans la vie monastique avec son père et devint plus tard un éminent chef d'Église, revitalisant la communauté chrétienne de son diocèse. Devenu aveugle sur ses vieux jours, il continua néanmoins à servir son troupeau jusqu'à sa mort en 670.",
+      "image": "/images/saint_omer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Omer_(saint)"
+    }
+  ]
+}

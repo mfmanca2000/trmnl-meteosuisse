@@ -1,0 +1,21 @@
+{
+  "date": "02-07",
+  "feast_day": "7 de febrero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Romualdo",
+      "feast_day": "7 de febrero",
+      "era": "Siglo X",
+      "patronage": [
+        "ermitaños",
+        "monjes",
+        "espiritualidad"
+      ],
+      "legacy": "Fundador de la orden camaldulense",
+      "summary": "San Romualdo fue un monje benedictino y fundador de la orden camaldulense en el siglo X. Dedicó su vida a restaurar la regla primitiva de san Benito y estableció numerosos monasterios en Italia y Francia. Conocido por su profunda espiritualidad y su compromiso con la soledad, superó muchas tentaciones y adversidades, llevando finalmente una vida de profunda santidad hasta su muerte en 1027.",
+      "image": "/images/saint_romuald.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romuald"
+    }
+  ]
+}

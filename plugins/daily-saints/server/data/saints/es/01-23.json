@@ -1,0 +1,35 @@
+{
+  "date": "01-23",
+  "feast_day": "23 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Raimundo de Peñafort",
+      "feast_day": "23 de enero",
+      "era": "Siglo XIII",
+      "patronage": [
+        "abogados",
+        "cautivos",
+        "rescate de cautivos"
+      ],
+      "legacy": "Patrono de los abogados y de los cautivos",
+      "summary": "Raimundo de Peñafort fue un sacerdote dominico español y una figura destacada del siglo XIII. Es conocido sobre todo por fundar la Orden de Nuestra Señora de la Merced, dedicada a la redención de los cautivos cristianos en manos musulmanas. Su legado incluye importantes contribuciones al derecho canónico y una vida marcada por milagros y una profunda devoción a la Virgen María.",
+      "image": "/images/saint_raymond_of_pennafort.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raymond_of_Pe%C3%B1afort"
+    },
+    {
+      "name": "Ildefonso",
+      "feast_day": "23 de enero",
+      "era": "Siglo VII",
+      "patronage": [
+        "teólogos",
+        "vírgenes",
+        "Toledo"
+      ],
+      "legacy": "Defensor de la virginidad perpetua de María",
+      "summary": "Ildefonso fue un obispo de Toledo del siglo VII conocido por su defensa de la virginidad perpetua de la Virgen María. Teólogo destacado, escribió extensamente sobre la doctrina mariana, ganándose el título de 'Doctor de la Virginidad de la Madre de Dios'. Su legado incluye numerosos milagros que se le atribuyen y la fundación de un monasterio de vírgenes en honor a María.",
+      "image": "/images/saint_ildephonsus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ildephonsus_of_Toledo"
+    }
+  ]
+}

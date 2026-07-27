@@ -1,0 +1,31 @@
+{
+  "date": "09-23",
+  "feast_day": "23 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Lino",
+      "feast_day": "23 settembre",
+      "era": "I secolo",
+      "patronage": null,
+      "legacy": "Secondo papa e martire dei primi tempi cristiani",
+      "summary": "San Lino fu un papa e martire che servì come secondo papa della Chiesa cattolica dopo San Pietro. Originario di Volterra, in Toscana, era noto per il suo zelo nel predicare e convertire gli idolatri, in particolare in Gallia. Fu martirizzato per la sua fede ed è sepolto vicino a San Pietro in Vaticano.",
+      "image": "/images/saint_linus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Linus"
+    },
+    {
+      "name": "Tecla",
+      "feast_day": "23 settembre",
+      "era": "I secolo",
+      "patronage": [
+        "vergini",
+        "teologi",
+        "protezione contro la tentazione sessuale"
+      ],
+      "legacy": "Patrona delle vergini e martire dei primi tempi",
+      "summary": "Santa Tecla è riconosciuta come una delle prime martiri cristiane ed è celebrata per il suo incrollabile impegno verso la verginità e la fede. Dopo aver ascoltato gli insegnamenti di San Paolo, rifiutò il suo matrimonio terreno e scelse di seguirlo, sopportando severe persecuzioni per le sue convinzioni. Le sue leggendarie prove includono la sopravvivenza a bestie feroci e al fuoco, conducendola infine al martirio e al riconoscimento come simbolo di purezza e devozione.",
+      "image": "/images/saint_thecla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thecla"
+    }
+  ]
+}

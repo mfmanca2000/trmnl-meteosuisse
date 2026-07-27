@@ -1,0 +1,21 @@
+{
+  "date": "03-09",
+  "feast_day": "9 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Françoise Romaine",
+      "feast_day": "9 mars",
+      "era": "XVe siècle",
+      "patronage": [
+        "les veuves",
+        "les employés de maison",
+        "contre les tentations"
+      ],
+      "legacy": "Un modèle de foi dans la vie domestique",
+      "summary": "Françoise Romaine était une noble née à Rome en 1384 qui, malgré la volonté de ses parents, épousa Lorenzo Ponziano et consacra sa vie à Dieu à travers ses devoirs domestiques et la prière. Après avoir enduré des tragédies personnelles, notamment la perte de deux enfants, elle fonda une communauté de moniales oblates bénédictines après la mort de son mari. Connue pour sa profonde spiritualité et ses visions, elle est restée célèbre pour sa foi inébranlable et son engagement à servir Dieu tant dans sa vie de famille que religieuse.",
+      "image": "/images/saint_frances_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frances_of_Rome"
+    }
+  ]
+}

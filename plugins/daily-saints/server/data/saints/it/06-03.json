@@ -1,0 +1,35 @@
+{
+  "date": "06-03",
+  "feast_day": "3 giugno",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Carlo Lwanga",
+      "feast_day": "3 giugno",
+      "era": "XIX secolo",
+      "patronage": [
+        "gioventù",
+        "catechisti",
+        "missioni africane"
+      ],
+      "legacy": "Martirio per la fede ed emancipazione dei giovani",
+      "summary": "Carlo Lwanga fu un martire ugandese che svolse un ruolo fondamentale nella nascente comunità cristiana dell'Uganda alla fine del XIX secolo. Fu un capo tra i paggi del re Mwanga e contribuì in modo determinante all'insegnamento del catechismo ai suoi coetanei. Lwanga fu giustiziato per la sua fede il 3 giugno 1886, insieme ad altri giovani cristiani, ed è celebrato per il suo coraggio e il suo impegno verso il cristianesimo.",
+      "image": "/images/the_holy_martyrs_of_uganda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lwanga"
+    },
+    {
+      "name": "Clotilde",
+      "feast_day": "3 giugno",
+      "era": "VI secolo",
+      "patronage": [
+        "regine",
+        "convertiti",
+        "Francia"
+      ],
+      "legacy": "Madre spirituale della Francia cattolica",
+      "summary": "Santa Clotilde fu la regina consorte di Clodoveo I, primo re dei Franchi, e svolse un ruolo cruciale nella sua conversione al cristianesimo. La sua pietà e la sua dedizione alla fede ispirarono il marito e contribuirono all'affermazione del cristianesimo in Francia. Dopo la morte di Clodoveo, si dedicò alla preghiera e alla carità, diventando una figura significativa della Chiesa delle origini.",
+      "image": "/images/saint_clotilda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clotilde"
+    }
+  ]
+}

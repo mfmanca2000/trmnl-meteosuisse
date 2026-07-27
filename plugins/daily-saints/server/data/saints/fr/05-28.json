@@ -1,0 +1,34 @@
+{
+  "date": "05-28",
+  "feast_day": "28 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Germain de Paris",
+      "feast_day": "28 mai",
+      "era": "VIe siècle",
+      "patronage": [
+        "Paris",
+        "les pauvres",
+        "les prisonniers"
+      ],
+      "legacy": "Champion des pauvres et des affligés",
+      "summary": "Saint Germain de Paris fut un évêque du VIe siècle, connu pour sa ferveur et ses dons miraculeux. Il consacra sa vie aux pauvres et aux affligés, partageant souvent ses ressources et intercédant en faveur des prisonniers. Son influence conduisit à la conversion du roi Childebert et à l'éradication de l'idolâtrie en France.",
+      "image": "/images/saint_germanus_of_paris.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germanus_of_Paris"
+    },
+    {
+      "name": "Augustin de Cantorbéry",
+      "feast_day": "28 mai",
+      "era": "VIe siècle",
+      "patronage": [
+        "Angleterre",
+        "missionnaires"
+      ],
+      "legacy": "Apôtre de l'Angleterre et pionnier missionnaire.",
+      "summary": "Augustin de Cantorbéry fut un moine bénédictin qui joua un rôle déterminant dans la christianisation de l'Angleterre. Nommé par le pape Grégoire le Grand, il conduisit une mission pour convertir les Anglo-Saxons et établit l'Église en Angleterre. Ses efforts posèrent les fondations de l'Église anglaise, qui devint connue pour son érudition et sa dévotion envers la papauté.",
+      "image": "/images/saint_augustine_of_canterbury.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Canterbury"
+    }
+  ]
+}

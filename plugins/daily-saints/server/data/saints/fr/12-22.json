@@ -1,0 +1,31 @@
+{
+  "date": "12-22",
+  "feast_day": "22 décembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Françoise-Xavière Cabrini",
+      "feast_day": "22 décembre",
+      "era": "Époque moderne",
+      "patronage": [
+        "immigrants",
+        "hospitalité",
+        "orphelinats"
+      ],
+      "legacy": "Championne des immigrants et de l'éducation",
+      "summary": "Françoise-Xavière Cabrini était une religieuse italo-américaine et la fondatrice des Sœurs Missionnaires du Sacré-Cœur. Elle consacra sa vie au service des immigrants aux États-Unis et fonda de nombreuses écoles, hôpitaux et institutions caritatives. Canonisée en 1946, elle est reconnue comme la première citoyenne naturalisée des États-Unis à être canonisée sainte.",
+      "image": "/images/saint_frances_xavier_cabrini.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini"
+    },
+    {
+      "name": "Ischyrion",
+      "feast_day": "22 décembre",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyre pour une foi inébranlable",
+      "summary": "Saint Ischyrion était un martyr d'Alexandrie qui refusa de sacrifier aux idoles sur l'ordre de son magistrat. Sa fermeté dans la foi le conduisit à une exécution brutale par empalement. On se souvient de lui pour sa constance patiente et son attachement à la vertu chrétienne malgré une sévère persécution.",
+      "image": "/images/saint_ischyrion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Ischyrion"
+    }
+  ]
+}

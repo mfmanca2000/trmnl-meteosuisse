@@ -1,0 +1,21 @@
+{
+  "date": "01-24",
+  "feast_day": "24 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Timoteo",
+      "feast_day": "24 gennaio",
+      "era": "I secolo",
+      "patronage": [
+        "birrai",
+        "malati",
+        "studenti"
+      ],
+      "legacy": "Un devoto discepolo e guida della Chiesa primitiva.",
+      "summary": "Timoteo fu compagno e discepolo di san Paolo, e divenne il primo vescovo di Efeso. È noto per la sua dedizione alla diffusione del cristianesimo e per il suo ruolo nel guidare le prime comunità cristiane. Timoteo fu infine martirizzato, ucciso mentre cercava di calmare una rivolta in onore della dea Diana a Efeso.",
+      "image": "/images/saint_timothy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Timothy"
+    }
+  ]
+}

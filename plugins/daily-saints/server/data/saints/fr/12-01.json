@@ -1,0 +1,23 @@
+{
+  "date": "12-01",
+  "feast_day": "1er décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Éloi",
+      "feast_day": "1er décembre",
+      "era": "VIIe siècle",
+      "patronage": [
+        "orfèvres",
+        "métallurgistes",
+        "agriculteurs",
+        "pauvres",
+        "bijoutiers"
+      ],
+      "legacy": "Patron des orfèvres et des pauvres",
+      "summary": "Éloi était un habile métallurgiste et orfèvre, réputé pour sa piété et sa charité. Nommé orfèvre royal par le roi Clotaire II, il consacra sa vie au service des pauvres et à la création de magnifiques reliquaires pour les saints. Plus tard, il devint évêque de Noyon, où il poursuivit ses bonnes œuvres et fut connu pour accomplir des miracles.",
+      "image": "/images/saint_eligius_or_eloy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Eligius"
+    }
+  ]
+}

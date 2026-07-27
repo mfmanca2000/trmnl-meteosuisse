@@ -1,0 +1,21 @@
+{
+  "date": "08-15",
+  "feast_day": "15 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "15 août",
+      "era": "1er siècle",
+      "patronage": [
+        "ciel",
+        "mères",
+        "femmes enceintes"
+      ],
+      "legacy": "Mère de Dieu et Reine des saints",
+      "summary": "L'Assomption de Marie commémore la croyance selon laquelle la Bienheureuse Vierge Marie fut élevée au ciel à la fin de sa vie terrestre. Cet événement marque son rôle unique en tant que Mère de Dieu et son élévation au-dessus de tous les saints. Elle est célébrée comme l'aboutissement de ses vertus et de sa participation au plan divin du salut.",
+      "image": "/images/the_assumption_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Assumption_of_Mary"
+    }
+  ]
+}

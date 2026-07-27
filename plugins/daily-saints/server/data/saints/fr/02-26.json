@@ -1,0 +1,30 @@
+{
+  "date": "02-26",
+  "feast_day": "26 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mechtilde de Hackeborn",
+      "feast_day": "26 février",
+      "era": "Médiéval",
+      "patronage": null,
+      "legacy": "Mystique influente et écrivaine spirituelle",
+      "summary": "Mechtilde de Hackeborn était une abbesse du XIIIe siècle, connue pour sa profonde spiritualité et ses contributions à la théologie mystique. Elle était la sœur cadette de sainte Gertrude la Grande et servait comme maîtresse de chœur dans son monastère. Ses écrits, en particulier « Le Livre de la Grâce spéciale », ont eu un impact durable sur le mysticisme et la littérature chrétienne.",
+      "image": "/images/saint_mechtildis_of_hackeborn.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mechthild_of_Hackeborn"
+    },
+    {
+      "name": "Porphyre",
+      "feast_day": "26 février",
+      "era": "Début du Ve siècle",
+      "patronage": [
+        "convertis chrétiens",
+        "la ville de Gaza"
+      ],
+      "legacy": "Champion de la conversion chrétienne à Gaza",
+      "summary": "Saint Porphyre était un évêque connu pour ses efforts zélés à convertir les païens à Gaza, à la fin du IVe et au début du Ve siècle. Après une vie d'ascèse et de dévouement à la foi chrétienne, il parvint à démanteler le culte païen dans son diocèse et à établir une solide communauté chrétienne. Son héritage comprend la transformation d'un important temple païen en église, symbolisant le triomphe du christianisme sur l'idolâtrie.",
+      "image": "/images/saint_porphyry.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Porphyry_of_Gaza"
+    }
+  ]
+}

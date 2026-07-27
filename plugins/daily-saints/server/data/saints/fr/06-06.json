@@ -1,0 +1,22 @@
+{
+  "date": "06-06",
+  "feast_day": "6 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Norbert",
+      "feast_day": "6 juin",
+      "era": "11e siècle",
+      "patronage": [
+        "malades",
+        "dévotion sacramentelle",
+        "paix",
+        "le clergé"
+      ],
+      "legacy": "Renouveau de la dévotion eucharistique et de la réforme",
+      "summary": "Saint Norbert était un noble qui connut une conversion profonde après une vie de luxe et de dissipation. Il fonda l'Ordre des Prémontrés, qui associait le ministère actif à la vie monastique, en mettant l'accent sur l'importance de l'Eucharistie et la réforme du clergé. En tant qu'évêque de Magdebourg, il consacra sa vie à la prédication, à la réforme et à la lutte contre l'hérésie jusqu'à sa mort à l'âge de cinquante-trois ans.",
+      "image": "/images/saint_norbert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Norbert_of_Xanten"
+    }
+  ]
+}

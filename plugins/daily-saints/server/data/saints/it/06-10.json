@@ -1,0 +1,21 @@
+{
+  "date": "06-10",
+  "feast_day": "10 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Margherita",
+      "feast_day": "10 giugno",
+      "era": "Medioevo",
+      "patronage": [
+        "Scozia",
+        "matrimoni difficili",
+        "vedove"
+      ],
+      "legacy": "Una regina di fede e carità",
+      "summary": "Santa Margherita di Scozia fu una regina nota per la sua profonda pietà e il suo impegno verso la Chiesa. Contribuì in modo determinante al miglioramento spirituale e materiale del suo regno, costruendo chiese ed educando i suoi figli nella fede. La sua vita rappresentò un equilibrio tra dovere regale e santità personale, tanto da farla venerare come santa dopo la sua morte nel 1093.",
+      "image": "/images/saint_margaret_queen_of_scotland.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Scotland"
+    }
+  ]
+}

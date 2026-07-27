@@ -1,0 +1,20 @@
+{
+  "date": "06-19",
+  "feast_day": "19 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Julienne Falconieri",
+      "feast_day": "19 juin",
+      "era": "Médiéval",
+      "patronage": [
+        "malades",
+        "ceux qui souffrent de maux d'estomac"
+      ],
+      "legacy": "Dévouement et charité au service des autres.",
+      "summary": "Julienne Falconieri était une vierge du 14e siècle et la fondatrice des Mantellate, une branche de l'Ordre des Servites. Connue pour sa profonde dévotion et sa modestie, elle consacra sa vie au service d'autrui et mena une vie de charité apostolique. Sa mort fut marquée par un signe miraculeux, la forme du Saint-Sacrement étant apparue sur son cœur.",
+      "image": "/images/saint_juliana_falconieri.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Juliana_Falconieri"
+    }
+  ]
+}

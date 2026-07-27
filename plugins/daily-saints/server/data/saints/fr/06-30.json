@@ -1,0 +1,21 @@
+{
+  "date": "06-30",
+  "feast_day": "30 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paul",
+      "feast_day": "30 juin",
+      "era": "1er siècle",
+      "patronage": [
+        "théologiens",
+        "missionnaires",
+        "gentilshommes"
+      ],
+      "legacy": "Apôtre des Gentils et théologien",
+      "summary": "Paul, connu à l'origine sous le nom de Saul de Tarse, fut une figure déterminante du christianisme primitif, connu pour sa conversion, passant de persécuteur des chrétiens à apôtre du Christ. Il voyagea abondamment, répandant l'Évangile et fondant des Églises, et on lui attribue la rédaction de quatorze Épîtres qui constituent une part importante du Nouveau Testament. Ses enseignements et ses écrits ont profondément influencé la doctrine et la spiritualité chrétiennes à travers les siècles.",
+      "image": "/images/the_commemoration_of_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_Tarsus"
+    }
+  ]
+}

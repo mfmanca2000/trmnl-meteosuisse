@@ -1,0 +1,31 @@
+{
+  "date": "01-20",
+  "feast_day": "20 gennaio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Sebastiano",
+      "feast_day": "20 gennaio",
+      "era": "III secolo",
+      "patronage": [
+        "soldati",
+        "atleti",
+        "vittime della peste"
+      ],
+      "legacy": "Campione della fede e del martirio",
+      "summary": "San Sebastiano fu un ufficiale romano e martire venerato per la sua fede incrollabile in Cristo. Incoraggiò i suoi compagni cristiani durante un periodo di persecuzione ed era noto per compiere miracoli, tra cui guarire i malati. Fu infine martirizzato due volte, prima con le frecce e poi picchiato a morte, consolidando il suo lascito di campione della fede.",
+      "image": "/images/saint_sebastian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sebastian"
+    },
+    {
+      "name": "Fabiano",
+      "feast_day": "20 gennaio",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Martirio e guida della Chiesa primitiva",
+      "summary": "San Fabiano fu un papa e martire che guidò la Chiesa durante un periodo tumultuoso del III secolo. Fu eletto papa nel 236 d.C., scelto secondo la tradizione da un segno miracoloso quando una colomba si posò sul suo capo. Fabiano morì martire durante la persecuzione dei cristiani sotto l'imperatore Decio nel 250 d.C., ricordato per la sua santità e la sua guida.",
+      "image": "/images/saint_fabian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Fabian"
+    }
+  ]
+}

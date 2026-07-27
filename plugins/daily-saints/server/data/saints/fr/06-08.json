@@ -1,0 +1,22 @@
+{
+  "date": "06-08",
+  "feast_day": "8 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Médard",
+      "feast_day": "8 juin",
+      "era": "6e siècle",
+      "patronage": [
+        "agriculteurs",
+        "météo",
+        "pauvres",
+        "contre le mauvais temps"
+      ],
+      "legacy": "Évêque compatissant et faiseur de miracles",
+      "summary": "Saint Médard fut évêque de Noyon et de Tournai au 6e siècle, connu pour sa profonde compassion envers les pauvres et ses actes miraculeux. Il joua un rôle important dans la conversion des Francs et contribua à l'établissement du christianisme dans sa région. Son héritage se caractérise par son dévouement à la charité et son engagement indéfectible envers ses devoirs pastoraux malgré de nombreuses épreuves.",
+      "image": "/images/saint_medard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Medard"
+    }
+  ]
+}

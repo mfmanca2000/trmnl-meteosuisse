@@ -1,0 +1,21 @@
+{
+  "date": "07-09",
+  "feast_day": "9 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "María Goretti",
+      "feast_day": "9 de julio",
+      "era": "Siglo XX",
+      "patronage": [
+        "mujeres jóvenes",
+        "pureza",
+        "víctimas de violación"
+      ],
+      "legacy": "Patrona de la pureza y el perdón",
+      "summary": "Santa María Goretti fue una virgen y mártir italiana que murió a los once años tras negarse a someterse a una agresión. Su perdón hacia su agresor antes de morir y su posterior canonización ponen de relieve su profunda fe y pureza. Es celebrada como símbolo de castidad y perdón en la Iglesia católica.",
+      "image": "/images/saint_maria_goretti.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maria_Goretti"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "02-23",
+  "feast_day": "23 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre Damien",
+      "feast_day": "23 février",
+      "era": "XIe siècle",
+      "patronage": [
+        "cardinaux",
+        "étudiants",
+        "théologiens"
+      ],
+      "legacy": "Réformateur et défenseur de l'intégrité de l'Église",
+      "summary": "Pierre Damien fut un éminent cardinal et évêque du XIe siècle, connu pour ses efforts de réforme au sein de l'Église. Il consacra sa vie à combattre la simonie et la corruption ecclésiastique, servant de conseiller à sept papes. Son attachement à la prière et à l'ascèse, ainsi que son leadership, laissèrent un impact durable sur l'orientation morale et spirituelle de l'Église.",
+      "image": "/images/saint_peter_damian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Damian"
+    },
+    {
+      "name": "Sérène",
+      "feast_day": "23 février",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Martyre pour la foi et la vertu",
+      "summary": "Saint Sérène était un martyr grec qui vécut au début du IVe siècle. Il consacra sa vie à Dieu par le célibat, la pénitence et la prière, cultivant un jardin à Sirmium, en Pannonie. Après avoir été faussement accusé d'inconduite, il professa hardiment sa foi chrétienne et fut décapité pour avoir refusé de sacrifier aux dieux.",
+      "image": "/images/saint_serenus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Serenus"
+    }
+  ]
+}

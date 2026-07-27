@@ -1,0 +1,22 @@
+{
+  "date": "12-04",
+  "feast_day": "4 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bárbara",
+      "feast_day": "4 de diciembre",
+      "era": "Siglo III",
+      "patronage": [
+        "artillería",
+        "mineros",
+        "bomberos",
+        "contra la muerte súbita"
+      ],
+      "legacy": "Protectora contra la muerte súbita e imprevista",
+      "summary": "Santa Bárbara fue una mártir cristiana que vivió a principios del siglo III. Fue encarcelada y torturada por su padre, Dioscoro, a causa de su fe, y finalmente decapitada. Es venerada como protectora contra la muerte súbita y es especialmente venerada en los países de habla hispana y en la región de Metz, en Francia.",
+      "image": "/images/saint_barbara.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbara_of_Nicomedia"
+    }
+  ]
+}

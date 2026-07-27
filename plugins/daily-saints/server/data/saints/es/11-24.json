@@ -1,0 +1,21 @@
+{
+  "date": "11-24",
+  "feast_day": "24 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan de la Cruz",
+      "feast_day": "24 de noviembre",
+      "era": "siglo XVI",
+      "patronage": [
+        "los místicos",
+        "los poetas",
+        "los poetas españoles"
+      ],
+      "legacy": "Una guía hacia la unión mística con Dios.",
+      "summary": "Juan de la Cruz fue un místico español y una figura destacada de la Contrarreforma. Cofundó los Carmelitas Descalzos junto con santa Teresa de Ávila y es conocido por sus profundos escritos espirituales, que exploran el camino del alma hacia Dios. Fue declarado Doctor de la Iglesia en 1926 por sus contribuciones a la teología mística.",
+      "image": "/images/saint_john_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "01-21",
+  "feast_day": "21 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Inés",
+      "feast_day": "21 de enero",
+      "era": "Siglo IV",
+      "patronage": [
+        "vírgenes",
+        "jóvenes",
+        "víctimas de violación"
+      ],
+      "legacy": "Símbolo de pureza y fe inquebrantable",
+      "summary": "Santa Inés fue una joven mártir cristiana que vivió en Roma a principios del siglo IV. Con tan solo doce años, se negó a renunciar a su fe en Cristo, soportando la tortura y finalmente la muerte antes que someterse a las prácticas paganas. Su fe inquebrantable y su pureza la han convertido en una figura muy querida de la Iglesia católica, símbolo de inocencia y valentía frente a la persecución.",
+      "image": "/images/saint_agnes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agnes_of_Rome"
+    }
+  ]
+}

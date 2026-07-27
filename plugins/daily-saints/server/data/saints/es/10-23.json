@@ -1,0 +1,41 @@
+{
+  "date": "10-23",
+  "feast_day": "23 de octubre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Jesucristo",
+      "feast_day": "23 de octubre",
+      "era": "Siglo I",
+      "patronage": null,
+      "legacy": "Redentor de la humanidad mediante su sacrificio",
+      "summary": "Jesucristo es la figura central del cristianismo, considerado por los cristianos el Hijo de Dios y el Mesías (Cristo) esperado y profetizado en el Antiguo Testamento. Sus enseñanzas, su crucifixión y su resurrección constituyen el fundamento de la fe cristiana, poniendo énfasis en los temas de la redención, el amor y el perdón. A través de su sacrificio, ofrece la salvación a la humanidad, liberándola del pecado y de la muerte.",
+      "image": "/images/feast_of_the_holy_redeemer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jesus"
+    },
+    {
+      "name": "Antonio María Claret",
+      "feast_day": "23 de octubre",
+      "era": "Siglo XIX",
+      "patronage": [
+        "tejedores",
+        "misioneros",
+        "la prensa católica"
+      ],
+      "legacy": "Un defensor de la evangelización y la educación.",
+      "summary": "Antonio María Claret fue un sacerdote español y fundador de los Padres Claretianos, dedicado a la evangelización y la promoción de la fe católica. Sirvió como arzobispo de Santiago de Cuba, donde fundó instituciones educativas y trabajó incansablemente por el bienestar espiritual y social de su comunidad. Su legado incluye un profundo compromiso con la obra misionera y la palabra escrita, pues redactó numerosos textos destinados a inspirar a otros en su fe.",
+      "image": "/images/saint_anthony-mary_claret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Mary_Claret"
+    },
+    {
+      "name": "Teodoreto",
+      "feast_day": "23 de octubre",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Martirio por la fe y la convicción",
+      "summary": "San Teodoreto fue un mártir cristiano que vivió durante el reinado del emperador Juliano el Apóstata. Era conocido por su fe inquebrantable y fue torturado por sus creencias antes de ser ejecutado a espada. Su valentía frente a la persecución sigue siendo una inspiración para los cristianos que enfrentan pruebas por su fe.",
+      "image": "/images/saint_theodoret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodoret_(martyr)"
+    }
+  ]
+}

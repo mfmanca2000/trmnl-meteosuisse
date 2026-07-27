@@ -1,0 +1,21 @@
+{
+  "date": "12-28",
+  "feast_day": "28 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Santi Innocenti",
+      "feast_day": "28 dicembre",
+      "era": "I secolo",
+      "patronage": [
+        "bambini",
+        "innocenza",
+        "vittime della violenza"
+      ],
+      "legacy": "Martiri dell'innocenza e della fede",
+      "summary": "I Santi Innocenti sono i bambini martirizzati dal re Erode nel suo tentativo di uccidere il neonato Gesù. Sono riconosciuti come i primi martiri del cristianesimo, essendo morti per la loro fede senza mai averla conosciuta. La loro festa si celebra in onore del loro sacrificio e della loro innocenza.",
+      "image": "/images/the_holy_innocents.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Innocents"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "12-20",
+  "feast_day": "20 décembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Dominique de Silos",
+      "feast_day": "20 décembre",
+      "era": "XIe siècle",
+      "patronage": [
+        "prisonniers",
+        "captifs",
+        "l'ordre de Notre-Dame de la Merci"
+      ],
+      "legacy": "Restaurateur de la vie monastique",
+      "summary": "Saint Dominique de Silos était un abbé bénédictin du XIe siècle, connu pour sa profonde spiritualité et son engagement à restaurer son monastère. Il était réputé pour ses guérisons miraculeuses et ses actes de charité, particulièrement envers les souffrants et les captifs détenus par les Maures. Son héritage comprend l'inspiration qu'il donna à l'ordre de Notre-Dame de la Merci, fondé pour venir en aide aux chrétiens captifs.",
+      "image": "/images/saint_dominic_of_silos.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_of_Silos"
+    },
+    {
+      "name": "Philogone",
+      "feast_day": "20 décembre",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi et de l'intégrité",
+      "summary": "Saint Philogone fut évêque d'Antioche au début du IVe siècle, connu pour son éloquence et son intégrité. Il joua un rôle important dans la défense de la foi catholique lors du concile de Nicée contre l'hérésie arienne. Sa fermeté face à la persécution lui valut le titre de Confesseur, et l'on se souvient de lui pour son profond attachement à l'Église et à ses enseignements.",
+      "image": "/images/saint_philogonius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philogonius_of_Antioch"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "10-20",
+  "feast_day": "20 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan Cancio",
+      "feast_day": "20 de octubre",
+      "era": "Siglo XV",
+      "patronage": [
+        "Polonia",
+        "Lituania",
+        "estudiantes",
+        "pobres"
+      ],
+      "legacy": "Un modelo de caridad y piedad",
+      "summary": "Juan Cancio fue un sacerdote y teólogo polaco conocido por su profunda piedad y su compromiso con los pobres. Ejerció como profesor en la Universidad de Cracovia y era célebre por sus actos de caridad, entre ellos proveer a los necesitados y defender a los marginados. Canonizado en 1767, se le recuerda por su dedicación a la educación, la oración y el servicio a los demás.",
+      "image": "/images/saint_john_cantius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Cantius"
+    }
+  ]
+}

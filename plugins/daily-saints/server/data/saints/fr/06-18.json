@@ -1,0 +1,31 @@
+{
+  "date": "06-18",
+  "feast_day": "18 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Éphrem",
+      "feast_day": "18 juin",
+      "era": "4e siècle",
+      "patronage": [
+        "diacres",
+        "directeurs spirituels",
+        "théologie"
+      ],
+      "legacy": "Un vénérable Docteur de l'Église",
+      "summary": "Saint Éphrem fut un éminent théologien et poète du christianisme primitif, connu pour sa profonde humilité et sa spiritualité intense. Il servit comme diacre à Édesse, où il prêcha et écrivit abondamment, méritant le titre de « Harpe de l'Esprit Saint » pour ses expressions éloquentes de la foi. Déclaré Docteur de l'Église, ses œuvres continuent d'inspirer les chrétiens par leurs éclairages sur l'Écriture et la nature de Dieu.",
+      "image": "/images/saint_ephrem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+    },
+    {
+      "name": "Marc et Marcellien",
+      "feast_day": "18 juin",
+      "era": "3e siècle",
+      "patronage": null,
+      "legacy": "Martyrs d'une foi inébranlable et du courage",
+      "summary": "Saints Marc et Marcellien étaient des frères jumeaux et martyrs qui vécurent à Rome sous le règne de l'empereur Dioclétien. Ils furent emprisonnés et finalement exécutés pour avoir refusé de renier leur foi chrétienne malgré les supplications de leur famille. Leur héritage est particulièrement honoré en Espagne, où on leur attribue le mérite d'avoir intercédé pour la protection de la ville.",
+      "image": "/images/saint_marcus_and_saint_marcellianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcus_and_Marcellianus"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "date": "12-12",
+  "feast_day": "12 dicembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Madonna di Guadalupe",
+      "feast_day": "12 dicembre",
+      "era": "XVI secolo",
+      "patronage": [
+        "America Latina",
+        "i nascituri",
+        "donne incinte",
+        "ambiente"
+      ],
+      "legacy": "Patrona delle Americhe e dei nascituri",
+      "summary": "La Madonna di Guadalupe è una celebre apparizione della Vergine Maria avvenuta nel 1531 in Messico. Apparve a Juan Diego, un umile uomo indigeno, e chiese la costruzione di una chiesa in suo onore. La sua immagine, miracolosamente impressa sulla tilma di Juan Diego, rimane un simbolo di fede e di identità culturale per milioni di persone in America Latina.",
+      "image": "/images/our_lady_of_guadalupe.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe"
+    },
+    {
+      "name": "Finnian",
+      "feast_day": "12 dicembre",
+      "era": "VI secolo",
+      "patronage": [
+        "educatori",
+        "studenti",
+        "Irlanda"
+      ],
+      "legacy": "Padre dell'istruzione monastica irlandese",
+      "summary": "San Finnian fu un importante vescovo e maestro nell'Irlanda delle origini, noto per il suo ruolo nella fondazione di scuole monastiche. Fondò il celebre monastero di Clonard, che divenne un centro di apprendimento e diede origine a molti importanti santi irlandesi. La sua dedizione al proprio gregge e il suo impegno per l'educazione spirituale influenzarono notevolmente lo sviluppo del cristianesimo in Irlanda.",
+      "image": "/images/saint_finnian_or_finan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Finnian_of_Clonard"
+    },
+    {
+      "name": "Valery",
+      "feast_day": "12 dicembre",
+      "era": "VI secolo",
+      "patronage": null,
+      "legacy": "Taumaturgo e fondatore monastico",
+      "summary": "San Valery fu un monaco e abate del VI secolo, noto per la sua pietà e le sue opere miracolose. Studiò dapprima sotto un maestro e in seguito entrò nel monastero di Sant'Antonio, prima di trasferirsi a Luxeuil per vivere sotto la guida di san Colombano. Valery finì per fondare una comunità monastica nella terra selvaggia di Leuconaus, dove compì miracoli e divenne rinomato per la sua santità prima della morte, avvenuta nel 619.",
+      "image": "/images/saint_valery.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Valery"
+    }
+  ]
+}

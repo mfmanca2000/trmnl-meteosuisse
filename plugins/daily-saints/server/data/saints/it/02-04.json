@@ -1,0 +1,35 @@
+{
+  "date": "02-04",
+  "feast_day": "4 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Andrea Corsini",
+      "feast_day": "4 febbraio",
+      "era": "XIV secolo",
+      "patronage": [
+        "Firenze",
+        "vescovi",
+        "operatori di pace"
+      ],
+      "legacy": "Pacificatore e taumaturgo di Firenze",
+      "summary": "Andrea Corsini nacque a Firenze nel 1301 e condusse inizialmente una vita dissoluta prima di pentirsi e unirsi all'Ordine dei Carmelitani. Divenne noto come pacificatore e fu consacrato vescovo di Fiesole, dove si guadagnò la fama per il suo amore verso i poveri e le sue guarigioni miracolose. Canonizzato nel 1629, è celebrato per la sua devozione e il suo intervento nei momenti di conflitto.",
+      "image": "/images/saint_andrew_corsini.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Corsini"
+    },
+    {
+      "name": "Giovanna di Valois",
+      "feast_day": "4 febbraio",
+      "era": "Rinascimento",
+      "patronage": [
+        "donne",
+        "matrimoni difficili",
+        "malati"
+      ],
+      "legacy": "Una regina devota e fondatrice di un ordine religioso.",
+      "summary": "Giovanna di Valois fu una regina di Francia che affrontò notevoli prove personali, tra cui l'abbandono e il tradimento del marito, Luigi XII. Nonostante le difficoltà, dedicò la sua vita a Dio e fondò l'Ordine dell'Annunciazione, volto a onorare le virtù della Vergine Maria. Il suo lascito comprende il suo impegno nella preghiera e nel servizio, che ispirò molti durante la sua vita e oltre.",
+      "image": "/images/saint_jane_of_valois.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jane_de_Valois"
+    }
+  ]
+}

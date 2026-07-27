@@ -1,0 +1,35 @@
+{
+  "date": "02-04",
+  "feast_day": "4 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Andrés Corsini",
+      "feast_day": "4 de febrero",
+      "era": "Siglo XIV",
+      "patronage": [
+        "Florencia",
+        "obispos",
+        "pacificadores"
+      ],
+      "legacy": "Pacificador y hacedor de milagros de Florencia",
+      "summary": "Andrés Corsini nació en Florencia en 1301 y llevó inicialmente una vida disoluta antes de arrepentirse y unirse a la Orden Carmelita. Se hizo conocido como pacificador y fue consagrado obispo de Fiésole, donde se ganó una reputación por su amor a los pobres y sus curaciones milagrosas. Canonizado en 1629, es celebrado por su devoción y su intervención en tiempos de conflicto.",
+      "image": "/images/saint_andrew_corsini.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Corsini"
+    },
+    {
+      "name": "Juana de Valois",
+      "feast_day": "4 de febrero",
+      "era": "Renacimiento",
+      "patronage": [
+        "mujeres",
+        "matrimonios difíciles",
+        "los enfermos"
+      ],
+      "legacy": "Una reina devota y fundadora de una orden religiosa.",
+      "summary": "Juana de Valois fue una reina francesa que afrontó importantes pruebas personales, incluidos el abandono y la traición de su esposo, Luis XII. A pesar de las dificultades, dedicó su vida a Dios y fundó la Orden de la Anunciación, destinada a honrar las virtudes de la Virgen María. Su legado incluye su compromiso con la oración y el servicio, que inspiró a muchos durante su vida y después de ella.",
+      "image": "/images/saint_jane_of_valois.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jane_de_Valois"
+    }
+  ]
+}

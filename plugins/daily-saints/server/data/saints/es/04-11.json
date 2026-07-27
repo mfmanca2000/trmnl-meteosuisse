@@ -1,0 +1,35 @@
+{
+  "date": "04-11",
+  "feast_day": "11 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gemma Galgani",
+      "feast_day": "11 de abril",
+      "era": "Época moderna",
+      "patronage": [
+        "estudiantes",
+        "enfermos",
+        "pérdida de los padres"
+      ],
+      "legacy": "Un modelo de sufrimiento y devoción",
+      "summary": "Santa Gemma Galgani fue una virgen italiana conocida por su profunda espiritualidad y sus extraordinarias experiencias místicas. A pesar de una vida llena de sufrimiento y enfermedades físicas, permaneció devota a Cristo y buscó glorificarlo a través de sus pruebas. Se la recuerda por sus estigmas y su profundo amor por Jesús, que inspiró a muchos durante su vida y sigue haciéndolo hoy.",
+      "image": "/images/saint_gemma_galgani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gemma_Galgani"
+    },
+    {
+      "name": "León Magno",
+      "feast_day": "11 de abril",
+      "era": "Siglo V",
+      "patronage": [
+        "papas",
+        "teólogos",
+        "Roma"
+      ],
+      "legacy": "Defensor de la fe y de la unidad de la Iglesia",
+      "summary": "León Magno fue un papa que desempeñó un papel crucial en la definición de la doctrina de la Encarnación y en la lucha contra las herejías en una época tumultuosa para la Iglesia. Es conocido sobre todo por sus escritos teológicos y por negociar con éxito con Atila el Huno para librar a Roma de la destrucción. Su liderazgo y sus enseñanzas dejaron un impacto duradero en la Iglesia católica y en su comprensión de la naturaleza de Cristo.",
+      "image": "/images/saint_leo_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leo_the_Great"
+    }
+  ]
+}

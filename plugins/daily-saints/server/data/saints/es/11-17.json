@@ -1,0 +1,21 @@
+{
+  "date": "11-17",
+  "feast_day": "17 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregorio Taumaturgo",
+      "feast_day": "17 de noviembre",
+      "era": "siglo III",
+      "patronage": [
+        "los teólogos",
+        "los estudiantes",
+        "los conversos"
+      ],
+      "legacy": "Hacedor de milagros y defensor de la fe",
+      "summary": "San Gregorio Taumaturgo fue un obispo y confesor conocido por sus obras milagrosas y su dedicación a difundir el cristianismo en una región predominantemente pagana. Fue discípulo de Orígenes y se convirtió en una figura clave en la lucha contra las herejías, particularmente el arrianismo, a través de sus enseñanzas y la formulación de un credo. Su legado incluye una profunda devoción a la Virgen María y un compromiso con la oración y la soledad, que inspiró a muchos a abrazar la fe cristiana.",
+      "image": "/images/saint_gregory_thaumaturge.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus"
+    }
+  ]
+}

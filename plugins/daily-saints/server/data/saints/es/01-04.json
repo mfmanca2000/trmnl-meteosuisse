@@ -1,0 +1,31 @@
+{
+  "date": "01-04",
+  "feast_day": "4 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ángela de Foligno",
+      "feast_day": "4 de enero",
+      "era": "Medieval",
+      "patronage": [
+        "penitentes",
+        "enfermos",
+        "místicos"
+      ],
+      "legacy": "Inspiración para penitentes y místicos",
+      "summary": "Ángela de Foligno fue una mística del siglo XIII que experimentó una profunda conversión tras llevar una vida de pecado. Inspirada por los ideales de san Francisco de Asís, se convirtió en terciaria franciscana y vivió una vida de penitencia y caridad. Sus visiones y su profunda comunión con Dios la convirtieron en una figura importante de la tradición franciscana, ofreciendo esperanza e inspiración a los pecadores que buscaban la redención.",
+      "image": "/images/saint_angela_of_foligno.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Angela_of_Foligno"
+    },
+    {
+      "name": "Gregorio de Langres",
+      "feast_day": "4 de enero",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Un modelo de humildad y cuidado pastoral.",
+      "summary": "Gregorio de Langres fue un administrador y obispo cristiano conocido por su vida virtuosa y su dedicación a sus deberes pastorales. Tras renunciar a su cargo de conde de Autun, se convirtió en obispo y se destacó por su humildad, oración y esfuerzos por convertir a muchos al cristianismo. Sirvió como obispo durante treinta y tres años, fundando monasterios y dejando un impacto duradero en su diócesis antes de su muerte en el año 539.",
+      "image": "/images/saint_gregory_of_langres.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_of_Langres"
+    }
+  ]
+}

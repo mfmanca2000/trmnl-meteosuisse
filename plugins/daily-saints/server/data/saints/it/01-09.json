@@ -1,0 +1,21 @@
+{
+  "date": "01-09",
+  "feast_day": "9 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giuliano",
+      "feast_day": "9 gennaio",
+      "era": "IV secolo",
+      "patronage": [
+        "ospedali",
+        "malati",
+        "martiri"
+      ],
+      "legacy": "Patrono degli ospedali e dei malati",
+      "summary": "San Giuliano, noto come l'Ospitaliere, fu un martire vissuto in Egitto all'inizio del IV secolo. Insieme alla moglie Basilissa, dedicò la sua vita alla carità, trasformando la loro casa in un ospedale per i poveri e i malati. Dopo aver subito la persecuzione per la sua fede, Giuliano fu infine martirizzato nel 313, e la sua tomba divenne luogo di numerosi miracoli.",
+      "image": "/images/saint_julian_martyr_and_saint_basilissa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julian_the_Hospitaller"
+    }
+  ]
+}

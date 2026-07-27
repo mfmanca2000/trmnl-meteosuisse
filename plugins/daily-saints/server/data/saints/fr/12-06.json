@@ -1,0 +1,22 @@
+{
+  "date": "12-06",
+  "feast_day": "6 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nicolas",
+      "feast_day": "6 décembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "enfants",
+        "marins",
+        "voyageurs",
+        "prisonniers"
+      ],
+      "legacy": "Protecteur des enfants et des marins",
+      "summary": "Saint Nicolas, archevêque de Myre, est renommé pour sa générosité et ses actes miraculeux. Il consacra sa vie à aider les pauvres et à protéger les innocents, ressuscitant notamment trois enfants de la mort. Son héritage de protecteur des enfants et des marins a fait de lui une figure bien-aimée du christianisme, célébrée pour sa compassion et sa bonté.",
+      "image": "/images/saint_nicholas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Myra"
+    }
+  ]
+}

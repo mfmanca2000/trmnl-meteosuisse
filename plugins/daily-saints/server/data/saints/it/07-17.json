@@ -1,0 +1,21 @@
+{
+  "date": "07-17",
+  "feast_day": "17 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Alessio di Roma",
+      "feast_day": "17 luglio",
+      "era": "IV secolo",
+      "patronage": [
+        "i poveri",
+        "coppie sposate",
+        "coniugi abbandonati"
+      ],
+      "legacy": "Un modello di umiltà e devozione",
+      "summary": "Sant'Alessio di Roma era un nobile che rinunciò alla sua ricchezza e ai legami familiari per vivere una vita di povertà e devozione a Dio. Dopo aver sposato una nobildonna, la lasciò la notte stessa delle nozze per cercare la solitudine e servire i poveri, vivendo infine presso la soglia di una chiesa a Edessa. La sua vita di umiltà e sacrificio rimase sconosciuta alla famiglia fino a dopo la sua morte, quando essa scoprì la sua vera identità e i miracoli che lo circondavano.",
+      "image": "/images/saint_alexius_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alexius_of_Rome"
+    }
+  ]
+}

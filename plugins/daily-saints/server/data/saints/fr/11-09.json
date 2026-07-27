@@ -1,0 +1,58 @@
+{
+  "date": "11-09",
+  "feast_day": "9 novembre",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Sylvestre",
+      "feast_day": "9 novembre",
+      "era": "Christianisme primitif",
+      "patronage": [
+        "églises",
+        "baptême"
+      ],
+      "legacy": "Pionnier de la consécration des églises et de l'unité",
+      "summary": "Le pape Sylvestre Ier fut évêque de Rome de 314 à 335 apr. J.-C., durant une période charnière de l'Église primitive. Il est surtout connu pour son rôle dans l'établissement de la basilique du Latran, la première église construite à Rome, qui devint un centre majeur du culte chrétien. Son pontificat coïncida avec l'édit de Milan, qui accorda la liberté religieuse aux chrétiens de l'Empire romain.",
+      "image": "/images/dedication_of_the_lateran_basilica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_I"
+    },
+    {
+      "name": "Mathurin",
+      "feast_day": "9 novembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "maladie mentale",
+        "possession démoniaque",
+        "potiers"
+      ],
+      "legacy": "Patron de la santé mentale et de l'exorcisme",
+      "summary": "Mathurin était un prêtre et confesseur qui vécut à la fin du IVe siècle, connu pour ses capacités miraculeuses et son dévouement à la foi chrétienne. Il convertit sa famille du paganisme et devint une figure marquante de l'Église primitive, prêchant et accomplissant des miracles, en particulier à Rome. Son héritage inclut le patronage de ceux qui souffrent de maladie mentale et de possession démoniaque, avec un culte important à Larchant, en France, où ses reliques étaient vénérées.",
+      "image": "/images/saint_mathurin_of_larchant.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maturinus"
+    },
+    {
+      "name": "Théodore Tyron",
+      "feast_day": "9 novembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "soldats",
+        "martyrs",
+        "pompiers"
+      ],
+      "legacy": "Un symbole de foi et de courage inébranlables.",
+      "summary": "Saint Théodore Tyron était un martyr chrétien originaire d'Asie Mineure qui vécut au début du IVe siècle. Il était soldat et refusa de renier sa foi face à la persécution et à la torture, avant d'être finalement exécuté pour ses convictions. Sa constance et son courage face à la mort firent de lui une figure célébrée parmi les premiers chrétiens et un symbole de fidélité à Dieu.",
+      "image": "/images/saint_theodore_tyro.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodore_of_Amasea"
+    },
+    {
+      "name": "Benen",
+      "feast_day": "9 novembre",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Disciple bien-aimé et chantre de saint Patrick",
+      "summary": "Saint Benen, également connu sous le nom de Benignus, était un proche disciple de saint Patrick et joua un rôle important dans l'Église chrétienne primitive en Irlande. Il est célébré pour sa voix de chant mélodieuse, qu'il utilisait pour attirer de nombreuses personnes vers le christianisme. Après avoir servi comme évêque coadjuteur d'Armagh, il continua à évangéliser et à contribuer à l'Église jusqu'à sa mort en 467.",
+      "image": "/images/saint_benen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Benen"
+    }
+  ]
+}

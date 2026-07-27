@@ -1,0 +1,21 @@
+{
+  "date": "02-03",
+  "feast_day": "3 febbraio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Biagio",
+      "feast_day": "3 febbraio",
+      "era": "IV secolo",
+      "patronage": [
+        "malattie della gola",
+        "medici",
+        "animali"
+      ],
+      "legacy": "Protettore contro i disturbi e le malattie della gola.",
+      "summary": "San Biagio fu un vescovo e martire noto per le sue capacità di guarigione e la sua profonda spiritualità. Dopo essere diventato vescovo di Sebaste, in Armenia, dedicò la sua vita al servizio di Dio e all'aiuto dei bisognosi, compiendo spesso miracoli. Fu infine martirizzato durante una persecuzione, ed è particolarmente invocato per la protezione contro i disturbi della gola.",
+      "image": "/images/saint_blaise.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Blaise_of_Sebaste"
+    }
+  ]
+}

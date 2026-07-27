@@ -1,0 +1,27 @@
+{
+  "date": "09-13",
+  "feast_day": "13 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maurille",
+      "feast_day": "13 septembre",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Évêque et thaumaturge d'Angers",
+      "summary": "Saint Maurille était un évêque d'Angers qui joua un rôle important dans l'histoire ancienne de l'Église en France. Il était connu pour son zèle à convertir les païens et pour sa profonde compassion, qui le poussa à demander la résurrection d'un enfant mort pendant une messe. Son héritage comprend la fondation d'une église et d'un monastère qui devinrent un centre de vie chrétienne dans la région.",
+      "image": "/images/saint_maurilius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maurilius_of_Angers"
+    },
+    {
+      "name": "Euloge d'Alexandrie",
+      "feast_day": "13 septembre",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de l'orthodoxie et de la foi",
+      "summary": "Saint Euloge d'Alexandrie était un moine syrien qui devint patriarche d'Alexandrie à la fin du VIe siècle. Il était connu pour son engagement envers l'orthodoxie et ses efforts contre les hérésies, en particulier l'hérésie eutychienne qui troublait alors l'Église. Euloge entretint une amitié étroite avec saint Grégoire le Grand et composa de nombreux ouvrages défendant la foi avant sa mort en 606.",
+      "image": "/images/saint_eulogius_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulogius_of_Alexandria"
+    }
+  ]
+}

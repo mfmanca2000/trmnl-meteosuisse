@@ -1,0 +1,27 @@
+{
+  "date": "03-05",
+  "feast_day": "5 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean-Joseph de la Croix",
+      "feast_day": "5 mars",
+      "era": "XVIIIe siècle",
+      "patronage": null,
+      "legacy": "Modèle d'humilité et de ferveur monastique",
+      "summary": "Jean-Joseph de la Croix était un prêtre franciscain et confesseur connu pour sa profonde spiritualité et son engagement envers la vie monastique. Il fonda plusieurs monastères en Italie et fut reconnu pour son humilité, sa discipline et ses dons surnaturels, notamment la prophétie et les miracles. Canonisé en 1839, il est resté célèbre pour son dévouement aux principes de la contemplation et de la pénitence au sein de l'Ordre franciscain.",
+      "image": "/images/saint_john_joseph_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Joseph_of_the_Cross"
+    },
+    {
+      "name": "Adrien et Eubule",
+      "feast_day": "5 mars",
+      "era": "Début du IVe siècle",
+      "patronage": null,
+      "legacy": "Martyrs d'une foi et d'un courage inébranlables",
+      "summary": "Les saints Adrien et Eubule furent des martyrs qui souffrirent durant la persécution des chrétiens sous l'empereur Dioclétien. Ils furent torturés et finalement tués pour avoir refusé de renier leur foi et de sacrifier aux idoles. Leur fermeté face à la persécution illustre l'appel chrétien à porter sa croix et à demeurer fidèle au Christ.",
+      "image": "/images/saints_adrian_and_eubulus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Adrian_of_Batanea"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "03-10",
+  "feast_day": "10 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Quarante Martyrs de Sébaste",
+      "feast_day": "10 mars",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Martyre et foi inébranlable dans le Christ",
+      "summary": "Les Quarante Martyrs de Sébaste étaient des soldats qui refusèrent de renier leur foi chrétienne au début du IVe siècle. Ils endurèrent une exécution brutale en étant laissés à geler sur un étang, fermes dans leur croyance et remplis de joie à la perspective du martyre. Leur engagement inébranlable inspira d'autres personnes, dont un garde qui se joignit à eux dans la foi juste avant leur mort.",
+      "image": "/images/the_forty_martyrs_of_sebaste.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-19",
+  "feast_day": "19 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincenzo de' Paoli",
+      "feast_day": "19 luglio",
+      "era": "XVII secolo",
+      "patronage": [
+        "carità",
+        "volontari",
+        "personale ospedaliero"
+      ],
+      "legacy": "Campione dei poveri e degli emarginati",
+      "summary": "Vincenzo de' Paoli fu un sacerdote francese noto per il suo profondo impegno al servizio dei poveri e degli emarginati. Fondò la Congregazione della Missione e le Figlie della Carità, che continuano ancora oggi a servire chi è nel bisogno. La sua vita esemplificò il richiamo cristiano alla carità e all'umiltà, rendendolo una figura amata nel cattolicesimo.",
+      "image": "/images/saint_vincent_de_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_de_Paul"
+    }
+  ]
+}

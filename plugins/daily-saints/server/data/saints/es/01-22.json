@@ -1,0 +1,21 @@
+{
+  "date": "01-22",
+  "feast_day": "22 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vicente de Zaragoza",
+      "feast_day": "22 de enero",
+      "era": "Siglo IV",
+      "patronage": [
+        "viticultores",
+        "vinicultores",
+        "Sociedad de San Vicente de Paúl"
+      ],
+      "legacy": "Martirio y fe inquebrantable en Cristo",
+      "summary": "San Vicente de Zaragoza fue un diácono y mártir que sirvió en la Iglesia primitiva durante la persecución de Diocleciano. Era conocido por su fe inquebrantable y su valentía frente a brutales torturas, muriendo finalmente por sus convicciones. Sus reliquias se conservan en Lisboa, y es venerado como protector de los fieles.",
+      "image": "/images/saint_vincent_of_saragossa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_of_Saragossa"
+    }
+  ]
+}

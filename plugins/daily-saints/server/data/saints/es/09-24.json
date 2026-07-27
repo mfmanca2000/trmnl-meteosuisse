@@ -1,0 +1,21 @@
+{
+  "date": "09-24",
+  "feast_day": "24 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pedro Nolasco",
+      "feast_day": "24 de septiembre",
+      "era": "Medieval",
+      "patronage": [
+        "cautivos",
+        "prisioneros",
+        "quienes necesitan redención"
+      ],
+      "legacy": "Campeón de los cautivos y la misericordia",
+      "summary": "Pedro Nolasco fue un santo español y el fundador de la Orden de Nuestra Señora de la Merced, establecida para redimir a los cautivos cristianos de la esclavitud musulmana. Dedicó su vida a las obras de caridad e hizo voto de castidad, poniendo su fortuna al servicio de la Iglesia. Sus esfuerzos fueron reconocidos por el rey Jaime I de Aragón, y es recordado por su profunda fe y su compromiso con la liberación de los oprimidos.",
+      "image": "/images/our_lady_of_ransom_or_of_mercy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nolasco"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "03-19",
+  "feast_day": "19 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giuseppe",
+      "feast_day": "19 marzo",
+      "era": "I secolo",
+      "patronage": [
+        "i lavoratori",
+        "i padri",
+        "le famiglie",
+        "la Chiesa universale"
+      ],
+      "legacy": "Modello di paternità e vita familiare",
+      "summary": "San Giuseppe è noto come lo sposo della Vergine Maria e il padre terreno di Gesù Cristo. È celebrato per la sua obbedienza alla volontà di Dio, dimostrata dall'accettazione del suo ruolo di custode della Sacra Famiglia. Venerato come modello per i padri e le famiglie, è invocato per una morte serena ed è il santo patrono dei lavoratori e della Chiesa universale.",
+      "image": "/images/saint_joseph.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Nazareth"
+    }
+  ]
+}

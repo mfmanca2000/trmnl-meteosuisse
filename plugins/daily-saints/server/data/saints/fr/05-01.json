@@ -1,0 +1,22 @@
+{
+  "date": "05-01",
+  "feast_day": "1 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Joseph",
+      "feast_day": "1 mai",
+      "era": "Ier siècle",
+      "patronage": [
+        "travailleurs",
+        "pères",
+        "charpentiers",
+        "familles"
+      ],
+      "legacy": "Patron des travailleurs et des familles",
+      "summary": "Saint Joseph est reconnu comme le père terrestre de Jésus-Christ et l'époux de la Vierge Marie. Il est célébré pour son humilité, son obéissance et son dévouement envers sa famille, incarnant les vertus de foi et de droiture. Sa fête, instituée par le pape Pie XII, honore son rôle de saint patron des travailleurs et des familles.",
+      "image": "/images/saint_joseph_the_worker.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Nazareth"
+    }
+  ]
+}

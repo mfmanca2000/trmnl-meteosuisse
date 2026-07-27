@@ -1,0 +1,22 @@
+{
+  "date": "09-29",
+  "feast_day": "29 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Michel archange",
+      "feast_day": "29 septembre",
+      "era": "Biblique",
+      "patronage": [
+        "militaires",
+        "policiers",
+        "ambulanciers",
+        "malades"
+      ],
+      "legacy": "Protecteur et chef des armées célestes",
+      "summary": "Michel archange est vénéré comme le chef des armées célestes et le protecteur des fidèles. Il est connu pour son rôle dans le combat spirituel, notamment pour avoir vaincu Lucifer et défendu le peuple de Dieu tout au long de l'histoire. L'Église l'honore comme gardien et intercesseur, en particulier en temps de conflit et lors du jugement dernier.",
+      "image": "/images/saint_michael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_the_Archangel"
+    }
+  ]
+}

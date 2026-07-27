@@ -1,0 +1,58 @@
+{
+  "date": "01-12",
+  "feast_day": "12 gennaio",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Margherita Bourgeoys",
+      "feast_day": "12 gennaio",
+      "era": "XVII secolo",
+      "patronage": [
+        "insegnanti",
+        "Canada",
+        "istruzione"
+      ],
+      "legacy": "Pioniera dell'istruzione in Canada",
+      "summary": "Margherita Bourgeoys fu una religiosa francese e fondatrice della Congregazione di Notre-Dame, dedicata all'istruzione dei bambini in Canada. Arrivò in Nuova Francia nel 1653 e fondò la prima scuola di Montreal, contribuendo in modo significativo all'istruzione e al benessere sociale della comunità. Il suo lascito include l'istituzione di numerose scuole e la sua dedizione alla guida spirituale e pratica di giovani donne e famiglie.",
+      "image": "/images/saint_margaret_bourgeoys.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Bourgeoys"
+    },
+    {
+      "name": "Aelredo",
+      "feast_day": "12 gennaio",
+      "era": "Medioevo",
+      "patronage": [
+        "amicizia",
+        "spiritualità"
+      ],
+      "legacy": "Campione dell'amore e dell'amicizia spirituale",
+      "summary": "Sant'Aelredo fu un abate cistercense noto per i suoi profondi insegnamenti sull'amore e sull'amicizia. Dedicò la sua vita al monachesimo, guidando una comunità di monaci e scrivendo opere influenti sulla spiritualità. Il suo lascito sottolinea l'importanza dell'amore divino e il potere trasformante dell'amicizia nella ricerca di Dio.",
+      "image": "/images/saint_aelred_or_alfred.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aelred_of_Rievaulx"
+    },
+    {
+      "name": "Arcadio",
+      "feast_day": "12 gennaio",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Coraggioso martire della Chiesa primitiva",
+      "summary": "Sant'Arcadio fu un martire cristiano originario dell'Africa che soffrì durante una feroce persecuzione nel III secolo. Rifiutò coraggiosamente di sacrificare agli dei pagani, subendo invece brutali torture. La sua fede incrollabile e il suo sacrificio finale ispirarono molti cristiani a rimanere fedeli a Dio di fronte alle avversità.",
+      "image": "/images/saint_arcadius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Arcadius"
+    },
+    {
+      "name": "Benedetto Biscop",
+      "feast_day": "12 gennaio",
+      "era": "VII secolo",
+      "patronage": [
+        "biblioteche",
+        "artisti",
+        "monaci"
+      ],
+      "legacy": "Pioniere dell'istruzione monastica e dell'arte in Inghilterra",
+      "summary": "Benedetto Biscop fu un abate anglosassone e una figura chiave nell'istituzione del monachesimo in Inghilterra nel VII secolo. Compì diversi pellegrinaggi a Roma, portando con sé libri, opere d'arte e conoscenze architettoniche che influenzarono notevolmente la vita monastica inglese. La sua dedizione all'istruzione e alle arti contribuì a gettare le basi per le future comunità monastiche in Northumbria.",
+      "image": "/images/saint_benedict_biscop.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Biscop"
+    }
+  ]
+}

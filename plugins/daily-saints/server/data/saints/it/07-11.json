@@ -1,0 +1,31 @@
+{
+  "date": "07-11",
+  "feast_day": "11 luglio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pio I",
+      "feast_day": "11 luglio",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede contro l'eresia",
+      "summary": "Pio I fu il nono papa della Chiesa cattolica, che governò dal 142 al 157 d.C. È noto per i suoi sforzi nel contrastare l'eresia e per aver stabilito la celebrazione della Pasqua di domenica. Pio I fu martirizzato per la sua fede, divenendo un simbolo di fermezza nella Chiesa primitiva.",
+      "image": "/images/saint_pius_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_I"
+    },
+    {
+      "name": "Giacomo di Nisibi",
+      "feast_day": "11 luglio",
+      "era": "IV secolo",
+      "patronage": [
+        "Nisibi",
+        "profezia",
+        "miracoli"
+      ],
+      "legacy": "Protettore di Nisibi e taumaturgo",
+      "summary": "Giacomo di Nisibi fu un importante vescovo e dottore della Chiesa siriaca, noto per la sua profonda spiritualità e il suo impegno nella preghiera. È celebrato per i suoi interventi miracolosi, tra cui la protezione della sua città durante un assedio persiano ottenuta attraverso la preghiera divina. La sua eredità perdura come simbolo di fede e resilienza di fronte alle avversità.",
+      "image": "/images/saint_james_of_nisibis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_of_Nisibis"
+    }
+  ]
+}

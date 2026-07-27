@@ -1,0 +1,21 @@
+{
+  "date": "11-08",
+  "feast_day": "8 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Godefroy",
+      "feast_day": "8 novembre",
+      "era": "Médiéval",
+      "patronage": [
+        "hôpitaux",
+        "les malades",
+        "pèlerins"
+      ],
+      "legacy": "Chef compatissant et faiseur de miracles",
+      "summary": "Saint Godefroy fut évêque d'Amiens, connu pour sa profonde compassion envers les pauvres et les malades. Il devint abbé de Nogent à un jeune âge et revitalisa le monastère, faisant preuve d'un fort leadership et d'un grand dévouement envers sa communauté. Sa vie fut marquée par des miracles et un engagement à servir ceux qui étaient dans le besoin, ce qui conduisit à sa canonisation après sa mort en 1115.",
+      "image": "/images/saint_godfrey_or_geoffroy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Godfrey_of_Amiens"
+    }
+  ]
+}

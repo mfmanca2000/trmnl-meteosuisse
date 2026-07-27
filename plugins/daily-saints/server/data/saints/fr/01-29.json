@@ -1,0 +1,22 @@
+{
+  "date": "01-29",
+  "feast_day": "29 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "François de Sales",
+      "feast_day": "29 janvier",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "journalistes",
+        "écrivains",
+        "sourds",
+        "vendeurs"
+      ],
+      "legacy": "Champion de la douceur et de la direction spirituelle",
+      "summary": "Saint François de Sales était un évêque du XVIIe siècle connu pour son approche douce de la spiritualité et ses efforts pour convertir les calvinistes de la région du Chablais. Il cofonda l'Ordre de la Visitation avec sainte Jeanne de Chantal et mit l'accent sur l'importance de la douceur et de l'humilité. Ses écrits, en particulier « Introduction à la vie dévote », ont eu un impact durable sur la spiritualité catholique.",
+      "image": "/images/saint_francis_de_sales.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_de_Sales"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "07-28",
+  "feast_day": "28 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nazario",
+      "feast_day": "28 luglio",
+      "era": "I secolo",
+      "patronage": null,
+      "legacy": "Martirio per la fede e la virtù",
+      "summary": "San Nazario fu un martire cristiano del primo secolo, noto per la sua zelante predicazione del Vangelo. Fu battezzato da san Lino e viaggiò a lungo per diffondere il cristianesimo, affrontando spesso la persecuzione. Insieme al suo discepolo Celso, fu infine arrestato e decapitato per essersi rifiutato di rinnegare la propria fede sotto il regno di Nerone.",
+      "image": "/images/saints_nazarius_and_celsus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nazarius"
+    }
+  ]
+}

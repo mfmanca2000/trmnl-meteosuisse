@@ -1,0 +1,36 @@
+{
+  "date": "11-21",
+  "feast_day": "21 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria",
+      "feast_day": "21 novembre",
+      "era": "I secolo",
+      "patronage": [
+        "madri",
+        "vergini",
+        "i poveri",
+        "tutta l'umanità"
+      ],
+      "legacy": "Modello di fede e purezza",
+      "summary": "Maria, la madre di Gesù, è venerata nel cristianesimo come Madre di Dio e modello di virtù. Secondo la tradizione, fu presentata al Tempio in giovane età, dove dedicò la sua vita alla preghiera e al servizio. La sua unica santità e il suo ruolo nella storia della salvezza ne fanno una figura centrale della devozione e della teologia cristiana.",
+      "image": "/images/the_presentation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Colombano",
+      "feast_day": "21 novembre",
+      "era": "VI secolo",
+      "patronage": [
+        "monaci",
+        "missionari",
+        "motociclisti"
+      ],
+      "legacy": "Pioniere del monachesimo in Europa",
+      "summary": "Colombano fu un abate e missionario irlandese che svolse un ruolo importante nella diffusione del cristianesimo in Europa durante l'alto Medioevo. Fondò diversi monasteri, in particolare Luxeuil in Francia e Bobbio in Italia, che divennero centri di sapere e spiritualità. Noto per la sua ferma difesa della fede e la sua integrità morale, affrontò l'opposizione di potenti nobili ma rimase fedele alla sua missione fino alla sua morte nel 615.",
+      "image": "/images/saint_columbanus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Columbanus"
+    }
+  ]
+}

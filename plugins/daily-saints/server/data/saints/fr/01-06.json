@@ -1,0 +1,17 @@
+{
+  "date": "01-06",
+  "feast_day": "6 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Épiphanie",
+      "feast_day": "6 janvier",
+      "era": null,
+      "patronage": null,
+      "legacy": "Célébration des manifestations divines du Christ",
+      "summary": "L'Épiphanie, également connue sous le nom de Théophanie, est une fête chrétienne qui célèbre la révélation de Dieu incarné en Jésus-Christ. Elle commémore la visite des Mages à l'Enfant Jésus, son baptême dans le Jourdain et son premier miracle aux noces de Cana. Cette fête met en lumière la manifestation du Christ au monde et la reconnaissance de sa nature divine, tant par les gentils que par les fidèles.",
+      "image": "/images/the_epiphany_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Epiphany_(holiday)"
+    }
+  ]
+}

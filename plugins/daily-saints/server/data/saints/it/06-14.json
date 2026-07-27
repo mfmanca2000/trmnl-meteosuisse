@@ -1,0 +1,21 @@
+{
+  "date": "06-14",
+  "feast_day": "14 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Basilio Magno",
+      "feast_day": "14 giugno",
+      "era": "IV secolo",
+      "patronage": [
+        "operatori ospedalieri",
+        "monaci",
+        "birrai"
+      ],
+      "legacy": "Padre del monachesimo in Oriente",
+      "summary": "Basilio Magno fu un importante vescovo e teologo della Chiesa cristiana delle origini, noto per il suo ruolo nella lotta contro l'arianesimo e nella promozione del monachesimo. Fondò diversi monasteri e un vasto ospedale a Cesarea, stabilendo un modello di carità cristiana e vita comunitaria. I suoi scritti e i suoi insegnamenti hanno avuto un impatto duraturo sulla spiritualità e sulla liturgia cristiane, valendogli il titolo di Dottore della Chiesa.",
+      "image": "/images/saint_basil_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Basil_of_Caesarea"
+    }
+  ]
+}

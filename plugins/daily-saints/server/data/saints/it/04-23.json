@@ -1,0 +1,37 @@
+{
+  "date": "04-23",
+  "feast_day": "23 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pietro Chanel",
+      "feast_day": "23 aprile",
+      "era": "XIX secolo",
+      "patronage": [
+        "Oceania",
+        "missionari",
+        "marinai"
+      ],
+      "legacy": "Primo martire dell'Oceania",
+      "summary": "Pietro Chanel fu un missionario e martire francese che dedicò la sua vita alla diffusione del cristianesimo in Oceania. Affrontò la persecuzione per la sua fede mentre lavorava per convertire il popolo di Futuna, dove fu infine ucciso. Canonizzato nel 1954, è riconosciuto come il primo martire dell'Oceania ed è celebrato per il suo incrollabile impegno nella sua missione.",
+      "image": "/images/saint_peter_chanel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Chanel"
+    },
+    {
+      "name": "Giorgio",
+      "feast_day": "23 aprile",
+      "era": "III secolo",
+      "patronage": [
+        "soldati",
+        "scout",
+        "agricoltori",
+        "oche",
+        "Inghilterra"
+      ],
+      "legacy": "Simbolo di coraggio e fermezza cristiana",
+      "summary": "San Giorgio fu un martire cristiano e soldato nato in Palestina verso la fine del III secolo. Sfidò notoriamente l'imperatore romano Diocleziano rimproverandolo apertamente per la persecuzione dei cristiani, il che portò infine alla sua esecuzione. Il suo lascito come simbolo di coraggio e fede lo ha reso un amato santo patrono in varie culture e regioni.",
+      "image": "/images/saint_george.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/George_of_Lydda"
+    }
+  ]
+}

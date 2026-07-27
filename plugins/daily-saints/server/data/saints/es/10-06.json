@@ -1,0 +1,21 @@
+{
+  "date": "10-06",
+  "feast_day": "6 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bruno",
+      "feast_day": "6 de octubre",
+      "era": "Medieval",
+      "patronage": [
+        "monjes",
+        "estudiantes",
+        "la Orden Cartuja"
+      ],
+      "legacy": "Fundador de la Orden Cartuja",
+      "summary": "San Bruno fue el fundador de la Orden Cartuja, conocido por su compromiso con una vida de contemplación y soledad. Nacido en Colonia hacia 1030, se convirtió en canónigo y se opuso a la corrupción de la Iglesia antes de retirarse a la naturaleza salvaje con algunos compañeros para llevar una vida monástica. Murió en Calabria en 1101, dejando el legado de una profunda devoción espiritual y la fundación de una comunidad monástica única.",
+      "image": "/images/saint_bruno.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+    }
+  ]
+}

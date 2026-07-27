@@ -1,0 +1,27 @@
+{
+  "date": "03-05",
+  "feast_day": "5 de marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan José de la Cruz",
+      "feast_day": "5 de marzo",
+      "era": "siglo XVIII",
+      "patronage": null,
+      "legacy": "Modelo de humildad y fervor monástico",
+      "summary": "Juan José de la Cruz fue un sacerdote franciscano y confesor conocido por su profunda espiritualidad y su compromiso con la vida monástica. Fundó varios monasterios en Italia y fue reconocido por su humildad, disciplina y dones sobrenaturales, incluidas la profecía y los milagros. Canonizado en 1839, es recordado por su dedicación a los principios de la contemplación y la penitencia dentro de la Orden Franciscana.",
+      "image": "/images/saint_john_joseph_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Joseph_of_the_Cross"
+    },
+    {
+      "name": "Adrián y Eubulo",
+      "feast_day": "5 de marzo",
+      "era": "principios del siglo IV",
+      "patronage": null,
+      "legacy": "Mártires de fe y valor inquebrantables",
+      "summary": "Los santos Adrián y Eubulo fueron mártires que sufrieron durante la persecución de los cristianos bajo el emperador Diocleciano. Fueron torturados y finalmente ejecutados por negarse a renunciar a su fe y a sacrificar a los ídolos. Su firmeza frente a la persecución ejemplifica el llamado cristiano a llevar la propia cruz y permanecer fieles a Cristo.",
+      "image": "/images/saints_adrian_and_eubulus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Adrian_of_Batanea"
+    }
+  ]
+}

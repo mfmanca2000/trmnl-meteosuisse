@@ -1,0 +1,22 @@
+{
+  "date": "12-07",
+  "feast_day": "7 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ambrogio",
+      "feast_day": "7 dicembre",
+      "era": "IV secolo",
+      "patronage": [
+        "apicoltori",
+        "cerai",
+        "lo studio",
+        "la città di Milano"
+      ],
+      "legacy": "Difensore della fede e dottore della Chiesa",
+      "summary": "Ambrogio fu vescovo di Milano e dottore della Chiesa, noto per la profondità della sua teologia e per la sua cura pastorale. Svolse un ruolo determinante nella conversione di sant'Agostino e fu un fermo difensore della fede contro l'eresia. Il suo lascito comprende la sua eloquente predicazione, i suoi contributi liturgici e la sua influenza sullo sviluppo della dottrina cristiana.",
+      "image": "/images/saint_ambrose.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ambrose_of_Milan"
+    }
+  ]
+}

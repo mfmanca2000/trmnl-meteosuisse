@@ -1,0 +1,31 @@
+{
+  "date": "06-01",
+  "feast_day": "1 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Angèle Merici",
+      "feast_day": "1 juin",
+      "era": "Renaissance",
+      "patronage": [
+        "éducation",
+        "jeunes filles",
+        "orphelins"
+      ],
+      "legacy": "Pionnière de l'éducation des femmes et de la spiritualité",
+      "summary": "Angèle Merici était une vierge et fondatrice italienne née en 1474, connue pour sa profonde piété et son engagement à éduquer les jeunes filles dans la foi chrétienne. Après avoir vécu une vision, elle fonda l'Ordre des Ursulines en 1535, consacré à l'éducation et à la formation spirituelle des femmes. Elle fut canonisée en 1807 et est célébrée pour ses contributions à l'Église et pour avoir favorisé l'émancipation des femmes par l'éducation.",
+      "image": "/images/saint_angela_merici.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Angela_Merici"
+    },
+    {
+      "name": "Pamphile",
+      "feast_day": "1 juin",
+      "era": "Début du 4e siècle",
+      "patronage": null,
+      "legacy": "Érudition et martyre dans la foi",
+      "summary": "Saint Pamphile était un érudit et martyr originaire de Béryte, connu pour son dévouement à l'étude des Saintes Écritures et pour avoir établi une école de littérature sacrée à Césarée. Il rassembla une vaste bibliothèque pour l'Église et était réputé pour son humilité et son mode de vie austère. Pamphile fut arrêté durant la persécution des chrétiens sous Maximin Daïa et finalement martyrisé pour sa foi, laissant un héritage de constance et de dévotion.",
+      "image": "/images/saint_pamphilus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pamphilus_of_Caesarea"
+    }
+  ]
+}

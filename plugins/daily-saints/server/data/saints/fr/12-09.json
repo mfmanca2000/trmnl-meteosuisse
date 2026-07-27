@@ -1,0 +1,48 @@
+{
+  "date": "12-09",
+  "feast_day": "9 décembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Pierre Fourier",
+      "feast_day": "9 décembre",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "éducateurs",
+        "écoliers",
+        "éducation des femmes"
+      ],
+      "legacy": "Pionnier de l'éducation des femmes en France.",
+      "summary": "Pierre Fourier était un prêtre et réformateur français connu pour son dévouement à l'éducation et à la formation spirituelle des jeunes filles. Il fonda les Chanoinesses de Notre-Dame, un ordre consacré à l'enseignement et à la formation de la vertu chez les filles. Ses efforts revitalisèrent la ferveur religieuse dans sa paroisse et établirent un modèle d'éducation catholique qui influença les générations futures.",
+      "image": "/images/saint_peter_fourier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Fourier"
+    },
+    {
+      "name": "Léocadie",
+      "feast_day": "9 décembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "Tolède",
+        "vierges",
+        "martyrs"
+      ],
+      "legacy": "Patronne de Tolède et des martyrs chrétiens",
+      "summary": "Sainte Léocadie de Tolède était une vierge et martyre chrétienne qui vécut au début du IVe siècle. Elle fut arrêtée et torturée pour sa foi sous le gouverneur romain Dacien, et mourut finalement en prison. Son héritage perdure, car elle est vénérée comme la principale patronne de Tolède, où ses reliques sont honorées.",
+      "image": "/images/saint_leocadia_of_toledo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leocadia_of_Toledo"
+    },
+    {
+      "name": "Juan Diego",
+      "feast_day": "9 décembre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "peuples autochtones",
+        "Mexique"
+      ],
+      "legacy": "Symbole de foi pour les peuples autochtones",
+      "summary": "Juan Diego est le premier saint natif des Amériques, canonisé en 2002. Il est surtout connu pour ses visions de la Vierge Marie, qui lui apparut en 1531 et lui demanda de faire construire une église en son honneur sur la colline de Tepeyac, au Mexique. Sa tilma, qui portait l'image de la Vierge de Guadalupe, devint un symbole de foi et de dévotion pour des millions de personnes.",
+      "image": "/images/saint_juan_diego.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Juan_Diego"
+    }
+  ]
+}

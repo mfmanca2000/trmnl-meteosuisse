@@ -1,0 +1,31 @@
+{
+  "date": "09-20",
+  "feast_day": "20 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maximin Giraud",
+      "feast_day": "20 septembre",
+      "era": "XIXe siècle",
+      "patronage": null,
+      "legacy": "Visionnaire de l'apparition de La Salette",
+      "summary": "Maximin Giraud était un jeune berger français qui, avec Mélanie Calvat, fut témoin de l'apparition de la Vierge Marie à La Salette en 1846. L'apparition transmit un message de repentance et avertit de châtiments imminents si le peuple ne revenait pas à la foi. Giraud consacra sa vie à faire connaître le message de La Salette et resta ferme dans sa foi malgré le scepticisme et les épreuves qu'il rencontra.",
+      "image": "/images/blessed_maximin_giraud.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maximin_Giraud"
+    },
+    {
+      "name": "Eustache",
+      "feast_day": "20 septembre",
+      "era": "IIe siècle",
+      "patronage": [
+        "chasseurs",
+        "contre l'hésitation",
+        "famille"
+      ],
+      "legacy": "Un symbole de foi et d'unité familiale",
+      "summary": "Saint Eustache, à l'origine nommé Placide, était un officier romain qui se convertit au christianisme après une vision miraculeuse impliquant un cerf et une croix. Il endura d'importantes épreuves, notamment la perte de sa famille et de ses biens, tout en demeurant ferme dans sa foi. Finalement, lui et sa famille furent martyrisés pour avoir refusé de sacrifier aux dieux païens, et leur histoire inspira beaucoup de gens à croire au Christ.",
+      "image": "/images/saint_eustachius_and_his_family.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eustace"
+    }
+  ]
+}

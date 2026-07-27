@@ -1,0 +1,20 @@
+{
+  "date": "05-17",
+  "feast_day": "17 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pasquale Baylon",
+      "feast_day": "17 maggio",
+      "era": "XVI secolo",
+      "patronage": [
+        "congressi eucaristici",
+        "confraternite"
+      ],
+      "legacy": "Devozione all'Eucaristia e umiltà",
+      "summary": "San Pasquale Baylon fu un frate laico francescano noto per la sua profonda devozione al Santissimo Sacramento. Dedicò la sua vita al servizio di Dio e all'evangelizzazione degli altri, pur essendo privo di istruzione e umile nei suoi compiti. Canonizzato nel 1690, è riconosciuto come patrono dei congressi eucaristici e delle confraternite.",
+      "image": "/images/saint_paschal_baylon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paschal_Bayl%C3%B3n"
+    }
+  ]
+}

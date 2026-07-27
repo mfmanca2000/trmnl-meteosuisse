@@ -1,0 +1,22 @@
+{
+  "date": "03-19",
+  "feast_day": "19 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "José",
+      "feast_day": "19 de marzo",
+      "era": "siglo I",
+      "patronage": [
+        "los trabajadores",
+        "los padres",
+        "las familias",
+        "la Iglesia universal"
+      ],
+      "legacy": "Modelo de paternidad y vida familiar",
+      "summary": "San José es conocido como el esposo de la Virgen María y el padre terrenal de Jesucristo. Es celebrado por su obediencia a la voluntad de Dios, ejemplificada por su aceptación de su papel como guardián de la Sagrada Familia. Venerado como modelo para los padres y las familias, es invocado para una muerte feliz y es el santo patrón de los trabajadores y de la Iglesia universal.",
+      "image": "/images/saint_joseph.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Nazareth"
+    }
+  ]
+}

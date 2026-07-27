@@ -1,0 +1,31 @@
+{
+  "date": "10-03",
+  "feast_day": "3 octobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Thérèse de Lisieux",
+      "feast_day": "3 octobre",
+      "era": "Époque moderne",
+      "patronage": [
+        "missions",
+        "fleuristes",
+        "malades"
+      ],
+      "legacy": "Un modèle de simplicité et d'amour de Dieu.",
+      "summary": "Thérèse de Lisieux, également connue sous le nom de la Petite Fleur, était une carmélite française dont la spiritualité simple mais profonde mettait l'accent sur l'amour et la confiance en Dieu. Elle est surtout connue pour son autobiographie, « Histoire d'une âme », qui expose sa « petite voie » d'enfance spirituelle et son désir de servir Dieu par de petits actes d'amour. Canonisée en 1925, elle est aujourd'hui reconnue comme Docteur de l'Église et patronne des missions.",
+      "image": "/images/saint_therese_of_the_child_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux"
+    },
+    {
+      "name": "Gérard",
+      "feast_day": "3 octobre",
+      "era": "Xe siècle",
+      "patronage": null,
+      "legacy": "Pionnier du monachisme bénédictin en Belgique",
+      "summary": "Gérard naquit dans une famille noble du comté de Namur, en Belgique, vers la fin du IXe siècle. Après une période de service militaire, il se consacra à la vie monastique, fondant l'abbaye de Brogne et instaurant une discipline monastique rigoureuse dans plusieurs abbayes. Il est resté dans les mémoires pour sa piété, son sens du commandement et son engagement envers la vie bénédictine jusqu'à sa mort en 959.",
+      "image": "/images/saint_gerard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gerard_of_Brogne"
+    }
+  ]
+}

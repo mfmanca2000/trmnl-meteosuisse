@@ -1,0 +1,30 @@
+{
+  "date": "09-11",
+  "feast_day": "11 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean-Gabriel Perboyre",
+      "feast_day": "11 septembre",
+      "era": "XIXe siècle",
+      "patronage": [
+        "missionnaires",
+        "martyrs"
+      ],
+      "legacy": "Un martyr de la foi et de la dévotion",
+      "summary": "Jean-Gabriel Perboyre était un prêtre lazariste français et martyr connu pour sa profonde dévotion au Saint-Sacrement. Il consacra sa vie au travail missionnaire en Chine, où il fut confronté à une sévère persécution et donna finalement sa vie pour sa foi. Son engagement inébranlable envers Dieu et sa réponse courageuse à la torture ont fait de lui une figure vénérée de l'Église catholique.",
+      "image": "/images/saint_john_gabriel_perboyre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Gabriel_Perboyre"
+    },
+    {
+      "name": "Paphnuce",
+      "feast_day": "11 septembre",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi catholique",
+      "summary": "Saint Paphnuce était un évêque et confesseur égyptien qui vécut durant la seconde moitié du IVe siècle. Il était connu pour sa défense acharnée de la foi catholique contre l'hérésie arienne et fut une figure marquante du concile de Nicée en 325. Après avoir enduré la persécution et perdu un œil pour ses convictions, il retourna dans son diocèse pour guider son troupeau avec une grande sainteté.",
+      "image": "/images/saint_paphnutius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Paphnutius_the_Bishop"
+    }
+  ]
+}

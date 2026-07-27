@@ -1,0 +1,40 @@
+{
+  "date": "04-14",
+  "feast_day": "14 avril",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Lydwine de Schiedam",
+      "feast_day": "14 avril",
+      "era": "XVe siècle",
+      "patronage": null,
+      "legacy": "Vierge",
+      "summary": "Sainte Lydwine naquit en Hollande de parents vertueux mais pauvres, seule fille parmi neuf enfants. Son nom signifie « souffrir en plénitude », et en effet toute sa vie ne fut qu'une souffrance continuelle. Dès le berceau, une grave maladie l'affligea.",
+      "image": "/images/saint_lydwina_of_schiedam.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Bénézet",
+      "feast_day": "14 avril",
+      "era": "XIIe siècle",
+      "patronage": [
+        "bâtisseurs de ponts",
+        "voyageurs"
+      ],
+      "legacy": "Patron des bâtisseurs de ponts et des voyageurs",
+      "summary": "Saint Bénézet était un jeune garçon qui, inspiré par Dieu, entreprit la tâche monumentale de construire un pont sur le Rhône à Avignon afin d'empêcher les noyades. Il commença la construction en 1177 et dirigea les travaux jusqu'à sa mort en 1184, durant lesquels de nombreux miracles furent rapportés. Son corps fut enterré sur le pont, qui devint pendant des siècles un lieu de vénération et de miracles.",
+      "image": "/images/saint_benezet.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9zet"
+    },
+    {
+      "name": "Justin de Naplouse",
+      "feast_day": "14 avril",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Martyr",
+      "summary": "Saint Justin naquit vers l'an 103 de parents païens à Néapolis ou Sichem, en Samarie, site du puits de Jacob. Il reçut une bonne éducation et se consacra en particulier à l'étude de la philosophie, avec toujours un seul but : parvenir à connaître Dieu. Il chercha cette connaissance parmi les écoles philosophiques rivales, mais en vain ; et finalement Dieu apaisa la soif qu'Il avait Lui-même créée.",
+      "image": "/images/saint_justin_martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "07-02",
+  "feast_day": "2 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "María",
+      "feast_day": "2 de julio",
+      "era": "Siglo I",
+      "patronage": [
+        "madres",
+        "mujeres embarazadas",
+        "familia",
+        "viajeros"
+      ],
+      "legacy": "Modelo de fe y maternidad",
+      "summary": "María es venerada como la madre de Jesucristo y ocupa un lugar central en el cristianismo. La Visitación, celebrada el 2 de julio, conmemora su visita a su prima Isabel, durante la cual Isabel reconoció a María como la madre de su Señor. Este acontecimiento pone de relieve la humildad de María y su papel como intercesora, ya que lleva la gracia divina a quienes la rodean.",
+      "image": "/images/the_visitation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

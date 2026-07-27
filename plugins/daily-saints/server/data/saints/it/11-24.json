@@ -1,0 +1,21 @@
+{
+  "date": "11-24",
+  "feast_day": "24 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni della Croce",
+      "feast_day": "24 novembre",
+      "era": "XVI secolo",
+      "patronage": [
+        "mistici",
+        "poeti",
+        "poeti spagnoli"
+      ],
+      "legacy": "Una guida verso l'unione mistica con Dio.",
+      "summary": "Giovanni della Croce fu un mistico spagnolo e una figura di spicco della Controriforma. Cofondò i Carmelitani Scalzi insieme a santa Teresa d'Ávila ed è noto per i suoi profondi scritti spirituali, che esplorano il cammino dell'anima verso Dio. Fu proclamato Dottore della Chiesa nel 1926 per i suoi contributi alla teologia mistica.",
+      "image": "/images/saint_john_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    }
+  ]
+}

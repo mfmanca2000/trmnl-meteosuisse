@@ -1,0 +1,21 @@
+{
+  "date": "05-27",
+  "feast_day": "27 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bède le Vénérable",
+      "feast_day": "27 mai",
+      "era": "VIIIe siècle",
+      "patronage": [
+        "érudits",
+        "historiens",
+        "étudiants"
+      ],
+      "legacy": "Père de l'histoire et de l'érudition anglaises",
+      "summary": "Bède, connu sous le nom de Bède le Vénérable, fut un moine et historien anglais qui vécut aux VIIe et VIIIe siècles. Il est surtout connu pour son œuvre « Histoire ecclésiastique du peuple anglais », qui constitue une source essentielle pour l'histoire de l'Angleterre primitive. Bède fut un érudit prolifique, contribuant à divers domaines du savoir, et il est vénéré comme docteur de l'Église.",
+      "image": "/images/saint_bede_the_venerable.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bede"
+    }
+  ]
+}

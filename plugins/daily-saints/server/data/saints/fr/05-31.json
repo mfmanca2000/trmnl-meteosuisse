@@ -1,0 +1,34 @@
+{
+  "date": "05-31",
+  "feast_day": "31 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie, Reine du Monde",
+      "feast_day": "31 mai",
+      "era": "Christianisme primitif",
+      "patronage": [
+        "mères",
+        "femmes enceintes",
+        "malades"
+      ],
+      "legacy": "Mère du Sauveur et Reine du Ciel",
+      "summary": "Marie, la mère de Jésus, occupe une place particulière dans la dévotion catholique en tant que Reine du Ciel et de la Terre. Elle est vénérée pour son intercession maternelle et considérée comme une puissante avocate de l'humanité. Sa fête, célébrée le 31 mai, souligne son rôle de source d'espérance et de paix pour le monde.",
+      "image": "/images/mary-queen-of-the-world.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Heaven"
+    },
+    {
+      "name": "Pétronille",
+      "feast_day": "31 mai",
+      "era": "Ier siècle",
+      "patronage": [
+        "vierges",
+        "enfants malades"
+      ],
+      "legacy": "Un symbole de virginité et de sainteté",
+      "summary": "Sainte Pétronille est traditionnellement considérée comme la fille de saint Pierre, l'un des Apôtres. Elle est célébrée pour son vœu de virginité et sa sainteté exemplaire durant les premiers temps du christianisme. Son héritage est honoré dans la basilique Saint-Pierre, où ses reliques sont conservées.",
+      "image": "/images/saint_petronilla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Petronilla"
+    }
+  ]
+}

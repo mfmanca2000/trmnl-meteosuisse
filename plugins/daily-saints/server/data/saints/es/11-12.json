@@ -1,0 +1,17 @@
+{
+  "date": "11-12",
+  "feast_day": "12 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Martín I",
+      "feast_day": "12 de noviembre",
+      "era": "siglo VII",
+      "patronage": null,
+      "legacy": "Defensor de la verdadera fe",
+      "summary": "Martín I fue papa desde el año 649 hasta el 655 y es recordado por su firme defensa de la verdadera fe contra las herejías, particularmente la herejía monotelita. Fue exiliado y sufrió mucho por sus creencias, soportando encarcelamiento y privaciones, pero permaneció firme en su fe. Su legado es uno de valentía y compromiso con las enseñanzas de Cristo, ejemplificando las pruebas que enfrentaron los primeros líderes de la Iglesia.",
+      "image": "/images/saint_martin_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Martin_I"
+    }
+  ]
+}

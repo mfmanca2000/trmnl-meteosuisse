@@ -1,0 +1,37 @@
+{
+  "date": "08-25",
+  "feast_day": "25 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Luis IX",
+      "feast_day": "25 de agosto",
+      "era": "Medieval",
+      "patronage": [
+        "Francia",
+        "cruzados",
+        "leprosos",
+        "barberos",
+        "moribundos"
+      ],
+      "legacy": "Un modelo de realeza cristiana y justicia.",
+      "summary": "Luis IX, también conocido como San Luis, fue rey de Francia desde 1226 hasta su muerte en 1270. Célebre por su profunda piedad y su compromiso con la justicia, dirigió dos cruzadas y fue protector de los débiles y oprimidos. Su legado incluye la construcción de la Sainte-Chapelle en París, que alberga la Corona de Espinas, y es recordado como modelo de realeza cristiana.",
+      "image": "/images/saint_louis_ix.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+    },
+    {
+      "name": "María Micaela",
+      "feast_day": "25 de agosto",
+      "era": "Siglo XIX",
+      "patronage": [
+        "jóvenes",
+        "educación",
+        "caridad"
+      ],
+      "legacy": "Una pionera en la educación y la caridad",
+      "summary": "María Micaela, también conocida como Madre Sacramento, fue una fundadora española que dedicó su vida a la educación y la reforma de jóvenes necesitadas. Fundó el Instituto de las Religiosas Adoratrices Esclavas del Santísimo Sacramento y de la Caridad, centrado en un profundo amor a la Eucaristía y el servicio a los demás. Beatificada en 1925 y canonizada en 1934, su legado continúa a través de su orden religiosa y sus obras de caridad.",
+      "image": "/images/saint_mary_micaela.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maria_Micaela_Desmaisieres"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "12-18",
+  "feast_day": "18 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gatian",
+      "feast_day": "18 dicembre",
+      "era": "I secolo",
+      "patronage": null,
+      "legacy": "Apostolo dei Galli e vescovo",
+      "summary": "San Gatian fu il primo vescovo di Tours e discepolo degli Apostoli. Dedicò la sua vita a predicare il Vangelo e a convertire i Galli pagani, sopportando persecuzioni e difficoltà in questa impresa. I suoi sforzi portarono alla fondazione di comunità cristiane e all'abbandono del culto pagano nella regione.",
+      "image": "/images/saint_gatian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gatianus_of_Tours"
+    }
+  ]
+}

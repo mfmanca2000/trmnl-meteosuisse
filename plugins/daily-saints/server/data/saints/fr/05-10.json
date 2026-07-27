@@ -1,0 +1,31 @@
+{
+  "date": "05-10",
+  "feast_day": "10 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Isidore de Madrid",
+      "feast_day": "10 mai",
+      "era": "XIIe siècle",
+      "patronage": null,
+      "legacy": "Confesseur",
+      "summary": "Saint Isidore le Laboureur, saint toujours très populaire en Espagne, naquit près de Madrid de parents très pauvres mais très chrétiens, qui lui inspirèrent dès son jeune âge l'amour de Dieu et l'horreur du péché. Son éducation fut entièrement l'œuvre du Saint-Esprit, qui lui enseigna, sans livres, la science du salut. Il épousa une femme riche en vertus, Maria Torribia, et Dieu leur accorda un fils qu'ils élevèrent dans les mêmes sentiments de piété.",
+      "image": "/images/saint_isidore_of_madrid.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Antonin",
+      "feast_day": "10 mai",
+      "era": "XVe siècle",
+      "patronage": [
+        "pauvres",
+        "clergé",
+        "ordre dominicain"
+      ],
+      "legacy": "Un champion des pauvres et des nécessiteux.",
+      "summary": "Saint Antonin fut archevêque de Florence, connu pour son profond engagement envers les pauvres et pour ses écrits théologiques. Il entra dans l'ordre dominicain dès son plus jeune âge et devint célèbre pour sa prudence et sa sagesse, ce qui lui valut le titre de « Père des pauvres ». Sa vie fut marquée par des actes de charité, notamment le don de ses biens à ceux qui étaient dans le besoin.",
+      "image": "/images/saint_antoninus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Antoninus_of_Florence"
+    }
+  ]
+}

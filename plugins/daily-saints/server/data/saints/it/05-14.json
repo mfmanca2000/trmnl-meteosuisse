@@ -1,0 +1,30 @@
+{
+  "date": "05-14",
+  "feast_day": "14 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Michele Garicoits",
+      "feast_day": "14 maggio",
+      "era": "XIX secolo",
+      "patronage": null,
+      "legacy": "Fondatore dei Sacerdoti del Sacro Cuore",
+      "summary": "Michele Garicoits fu un sacerdote francese, fondatore dei Sacerdoti del Sacro Cuore di Bétharram. Dedicò la sua vita a promuovere la devozione al Sacro Cuore e a istituire una comunità religiosa incentrata sulla povertà e sulla vita interiore. La sua eredità prosegue attraverso la diffusione della sua congregazione in vari paesi e il loro impegno per l'educazione e la crescita spirituale.",
+      "image": "/images/saint_michael_garicoits.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michel_Garico%C3%AFts"
+    },
+    {
+      "name": "Pacomio",
+      "feast_day": "14 maggio",
+      "era": "IV secolo",
+      "patronage": [
+        "monaci",
+        "monachesimo cristiano"
+      ],
+      "legacy": "Fondatore della vita comunitaria monastica cristiana",
+      "summary": "San Pacomio fu un monaco cristiano e il fondatore del monachesimo cenobitico, che pone l'accento sulla vita comunitaria tra i monaci. Dopo la sua conversione dal paganesimo, fondò un monastero a Tabennisi, in Egitto, dove elaborò una regola di vita che bilanciava la disciplina spirituale con l'accessibilità per i nuovi monaci. I suoi insegnamenti e le sue pratiche posero le basi per molte future comunità monastiche cristiane.",
+      "image": "/images/saint_pachomius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pachomius_the_Great"
+    }
+  ]
+}

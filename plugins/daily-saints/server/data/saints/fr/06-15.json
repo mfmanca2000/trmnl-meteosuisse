@@ -1,0 +1,37 @@
+{
+  "date": "06-15",
+  "feast_day": "15 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Germaine Cousin",
+      "feast_day": "15 juin",
+      "era": "Époque moderne",
+      "patronage": [
+        "malades",
+        "bergers",
+        "enfants maltraités"
+      ],
+      "legacy": "Un symbole de foi et de résilience",
+      "summary": "Germaine Cousin était une vierge française née en 1579, connue pour sa foi profonde malgré les épreuves et les maladies sévères qu'elle endura tout au long de sa vie. Elle travaillait comme bergère et fut souvent maltraitée par sa belle-mère, mais elle demeura dévouée à Dieu et inspira son entourage par sa bonté. Après sa mort en 1601, son corps fut retrouvé incorrompu, ce qui conduisit à sa canonisation en 1867 et en fit une figure vénérée par les pèlerins de Pibrac, en France.",
+      "image": "/images/saint_germaine_cousin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germaine_Cousin"
+    },
+    {
+      "name": "Guy",
+      "feast_day": "15 juin",
+      "era": "4e siècle",
+      "patronage": [
+        "danseurs",
+        "acteurs",
+        "comédiens",
+        "enfants",
+        "chevaux"
+      ],
+      "legacy": "Patron des danseurs et des acteurs",
+      "summary": "Saint Guy était un jeune martyr chrétien qui vécut au début du 4e siècle. Il est connu pour sa foi inébranlable face à la persécution, refusant fameusement de renier ses convictions malgré de sévères tortures. Avec ses compagnons Modeste et Crescence, il est célébré pour ses actes miraculeux et sa dévotion constante envers Dieu.",
+      "image": "/images/saints_vitus_modestus_and_crescentia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vitus"
+    }
+  ]
+}

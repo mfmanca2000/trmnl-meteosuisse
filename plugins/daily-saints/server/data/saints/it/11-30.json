@@ -1,0 +1,21 @@
+{
+  "date": "11-30",
+  "feast_day": "30 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Andrea",
+      "feast_day": "30 novembre",
+      "era": "I secolo",
+      "patronage": [
+        "pescatori",
+        "scozia",
+        "grecia"
+      ],
+      "legacy": "Primo discepolo chiamato da Gesù Cristo",
+      "summary": "Andrea fu uno dei primi discepoli di Gesù e fratello di san Pietro. È noto per aver condotto Pietro a Cristo e per la sua opera missionaria in Scizia e in Grecia. Andrea fu martirizzato su una croce diagonale, che accolse con gioia, predicando a coloro che lo circondavano fino alla sua morte.",
+      "image": "/images/saint_andrew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_the_Apostle"
+    }
+  ]
+}

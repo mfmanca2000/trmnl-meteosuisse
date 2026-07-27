@@ -1,0 +1,31 @@
+{
+  "date": "01-05",
+  "feast_day": "5 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Simeón el Estilita",
+      "feast_day": "5 de enero",
+      "era": "Siglo V",
+      "patronage": [
+        "ascetas",
+        "ermitaños",
+        "los que buscan la soledad"
+      ],
+      "legacy": "Pionero del ascetismo sobre columna y de la oración",
+      "summary": "Simeón el Estilita fue un asceta cristiano conocido por su forma extrema de monacato, pasando 37 años en lo alto de una columna en Siria. Practicó severas austeridades, entre ellas el ayuno y la autodisciplina, que atrajeron a muchos seguidores y admiradores. Su vida de oración y dedicación a Dios inspiró a innumerables personas y dio lugar a numerosos milagros atribuidos a su intercesión.",
+      "image": "/images/saint_simeon_stylites.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simeon_Stylites"
+    },
+    {
+      "name": "Telesforo",
+      "feast_day": "5 de enero",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Defensor de la fe y reformador litúrgico",
+      "summary": "Telesforo fue un papa griego y mártir que sirvió como obispo de Roma a principios del siglo II. Es conocido por sus esfuerzos para combatir la herejía y por instituir ciertas prácticas litúrgicas, incluida la celebración de la misa en la víspera de Navidad. Telesforo fue martirizado bajo el emperador Antonino Pío y se le conmemora el 5 de enero.",
+      "image": "/images/saint_telesphorus_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Telesphorus"
+    }
+  ]
+}

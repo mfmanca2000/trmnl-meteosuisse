@@ -1,0 +1,21 @@
+{
+  "date": "04-01",
+  "feast_day": "1 aprile",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ugo di Grenoble",
+      "feast_day": "1 aprile",
+      "era": "XI secolo",
+      "patronage": [
+        "clero",
+        "poveri",
+        "riformatori"
+      ],
+      "legacy": "Campione della riforma e della carità nella Chiesa.",
+      "summary": "Ugo di Grenoble fu un vescovo dell'XI secolo noto per la sua profonda pietà e il suo impegno nella riforma della Chiesa. Inizialmente rinunciò al suo episcopato per condurre una vita monastica, ma fu richiamato a servire la sua diocesi, dove divenne rinomato per le sue opere di carità e la sua potente predicazione. Il suo lascito comprende la fondazione dell'ordine certosino insieme a san Bruno e la sua dedizione ai poveri.",
+      "image": "/images/saint_hugh_of_grenoble.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Grenoble"
+    }
+  ]
+}

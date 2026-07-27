@@ -1,0 +1,17 @@
+{
+  "date": "12-30",
+  "feast_day": "30 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Sabin",
+      "feast_day": "30 décembre",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Martyre et miracles dans la foi",
+      "summary": "Saint Sabin était évêque de Spolète et martyr, qui vécut au début du IVe siècle. Il fut emprisonné pour avoir refusé d'adorer les idoles et accomplit des miracles, notamment la guérison d'un aveugle, ce qui entraîna la conversion de nombreuses personnes. Il fut finalement martyrisé pour sa foi le 7 décembre 303, et l'on se souvient de lui pour sa fermeté face à la persécution.",
+      "image": "/images/saint_sabinus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sabinus_of_Spoleto"
+    }
+  ]
+}

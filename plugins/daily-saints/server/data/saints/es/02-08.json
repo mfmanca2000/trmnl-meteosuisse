@@ -1,0 +1,21 @@
+{
+  "date": "02-08",
+  "feast_day": "8 de febrero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan de Mata",
+      "feast_day": "8 de febrero",
+      "era": "Medieval",
+      "patronage": [
+        "cautivos",
+        "prisioneros",
+        "trinitarios"
+      ],
+      "legacy": "Defensor de los cautivos y los pobres",
+      "summary": "San Juan de Mata fue un sacerdote francés y fundador de la Orden de la Santísima Trinidad, dedicada a la redención de los cautivos cristianos. Dedicó su vida a servir a los pobres y a rescatar a quienes eran esclavizados durante las Cruzadas. Su labor fue reconocida por el papa Inocencio III, quien aprobó la fundación de su orden en 1198.",
+      "image": "/images/saint_john_of_matha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Matha"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "10-20",
+  "feast_day": "20 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean Cantius",
+      "feast_day": "20 octobre",
+      "era": "XVe siècle",
+      "patronage": [
+        "Pologne",
+        "Lituanie",
+        "étudiants",
+        "pauvres"
+      ],
+      "legacy": "Un modèle de charité et de piété",
+      "summary": "Jean Cantius était un prêtre et théologien polonais connu pour sa profonde piété et son engagement envers les pauvres. Il enseigna comme professeur à l'université de Cracovie et était renommé pour ses actes de charité, notamment en subvenant aux besoins des nécessiteux et en défendant les plus marginalisés. Canonisé en 1767, il reste dans les mémoires pour son dévouement à l'éducation, à la prière et au service des autres.",
+      "image": "/images/saint_john_cantius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Cantius"
+    }
+  ]
+}

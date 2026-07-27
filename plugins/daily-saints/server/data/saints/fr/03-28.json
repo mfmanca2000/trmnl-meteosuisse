@@ -1,0 +1,35 @@
+{
+  "date": "03-28",
+  "feast_day": "28 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean de Capistran",
+      "feast_day": "28 mars",
+      "era": "XVe siècle",
+      "patronage": [
+        "les aumôniers militaires",
+        "les prisonniers",
+        "les malades"
+      ],
+      "legacy": "Défenseur de la foi et réformateur",
+      "summary": "Jean de Capistran était un frère franciscain italien connu pour ses prédications puissantes et son dévouement à la réforme de l'Église. Il joua un rôle important dans la défense des territoires chrétiens face à la menace ottomane, menant notamment une croisade victorieuse à Belgrade en 1456. Canonisé en 1690, il est resté célèbre pour son humilité, sa persévérance et les nombreux miracles qui lui furent attribués après sa mort.",
+      "image": "/images/saint_john_capistran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Capistran"
+    },
+    {
+      "name": "Gontran",
+      "feast_day": "28 mars",
+      "era": "VIe siècle",
+      "patronage": [
+        "les rois",
+        "les malades",
+        "la paix"
+      ],
+      "legacy": "Un roi compatissant et protecteur de la paix.",
+      "summary": "Saint Gontran fut roi de Bourgogne et d'Orléans, connu pour sa piété et son dévouement envers ses sujets. Il régna à une époque de division entre ses frères et chercha à maintenir la paix et la justice dans son royaume. Son héritage comprend la fondation d'églises et de monastères, ainsi qu'une réputation de miséricorde et de compassion envers les opprimés.",
+      "image": "/images/saint_gontran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gontran"
+    }
+  ]
+}

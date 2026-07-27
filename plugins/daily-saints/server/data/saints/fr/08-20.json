@@ -1,0 +1,21 @@
+{
+  "date": "08-20",
+  "feast_day": "20 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bernard de Clairvaux",
+      "feast_day": "20 août",
+      "era": "XIIe siècle",
+      "patronage": [
+        "apiculteurs",
+        "fabricants de bougies",
+        "l'Ordre cistercien"
+      ],
+      "legacy": "Père de l'Ordre cistercien",
+      "summary": "Bernard de Clairvaux fut un abbé et théologien éminent du XIIe siècle, fondateur du monastère cistercien de Clairvaux. Célèbre pour son éloquence et sa profonde spiritualité, il joua un rôle important dans la promotion de la deuxième croisade et exerça une grande influence sur l'Église de son temps. Ses écrits et son enseignement lui valurent le titre de docteur de l'Église, et il reste une figure clé du monachisme médiéval.",
+      "image": "/images/saint_bernard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"
+    }
+  ]
+}

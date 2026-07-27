@@ -1,0 +1,37 @@
+{
+  "date": "04-07",
+  "feast_day": "7 avril",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Julienne de Mont-Cornillon",
+      "feast_day": "7 avril",
+      "era": "XIIIe siècle",
+      "patronage": null,
+      "legacy": "Vierge",
+      "summary": "Sainte Julienne naquit près de Liège, en Belgique, en 1193. À l'âge de cinq ans, elle perdit ses parents et fut placée au couvent du Mont-Cornillon. Elle progressa rapidement dans la vertu et lisait avec plaisir les écrits de saint Augustin et de saint Bernard.",
+      "image": "/images/saint_juliana_of_mont_cornillon.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Herman Joseph de Steinfeld",
+      "feast_day": "7 avril",
+      "era": "XIIIe siècle",
+      "patronage": null,
+      "legacy": "Prêtre",
+      "summary": "Le bienheureux Herman, dès son plus jeune âge, fut un fervent serviteur de la Mère de Dieu. Tout petit enfant, il passait tout son temps de jeu dans l'église de Cologne devant une statue de Marie, où il reçut de nombreuses faveurs. Un jour d'hiver rigoureux, alors que le petit Herman entrait pieds nus dans l'église, sa Mère céleste, lui apparaissant, lui demanda avec tendresse pourquoi ses pieds étaient nus par un temps si froid.",
+      "image": "/images/blessed_herman_joseph_of_steinfeld.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Hégésippe",
+      "feast_day": "7 avril",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Historien de l'Église primitive et défenseur de la tradition",
+      "summary": "Saint Hégésippe fut un converti juif au christianisme et un historien de l'Église primitive. Il est connu pour son ouvrage « Mémoires », qui retraçait l'histoire de l'Église depuis la Passion du Christ jusqu'à son époque, soulignant l'importance de la tradition apostolique. Ses écrits étaient très estimés par les Pères de l'Église primitive tels que saint Jérôme et Eusèbe, bien que la plus grande partie de son œuvre ait malheureusement été perdue.",
+      "image": "/images/saint_hegesippus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Hegesippus"
+    }
+  ]
+}

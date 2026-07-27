@@ -1,0 +1,30 @@
+{
+  "date": "02-19",
+  "feast_day": "19 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Conrad de Plaisance",
+      "feast_day": "19 février",
+      "era": "XIVe siècle",
+      "patronage": [
+        "hernies",
+        "pénitents"
+      ],
+      "legacy": "Une vie de pénitence et de repentir",
+      "summary": "Saint Conrad de Plaisance était un noble qui transforma sa vie après un tragique incident survenu lors d'une partie de chasse. Rongé de remords pour la condamnation injuste d'un innocent, il vendit tous ses biens pour dédommager les personnes touchées et se consacra à une vie de pénitence. Il devint ermite, vivant dans une austérité rigoureuse, et fut connu pour ses dons prophétiques et ses miracles jusqu'à sa mort en 1351.",
+      "image": "/images/saint_conrad_of_piacenza.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Conrad_of_Piacenza"
+    },
+    {
+      "name": "Barbat",
+      "feast_day": "19 février",
+      "era": "VIIe siècle",
+      "patronage": null,
+      "legacy": "Champion contre l'idolâtrie et la superstition",
+      "summary": "Saint Barbat fut évêque de Bénévent, en Italie, au VIIe siècle. Connu pour sa piété et son dévouement, il œuvra sans relâche pour éradiquer l'idolâtrie et les superstitions parmi ses paroissiens. Son leadership et ses intuitions prophétiques lors d'un siège de la ville consolidèrent son héritage en tant que saint vénéré de l'Église catholique.",
+      "image": "/images/saint_barbatus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbatus_of_Benevento"
+    }
+  ]
+}

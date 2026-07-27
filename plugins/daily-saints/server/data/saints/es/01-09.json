@@ -1,0 +1,21 @@
+{
+  "date": "01-09",
+  "feast_day": "9 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Julián",
+      "feast_day": "9 de enero",
+      "era": "Siglo IV",
+      "patronage": [
+        "hospitales",
+        "enfermos",
+        "mártires"
+      ],
+      "legacy": "Patrono de los hospitales y de los enfermos",
+      "summary": "San Julián, conocido como el Hospitalario, fue un mártir que vivió en Egipto a principios del siglo IV. Junto con su esposa Basilisa, dedicó su vida a la caridad, convirtiendo su hogar en un hospital para los pobres y los enfermos. Tras soportar la persecución por su fe, Julián fue finalmente martirizado en el año 313, y su tumba se convirtió en escenario de numerosos milagros.",
+      "image": "/images/saint_julian_martyr_and_saint_basilissa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julian_the_Hospitaller"
+    }
+  ]
+}

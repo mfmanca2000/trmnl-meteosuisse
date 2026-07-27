@@ -1,0 +1,22 @@
+{
+  "date": "08-01",
+  "feast_day": "1er août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pierre",
+      "feast_day": "1er août",
+      "era": "1er siècle",
+      "patronage": [
+        "pêcheurs",
+        "fabricants de filets",
+        "constructeurs de navires",
+        "papes"
+      ],
+      "legacy": "Premier pape et chef des apôtres.",
+      "summary": "Pierre, l'un des douze apôtres de Jésus, est reconnu comme le premier pape et une figure fondatrice du christianisme. Il est connu pour son rôle de dirigeant dans l'Église primitive et pour sa contribution à la diffusion de l'Évangile. Son évasion miraculeuse de prison, relatée dans les Actes des Apôtres, illustre sa foi et la puissance de la prière.",
+      "image": "/images/saint_peters_chains.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    }
+  ]
+}

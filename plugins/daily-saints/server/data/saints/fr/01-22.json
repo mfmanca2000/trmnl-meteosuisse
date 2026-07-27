@@ -1,0 +1,21 @@
+{
+  "date": "01-22",
+  "feast_day": "22 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincent de Saragosse",
+      "feast_day": "22 janvier",
+      "era": "IVe siècle",
+      "patronage": [
+        "viticulteurs",
+        "vignerons",
+        "Société de Saint-Vincent-de-Paul"
+      ],
+      "legacy": "Martyre et foi inébranlable dans le Christ",
+      "summary": "Saint Vincent de Saragosse était un diacre et martyr qui servit dans l'Église primitive durant la persécution de Dioclétien. Il était connu pour sa foi inébranlable et son courage face à de brutales tortures, mourant finalement pour ses convictions. Ses reliques sont conservées à Lisbonne, et il est vénéré comme protecteur des fidèles.",
+      "image": "/images/saint_vincent_of_saragossa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_of_Saragossa"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "12-01",
+  "feast_day": "1 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eligio",
+      "feast_day": "1 dicembre",
+      "era": "VII secolo",
+      "patronage": [
+        "orafi",
+        "metalmeccanici",
+        "agricoltori",
+        "poveri",
+        "gioiellieri"
+      ],
+      "legacy": "Patrono degli orafi e dei poveri",
+      "summary": "Eligio era un abile metalmeccanico e orafo, divenuto noto per la sua pietà e carità. Nominato orafo reale dal re Clotario II, dedicò la sua vita al servizio dei poveri e alla creazione di splendidi reliquiari per i santi. In seguito divenne vescovo di Noyon, dove continuò le sue buone opere ed era noto per compiere miracoli.",
+      "image": "/images/saint_eligius_or_eloy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Eligius"
+    }
+  ]
+}

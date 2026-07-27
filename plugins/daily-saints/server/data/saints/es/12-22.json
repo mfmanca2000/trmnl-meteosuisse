@@ -1,0 +1,31 @@
+{
+  "date": "12-22",
+  "feast_day": "22 de diciembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Francisca Javier Cabrini",
+      "feast_day": "22 de diciembre",
+      "era": "Época moderna",
+      "patronage": [
+        "inmigrantes",
+        "hospitalidad",
+        "orfanatos"
+      ],
+      "legacy": "Defensora de los inmigrantes y de la educación",
+      "summary": "Francisca Javier Cabrini fue una religiosa ítalo-estadounidense y fundadora de las Misioneras del Sagrado Corazón. Dedicó su vida a servir a los inmigrantes en Estados Unidos y fundó numerosas escuelas, hospitales e instituciones benéficas. Canonizada en 1946, es reconocida como la primera ciudadana naturalizada de Estados Unidos en ser canonizada santa.",
+      "image": "/images/saint_frances_xavier_cabrini.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini"
+    },
+    {
+      "name": "Ischyrion",
+      "feast_day": "22 de diciembre",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Martirio por una fe inquebrantable",
+      "summary": "San Ischyrion fue un mártir en Alejandría que se negó a sacrificar a los ídolos por orden de su magistrado. Su firmeza en la fe lo llevó a una brutal ejecución por empalamiento. Se le recuerda por su paciente constancia y su compromiso con la virtud cristiana a pesar de sufrir una severa persecución.",
+      "image": "/images/saint_ischyrion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Ischyrion"
+    }
+  ]
+}

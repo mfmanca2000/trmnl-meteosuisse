@@ -1,0 +1,27 @@
+{
+  "date": "05-29",
+  "feast_day": "29 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "María Magdalena de Pazzi",
+      "feast_day": "29 de mayo",
+      "era": "Siglo XVII",
+      "patronage": null,
+      "legacy": "Carmelita",
+      "summary": "Santa María Magdalena de Pazzi fue la única hija del ilustre Camilo de Pazzi, emparentado con los Médici de Florencia. Nació en el año 1566 y fue bautizada con el nombre de Catalina. De niña le gustaba retirarse a lugares solitarios para entrar en oración con Dios, quien se le reveló desde su tierna edad, sin ayuda de maestros, como su Creador, Redentor y Santificador.",
+      "image": "/images/saint_mary_magdalene_of_pazzi.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Cirilo",
+      "feast_day": "29 de mayo",
+      "era": null,
+      "patronage": null,
+      "legacy": "Niño mártir",
+      "summary": "siendo aún un niño en Cesarea de Capadocia, sufrió durante las persecuciones del siglo tercero. Había sido instruido en secreto en el cristianismo y repetía continuamente el nombre de Cristo, confesando que la sola pronunciación de ese Nombre le resultaba beneficiosa. Por ello, su padre pagano, sumido en las supersticiones del paganismo, le hizo sufrir toda clase de malos tratos.",
+      "image": "/images/saint_cyril_boy-martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

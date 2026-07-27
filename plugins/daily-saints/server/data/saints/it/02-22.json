@@ -1,0 +1,35 @@
+{
+  "date": "02-22",
+  "feast_day": "22 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pietro",
+      "feast_day": "22 febbraio",
+      "era": "I secolo",
+      "patronage": [
+        "pescatori",
+        "fabbricanti di reti",
+        "costruttori navali"
+      ],
+      "legacy": "Fondazione della Chiesa e guida apostolica",
+      "summary": "San Pietro è uno dei dodici apostoli di Gesù ed è considerato il primo papa della Chiesa cattolica romana. È noto per la sua guida nella prima comunità cristiana e si ritiene tradizionalmente che sia stato martirizzato a Roma. Il suo ruolo di «Principe degli Apostoli» ne sottolinea l'importanza nella fondazione della Chiesa.",
+      "image": "/images/saint_peters_chair_at_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Margherita da Cortona",
+      "feast_day": "22 febbraio",
+      "era": "Medievale",
+      "patronage": [
+        "penitenti",
+        "senzatetto",
+        "madri single"
+      ],
+      "legacy": "Un faro di speranza per i peccatori",
+      "summary": "Margherita da Cortona fu una terziaria francescana del XIII secolo che trasformò la sua vita di peccato in una vita di profonda santità dopo l'uccisione del suo amante. Si dedicò al servizio dei poveri e fondò un ospedale e una congregazione per assistere i bisognosi. Nota per le sue visioni e le sue intercessioni miracolose, divenne una figura amatissima in Toscana, spesso chiamata il «giglio della valle».",
+      "image": "/images/saint_margaret_of_cortona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Cortona"
+    }
+  ]
+}

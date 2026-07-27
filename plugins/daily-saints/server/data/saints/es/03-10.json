@@ -1,0 +1,17 @@
+{
+  "date": "03-10",
+  "feast_day": "10 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cuarenta Mártires de Sebaste",
+      "feast_day": "10 de marzo",
+      "era": "siglo IV",
+      "patronage": null,
+      "legacy": "Martirio y fe inquebrantable en Cristo",
+      "summary": "Los Cuarenta Mártires de Sebaste fueron soldados que se negaron a renunciar a su fe cristiana a principios del siglo IV. Sufrieron una brutal ejecución al ser dejados para congelarse sobre un estanque, firmes en su creencia y llenos de gozo ante la perspectiva del martirio. Su compromiso inquebrantable inspiró a otros, incluido un guardia que se unió a ellos en la fe justo antes de su muerte.",
+      "image": "/images/the_forty_martyrs_of_sebaste.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste"
+    }
+  ]
+}

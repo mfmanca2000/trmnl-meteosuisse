@@ -1,0 +1,41 @@
+{
+  "date": "10-23",
+  "feast_day": "23 ottobre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Gesù Cristo",
+      "feast_day": "23 ottobre",
+      "era": "I secolo",
+      "patronage": null,
+      "legacy": "Redentore dell'umanità attraverso il suo sacrificio",
+      "summary": "Gesù Cristo è la figura centrale del cristianesimo, ritenuto dai cristiani il Figlio di Dio e il Messia (Cristo) atteso e profetizzato nell'Antico Testamento. I suoi insegnamenti, la crocifissione e la risurrezione costituiscono il fondamento della fede cristiana, sottolineando i temi della redenzione, dell'amore e del perdono. Attraverso il suo sacrificio, offre la salvezza all'umanità, liberandola dal peccato e dalla morte.",
+      "image": "/images/feast_of_the_holy_redeemer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jesus"
+    },
+    {
+      "name": "Antonio Maria Claret",
+      "feast_day": "23 ottobre",
+      "era": "XIX secolo",
+      "patronage": [
+        "tessitori",
+        "missionari",
+        "la stampa cattolica"
+      ],
+      "legacy": "Un campione dell'evangelizzazione e dell'educazione.",
+      "summary": "Antonio Maria Claret fu un sacerdote spagnolo e fondatore dei Padri Clarettiani, dedito all'evangelizzazione e alla promozione della fede cattolica. Servì come arcivescovo di Santiago di Cuba, dove fondò istituzioni educative e si prodigò instancabilmente per il benessere spirituale e sociale della sua comunità. La sua eredità comprende un profondo impegno nell'opera missionaria e nella scrittura, avendo composto numerosi testi volti a ispirare gli altri nella loro fede.",
+      "image": "/images/saint_anthony-mary_claret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Mary_Claret"
+    },
+    {
+      "name": "Teodoreto",
+      "feast_day": "23 ottobre",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Martirio per la fede e la convinzione",
+      "summary": "San Teodoreto fu un martire cristiano vissuto durante il regno dell'imperatore Giuliano l'Apostata. Era noto per la sua fede incrollabile e fu torturato per le sue convinzioni prima di essere giustiziato con la spada. Il suo coraggio di fronte alla persecuzione rimane fonte d'ispirazione per i cristiani che affrontano prove per la loro fede.",
+      "image": "/images/saint_theodoret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodoret_(martyr)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "03-28",
+  "feast_day": "28 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni da Capestrano",
+      "feast_day": "28 marzo",
+      "era": "XV secolo",
+      "patronage": [
+        "i cappellani militari",
+        "i prigionieri",
+        "i malati"
+      ],
+      "legacy": "Difensore della fede e riformatore",
+      "summary": "Giovanni da Capestrano fu un frate francescano italiano noto per la sua potente predicazione e la sua dedizione alla riforma della Chiesa. Ebbe un ruolo significativo nella difesa dei territori cristiani durante la minaccia ottomana, guidando in particolare una vittoriosa crociata a Belgrado nel 1456. Canonizzato nel 1690, è ricordato per la sua umiltà, la sua perseveranza e i numerosi miracoli a lui attribuiti dopo la morte.",
+      "image": "/images/saint_john_capistran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Capistran"
+    },
+    {
+      "name": "Gontrano",
+      "feast_day": "28 marzo",
+      "era": "VI secolo",
+      "patronage": [
+        "i re",
+        "i malati",
+        "la pace"
+      ],
+      "legacy": "Un re compassionevole e protettore della pace.",
+      "summary": "San Gontrano fu re di Borgogna e Orléans, noto per la sua pietà e la sua dedizione ai suoi sudditi. Regnò in un'epoca di divisione tra i suoi fratelli e cercò di mantenere la pace e la giustizia nel suo regno. La sua eredità comprende la fondazione di chiese e monasteri, oltre a una reputazione di misericordia e compassione verso gli oppressi.",
+      "image": "/images/saint_gontran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gontran"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "date": "08-02",
+  "feast_day": "2 agosto",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Alfonso Maria de' Liguori",
+      "feast_day": "2 agosto",
+      "era": "XVIII secolo",
+      "patronage": [
+        "teologi",
+        "confessori",
+        "moralisti"
+      ],
+      "legacy": "Difensore dei poveri e della teologia morale",
+      "summary": "Sant'Alfonso Maria de' Liguori fu un vescovo e teologo italiano noto per la sua profonda devozione e il suo impegno nella cura pastorale dei poveri. Fondò la Congregazione del Santissimo Redentore e scrisse numerose opere teologiche, tra cui l'influente 'Le glorie di Maria'. Riconosciuto come Dottore della Chiesa, il suo insegnamento continua a ispirare e guidare i fedeli nella loro vita spirituale.",
+      "image": "/images/saint_alphonsus_liguori.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alphonsus_Liguori"
+    },
+    {
+      "name": "Giuseppe Chiwatenhwa",
+      "feast_day": "2 agosto",
+      "era": "XVII secolo",
+      "patronage": [
+        "uroni",
+        "martiri",
+        "convertiti cristiani"
+      ],
+      "legacy": "Apostolo e martire degli uroni",
+      "summary": "Giuseppe Chiwatenhwa fu un martire urone e un cristiano devoto vissuto agli inizi del XVII secolo. Fu battezzato da missionari gesuiti e divenne un apostolo per il suo popolo, promuovendo il cristianesimo e dando l'esempio in famiglia e nella comunità. Fu tragicamente martirizzato nel 1640, ma l'eredità della sua fede ispirò molte conversioni tra gli uroni dopo la sua morte.",
+      "image": "/images/blessed_joseph_chiwatenhwa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Chiwatenhwa"
+    },
+    {
+      "name": "Stefano",
+      "feast_day": "2 agosto",
+      "era": "III secolo",
+      "patronage": [
+        "papi",
+        "diaconi",
+        "scalpellini"
+      ],
+      "legacy": "Difensore della fede e martire",
+      "summary": "Stefano, romano di nascita, divenne papa e martire nel III secolo. È noto per la difesa della validità del battesimo e per il suo impegno nel mantenere l'integrità della fede in un periodo di dispute eretiche. Fu infine martirizzato il 2 agosto del 257, saldo fino alla fine nella sua fedeltà a Cristo e alla Chiesa.",
+      "image": "/images/saint_stephen_I_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_of_Armenia"
+    }
+  ]
+}

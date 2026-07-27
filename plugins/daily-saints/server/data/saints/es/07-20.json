@@ -1,0 +1,35 @@
+{
+  "date": "07-20",
+  "feast_day": "20 de julio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jerónimo Emiliani",
+      "feast_day": "20 de julio",
+      "era": "Renacimiento",
+      "patronage": [
+        "niños huérfanos",
+        "enfermos",
+        "trabajadores hospitalarios"
+      ],
+      "legacy": "Campeón de los huérfanos y los enfermos",
+      "summary": "Jerónimo Emiliani fue un soldado veneciano que transformó su vida tras ser encarcelado, dedicándose al servicio de los huérfanos y los enfermos. Fundó la Congregación de Clérigos Regulares, conocida como los Somascos, para cuidar de los niños abandonados y promover la educación cristiana. Su legado está marcado por su profunda compasión y su compromiso con la caridad, particularmente en tiempos de hambruna y epidemia.",
+      "image": "/images/saint_jerome_emiliani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerome_Emiliani"
+    },
+    {
+      "name": "Margarita de Antioquía",
+      "feast_day": "20 de julio",
+      "era": "Siglo III",
+      "patronage": [
+        "mujeres embarazadas",
+        "parto",
+        "falsamente acusados"
+      ],
+      "legacy": "Mártir valiente y defensora de la fe",
+      "summary": "Santa Margarita de Antioquía fue una virgen y mártir cristiana nacida en el siglo tercero en Antioquía de Pisidia. Enfrentó la persecución por su fe, rechazando los avances de un prefecto romano y soportando severas torturas, incluidos el encarcelamiento y la decapitación. Su firmeza en la fe y su elocuente defensa del cristianismo inspiraron a muchos, lo que condujo a su martirio y veneración como santa.",
+      "image": "/images/saint_margaret_of_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Antioch"
+    }
+  ]
+}

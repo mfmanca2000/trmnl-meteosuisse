@@ -1,0 +1,35 @@
+{
+  "date": "03-06",
+  "feast_day": "6 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Colette",
+      "feast_day": "6 mars",
+      "era": "XVe siècle",
+      "patronage": [
+        "les pauvres",
+        "les femmes",
+        "les enfants malades"
+      ],
+      "legacy": "Réformatrice des Clarisses et mystique",
+      "summary": "Sainte Colette fut une vierge et réformatrice des Clarisses du XVe siècle, connue pour son mode de vie austère et sa dévotion à la prière. Après avoir reçu une vision de saint François, elle entreprit une réforme importante de son ordre, fondant dix-sept couvents à travers l'Europe. Colette joua un rôle crucial dans la guérison du schisme au sein de l'Église et fut connue pour ses intenses combats spirituels contre les forces démoniaques.",
+      "image": "/images/saint_colette.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Colette_of_Corbie"
+    },
+    {
+      "name": "Perpétue et Félicité",
+      "feast_day": "6 mars",
+      "era": "Christianisme primitif",
+      "patronage": [
+        "les mères",
+        "les femmes enceintes",
+        "les martyrs"
+      ],
+      "legacy": "Symboles de foi et de courage dans le martyre",
+      "summary": "Les saintes Perpétue et Félicité furent des martyres des premiers temps chrétiens, exécutées à Carthage vers 203 après J.-C. Leur histoire est célèbre grâce au journal de Perpétue, qui offre un récit saisissant de leur foi et de leur courage face à la persécution. Elles sont célébrées pour leur engagement inébranlable envers le christianisme et sont considérées comme des symboles de force et de fidélité dans la foi.",
+      "image": "/images/saints_felicitas_perpetua_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Perpetua_and_Felicity"
+    }
+  ]
+}

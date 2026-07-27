@@ -1,0 +1,20 @@
+{
+  "date": "06-04",
+  "feast_day": "4 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francisco Caracciolo",
+      "feast_day": "4 de junio",
+      "era": "Siglo XVI",
+      "patronage": [
+        "enfermos",
+        "marineros"
+      ],
+      "legacy": "Fundador de la Orden de los Clérigos Regulares Menores",
+      "summary": "Francisco Caracciolo nació en 1563 en Nápoles y se convirtió en una figura destacada de la Iglesia católica como fundador de la Orden de los Clérigos Regulares Menores. Tras superar una grave enfermedad, dedicó su vida a servir a los pobres y a promover la devoción al Santísimo Sacramento. Es recordado por su profunda espiritualidad y su compromiso con la oración, especialmente ante la Eucaristía, hasta su muerte en 1608.",
+      "image": "/images/saint_francis_caracciolo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Caracciolo"
+    }
+  ]
+}

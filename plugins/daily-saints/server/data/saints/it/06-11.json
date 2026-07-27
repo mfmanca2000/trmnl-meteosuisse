@@ -1,0 +1,21 @@
+{
+  "date": "06-11",
+  "feast_day": "11 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Barnaba",
+      "feast_day": "11 giugno",
+      "era": "I secolo",
+      "patronage": [
+        "Cipro",
+        "missionari",
+        "consolatori"
+      ],
+      "legacy": "Apostolo dei Gentili e martire",
+      "summary": "Barnaba fu un discepolo e apostolo del primo cristianesimo, noto per il suo ruolo nella diffusione del Vangelo. È riconosciuto per la sua collaborazione con san Paolo nei viaggi missionari e per il suo impegno nella fondazione della Chiesa ad Antiochia. Barnaba divenne infine il primo vescovo di Milano e fu martirizzato per la sua fede intorno all'anno 61.",
+      "image": "/images/saint_barnabas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barnabas"
+    }
+  ]
+}

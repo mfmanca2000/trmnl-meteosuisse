@@ -1,0 +1,35 @@
+{
+  "date": "02-06",
+  "feast_day": "6 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Tite",
+      "feast_day": "6 février",
+      "era": "Ier siècle",
+      "patronage": [
+        "Crète",
+        "clergé",
+        "administrateurs"
+      ],
+      "legacy": "Artisan de paix et fidèle disciple de Paul",
+      "summary": "Saint Tite était un converti de langue grecque et disciple de saint Paul, qu'il accompagna dans diverses missions apostoliques. Il joua un rôle crucial pour résoudre les problèmes au sein de l'Église de Corinthe et fut ensuite nommé évêque de Crète. Son héritage se caractérise par ses talents d'administrateur et sa capacité à inspirer respect et joie parmi les fidèles.",
+      "image": "/images/saint_titus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Titus"
+    },
+    {
+      "name": "Dorothée",
+      "feast_day": "6 février",
+      "era": "Début du IVe siècle",
+      "patronage": [
+        "jardiniers",
+        "fleuristes",
+        "vierges"
+      ],
+      "legacy": "Martyre et dons miraculeux de fleurs",
+      "summary": "Sainte Dorothée était une jeune vierge et martyre de Césarée de Cappadoce, connue pour sa foi inébranlable durant la persécution de Dioclétien. Elle affronta la torture et l'exécution avec joie, incitant d'autres à revenir au christianisme par sa constance. Son héritage comprend l'envoi miraculeux de pommes et de roses à son persécuteur, symbolisant son lien avec le divin et son rôle de patronne des jardiniers et des fleuristes.",
+      "image": "/images/saint_dorothy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_of_Caesarea"
+    }
+  ]
+}

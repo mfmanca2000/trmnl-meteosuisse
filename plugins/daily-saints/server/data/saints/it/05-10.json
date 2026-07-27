@@ -1,0 +1,31 @@
+{
+  "date": "05-10",
+  "feast_day": "10 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Isidoro di Madrid",
+      "feast_day": "10 maggio",
+      "era": "XII secolo",
+      "patronage": null,
+      "legacy": "Confessore",
+      "summary": "Sant'Isidoro l'Agricoltore, santo da sempre molto popolare in Spagna, nacque presso Madrid da genitori assai poveri ma assai cristiani, che fin da presto gli ispirarono l'amore di Dio e l'orrore del peccato. La sua educazione fu opera interamente dello Spirito Santo, che gli insegnò, senza libri, la scienza della salvezza. Sposò una donna ricca di virtù, Maria Torribia, e Dio li benedisse con un figlio che educarono negli stessi sentimenti della loro pietà.",
+      "image": "/images/saint_isidore_of_madrid.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Antonino",
+      "feast_day": "10 maggio",
+      "era": "XV secolo",
+      "patronage": [
+        "poveri",
+        "clero",
+        "Ordine domenicano"
+      ],
+      "legacy": "Un campione dei poveri e dei bisognosi.",
+      "summary": "Sant'Antonino fu arcivescovo di Firenze, noto per il suo profondo impegno verso i poveri e per i suoi scritti teologici. Entrò nell'Ordine domenicano in giovane età e divenne celebre per la sua prudenza e saggezza, guadagnandosi il titolo di 'Padre dei poveri'. La sua vita fu segnata da atti di carità, tra cui la donazione dei propri beni a chi era nel bisogno.",
+      "image": "/images/saint_antoninus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Antoninus_of_Florence"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "08-11",
+  "feast_day": "11 de agosto",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Filomena",
+      "feast_day": "11 de agosto",
+      "era": "Siglo III",
+      "patronage": [
+        "niños",
+        "causas perdidas",
+        "vírgenes"
+      ],
+      "legacy": "Protectora de los niños y obradora de milagros",
+      "summary": "Santa Filomena es una virgen y mártir que se cree murió en el siglo III bajo el emperador romano Diocleciano. Su tumba fue descubierta a comienzos del siglo XIX, lo que suscitó un aumento de la devoción y testimonios de milagros atribuidos a su intercesión. Es venerada especialmente como protectora de los niños y conocida por sus obras milagrosas, lo que le valió el título de taumaturga del siglo XIX.",
+      "image": "/images/saint_philomena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philomena"
+    },
+    {
+      "name": "Tiburcio",
+      "feast_day": "11 de agosto",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Martirio por una fe inquebrantable en Dios",
+      "summary": "San Tiburcio fue un mártir cristiano, hijo del prefecto romano Agrestio Cromacio. Fue bautizado junto con su padre y más tarde ordenado subdiácono, conocido por sus actos milagrosos, entre ellos resucitar a un muerto. Tiburcio fue finalmente martirizado durante la persecución de Diocleciano por su fe inquebrantable en Dios.",
+      "image": "/images/saint_tiburtius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Tiburtius"
+    },
+    {
+      "name": "Susana",
+      "feast_day": "11 de agosto",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Valerosa mártir de los primeros tiempos del cristianismo",
+      "summary": "Santa Susana fue una noble virgen romana y mártir, conocida por su firme compromiso con su voto de castidad. Se negó a casarse con Maximiano, el favorito del emperador Diocleciano, y fue posteriormente arrestada y ejecutada por su fe. Su legado es honrado en la tradición cristiana, especialmente por su valentía y su dedicación a Dios frente a la persecución.",
+      "image": "/images/saint_susanna.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Susanna"
+    }
+  ]
+}

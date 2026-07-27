@@ -1,0 +1,31 @@
+{
+  "date": "06-02",
+  "feast_day": "2 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie de l'Incarnation",
+      "feast_day": "2 juin",
+      "era": "17e siècle",
+      "patronage": [
+        "Canada",
+        "missionnaires",
+        "veuves"
+      ],
+      "legacy": "Pionnière de l'Église en Nouvelle-France",
+      "summary": "Marie de l'Incarnation était une veuve française et religieuse ursuline qui devint l'une des premières religieuses à se rendre au Canada pour y accomplir un travail missionnaire. Elle consacra sa vie à l'enseignement des jeunes filles autochtones et rédigea des dictionnaires pour faciliter la communication et la catéchèse. Son héritage de pionnière de l'Église en Nouvelle-France et de modèle de sainteté continue d'inspirer de nombreuses personnes.",
+      "image": "/images/saint_mary_of_the_incarnation.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_of_the_Incarnation_(Ursuline)"
+    },
+    {
+      "name": "Pothin",
+      "feast_day": "2 juin",
+      "era": "2e siècle",
+      "patronage": null,
+      "legacy": "Martyre et foi dans les débuts du christianisme",
+      "summary": "Saint Pothin fut évêque de Lyon durant les premières persécutions chrétiennes de l'Empire romain. Il fut martyrisé vers 177 après J.-C., endurant de sévères tortures malgré son grand âge, en raison de sa foi. Sa constance et son zèle pour le Christ inspirèrent de nombreux fidèles, dont son successeur, saint Irénée.",
+      "image": "/images/sts_pothinus_blandina_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Pothinus"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-19",
+  "feast_day": "19 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincent de Paul",
+      "feast_day": "19 juillet",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "charité",
+        "bénévoles",
+        "personnel hospitalier"
+      ],
+      "legacy": "Champion des pauvres et des marginalisés",
+      "summary": "Vincent de Paul fut un prêtre français connu pour son profond engagement au service des pauvres et des marginalisés. Il fonda la Congrégation de la Mission et les Filles de la Charité, qui continuent aujourd'hui de servir les personnes dans le besoin. Sa vie illustra l'appel chrétien à la charité et à l'humilité, faisant de lui une figure bien-aimée du catholicisme.",
+      "image": "/images/saint_vincent_de_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_de_Paul"
+    }
+  ]
+}

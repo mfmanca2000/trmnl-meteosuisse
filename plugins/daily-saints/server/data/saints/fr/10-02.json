@@ -1,0 +1,21 @@
+{
+  "date": "10-02",
+  "feast_day": "2 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anges gardiens",
+      "feast_day": "2 octobre",
+      "era": null,
+      "patronage": [
+        "enfants",
+        "voyageurs",
+        "malades"
+      ],
+      "legacy": "Protecteurs divins de chaque personne",
+      "summary": "Les anges gardiens sont considérés comme des êtres célestes chargés de protéger et de guider chaque personne tout au long de sa vie. Selon la doctrine chrétienne, chaque être humain se voit attribuer un ange gardien dès sa naissance, qui veille sur lui et intercède en sa faveur. L'existence des anges gardiens est un dogme de la foi chrétienne, soulignant leur rôle dans la protection des fidèles.",
+      "image": "/images/the_holy_guardian_angels.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guardian_angel"
+    }
+  ]
+}

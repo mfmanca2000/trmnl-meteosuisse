@@ -1,0 +1,21 @@
+{
+  "date": "07-18",
+  "feast_day": "18 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Camillo de Lellis",
+      "feast_day": "18 luglio",
+      "era": "XVI secolo",
+      "patronage": [
+        "malati",
+        "infermieri",
+        "personale ospedaliero"
+      ],
+      "legacy": "Servitore compassionevole dei malati",
+      "summary": "San Camillo de Lellis fu il fondatore dei Chierici Regolari Ministri degli Infermi, un ordine religioso dedicato alla cura dei malati e dei bisognosi. Dopo una gioventù turbolenta segnata dal gioco d'azzardo e dal servizio militare, visse una profonda conversione che lo portò a dedicare la propria vita al servizio dei malati. È ricordato per la sua compassione e per il suo instancabile impegno negli ospedali, specialmente durante i periodi di carestia e peste.",
+      "image": "/images/saint_camillus_of_lellis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Camillus_de_Lellis"
+    }
+  ]
+}

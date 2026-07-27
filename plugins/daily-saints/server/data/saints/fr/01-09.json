@@ -1,0 +1,21 @@
+{
+  "date": "01-09",
+  "feast_day": "9 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Julien",
+      "feast_day": "9 janvier",
+      "era": "IVe siècle",
+      "patronage": [
+        "hôpitaux",
+        "malades",
+        "martyrs"
+      ],
+      "legacy": "Patron des hôpitaux et des malades",
+      "summary": "Saint Julien, connu sous le nom de l'Hospitalier, était un martyr qui vécut en Égypte au début du IVe siècle. Avec son épouse Basilisse, il consacra sa vie à la charité, transformant leur demeure en hôpital pour les pauvres et les malades. Après avoir enduré la persécution pour sa foi, Julien fut finalement martyrisé en 313, et son tombeau devint le lieu de nombreux miracles.",
+      "image": "/images/saint_julian_martyr_and_saint_basilissa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julian_the_Hospitaller"
+    }
+  ]
+}

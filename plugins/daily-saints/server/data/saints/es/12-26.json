@@ -1,0 +1,21 @@
+{
+  "date": "12-26",
+  "feast_day": "26 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Esteban",
+      "feast_day": "26 de diciembre",
+      "era": "Siglo I",
+      "patronage": [
+        "diáconos",
+        "canteros",
+        "sombrereros"
+      ],
+      "legacy": "Primer mártir y diácono de la Iglesia",
+      "summary": "San Esteban es reconocido como el primer mártir cristiano, conocido por su fe inquebrantable y su elocuente defensa de Jesucristo. Fue uno de los siete diáconos designados por los Apóstoles para ayudar en las obras de caridad y estaba lleno del Espíritu Santo. Su audaz proclamación del Evangelio lo llevó al martirio por lapidación, convirtiéndolo en una figura destacada del cristianismo primitivo.",
+      "image": "/images/saint_stephen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen"
+    }
+  ]
+}

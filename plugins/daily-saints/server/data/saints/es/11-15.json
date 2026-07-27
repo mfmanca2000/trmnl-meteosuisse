@@ -1,0 +1,21 @@
+{
+  "date": "11-15",
+  "feast_day": "15 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Alberto Magno",
+      "feast_day": "15 de noviembre",
+      "era": "Medieval",
+      "patronage": [
+        "los científicos",
+        "los filósofos",
+        "los estudiantes"
+      ],
+      "legacy": "Pionero de la integración entre ciencia y teología",
+      "summary": "Alberto Magno fue un reconocido teólogo y filósofo del siglo XIII, conocido por sus extensos escritos sobre las ciencias naturales, la filosofía y la teología. Fue mentor de santo Tomás de Aquino y desempeñó un papel importante en el desarrollo de la escolástica. Canonizado en 1931 y declarado Doctor de la Iglesia, es celebrado por sus contribuciones tanto a la fe como a la razón.",
+      "image": "/images/saint_albert_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albert_the_Great"
+    }
+  ]
+}

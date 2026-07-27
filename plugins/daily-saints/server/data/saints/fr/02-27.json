@@ -1,0 +1,44 @@
+{
+  "date": "02-27",
+  "feast_day": "27 février",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Gabriel de Notre-Dame des Douleurs",
+      "feast_day": "27 février",
+      "era": "XIXe siècle",
+      "patronage": [
+        "jeunesse",
+        "jeunes religieux"
+      ],
+      "legacy": "Un modèle de dévotion et de piété juvéniles.",
+      "summary": "Saint Gabriel de Notre-Dame des Douleurs était un prêtre passionniste connu pour sa profonde dévotion envers la Vierge Marie et la Passion du Christ. Il mena une vie de contemplation et de renoncement à soi, se consacrant à la prière et à l'union avec Dieu. Malgré sa courte vie, il fut canonisé pour sa sainteté héroïque et est reconnu comme patron de la jeunesse et des jeunes religieux.",
+      "image": "/images/saint_gabriel_of_our_lady_of_sorrows.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows"
+    },
+    {
+      "name": "Léandre de Séville",
+      "feast_day": "27 février",
+      "era": "VIe siècle",
+      "patronage": [
+        "Espagne",
+        "les Wisigoths",
+        "conversions"
+      ],
+      "legacy": "Champion de la foi et de l'unité en Espagne",
+      "summary": "Saint Léandre fut un influent archevêque de Séville au VIe siècle, connu pour son rôle dans la conversion des Wisigoths de l'arianisme au catholicisme. Il joua un rôle déterminant dans la conversion de son neveu, saint Herménégild, et aida plus tard le roi Récarède à embrasser la foi catholique, ce qui conduisit à l'unification des Suèves et des Wisigoths sous le catholicisme. Son héritage comprend l'introduction du Credo de Nicée dans la liturgie d'Espagne, qui finit par se répandre dans toute l'Église.",
+      "image": "/images/saint_leander.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leander_of_Seville"
+    },
+    {
+      "name": "Marie de Jésus Deluil-Martiny",
+      "feast_day": "27 février",
+      "era": "XIXe siècle",
+      "patronage": null,
+      "legacy": "Fondatrice des Filles du Cœur de Jésus",
+      "summary": "Marie de Jésus Deluil-Martiny était une religieuse française et la fondatrice des Filles du Cœur de Jésus, une congrégation religieuse dédiée à l'adoration du Sacré-Cœur de Jésus. Née à Marseille en 1841, elle manifesta dès son plus jeune âge une remarquable profondeur spirituelle et un sens du leadership, ce qui la conduisit à fonder sa congrégation en 1873. Sa vie fut marquée par des épreuves personnelles et un profond engagement dans la prière et le sacrifice pour la gloire de Dieu et la sanctification des prêtres.",
+      "image": "/images/saint_mary_of_jesus_deluil-martiny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_Deluil-Martiny"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "11-01",
+  "feast_day": "1 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tutti i Santi",
+      "feast_day": "1 novembre",
+      "era": null,
+      "patronage": null,
+      "legacy": "Celebrazione di tutti i santi uomini e donne",
+      "summary": "Il giorno di Ognissanti è una festa cristiana celebrata in onore di tutti i santi, noti e sconosciuti. Serve a ricordare la comunione dei santi e l'importanza dell'intercessione nella fede cristiana. La festa si celebra il 1° novembre ed è un giorno di precetto per i cattolici.",
+      "image": "/images/all_saints_day.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/All_Saints%27_Day"
+    }
+  ]
+}

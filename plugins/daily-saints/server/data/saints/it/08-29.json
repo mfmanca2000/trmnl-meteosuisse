@@ -1,0 +1,21 @@
+{
+  "date": "08-29",
+  "feast_day": "29 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni Battista",
+      "feast_day": "29 agosto",
+      "era": "I secolo",
+      "patronage": [
+        "battesimo",
+        "conversioni",
+        "pittori"
+      ],
+      "legacy": "Precursore di Cristo e martire",
+      "summary": "Giovanni Battista è riconosciuto come il precursore di Gesù Cristo, che ne annunciò la venuta e invitò al pentimento. Condusse una vita austera nel deserto, sottolineando la necessità della purificazione spirituale attraverso il battesimo. La sua coraggiosa condanna delle azioni immorali di Erode portò infine al suo martirio per decapitazione.",
+      "image": "/images/the_beheading_of_saint_john_the_baptist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Baptist"
+    }
+  ]
+}

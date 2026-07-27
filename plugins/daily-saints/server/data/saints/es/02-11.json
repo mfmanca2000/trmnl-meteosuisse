@@ -1,0 +1,35 @@
+{
+  "date": "02-11",
+  "feast_day": "11 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nuestra Señora de Lourdes",
+      "feast_day": "11 de febrero",
+      "era": "Moderna",
+      "patronage": [
+        "enfermos",
+        "personal hospitalario",
+        "males corporales"
+      ],
+      "legacy": "Un símbolo de sanación y esperanza",
+      "summary": "Nuestra Señora de Lourdes se refiere a las apariciones de la Santísima Virgen María a Bernadette Soubirous en 1858 en Lourdes, Francia. Durante estas apariciones, María se identificó como la Inmaculada Concepción, confirmando el dogma proclamado por el papa Pío IX en 1854. El lugar se ha convertido desde entonces en un importante destino de peregrinación, conocido por curaciones milagrosas y una profunda devoción a María como Madre de Dios.",
+      "image": "/images/our_lady_of_lourdes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Lourdes"
+    },
+    {
+      "name": "Severino",
+      "feast_day": "11 de febrero",
+      "era": "Comienzos del siglo VI",
+      "patronage": [
+        "sanadores",
+        "los enfermos",
+        "monjes"
+      ],
+      "legacy": "Taumaturgo y santo abad",
+      "summary": "San Severino fue un abad de Borgoña que dedicó su vida a Dios en el monasterio de Agaunum. Se hizo conocido por sus curaciones milagrosas, incluida la del rey Clodoveo de Francia. Tras su muerte en 507, fue venerado como santo, y su legado continúa a través de la Abadía de San Severino.",
+      "image": "/images/saint_severinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Severinus"
+    }
+  ]
+}

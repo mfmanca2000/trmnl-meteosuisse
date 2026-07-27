@@ -1,0 +1,21 @@
+{
+  "date": "09-30",
+  "feast_day": "30 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Girolamo",
+      "feast_day": "30 settembre",
+      "era": "IV-V secolo",
+      "patronage": [
+        "studenti",
+        "biblioteche",
+        "traduttori"
+      ],
+      "legacy": "Padre dell'esegesi biblica e della traduzione",
+      "summary": "San Girolamo fu un eminente studioso e traduttore dei primi tempi cristiani, noto soprattutto per la sua traduzione latina della Bibbia, chiamata Vulgata. Trascorse molti anni in solitudine, studiando e scrivendo nei deserti della Siria e successivamente a Betlemme, dove produsse una vasta quantità di opere teologiche. I suoi contributi all'esegesi biblica e la sua difesa contro le eresie ne hanno fatto un Dottore della Chiesa e una figura significativa nella storia cristiana.",
+      "image": "/images/saint_jerome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerome"
+    }
+  ]
+}

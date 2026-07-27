@@ -1,0 +1,32 @@
+{
+  "date": "03-31",
+  "feast_day": "31 de marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nicolás de Flüe",
+      "feast_day": "31 de marzo",
+      "era": "siglo XV",
+      "patronage": [
+        "Suiza",
+        "los ermitaños",
+        "la paz",
+        "la espiritualidad"
+      ],
+      "legacy": "Un faro de paz y espiritualidad",
+      "summary": "Nicolás de Flüe fue un ermitaño y místico suizo que dejó a su familia y sus posesiones para dedicar su vida a Dios. Se hizo conocido por su profunda espiritualidad y sabiduría, atrayendo a numerosos visitantes en busca de su consejo. Sus esfuerzos ayudaron a prevenir una guerra civil en Suiza, y es venerado por su papel en la promoción de la paz y la unidad.",
+      "image": "/images/saint_nicholas_of_flue.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Fl%C3%BCe"
+    },
+    {
+      "name": "Benjamín",
+      "feast_day": "31 de marzo",
+      "era": "siglo V",
+      "patronage": null,
+      "legacy": "Martirio por la fe y el valor",
+      "summary": "San Benjamín fue un diácono y mártir que vivió a principios del siglo V en Persia. Predicó valientemente la fe cristiana a pesar de la severa persecución bajo el rey Isdegerdes, que buscaba erradicar el cristianismo en su reino. Tras soportar brutales torturas por su compromiso inquebrantable con Cristo, finalmente murió por su fe alrededor del año 424.",
+      "image": "/images/saint_benjamin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_the_Deacon_and_Martyr"
+    }
+  ]
+}

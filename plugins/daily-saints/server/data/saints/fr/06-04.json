@@ -1,0 +1,20 @@
+{
+  "date": "06-04",
+  "feast_day": "4 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "François Caracciolo",
+      "feast_day": "4 juin",
+      "era": "16e siècle",
+      "patronage": [
+        "malades",
+        "marins"
+      ],
+      "legacy": "Fondateur de l'Ordre des Clercs mineurs réguliers",
+      "summary": "François Caracciolo naquit en 1563 à Naples et devint une figure marquante de l'Église catholique en tant que fondateur de l'Ordre des Clercs mineurs réguliers. Après avoir surmonté une grave maladie, il consacra sa vie au service des pauvres et à la promotion de la dévotion au Saint-Sacrement. Il est resté dans les mémoires pour sa profonde spiritualité et son engagement dans la prière, en particulier devant l'Eucharistie, jusqu'à sa mort en 1608.",
+      "image": "/images/saint_francis_caracciolo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Caracciolo"
+    }
+  ]
+}

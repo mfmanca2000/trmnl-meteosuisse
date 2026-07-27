@@ -1,0 +1,22 @@
+{
+  "date": "06-08",
+  "feast_day": "8 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Medardo",
+      "feast_day": "8 giugno",
+      "era": "VI secolo",
+      "patronage": [
+        "agricoltori",
+        "meteo",
+        "poveri",
+        "contro il maltempo"
+      ],
+      "legacy": "Vescovo compassionevole e taumaturgo",
+      "summary": "San Medardo fu vescovo di Noyon e Tournai nel VI secolo, noto per la sua profonda compassione verso i poveri e per le sue opere miracolose. Svolse un ruolo significativo nella conversione dei Franchi e contribuì all'affermazione del cristianesimo nella sua regione. Il suo lascito è segnato dalla dedizione alla carità e dall'impegno costante nei suoi doveri pastorali, nonostante le numerose difficoltà affrontate.",
+      "image": "/images/saint_medard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Medard"
+    }
+  ]
+}

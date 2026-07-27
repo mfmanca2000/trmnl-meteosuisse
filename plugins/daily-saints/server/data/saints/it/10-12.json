@@ -1,0 +1,34 @@
+{
+  "date": "10-12",
+  "feast_day": "12 ottobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jeanne Le Ber",
+      "feast_day": "12 ottobre",
+      "era": "XVII secolo",
+      "patronage": [
+        "recluse",
+        "contemplativi"
+      ],
+      "legacy": "Un modello di preghiera contemplativa e di servizio.",
+      "summary": "La beata Jeanne Le Ber fu una reclusa canadese nota per la sua profonda vita contemplativa e la sua dedizione alla preghiera. Visse una vita di rigorosa povertà e servizio, confezionando paramenti e decorazioni d'altare per le chiese di Montreal. L'impegno di Jeanne nella fede e il suo ruolo di guida spirituale lasciarono un'eredità duratura nella comunità cattolica canadese.",
+      "image": "/images/blessed_jeanne_leber.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jeanne_Le_Ber"
+    },
+    {
+      "name": "Wilfrido",
+      "feast_day": "12 ottobre",
+      "era": "VII secolo",
+      "patronage": [
+        "York",
+        "guide spirituali",
+        "monaci"
+      ],
+      "legacy": "Difensore del cattolicesimo romano in Inghilterra",
+      "summary": "Wilfrido fu un influente arcivescovo di York che ebbe un ruolo chiave nell'allineare la Chiesa inglese alle pratiche romane. Fondò diversi monasteri ed era noto per il suo strenuo sostegno alla disciplina e alla dottrina cattolica romana. Nonostante l'esilio e la prigionia, rimase fermo nella sua missione di riformare la Chiesa in Inghilterra fino alla sua morte, avvenuta nel 709.",
+      "image": "/images/saint_wilfrid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wilfrid_of_York"
+    }
+  ]
+}

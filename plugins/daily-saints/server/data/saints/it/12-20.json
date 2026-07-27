@@ -1,0 +1,31 @@
+{
+  "date": "12-20",
+  "feast_day": "20 dicembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Domenico di Silos",
+      "feast_day": "20 dicembre",
+      "era": "XI secolo",
+      "patronage": [
+        "prigionieri",
+        "schiavi",
+        "l'Ordine di Nostra Signora della Mercede"
+      ],
+      "legacy": "Restauratore della vita monastica",
+      "summary": "San Domenico di Silos fu un abate benedettino dell'XI secolo, noto per la sua profonda spiritualità e il suo impegno nel restaurare il proprio monastero. Era rinomato per le sue guarigioni miracolose e i suoi atti di carità, in particolare verso i sofferenti e i prigionieri tenuti dai Mori. Il suo lascito comprende l'ispirazione che diede all'Ordine di Nostra Signora della Mercede, fondato per aiutare i cristiani in cattività.",
+      "image": "/images/saint_dominic_of_silos.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_of_Silos"
+    },
+    {
+      "name": "Filogonio",
+      "feast_day": "20 dicembre",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede e dell'integrità",
+      "summary": "San Filogonio fu vescovo di Antiochia agli inizi del IV secolo, noto per la sua eloquenza e integrità. Svolse un ruolo importante nella difesa della fede cattolica durante il Concilio di Nicea contro l'eresia ariana. La sua fermezza di fronte alla persecuzione gli valse il titolo di Confessore, ed è ricordato per il suo profondo impegno verso la Chiesa e i suoi insegnamenti.",
+      "image": "/images/saint_philogonius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philogonius_of_Antioch"
+    }
+  ]
+}

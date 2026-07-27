@@ -1,0 +1,21 @@
+{
+  "date": "11-23",
+  "feast_day": "23 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Clemente de Roma",
+      "feast_day": "23 de noviembre",
+      "era": "siglo I",
+      "patronage": [
+        "los marineros",
+        "los niños enfermos",
+        "los falsamente acusados"
+      ],
+      "legacy": "Líder de la Iglesia primitiva y mártir",
+      "summary": "Clemente de Roma fue un destacado líder cristiano de los primeros tiempos y el cuarto papa, sucediendo a san Lino. Es conocido por sus esfuerzos para restaurar la paz y el orden dentro de la Iglesia, particularmente a través de su influyente Epístola a los Corintios. Su liderazgo durante una época de persecución y discordia interna consolidó su legado como mártir y figura clave de la Iglesia primitiva.",
+      "image": "/images/saint_clement_i_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clement_of_Rome"
+    }
+  ]
+}

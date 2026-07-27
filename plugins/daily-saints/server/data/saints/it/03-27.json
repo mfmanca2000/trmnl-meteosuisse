@@ -1,0 +1,31 @@
+{
+  "date": "03-27",
+  "feast_day": "27 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni Damasceno",
+      "feast_day": "27 marzo",
+      "era": "VIII secolo",
+      "patronage": [
+        "i teologi",
+        "i pittori di icone",
+        "i musicisti"
+      ],
+      "legacy": "Difensore delle icone e del pensiero teologico",
+      "summary": "Giovanni Damasceno fu un importante teologo e Dottore della Chiesa nell'VIII secolo, noto per la sua difesa della venerazione delle icone durante la controversia iconoclasta. Servì come ministro alla corte del Califfo di Damasco prima di ritirarsi in un monastero, dove dedicò la sua vita alla scrittura e alla preghiera. Le sue opere influenzarono in modo significativo la teologia cristiana, in particolare nei campi dell'apologetica e del rapporto tra fede e ragione.",
+      "image": "/images/saint_john_damascene.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Damascus"
+    },
+    {
+      "name": "Giovanni d'Egitto",
+      "feast_day": "27 marzo",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Modello di solitudine e obbedienza",
+      "summary": "Giovanni d'Egitto fu un monaco solitario noto per il suo profondo impegno per la preghiera e l'obbedienza. Dopo aver lasciato la sua vita di carpentiere, si ritirò nel deserto dove si guadagnò una reputazione per i suoi doni spirituali, tra cui la guarigione e la profezia. È ricordato per i suoi insegnamenti sull'umiltà e sui pericoli della vanità, oltre che per la sua fede incrollabile in Dio fino alla sua morte nel 394.",
+      "image": "/images/saint_john_of_egypt.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Egypt"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "11-11",
+  "feast_day": "11 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Martin de Tours",
+      "feast_day": "11 novembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "soldats",
+        "chevaux",
+        "vignerons",
+        "mendiants"
+      ],
+      "legacy": "Apôtre des Gaules et modèle de charité",
+      "summary": "Martin de Tours était un évêque du IVe siècle connu pour son œuvre missionnaire en Gaule. Il est célèbre pour son geste de charité où il partagea son manteau avec un mendiant, ce qui donna lieu à une vision du Christ. Ses efforts d'évangélisation et de conversion de la population païenne lui valurent le titre de Lumière et Apôtre des Gaules.",
+      "image": "/images/saint_martin_of_tours.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Tours"
+    }
+  ]
+}

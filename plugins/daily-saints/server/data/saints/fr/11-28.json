@@ -1,0 +1,34 @@
+{
+  "date": "11-28",
+  "feast_day": "28 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catherine Labouré",
+      "feast_day": "28 novembre",
+      "era": "XIXe siècle",
+      "patronage": [
+        "les malades",
+        "les médailles",
+        "les miracles"
+      ],
+      "legacy": "Visionnaire de la Médaille miraculeuse",
+      "summary": "Catherine Labouré était une religieuse et visionnaire française connue pour ses apparitions de la Vierge Marie. En 1830, elle reçut une vision qui conduisit à la création de la Médaille miraculeuse, devenue depuis un symbole de foi et de dévotion. Sa vie fut consacrée au service des pauvres et des personnes âgées, et on se souvient d'elle pour sa profonde spiritualité et son engagement envers sa communauté religieuse.",
+      "image": "/images/saint_catherine_laboure.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+    },
+    {
+      "name": "Jacques de la Marche",
+      "feast_day": "28 novembre",
+      "era": "XVe siècle",
+      "patronage": [
+        "malades",
+        "prédicateurs"
+      ],
+      "legacy": "Un prédicateur dévoué et faiseur de miracles.",
+      "summary": "Jacques de la Marche d'Ancône était un prêtre franciscain connu pour sa profonde spiritualité et son engagement envers la prière. Il consacra sa vie à la prédication et accomplit de nombreux miracles, convertissant de nombreux cœurs à Dieu à travers l'Europe. Malgré la persécution et la maladie, il resta fidèle à sa foi jusqu'à sa mort en 1476.",
+      "image": "/images/saint_james_of_the_march_of_ancona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_of_the_Marches"
+    }
+  ]
+}

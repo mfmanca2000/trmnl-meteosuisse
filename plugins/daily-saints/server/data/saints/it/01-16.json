@@ -1,0 +1,40 @@
+{
+  "date": "01-16",
+  "feast_day": "16 gennaio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Marcello",
+      "feast_day": "16 gennaio",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Guida papale durante la persecuzione dei primi cristiani",
+      "summary": "San Marcello fu papa in un periodo tumultuoso per la Chiesa primitiva, che affrontava una severa persecuzione sotto l'imperatore Diocleziano. Riorganizzò la struttura della Chiesa, istituendo le parrocchie per servire meglio i fedeli e rispondere ai bisogni della comunità cristiana in crescita. Fu infine martirizzato per la sua guida risoluta e il suo impegno nel mantenere la disciplina della Chiesa di fronte alle sfide dell'apostasia.",
+      "image": "/images/saint_marcellus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcellus_I"
+    },
+    {
+      "name": "Stefania Quinzani",
+      "feast_day": "16 gennaio",
+      "era": "XV secolo",
+      "patronage": null,
+      "legacy": "Una vita di sofferenza e servizio",
+      "summary": "La beata Stefania Quinzani nacque nel 1457 in Italia e dedicò la propria vita a Dio fin da giovane età. Divenne membro del Terz'Ordine di san Domenico, sopportando grandi sofferenze fisiche e spirituali per tutta la vita. Nota per le sue esperienze mistiche e le opere di misericordia, fondò un monastero a Soncino e fu beatificata nel 1740 grazie ai miracoli attribuiti alla sua intercessione.",
+      "image": "/images/blessed_stephanie_quinzani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_Quinzani"
+    },
+    {
+      "name": "Onorato",
+      "feast_day": "16 gennaio",
+      "era": "V secolo",
+      "patronage": [
+        "monaci",
+        "eremiti"
+      ],
+      "legacy": "Fondatore del monastero di Lerino",
+      "summary": "Sant'Onorato fu una figura di rilievo nel primo cristianesimo, noto per aver fondato il celebre monastero di Lerino intorno all'anno 400. Visse inizialmente come eremita prima di essere chiamato a servire come arcivescovo di Arles nel 426. La sua vita fu segnata da austerità, devozione e impegno nel guidare gli altri nella fede cristiana.",
+      "image": "/images/saint_honoratus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Honoratus_of_Arles"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "03-21",
+  "feast_day": "21 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Benedetto",
+      "feast_day": "21 marzo",
+      "era": "VI secolo",
+      "patronage": [
+        "i monaci",
+        "l'Europa",
+        "gli studenti",
+        "gli agricoltori"
+      ],
+      "legacy": "Padre del monachesimo occidentale",
+      "summary": "San Benedetto è noto come il Padre del monachesimo occidentale, avendo istituito la Regola di San Benedetto, che divenne il fondamento della vita monastica nella Chiesa d'Occidente. Fuggì nel deserto per sfuggire al degrado morale di Roma e visse da eremita prima di fondare diversi monasteri. La sua vita fu segnata da miracoli e un profondo impegno per la preghiera e la vita comunitaria, influenzando innumerevoli monaci e lo sviluppo del monachesimo in Europa.",
+      "image": "/images/saint_benedict.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_of_Nursia"
+    }
+  ]
+}

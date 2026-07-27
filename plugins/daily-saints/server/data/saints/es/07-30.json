@@ -1,0 +1,31 @@
+{
+  "date": "07-30",
+  "feast_day": "30 de julio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Abdón y Senén",
+      "feast_day": "30 de julio",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Mártires de fe y valentía inquebrantables",
+      "summary": "Los santos Abdón y Senén fueron dignatarios persas que abrazaron secretamente el cristianismo durante el reinado del emperador Decio. Fueron martirizados por su fe tras negarse a sacrificar a los dioses paganos, demostrando una devoción inquebrantable a Cristo. Sus restos fueron descubiertos más tarde y honrados en las catacumbas, simbolizando su perdurable legado como testigos de la fe.",
+      "image": "/images/saints_abdon_and_sennen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Abdon_and_Sennen"
+    },
+    {
+      "name": "Germán de Auxerre",
+      "feast_day": "30 de julio",
+      "era": "Siglo V",
+      "patronage": [
+        "Inglaterra",
+        "contra la herejía",
+        "maestros"
+      ],
+      "legacy": "Defensor de la fe y educador en Britania",
+      "summary": "Germán de Auxerre fue un obispo del siglo V conocido por su firme oposición a la herejía pelagiana en Britania. Tras ser consagrado obispo, dedicó su vida a la penitencia y a la realización de milagros, atrayendo a muchos que buscaban su ayuda. También estableció escuelas en Britania, contribuyendo significativamente a la educación y la formación espiritual del pueblo.",
+      "image": "/images/saint_germanus_of_auxerre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germanus_of_Auxerre"
+    }
+  ]
+}

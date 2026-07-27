@@ -1,0 +1,17 @@
+{
+  "date": "03-14",
+  "feast_day": "14 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Matilde",
+      "feast_day": "14 de marzo",
+      "era": "siglo X",
+      "patronage": null,
+      "legacy": "Emperatriz",
+      "summary": "Esta princesa, la mayor gloria de su noble familia, era hija de Teodorico, un poderoso conde sajón, y de Reinhilde, princesa de Dinamarca. Sus padres la ingresaron muy joven en el monasterio de Erfort, del cual su abuela Maude había llegado a ser abadesa. La joven se convirtió en aquella casa en un modelo consumado de todas las virtudes y de las artes domésticas.",
+      "image": "/images/saint_mathilda.jpg",
+      "wikipedia": null
+    }
+  ]
+}

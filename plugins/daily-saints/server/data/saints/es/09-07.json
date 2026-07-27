@@ -1,0 +1,20 @@
+{
+  "date": "09-07",
+  "feast_day": "7 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Clodoaldo",
+      "feast_day": "7 de septiembre",
+      "era": "Siglo VI",
+      "patronage": [
+        "ermitaños",
+        "monjes"
+      ],
+      "legacy": "Un modelo de devoción monástica y caridad.",
+      "summary": "San Clodoaldo, también conocido como Cloud, fue un príncipe merovingio que renunció a su herencia real para llevar una vida de piedad y servicio a Dios. Tras presenciar la trágica muerte de sus hermanos, se consagró a la vida monástica y se convirtió en un venerado líder espiritual. Fundó un monasterio en Nogent, donde guio a muchos fieles hasta su muerte en el año 560.",
+      "image": "/images/saint_cloud_or_clodoald.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clodoald"
+    }
+  ]
+}

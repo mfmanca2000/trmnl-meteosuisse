@@ -1,0 +1,17 @@
+{
+  "date": "10-26",
+  "feast_day": "26 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Evaristo",
+      "feast_day": "26 de octubre",
+      "era": "Siglo I",
+      "patronage": null,
+      "legacy": "Líder pionero de la Iglesia primitiva",
+      "summary": "San Evaristo fue un papa y mártir que sirvió como obispo de Roma durante los primeros años de la Iglesia cristiana. Es conocido por haber organizado la estructura de la Iglesia al nombrar a siete diáconos y promover a diversos miembros del clero en medio de las persecuciones de la época. Evaristo finalmente entregó su vida por su fe, siendo martirizado y sepultado cerca de san Pedro en el Vaticano.",
+      "image": "/images/saint_evaristus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Evaristus"
+    }
+  ]
+}

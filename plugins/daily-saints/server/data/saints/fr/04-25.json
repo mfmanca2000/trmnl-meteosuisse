@@ -1,0 +1,17 @@
+{
+  "date": "04-25",
+  "feast_day": "25 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marc",
+      "feast_day": "25 avril",
+      "era": null,
+      "patronage": null,
+      "legacy": "Évangéliste",
+      "summary": "Saint Marc fut converti à la Foi par le Prince des Apôtres, qu'il accompagna plus tard à Rome, y agissant comme son secrétaire ou interprète. Lorsque saint Pierre écrivit sa première épître aux Églises d'Asie, il joignit affectueusement à sa propre salutation celle de son fidèle compagnon, qu'il appelle mon fils Marc. Le peuple romain supplia saint Marc de mettre par écrit pour eux la substance des fréquents discours de saint Pierre sur la vie de Notre Seigneur.",
+      "image": "/images/saint_mark_evangelist.jpg",
+      "wikipedia": null
+    }
+  ]
+}

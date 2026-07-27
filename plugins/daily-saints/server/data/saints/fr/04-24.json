@@ -1,0 +1,35 @@
+{
+  "date": "04-24",
+  "feast_day": "24 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie-Euphrasie Pelletier",
+      "feast_day": "24 avril",
+      "era": "XIXe siècle",
+      "patronage": [
+        "femmes",
+        "jeunes filles",
+        "travailleurs sociaux"
+      ],
+      "legacy": "Championne des femmes et de la justice sociale",
+      "summary": "Marie-Euphrasie Pelletier fut une religieuse française et la fondatrice de la Congrégation de Notre-Dame de Charité du Bon Pasteur. Elle consacra sa vie aux soins et à la réhabilitation des femmes et des jeunes filles, établissant de nombreux foyers pour les personnes dans le besoin. Canonisée en 1940, on se souvient d'elle pour sa profonde compassion et son engagement envers la justice sociale.",
+      "image": "/images/saint_mary_euphrasia_pelletier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Euphrasia_Pelletier"
+    },
+    {
+      "name": "Fidèle de Sigmaringen",
+      "feast_day": "24 avril",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "avocats",
+        "malades",
+        "martyrs"
+      ],
+      "legacy": "Martyr pour la foi catholique et les pauvres",
+      "summary": "Fidèle de Sigmaringen fut un frère capucin et martyr connu pour son dévouement envers les pauvres et sa prédication fervente contre le calvinisme. Il naquit en 1577 à Sigmaringen, en Allemagne, et après une brillante carrière juridique, il embrassa une vie d'austérité et de service. Fidèle fut martyrisé en Suisse en défendant la foi catholique, devenant le premier martyr de la Congrégation de la Propagande.",
+      "image": "/images/saint_fidelis_of_sigmaringen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fidelis_of_Sigmaringen"
+    }
+  ]
+}

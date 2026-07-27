@@ -1,0 +1,21 @@
+{
+  "date": "11-08",
+  "feast_day": "8 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Godofredo",
+      "feast_day": "8 de noviembre",
+      "era": "Medieval",
+      "patronage": [
+        "los hospitales",
+        "los enfermos",
+        "los peregrinos"
+      ],
+      "legacy": "Líder compasivo y hacedor de milagros",
+      "summary": "San Godofredo fue obispo de Amiens, conocido por su profunda compasión hacia los pobres y los enfermos. Se convirtió en abad de Nogent siendo joven y revitalizó el monasterio, demostrando un fuerte liderazgo y dedicación hacia su comunidad. Su vida estuvo marcada por milagros y un compromiso de servir a quienes lo necesitaban, lo que finalmente condujo a su canonización tras su muerte en 1115.",
+      "image": "/images/saint_godfrey_or_geoffroy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Godfrey_of_Amiens"
+    }
+  ]
+}

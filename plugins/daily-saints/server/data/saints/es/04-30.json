@@ -1,0 +1,22 @@
+{
+  "date": "04-30",
+  "feast_day": "30 de abril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catalina de Siena",
+      "feast_day": "30 de abril",
+      "era": "Siglo XIV",
+      "patronage": [
+        "Italia",
+        "enfermeras",
+        "contra el fuego",
+        "personas ridiculizadas por su fe"
+      ],
+      "legacy": "Mística y reformadora de la Iglesia",
+      "summary": "Catalina de Siena fue una mística del siglo XIV y una figura destacada de la Iglesia católica, conocida por su profunda espiritualidad y su compromiso con la reforma de la Iglesia. Desempeñó un papel crucial en el regreso del papa Gregorio XI a Roma desde Aviñón y fue consejera de varios papas durante un período tumultuoso de la historia de la Iglesia. Su vida estuvo marcada por una intensa oración, visiones, y una dedicación al servicio de Dios y de la Iglesia, lo que finalmente condujo a su canonización y su reconocimiento como Doctora de la Iglesia.",
+      "image": "/images/saint_catherine_of_siena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Siena"
+    }
+  ]
+}

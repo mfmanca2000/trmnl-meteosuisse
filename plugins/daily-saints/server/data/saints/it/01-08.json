@@ -1,0 +1,17 @@
+{
+  "date": "01-08",
+  "feast_day": "8 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Apollinare",
+      "feast_day": "8 gennaio",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede agli albori del cristianesimo",
+      "summary": "Apollinare fu vescovo di Gerapoli in Frigia e una figura di rilievo nella Chiesa primitiva. È noto soprattutto per la sua apologia rivolta all'imperatore Marco Aurelio, in favore della protezione dei cristiani in un periodo di persecuzione. Sebbene gran parte della sua opera sia andata perduta, fu molto stimato dagli storici della Chiesa primitiva per la sua difesa della fede contro le eresie.",
+      "image": "/images/saint_apollinaris_the_apologist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apollinaris_of_Hierapolis"
+    }
+  ]
+}

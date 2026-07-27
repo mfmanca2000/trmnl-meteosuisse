@@ -1,0 +1,17 @@
+{
+  "date": "10-26",
+  "feast_day": "26 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Évariste",
+      "feast_day": "26 octobre",
+      "era": "Ier siècle",
+      "patronage": null,
+      "legacy": "Chef pionnier de l'Église primitive",
+      "summary": "Saint Évariste était un pape et martyr qui servit comme évêque de Rome durant les premières années de l'Église chrétienne. Il est connu pour avoir organisé la structure de l'Église en nommant sept diacres et en promouvant divers membres du clergé au milieu des persécutions de l'époque. Évariste finit par donner sa vie pour sa foi, étant martyrisé et enterré près de saint Pierre au Vatican.",
+      "image": "/images/saint_evaristus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Evaristus"
+    }
+  ]
+}

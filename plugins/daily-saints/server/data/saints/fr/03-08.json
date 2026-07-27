@@ -1,0 +1,21 @@
+{
+  "date": "03-08",
+  "feast_day": "8 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean de Dieu",
+      "feast_day": "8 mars",
+      "era": "XVIe siècle",
+      "patronage": [
+        "les hôpitaux",
+        "les malades",
+        "les pompiers"
+      ],
+      "legacy": "Patron des hôpitaux et des malades",
+      "summary": "Jean de Dieu était un saint portugais connu pour sa profonde compassion et son dévouement envers les malades et les pauvres. Après une jeunesse tumultueuse, il fonda les Frères de la Charité (Hospitaliers), un ordre voué au soin des nécessiteux. Son héritage perdure à travers son engagement envers la charité et le soin des marginaux, inspirant de nombreuses personnes dans le domaine de la santé et du service social.",
+      "image": "/images/saint_john_of_god.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_God"
+    }
+  ]
+}

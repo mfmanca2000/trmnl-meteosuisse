@@ -1,0 +1,21 @@
+{
+  "date": "02-10",
+  "feast_day": "10 de febrero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Escolástica",
+      "feast_day": "10 de febrero",
+      "era": "Siglo VI",
+      "patronage": [
+        "monjas",
+        "niños con convulsiones",
+        "tormentas"
+      ],
+      "legacy": "Modelo de devoción monástica y amor fraterno.",
+      "summary": "Santa Escolástica fue una abadesa y hermana de san Benito, el fundador del monacato occidental. Fundó un convento cerca de Montecasino y dedicó su vida a la oración y a la formación espiritual de su comunidad. Conocida por su profunda fe y su vínculo con su hermano, su vida ejemplifica la importancia de la compañía espiritual y la devoción a Dios.",
+      "image": "/images/saint_scholastica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Scholastica"
+    }
+  ]
+}

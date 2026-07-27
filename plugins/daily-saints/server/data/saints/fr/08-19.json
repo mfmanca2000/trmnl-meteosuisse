@@ -1,0 +1,35 @@
+{
+  "date": "08-19",
+  "feast_day": "19 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean Eudes",
+      "feast_day": "19 août",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "clergé",
+        "curés de paroisse",
+        "directeurs spirituels"
+      ],
+      "legacy": "Pionnier de la dévotion au Sacré-Cœur",
+      "summary": "Jean Eudes était un prêtre français, fondateur de la Congrégation de Jésus et Marie ainsi que des Sœurs de Notre-Dame de Charité. Il est connu pour sa dévotion au Sacré-Cœur de Jésus et au Cœur Immaculé de Marie, ainsi que pour ses efforts dans la fondation de séminaires et l'évangélisation des pauvres. Eudes fut canonisé en 1925 et reste reconnu pour ses contributions importantes à l'Église catholique au XVIIe siècle.",
+      "image": "/images/saint_john_eudes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Eudes"
+    },
+    {
+      "name": "Louis de Toulouse",
+      "feast_day": "19 août",
+      "era": "Moyen Âge",
+      "patronage": [
+        "pauvres",
+        "étudiants",
+        "franciscains"
+      ],
+      "legacy": "Une vie d'humilité et de service",
+      "summary": "Louis de Toulouse était un évêque connu pour sa profonde piété et son engagement au service de Dieu dès son plus jeune âge. Bien que né dans la noblesse, il choisit une vie d'humilité et de service, se consacrant aux soins des pauvres et des malades. Il devint archevêque de Toulouse et reste célèbre pour son mode de vie austère et sa dévotion jusqu'à sa mort prématurée à l'âge de vingt-trois ans.",
+      "image": "/images/saint_louis_of_toulouse.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_of_Toulouse"
+    }
+  ]
+}

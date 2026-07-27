@@ -1,0 +1,48 @@
+{
+  "date": "12-09",
+  "feast_day": "9 de diciembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Pedro Fourier",
+      "feast_day": "9 de diciembre",
+      "era": "Siglo XVII",
+      "patronage": [
+        "educadores",
+        "escolares",
+        "educación de las mujeres"
+      ],
+      "legacy": "Pionero de la educación de las mujeres en Francia.",
+      "summary": "Pedro Fourier fue un sacerdote y reformador francés conocido por su dedicación a la educación y la formación espiritual de las jóvenes. Fundó las Canonesas de Nuestra Señora, una orden centrada en la enseñanza y el cultivo de la virtud entre las niñas. Sus esfuerzos revitalizaron el fervor religioso en su parroquia y establecieron un modelo de educación católica que influyó en las generaciones futuras.",
+      "image": "/images/saint_peter_fourier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Fourier"
+    },
+    {
+      "name": "Leocadia",
+      "feast_day": "9 de diciembre",
+      "era": "Siglo IV",
+      "patronage": [
+        "Toledo",
+        "vírgenes",
+        "mártires"
+      ],
+      "legacy": "Patrona de Toledo y de los mártires cristianos",
+      "summary": "Santa Leocadia de Toledo fue una virgen y mártir cristiana que vivió a principios del siglo IV. Fue arrestada y torturada por su fe bajo el gobernador romano Daciano, muriendo finalmente en prisión. Su legado perdura, ya que es venerada como la principal patrona de Toledo, donde se honran sus reliquias.",
+      "image": "/images/saint_leocadia_of_toledo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leocadia_of_Toledo"
+    },
+    {
+      "name": "Juan Diego",
+      "feast_day": "9 de diciembre",
+      "era": "Siglo XVI",
+      "patronage": [
+        "pueblos indígenas",
+        "México"
+      ],
+      "legacy": "Símbolo de fe para los pueblos indígenas",
+      "summary": "Juan Diego es el primer santo nacido en las Américas, canonizado en 2002. Es conocido sobre todo por sus visiones de la Virgen María, que se le apareció en 1531 y le pidió que se construyera una iglesia en su honor en el cerro del Tepeyac, México. Su tilma, que llevaba la imagen de la Virgen de Guadalupe, se convirtió en un símbolo de fe y devoción para millones de personas.",
+      "image": "/images/saint_juan_diego.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Juan_Diego"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "08-31",
+  "feast_day": "31 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Raimundo Nonato",
+      "feast_day": "31 de agosto",
+      "era": "Medieval",
+      "patronage": [
+        "cautivos",
+        "parto",
+        "comadronas"
+      ],
+      "legacy": "Defensor de los cautivos y los oprimidos",
+      "summary": "Raimundo Nonato fue un santo español nacido en 1204 que dedicó su vida a la redención de los cautivos. Ingresó en la Orden de Nuestra Señora de la Merced y arriesgó su vida para liberar a esclavos, llegando él mismo a convertirse en rehén. Tras soportar severas torturas por su fe, murió en 1240 y fue posteriormente canonizado, reconocido por su sacrificio desinteresado y su devoción a la salvación de las almas.",
+      "image": "/images/saint_raymund_nonnatus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Nonnatus"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "12-20",
+  "feast_day": "20 de diciembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Domingo de Silos",
+      "feast_day": "20 de diciembre",
+      "era": "Siglo XI",
+      "patronage": [
+        "prisioneros",
+        "cautivos",
+        "la Orden de Nuestra Señora de la Merced"
+      ],
+      "legacy": "Restaurador de la vida monástica",
+      "summary": "Santo Domingo de Silos fue un abad benedictino del siglo XI, conocido por su profunda espiritualidad y su compromiso con la restauración de su monasterio. Era célebre por sus curaciones milagrosas y sus actos de caridad, especialmente hacia los que sufrían y los cautivos retenidos por los moros. Su legado incluye la inspiración que dio a la Orden de Nuestra Señora de la Merced, fundada para ayudar a los cristianos cautivos.",
+      "image": "/images/saint_dominic_of_silos.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_of_Silos"
+    },
+    {
+      "name": "Filogonio",
+      "feast_day": "20 de diciembre",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Defensor de la fe y de la integridad",
+      "summary": "San Filogonio fue obispo de Antioquía a principios del siglo IV, conocido por su elocuencia e integridad. Desempeñó un papel importante en la defensa de la fe católica durante el Concilio de Nicea contra la herejía arriana. Su firmeza frente a la persecución le valió el título de Confesor, y se le recuerda por su profundo compromiso con la Iglesia y sus enseñanzas.",
+      "image": "/images/saint_philogonius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philogonius_of_Antioch"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "02-02",
+  "feast_day": "2 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "2 février",
+      "era": "Ier siècle",
+      "patronage": [
+        "mères",
+        "femmes enceintes",
+        "famille",
+        "perte des parents"
+      ],
+      "legacy": "Modèle de foi et d'humilité",
+      "summary": "Marie est vénérée comme la mère de Jésus-Christ et occupe une place centrale dans le christianisme. Son rôle lors de la Présentation de Jésus au Temple met en lumière son obéissance à la loi juive et sa foi profonde. Elle est souvent honorée pour son humilité et sa dévotion, servant de modèle aux croyants qui cherchent à suivre la volonté de Dieu.",
+      "image": "/images/the_presentation_of_jesus_in_the_temple.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "02-14",
+  "feast_day": "14 febbraio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Valentino",
+      "feast_day": "14 febbraio",
+      "era": "III secolo",
+      "patronage": [
+        "innamorati",
+        "apicoltori",
+        "epilettici",
+        "produttori di biglietti d'auguri"
+      ],
+      "legacy": "Santo patrono dell'amore e dell'affetto",
+      "summary": "Valentino era un sacerdote di Roma diventato martire durante la persecuzione dell'imperatore Claudio II, intorno all'anno 268. Noto per il suo coraggio, predicava apertamente la fede cristiana e compiva miracoli, tra cui la restituzione della vista a una ragazza cieca. Il suo lascito come simbolo d'amore e devozione ha portato alla sua celebrazione il 14 febbraio, oggi ampiamente riconosciuta come la festa di San Valentino.",
+      "image": "/images/saint_valentine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Valentine_of_Rome"
+    }
+  ]
+}

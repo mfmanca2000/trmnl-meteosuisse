@@ -1,0 +1,21 @@
+{
+  "date": "06-29",
+  "feast_day": "29 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pedro",
+      "feast_day": "29 de junio",
+      "era": "Siglo I",
+      "patronage": [
+        "pescadores",
+        "fabricantes de redes",
+        "constructores de barcos"
+      ],
+      "legacy": "Primer papa y líder de los apóstoles",
+      "summary": "San Pedro, uno de los doce apóstoles, es reconocido como el primer papa y la 'Roca' sobre la cual Cristo edificó su Iglesia. Desempeñó un papel decisivo en la comunidad cristiana primitiva, predicando el Evangelio y estableciendo la Iglesia en Roma. Su martirio por crucifixión bajo el emperador Nerón consolidó su legado como figura fundacional del cristianismo.",
+      "image": "/images/saint_peter_apostle.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    }
+  ]
+}

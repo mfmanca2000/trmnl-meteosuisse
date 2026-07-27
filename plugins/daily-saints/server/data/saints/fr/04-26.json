@@ -1,0 +1,31 @@
+{
+  "date": "04-26",
+  "feast_day": "26 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Notre-Dame du Bon Conseil",
+      "feast_day": "26 avril",
+      "era": "XVe siècle",
+      "patronage": [
+        "conseillers",
+        "mères",
+        "malades mentaux"
+      ],
+      "legacy": "Une source de conseil et de miracles",
+      "summary": "Notre-Dame du Bon Conseil est un titre de la Bienheureuse Vierge Marie associé à une image miraculeuse apparue à Genazzano, en Italie, en 1467. L'image, que l'on croit avoir été transportée depuis l'Albanie, a été source de nombreux miracles et grâces spirituelles pour les fidèles. La dévotion à Notre-Dame du Bon Conseil a été reconnue par l'Église, et sa fête est célébrée avec grande révérence.",
+      "image": "/images/our_lady_of_good_counsel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Good_Counsel"
+    },
+    {
+      "name": "Clet et Marcellin",
+      "feast_day": "26 avril",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Papes et Martyrs",
+      "summary": "Saint Clet fut le troisième évêque de Rome, succédant à saint Lin, circonstance qui suffit à elle seule à recommander son éminente vertu parmi les premiers disciples de saint Pierre en Occident. Une église et un hôpital qu'il fonda, bien que ruinés et reconstruits plusieurs fois, subsistèrent jusqu'au XVIIIe siècle, et le souvenir de sa charité fut si bien conservé par les Romains que les Croisiers qui servaient alors encore dans son hospice le considéraient comme leur fondateur. Saint Clet fut martyrisé après le règne paisible de l'empereur Titus, lorsque Domitien lui succéda ; la date en fut le 26 avril de l'an 89.",
+      "image": "/images/saint_clet.jpg",
+      "wikipedia": null
+    }
+  ]
+}

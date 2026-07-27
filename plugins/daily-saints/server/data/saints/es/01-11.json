@@ -1,0 +1,31 @@
+{
+  "date": "01-11",
+  "feast_day": "11 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Teodosio",
+      "feast_day": "11 de enero",
+      "era": "Siglos V-VI",
+      "patronage": [
+        "monjes",
+        "hospitales",
+        "enfermos"
+      ],
+      "legacy": "Un modelo de caridad y humildad",
+      "summary": "San Teodosio fue un destacado abad y fundador de comunidades monásticas en Palestina durante los siglos V y VI. Conocido por su profunda caridad y humildad, construyó un gran monasterio y varios hospitales, atendiendo a los pobres y a los enfermos. Se opuso con éxito a las enseñanzas heréticas y fue venerado por su piedad y liderazgo entre las comunidades religiosas de su tiempo.",
+      "image": "/images/saint_theodosius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodosius_the_Cenobiarch"
+    },
+    {
+      "name": "Higinio",
+      "feast_day": "11 de enero",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Defensor de la fe frente a las primeras herejías",
+      "summary": "Higinio fue papa desde aproximadamente el año 139 hasta el 142, en una época de relativa paz para la Iglesia bajo el emperador Antonino Pío. Se enfrentó a herejes como Cerdón y Valentín, a quienes intentó corregir con cuidado pastoral. Aunque no fue martirizado oficialmente, es reconocido como mártir debido a las persecuciones que sufrió como líder de la Iglesia primitiva.",
+      "image": "/images/saint_hyginus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Hyginus"
+    }
+  ]
+}

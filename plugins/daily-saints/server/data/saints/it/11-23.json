@@ -1,0 +1,21 @@
+{
+  "date": "11-23",
+  "feast_day": "23 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Clemente di Roma",
+      "feast_day": "23 novembre",
+      "era": "I secolo",
+      "patronage": [
+        "marinai",
+        "bambini malati",
+        "falsamente accusati"
+      ],
+      "legacy": "Guida della Chiesa primitiva e martire",
+      "summary": "Clemente di Roma fu un importante dirigente cristiano delle origini e il quarto papa, succedendo a san Lino. È noto per i suoi sforzi nel ristabilire la pace e l'ordine all'interno della Chiesa, in particolare attraverso la sua influente Lettera ai Corinzi. La sua guida durante un periodo di persecuzione e discordia interna consolidò la sua eredità di martire e figura chiave della Chiesa primitiva.",
+      "image": "/images/saint_clement_i_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clement_of_Rome"
+    }
+  ]
+}

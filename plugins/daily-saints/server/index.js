@@ -8,6 +8,11 @@ const TIMEZONE = process.env.SAINTS_TIMEZONE || 'Europe/Zurich'
 // them on GitHub Pages, and each saint's "image" field is a path, not a URL.
 const IMAGE_BASE_URL = (process.env.SAINTS_IMAGE_BASE_URL || 'https://acoci86.github.io/daily-saints').replace(/\/+$/, '')
 const DATA_DIR = path.join(__dirname, 'data', 'saints')
+const DEFAULT_LANGUAGE = 'en'
+// Statically pre-translated (not machine-translated at request time — Vercel's
+// serverless filesystem is ephemeral, so a translate-and-cache-on-first-request
+// approach wouldn't persist between invocations).
+const SUPPORTED_LANGUAGES = ['en', 'fr', 'it', 'es']
 
 // Liquid's date filter has no timezone-conversion support, so "today" (in
 // MM-DD form, matching the data files) is computed here instead.
@@ -31,18 +36,20 @@ function todayKey(now) {
   return `${month}-${day}`
 }
 
-function loadDay(dateKey) {
-  const file = path.join(DATA_DIR, `${dateKey}.json`)
+function loadDay(language, dateKey) {
+  const file = path.join(DATA_DIR, language, `${dateKey}.json`)
   if (!fs.existsSync(file)) return null
   return JSON.parse(fs.readFileSync(file, 'utf8'))
 }
 
 router.get('/today', (req, res) => {
+  const requestedLanguage = String(req.query.language || '').trim().toLowerCase()
+  const language = SUPPORTED_LANGUAGES.includes(requestedLanguage) ? requestedLanguage : DEFAULT_LANGUAGE
   const dateKey = /^\d{2}-\d{2}$/.test(req.query.date || '') ? req.query.date : todayKey(new Date())
-  const day = loadDay(dateKey)
+  const day = loadDay(language, dateKey)
 
   if (!day) {
-    return res.status(404).json({ error: `No saints data for ${dateKey}` })
+    return res.status(404).json({ error: `No saints data for ${dateKey} (${language})` })
   }
 
   const saints = day.saints.map((saint) => ({
@@ -55,6 +62,7 @@ router.get('/today', (req, res) => {
     date: day.date,
     feastDay: day.feast_day,
     count: day.count,
+    language,
     saints,
     updatedAtLabel: updatedAtFormatter.format(new Date()),
   })

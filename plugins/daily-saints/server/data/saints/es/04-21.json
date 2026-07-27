@@ -1,0 +1,21 @@
+{
+  "date": "04-21",
+  "feast_day": "21 de abril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anselmo",
+      "feast_day": "21 de abril",
+      "era": "Medieval",
+      "patronage": [
+        "teólogos",
+        "estudiantes",
+        "párrocos"
+      ],
+      "legacy": "Padre de la teología escolástica y de la devoción",
+      "summary": "Anselmo de Canterbury fue un monje benedictino italiano que llegó a ser arzobispo de Canterbury a finales del siglo XI. Es célebre por sus contribuciones a la teología escolástica y por su defensa de la independencia de la Iglesia frente a la autoridad secular. A Anselmo también se le atribuye el establecimiento de la fiesta de la Inmaculada Concepción en Occidente, y es considerado Doctor de la Iglesia.",
+      "image": "/images/saint_anselm.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+    }
+  ]
+}

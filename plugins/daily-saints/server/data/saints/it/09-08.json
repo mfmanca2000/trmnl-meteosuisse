@@ -1,0 +1,22 @@
+{
+  "date": "09-08",
+  "feast_day": "8 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Maria",
+      "feast_day": "8 settembre",
+      "era": "I secolo",
+      "patronage": [
+        "madri",
+        "donne incinte",
+        "perdita dei genitori",
+        "malati"
+      ],
+      "legacy": "Madre di Dio e intercessora per tutti",
+      "summary": "Maria è venerata come la madre di Gesù Cristo e occupa un posto centrale nella teologia cristiana. È celebrata per la sua purezza e obbedienza alla volontà di Dio, essendo stata concepita senza peccato originale. La Natività della Beata Vergine Maria è commemorata come un evento significativo nel calendario cristiano, che segna la sua nascita e l'inizio del cammino verso la salvezza.",
+      "image": "/images/the_nativity_of_the_blessed_virgin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

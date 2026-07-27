@@ -1,0 +1,35 @@
+{
+  "date": "08-08",
+  "feast_day": "8 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ciriaco",
+      "feast_day": "8 de agosto",
+      "era": "Comienzos del siglo IV",
+      "patronage": [
+        "exorcistas",
+        "sanadores",
+        "poseídos"
+      ],
+      "legacy": "Patrono de los exorcistas y sanadores",
+      "summary": "San Ciriaco fue un diácono de Roma que dedicó su vida a ayudar a los pobres y a los cristianos encarcelados durante el reinado del emperador Diocleciano. Es conocido por realizar curaciones milagrosas, entre ellas exorcizar demonios de la hija del emperador y de la hija del rey de Persia, lo que llevó a numerosas conversiones. Finalmente fue martirizado por su fe junto con sus compañeros, negándose a sacar provecho de los dones de Dios que compartía con los demás.",
+      "image": "/images/saint_cyriacus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyriacus"
+    },
+    {
+      "name": "Pedro Fabro",
+      "feast_day": "8 de agosto",
+      "era": "Siglo XVI",
+      "patronage": [
+        "estudiantes",
+        "maestros",
+        "jesuitas"
+      ],
+      "legacy": "Pionero de la educación y la espiritualidad jesuita.",
+      "summary": "Pedro Fabro fue un sacerdote jesuita pionero y uno de los primeros compañeros de san Ignacio de Loyola. Desempeñó un papel importante en los inicios de la misión jesuita, especialmente en Alemania, donde trabajó para fortalecer la fe católica ante los retos de la Reforma. Beatificado por el papa Pío IX en 1872, es recordado por su dedicación a la educación y a la dirección espiritual.",
+      "image": "/images/blessed_peter_favre_of_villaret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Favre"
+    }
+  ]
+}

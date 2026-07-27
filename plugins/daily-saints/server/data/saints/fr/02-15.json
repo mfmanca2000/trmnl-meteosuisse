@@ -1,0 +1,20 @@
+{
+  "date": "02-15",
+  "feast_day": "15 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Faustin et Jovite",
+      "feast_day": "15 février",
+      "era": "IIe siècle",
+      "patronage": [
+        "Brescia",
+        "martyrs"
+      ],
+      "legacy": "Courageux martyrs de la foi chrétienne",
+      "summary": "Faustin et Jovite étaient des frères et martyrs de Brescia, en Italie, qui prêchèrent hardiment le christianisme pendant la persécution de l'empereur Adrien. Ils affrontèrent de rudes épreuves, notamment être jetés aux lions et subir les flammes, mais restèrent indemnes grâce à une intervention divine. Ils furent finalement décapités pour leur foi, et leur héritage perdure en tant que patrons de Brescia.",
+      "image": "/images/saints_faustinus_and_jovita.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Faustinus_and_Jovita"
+    }
+  ]
+}

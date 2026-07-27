@@ -1,0 +1,21 @@
+{
+  "date": "06-21",
+  "feast_day": "21 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Luigi Gonzaga",
+      "feast_day": "21 giugno",
+      "era": "XVI secolo",
+      "patronage": [
+        "gioventù",
+        "studenti",
+        "malati di AIDS"
+      ],
+      "legacy": "Santo patrono della gioventù e degli studenti",
+      "summary": "San Luigi Gonzaga fu un seminarista gesuita noto per il suo profondo impegno nella purezza e nella penitenza. Dedicò la sua vita al servizio dei malati durante un'epidemia di febbre a Roma, soccombendo egli stesso alla malattia in giovane età. Il suo lascito è quello di una fede incrollabile e di una dedizione a Dio, che continua a ispirare molti a percorrere una vita di santità.",
+      "image": "/images/saint_aloysius_gonzaga.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aloysius_Gonzaga"
+    }
+  ]
+}

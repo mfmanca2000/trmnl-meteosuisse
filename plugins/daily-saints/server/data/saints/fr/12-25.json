@@ -1,0 +1,32 @@
+{
+  "date": "12-25",
+  "feast_day": "25 décembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "La Nativité de Notre-Seigneur Jésus-Christ",
+      "feast_day": "25 décembre",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "La Nativité de Notre-Seigneur O. pinxit La Nativité de Notre-Seigneur Noël ! Tel était le cri de nos pères quand la Foi régnait, ardente et vivace au sein des familles, des institutions et de toute la société.",
+      "image": "/images/the_nativity_of_our_lord.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "François d'Assise",
+      "feast_day": "25 décembre",
+      "era": "Moyen Âge",
+      "patronage": [
+        "animaux",
+        "environnement",
+        "marchands",
+        "paix"
+      ],
+      "legacy": "Saint patron des animaux et de l'écologie",
+      "summary": "François d'Assise était un frère italien du XIIIe siècle et le fondateur de l'ordre franciscain, connu pour son profond amour de la nature et son attachement à la pauvreté. Il est célébré pour avoir créé la première crèche vivante à Greccio, qui mettait en valeur l'humilité de la naissance du Christ. Son enseignement et son exemple continuent d'inspirer des millions de personnes à mener une vie de paix, de compassion et de service envers autrui.",
+      "image": "/images/christmas-of-saint-francis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    }
+  ]
+}

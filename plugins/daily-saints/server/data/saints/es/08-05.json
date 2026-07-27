@@ -1,0 +1,22 @@
+{
+  "date": "08-05",
+  "feast_day": "5 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "María de las Nieves",
+      "feast_day": "5 de agosto",
+      "era": "Siglo IV",
+      "patronage": [
+        "madres",
+        "parto",
+        "nieve",
+        "constructores"
+      ],
+      "legacy": "Fundación milagrosa de una gran basílica",
+      "summary": "María de las Nieves, también conocida como Nuestra Señora de las Nieves, conmemora el acontecimiento milagroso en el que la Virgen María indicó el lugar para una iglesia en Roma cubriéndolo de nieve. Este suceso condujo a la construcción de la Basílica de Santa María la Mayor, una de las iglesias más antiguas e importantes dedicadas a María. La fiesta se celebra el 5 de agosto, conmemorando la dedicación de la basílica y honrando el papel de María como Madre de Dios.",
+      "image": "/images/the_dedication_of_saint_mary_of_the_snows.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Snows"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "09-28",
+  "feast_day": "28 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Wenceslao",
+      "feast_day": "28 de septiembre",
+      "era": "Siglo X",
+      "patronage": [
+        "República Checa",
+        "matrimonios difíciles",
+        "campesinos"
+      ],
+      "legacy": "Martirio y devoción en el liderazgo",
+      "summary": "Wenceslao fue un duque cristiano de Bohemia que se convirtió en mártir por su fe en el siglo X. Criado por su piadosa abuela, gobernó con devoción y compasión, sirviendo a menudo a los pobres en secreto. Su reinado terminó trágicamente cuando fue asesinado por su hermano, pero es recordado como un símbolo de virtud cristiana y liderazgo.",
+      "image": "/images/saint_wenceslas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wenceslas"
+    }
+  ]
+}

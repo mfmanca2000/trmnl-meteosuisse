@@ -1,0 +1,21 @@
+{
+  "date": "08-27",
+  "feast_day": "27 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Joseph de Calasanz",
+      "feast_day": "27 août",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "enseignants",
+        "étudiants",
+        "pauvres"
+      ],
+      "legacy": "Pionnier de l'éducation gratuite pour les pauvres",
+      "summary": "Joseph de Calasanz était un prêtre espagnol, fondateur des Piaristes, un ordre voué à l'éducation des enfants pauvres. Il fonda à Rome des écoles offrant un enseignement gratuit, alliant instruction religieuse et enseignement de base. Malgré l'opposition et les épreuves rencontrées, il resta fidèle à sa mission jusqu'à sa mort en 1648.",
+      "image": "/images/saint_joseph_calasanctius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Calasanctius"
+    }
+  ]
+}

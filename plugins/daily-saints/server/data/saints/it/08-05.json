@@ -1,0 +1,22 @@
+{
+  "date": "08-05",
+  "feast_day": "5 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Maria della Neve",
+      "feast_day": "5 agosto",
+      "era": "IV secolo",
+      "patronage": [
+        "madri",
+        "parto",
+        "neve",
+        "costruttori"
+      ],
+      "legacy": "Fondazione miracolosa di una grande basilica",
+      "summary": "Maria della Neve, conosciuta anche come Madonna della Neve, commemora l'evento miracoloso in cui la Vergine Maria indicò il luogo per una chiesa a Roma coprendolo di neve. Questo evento portò alla costruzione della Basilica di Santa Maria Maggiore, una delle chiese più antiche e importanti dedicate a Maria. La festa si celebra il 5 agosto, in ricordo della dedicazione della basilica e in onore del ruolo di Maria quale Madre di Dio.",
+      "image": "/images/the_dedication_of_saint_mary_of_the_snows.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Snows"
+    }
+  ]
+}

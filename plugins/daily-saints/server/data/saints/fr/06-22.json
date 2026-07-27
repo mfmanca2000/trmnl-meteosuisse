@@ -1,0 +1,21 @@
+{
+  "date": "06-22",
+  "feast_day": "22 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paulin de Nole",
+      "feast_day": "22 juin",
+      "era": "Christianisme primitif",
+      "patronage": [
+        "poètes",
+        "théologiens",
+        "Nole"
+      ],
+      "legacy": "Un modèle d'humilité et de générosité",
+      "summary": "Paulin de Nole était un sénateur romain devenu évêque et figure marquante de l'Église primitive. Après avoir vécu une tragédie personnelle, il renonça à sa richesse et à son rang pour mener une vie de pauvreté et de service, se consacrant au soin de sa communauté. Il reste dans les mémoires pour sa profonde humilité, sa générosité et son engagement envers la foi chrétienne, en particulier en temps de crise.",
+      "image": "/images/saint_paulinus_of_nola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paulinus_of_Nola"
+    }
+  ]
+}

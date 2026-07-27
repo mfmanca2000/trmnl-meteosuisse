@@ -1,0 +1,27 @@
+{
+  "date": "12-19",
+  "feast_day": "19 décembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Urbain V",
+      "feast_day": "19 décembre",
+      "era": "Moyen Âge",
+      "patronage": null,
+      "legacy": "Pape dévoué à la réforme et à l'humilité",
+      "summary": "Urbain V fut un pape connu pour ses efforts en vue de ramener la papauté d'Avignon à Rome. Il se consacra à la réforme des mœurs et à la diffusion de la foi catholique. Sa vie fut un exemple d'humilité et de dévotion, car il vécut simplement et rapporta toute gloire à Dieu.",
+      "image": "/images/blessed_urban_v.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Urban_V"
+    },
+    {
+      "name": "Némésion d'Alexandrie",
+      "feast_day": "19 décembre",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyr courageux du christianisme primitif",
+      "summary": "Némésion d'Alexandrie était un martyr chrétien qui vécut durant la persécution de Dèce au IIIe siècle. Il fut accusé d'être chrétien et, bien qu'il se soit disculpé d'une accusation de vol, il fut soumis à la torture et finalement condamné à mourir sur le bûcher. À ses côtés, plusieurs compagnons furent également martyrisés, faisant preuve d'un courage et d'une foi remarquables face à la persécution.",
+      "image": "/images/saint_nemesion_of_alexandria_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nemesius_of_Alexandria"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "05-08",
+  "feast_day": "8 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Miguel",
+      "feast_day": "8 de mayo",
+      "era": "Cristianismo primitivo",
+      "patronage": [
+        "militares",
+        "policía",
+        "enfermos",
+        "¿quién como Dios?"
+      ],
+      "legacy": "Protector de la Iglesia y de las almas fieles",
+      "summary": "San Miguel es uno de los principales arcángeles de la tradición cristiana, conocido por su papel como protector y jefe de los ejércitos celestiales. A menudo se le representa como un guerrero que defiende a los fieles contra las fuerzas del mal, especialmente en la batalla final contra Satanás. Sus apariciones y el establecimiento de santuarios en su honor, como el Monte Saint-Michel, resaltan su importancia en la historia y la devoción de la Iglesia.",
+      "image": "/images/apparition_of_saint_michael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_the_Archangel"
+    }
+  ]
+}

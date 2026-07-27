@@ -1,0 +1,34 @@
+{
+  "date": "01-15",
+  "feast_day": "15 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pablo el Ermitaño",
+      "feast_day": "15 de enero",
+      "era": "Siglo III",
+      "patronage": [
+        "ermitaños",
+        "habitantes del desierto"
+      ],
+      "legacy": "El primer ermitaño y modelo de la soledad",
+      "summary": "San Pablo el Ermitaño es reconocido como el primer ermitaño y es conocido por su vida de soledad en el desierto egipcio. Tras huir de la persecución, vivió cerca de noventa años en oración y penitencia, dependiendo únicamente de la providencia de Dios para su sustento. Su legado está estrechamente ligado a san Antonio, quien lo descubrió y compartió con él su vida espiritual antes de la muerte de Pablo.",
+      "image": "/images/saint_paul_hermit.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_Thebes"
+    },
+    {
+      "name": "Mauro",
+      "feast_day": "15 de enero",
+      "era": "Siglo VI",
+      "patronage": [
+        "monjes",
+        "abades",
+        "Francia"
+      ],
+      "legacy": "Modelo de humildad y dedicación monástica",
+      "summary": "San Mauro fue un abad benedictino conocido por su profunda humildad y sus capacidades milagrosas. Discípulo de san Benito, desempeñó un papel importante en el establecimiento de la vida monástica en Francia, fundando la abadía de Glanfeuil. Su legado incluye una fuerte devoción entre los fieles y una influencia duradera en las prácticas monásticas de la región.",
+      "image": "/images/saint_maurus_abbot.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Maurus"
+    }
+  ]
+}

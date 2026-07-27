@@ -1,0 +1,21 @@
+{
+  "date": "10-07",
+  "feast_day": "7 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Madonna del Rosario",
+      "feast_day": "7 ottobre",
+      "era": "Epoca moderna",
+      "patronage": [
+        "preghiere",
+        "vittoria in battaglia",
+        "la Chiesa cattolica"
+      ],
+      "legacy": "Promotrice della devozione del Rosario",
+      "summary": "La Madonna del Rosario è un titolo della Beata Vergine Maria associato alla preghiera del Rosario. Questa devozione sottolinea l'importanza della meditazione sui misteri della vita di Cristo attraverso la recita delle preghiere. La festa della Madonna del Rosario fu istituita per commemorare la vittoria nella battaglia di Lepanto e per promuovere il Rosario come potente strumento di preghiera e riflessione.",
+      "image": "/images/our_lady_of_the_rosary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary"
+    }
+  ]
+}

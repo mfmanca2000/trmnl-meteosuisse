@@ -1,0 +1,32 @@
+{
+  "date": "01-18",
+  "feast_day": "18 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pedro",
+      "feast_day": "18 de enero",
+      "era": "Siglo I",
+      "patronage": [
+        "pescadores",
+        "fabricantes de redes",
+        "constructores navales",
+        "papas"
+      ],
+      "legacy": "Primer papa y líder de los apóstoles",
+      "summary": "San Pedro, uno de los doce apóstoles de Jesús, es reconocido como el primer papa y una figura fundacional del cristianismo. Es conocido por su liderazgo en la Iglesia primitiva y por su martirio en Roma bajo el emperador Nerón. Su legado incluye el establecimiento de la Iglesia en Roma, que sigue siendo un punto central de la fe y la comunión católicas.",
+      "image": "/images/saint_peters_chair_at_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Prisca",
+      "feast_day": "18 de enero",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Martirio y fe en los inicios del cristianismo",
+      "summary": "Santa Prisca fue una noble virgen romana y mártir que sufrió por su fe alrededor del año 275. Es recordada por su firmeza frente a la persecución y es honrada en la iglesia que lleva su nombre en Roma. Sus reliquias se conservan allí, y a menudo se la asocia con las figuras cristianas primitivas Aquila y Priscila.",
+      "image": "/images/saint_prisca.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Prisca"
+    }
+  ]
+}

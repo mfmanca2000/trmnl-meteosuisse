@@ -1,0 +1,34 @@
+{
+  "date": "05-31",
+  "feast_day": "31 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "María, Reina del Mundo",
+      "feast_day": "31 de mayo",
+      "era": "Cristianismo primitivo",
+      "patronage": [
+        "madres",
+        "mujeres embarazadas",
+        "enfermos"
+      ],
+      "legacy": "Madre del Salvador y Reina del Cielo",
+      "summary": "María, la madre de Jesús, ocupa un lugar especial en la devoción católica como Reina del Cielo y de la Tierra. Es venerada por su intercesión maternal y considerada una poderosa abogada de la humanidad. Su festividad, celebrada el 31 de mayo, resalta su papel como fuente de esperanza y paz para el mundo.",
+      "image": "/images/mary-queen-of-the-world.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Heaven"
+    },
+    {
+      "name": "Petronila",
+      "feast_day": "31 de mayo",
+      "era": "Siglo I",
+      "patronage": [
+        "vírgenes",
+        "niños enfermos"
+      ],
+      "legacy": "Un símbolo de virginidad y santidad",
+      "summary": "Santa Petronila es considerada tradicionalmente hija de san Pedro, uno de los Apóstoles. Es celebrada por su voto de virginidad y su ejemplar santidad durante los primeros tiempos del cristianismo. Su legado es honrado en la Basílica de San Pedro, donde se conservan sus reliquias.",
+      "image": "/images/saint_petronilla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Petronilla"
+    }
+  ]
+}

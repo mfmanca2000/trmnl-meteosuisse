@@ -1,0 +1,27 @@
+{
+  "date": "04-08",
+  "feast_day": "8 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria Assunta",
+      "feast_day": "8 aprile",
+      "era": "XX secolo",
+      "patronage": null,
+      "legacy": "Missionaria francescana",
+      "summary": "San Pio X promulgò il suo decreto Quam Singulari, raccomandando la Comunione frequente per tutti e la Prima Comunione anticipata per i bambini, appena due anni dopo la morte della beata Maria Assunta. Questa santa giovane suora, particolarmente devota al Santissimo Sacramento fin dalla sua giovinezza, sebbene non potesse ancora beneficiare del decreto, è una prova vivente della saggezza della sua decisione. I santi tra i bambini e i giovani, di cui egli predisse la moltiplicazione, hanno sempre avuto una tale devozione, e così Dio ci mostra che non è il numero degli anni che conta.",
+      "image": "/images/blessed_mary_assunta.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Perpetuo",
+      "feast_day": "8 aprile",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Un vescovo devoto e difensore dei poveri.",
+      "summary": "San Perpetuo fu l'ottavo vescovo di Tours, in carica dal 461 al 494. Fu noto per la sua dedizione nel condurre le anime alla virtù attraverso sermoni, sinodi e l'abbellimento degli edifici ecclesiastici, in particolare della chiesa di San Martino. Il suo lascito comprende una testimonianza d'amore per i poveri e l'istituzione di un fondo per i vasi sacri, che riflette il suo profondo impegno per la carità e la comunità.",
+      "image": "/images/saint_perpetuus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Perpetuus_of_Tours"
+    }
+  ]
+}

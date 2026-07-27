@@ -1,0 +1,21 @@
+{
+  "date": "04-21",
+  "feast_day": "21 aprile",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anselmo",
+      "feast_day": "21 aprile",
+      "era": "Medievale",
+      "patronage": [
+        "teologi",
+        "studenti",
+        "parroci"
+      ],
+      "legacy": "Padre della teologia scolastica e della devozione",
+      "summary": "Anselmo di Canterbury fu un monaco benedettino italiano che divenne arcivescovo di Canterbury alla fine dell'XI secolo. È rinomato per i suoi contributi alla teologia scolastica e per la sua difesa dell'indipendenza della Chiesa dall'autorità secolare. Ad Anselmo viene anche attribuita l'istituzione della festa dell'Immacolata Concezione in Occidente ed è considerato Dottore della Chiesa.",
+      "image": "/images/saint_anselm.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+    }
+  ]
+}

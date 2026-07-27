@@ -1,0 +1,32 @@
+{
+  "date": "12-25",
+  "feast_day": "25 dicembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "La Natività di Nostro Signore Gesù Cristo",
+      "feast_day": "25 dicembre",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "La Natività di Nostro Signore O. pinxit La Natività di Nostro Signore Natale! Questo era il grido dei nostri padri quando la Fede regnava, ardente e viva nel seno delle famiglie, delle istituzioni e di tutta la società.",
+      "image": "/images/the_nativity_of_our_lord.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Francesco d'Assisi",
+      "feast_day": "25 dicembre",
+      "era": "Medioevo",
+      "patronage": [
+        "animali",
+        "ambiente",
+        "mercanti",
+        "pace"
+      ],
+      "legacy": "Santo patrono degli animali e dell'ecologia",
+      "summary": "Francesco d'Assisi fu un frate italiano del XIII secolo e fondatore dell'Ordine francescano, noto per il suo profondo amore per la natura e il suo impegno per la povertà. È celebrato per aver creato il primo presepe vivente a Greccio, che metteva in risalto l'umiltà della nascita di Cristo. I suoi insegnamenti e il suo esempio continuano a ispirare milioni di persone a vivere una vita di pace, compassione e servizio verso gli altri.",
+      "image": "/images/christmas-of-saint-francis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    }
+  ]
+}

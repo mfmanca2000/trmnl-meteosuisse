@@ -1,0 +1,21 @@
+{
+  "date": "10-17",
+  "feast_day": "17 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Margarita María de Alacoque",
+      "feast_day": "17 de octubre",
+      "era": "Siglo XVII",
+      "patronage": [
+        "devoción al Sagrado Corazón",
+        "pérdida de los padres",
+        "enfermos"
+      ],
+      "legacy": "Apóstol del Sagrado Corazón de Jesús",
+      "summary": "Santa Margarita María de Alacoque fue una monja y mística francesa conocida por sus visiones del Sagrado Corazón de Jesús. Desempeñó un papel decisivo en la promoción de la devoción al Sagrado Corazón, que subraya el amor de Dios por la humanidad. Canonizada en 1920, su legado sigue inspirando devoción y fe entre los católicos de todo el mundo.",
+      "image": "/images/saint_margaret_mary_alacoque.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque"
+    }
+  ]
+}

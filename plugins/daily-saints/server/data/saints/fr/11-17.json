@@ -1,0 +1,21 @@
+{
+  "date": "11-17",
+  "feast_day": "17 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Grégoire le Thaumaturge",
+      "feast_day": "17 novembre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "théologiens",
+        "étudiants",
+        "convertis"
+      ],
+      "legacy": "Faiseur de miracles et défenseur de la foi",
+      "summary": "Saint Grégoire le Thaumaturge était un évêque et confesseur connu pour ses œuvres miraculeuses et son dévouement à répandre le christianisme dans une région majoritairement païenne. Il fut disciple d'Origène et devint une figure clé de la lutte contre les hérésies, en particulier l'arianisme, à travers ses enseignements et l'élaboration d'un credo. Son héritage comprend une profonde dévotion à la Vierge Marie et un engagement envers la prière et la solitude, qui inspira beaucoup de gens à embrasser la foi chrétienne.",
+      "image": "/images/saint_gregory_thaumaturge.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus"
+    }
+  ]
+}

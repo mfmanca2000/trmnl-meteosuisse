@@ -1,0 +1,21 @@
+{
+  "date": "08-15",
+  "feast_day": "15 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "María",
+      "feast_day": "15 de agosto",
+      "era": "Siglo I",
+      "patronage": [
+        "cielo",
+        "madres",
+        "mujeres embarazadas"
+      ],
+      "legacy": "Madre de Dios y Reina de los santos",
+      "summary": "La Asunción de María conmemora la creencia de que la Santísima Virgen María fue llevada al cielo al final de su vida terrena. Este acontecimiento significa su papel único como Madre de Dios y su exaltación por encima de todos los santos. Se celebra como la culminación de sus virtudes y de su participación en el plan divino de la salvación.",
+      "image": "/images/the_assumption_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Assumption_of_Mary"
+    }
+  ]
+}

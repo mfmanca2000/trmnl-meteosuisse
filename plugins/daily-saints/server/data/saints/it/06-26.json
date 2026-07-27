@@ -1,0 +1,20 @@
+{
+  "date": "06-26",
+  "feast_day": "26 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni e Paolo",
+      "feast_day": "26 giugno",
+      "era": "IV secolo",
+      "patronage": [
+        "martiri",
+        "soldati"
+      ],
+      "legacy": "Martiri di fede salda e carità",
+      "summary": "I santi Giovanni e Paolo furono fratelli e ufficiali dell'esercito romano che prestarono servizio durante il regno di Costantino il Grande. Divennero martiri dopo essersi rifiutati di rinnegare la loro fede cristiana sotto il governo di Giuliano l'Apostata. Il loro lascito è segnato dalla fermezza nella fede e dalle opere di carità, che portarono al loro martirio nel IV secolo.",
+      "image": "/images/saints_john_and_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_and_Paul"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "12-31",
+  "feast_day": "31 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Sylvestre",
+      "feast_day": "31 décembre",
+      "era": "IVe siècle",
+      "patronage": [
+        "pape",
+        "maladie",
+        "baptême"
+      ],
+      "legacy": "Pape durant l'essor du christianisme",
+      "summary": "Saint Sylvestre était pape et confesseur, ayant exercé son ministère à une époque tumultueuse pour les chrétiens du début du IVe siècle. Il est surtout connu pour son long pontificat, qui comprit le concile de Nicée et le baptême de l'empereur Constantin. Sa direction contribua à consolider la position de l'Église dans l'Empire romain et marqua un tournant décisif dans l'histoire chrétienne.",
+      "image": "/images/saint_sylvester.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_I_of_Rome"
+    }
+  ]
+}

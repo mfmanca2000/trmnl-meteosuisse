@@ -1,0 +1,17 @@
+{
+  "date": "02-28",
+  "feast_day": "28 de febrero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Romano",
+      "feast_day": "28 de febrero",
+      "era": "Siglo V",
+      "patronage": null,
+      "legacy": "Fundador de comunidades monásticas en el Jura",
+      "summary": "San Romano fue un monje y abad del siglo V que, junto con su hermano Lupicino, fundó varios monasterios en la región del Jura. Era conocido por su liderazgo afable y su paciencia, acogiendo con frecuencia de nuevo a los monjes que se habían alejado de su comunidad. Romano dedicó su vida a la oración, el estudio y el cultivo de la vida monástica, dejando un legado duradero de fe y comunidad.",
+      "image": "/images/saints_romanus_and_lupicinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romanus_of_Condat"
+    }
+  ]
+}

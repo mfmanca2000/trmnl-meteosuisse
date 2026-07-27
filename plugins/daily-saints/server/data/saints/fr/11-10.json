@@ -1,0 +1,20 @@
+{
+  "date": "11-10",
+  "feast_day": "10 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "André Avellino",
+      "feast_day": "10 novembre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "protection contre la mort subite",
+        "avocats"
+      ],
+      "legacy": "Protecteur contre la mort subite et imprévue",
+      "summary": "André Avellino était un prêtre théatin connu pour son dévouement à la réforme d'une communauté de religieuses à Naples. Malgré une opposition violente, il resta fidèle à sa mission et fut reconnu pour sa sainteté et son humilité. On se souvient de lui pour sa profonde spiritualité et sa capacité à inspirer les autres, notamment grâce à son amitié avec saint Charles Borromée.",
+      "image": "/images/saint_andrew_avellino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Avellino"
+    }
+  ]
+}

@@ -21,7 +21,19 @@ plugins/
 | --- | --- | --- |
 | [meteosuisse](plugins/meteosuisse) | Hourly weather forecast for a Swiss NPA/PLZ, sourced from the MeteoSwiss API | `/api/meteosuisse/forecast` |
 | [homeassistant-energy](plugins/homeassistant-energy) | Solar/battery/grid energy snapshot, sourced from a Home Assistant instance | `/api/homeassistant-energy/status` |
-| [daily-saints](plugins/daily-saints) | Saint of the day, sourced from a local copy of the [daily-saints](https://github.com/ACoci86/daily-saints) data | `/api/daily-saints/today` |
+| [daily-saints](plugins/daily-saints) | Saint of the day, sourced from a local copy of the [daily-saints](https://github.com/ACoci86/daily-saints) data, in `en`/`fr`/`it`/`es` | `/api/daily-saints/today` |
+
+### daily-saints translations
+
+Saint content is served in `en`, `fr`, `it`, or `es` via the `language` query
+param / custom field (falls back to `en` if missing or unrecognized). Each
+language is a full static copy of the data under
+`plugins/daily-saints/server/data/saints/<lang>/`, translated once ahead of
+time — not machine-translated per request — since Vercel's serverless
+filesystem is ephemeral and can't reliably cache a live translation between
+invocations. To add another language, mirror the directory structure and
+translate all 366 `MM-DD.json` files from `en/`, keeping `date`, `image`, and
+`wikipedia` unchanged.
 
 ## Setup
 

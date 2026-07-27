@@ -1,0 +1,34 @@
+{
+  "date": "09-19",
+  "feast_day": "19 de septiembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nuestra Señora de La Salette",
+      "feast_day": "19 de septiembre",
+      "era": "Siglo XIX",
+      "patronage": [
+        "reconciliación",
+        "paz"
+      ],
+      "legacy": "Llamado al arrepentimiento y renovación de la fe",
+      "summary": "Nuestra Señora de La Salette es un título de la Bienaventurada Virgen María asociado a su aparición a dos pastorcillos en Francia en 1846. Durante esta aparición, ella entregó un mensaje de advertencia y esperanza, instando a los fieles a volver a Dios y vivir según sus enseñanzas. El acontecimiento ha inspirado devoción y la fundación de comunidades religiosas dedicadas a su mensaje.",
+      "image": "/images/our_lady_of_la_salette.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette"
+    },
+    {
+      "name": "Jenaro",
+      "feast_day": "19 de septiembre",
+      "era": "Siglo III",
+      "patronage": [
+        "donantes de sangre",
+        "volcanes",
+        "Nápoles"
+      ],
+      "legacy": "Sangre milagrosa y fe inquebrantable",
+      "summary": "San Jenaro fue un obispo de Benevento y mártir que murió durante la persecución de los cristianos bajo el emperador Diocleciano, hacia el año 305. Es célebre por la milagrosa licuefacción de su sangre, que ocurre anualmente en el día de su fiesta y que se cree que protege a la ciudad de Nápoles de las catástrofes. Sus reliquias son veneradas en la catedral de Nápoles, donde se le han atribuido numerosos milagros, lo que ha llevado a la conversión de miles de personas.",
+      "image": "/images/saint_januarius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Januarius"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "11-29",
+  "feast_day": "29 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Saturnino",
+      "feast_day": "29 de noviembre",
+      "era": "siglo I",
+      "patronage": [
+        "Toulouse",
+        "Francia",
+        "los agricultores"
+      ],
+      "legacy": "Mártir y evangelizador de los primeros cristianos",
+      "summary": "San Saturnino fue un obispo y mártir que desempeñó un papel crucial en la difusión temprana del cristianismo en el sur de Francia. Fue conocido por sus milagros y su firmeza frente a la persecución, lo que finalmente condujo a su martirio. Su legado se celebra en la tradición cristiana, particularmente en Toulouse, donde es venerado como santo patrono.",
+      "image": "/images/saint_saturninus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saturninus_of_Toulouse"
+    }
+  ]
+}

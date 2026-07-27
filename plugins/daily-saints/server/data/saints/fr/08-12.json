@@ -1,0 +1,21 @@
+{
+  "date": "08-12",
+  "feast_day": "12 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Claire d'Assise",
+      "feast_day": "12 août",
+      "era": "XIIIe siècle",
+      "patronage": [
+        "télévision",
+        "maladies des yeux",
+        "orfèvres"
+      ],
+      "legacy": "Pionnière de la vie monastique féminine",
+      "summary": "Claire d'Assise était une sainte italienne du XIIIe siècle, fondatrice de l'Ordre des Dames Pauvres, connu aujourd'hui sous le nom de Clarisses. Inspirée par saint François, elle consacra sa vie à la pauvreté et à la prière, fondant une communauté monastique qui mettait l'accent sur la simplicité et la dévotion à Dieu. Malgré une santé fragile, elle reste célèbre pour avoir miraculeusement défendu son couvent contre une armée envahissante grâce à sa foi et au Saint-Sacrement.",
+      "image": "/images/saint_clare_of_assisi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clare_of_Assisi"
+    }
+  ]
+}

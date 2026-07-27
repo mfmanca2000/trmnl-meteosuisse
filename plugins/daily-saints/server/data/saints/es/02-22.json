@@ -1,0 +1,35 @@
+{
+  "date": "02-22",
+  "feast_day": "22 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pedro",
+      "feast_day": "22 de febrero",
+      "era": "Siglo I",
+      "patronage": [
+        "pescadores",
+        "fabricantes de redes",
+        "constructores navales"
+      ],
+      "legacy": "Fundamento de la Iglesia y liderazgo apostólico",
+      "summary": "San Pedro es uno de los doce apóstoles de Jesús y es considerado el primer papa de la Iglesia católica romana. Es conocido por su liderazgo en la primera comunidad cristiana y se cree tradicionalmente que fue martirizado en Roma. Su papel como «Príncipe de los Apóstoles» resalta su importancia en la fundación de la Iglesia.",
+      "image": "/images/saint_peters_chair_at_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Margarita de Cortona",
+      "feast_day": "22 de febrero",
+      "era": "Medieval",
+      "patronage": [
+        "penitentes",
+        "personas sin hogar",
+        "madres solteras"
+      ],
+      "legacy": "Un faro de esperanza para los pecadores",
+      "summary": "Margarita de Cortona fue una terciaria franciscana del siglo XIII que transformó su vida de pecado en una vida de profunda santidad tras el asesinato de su amante. Se dedicó a servir a los pobres y fundó un hospital y una congregación para ayudar a los necesitados. Conocida por sus visiones e intercesiones milagrosas, se convirtió en una figura muy querida en la Toscana, a menudo llamada el «lirio del valle».",
+      "image": "/images/saint_margaret_of_cortona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Cortona"
+    }
+  ]
+}

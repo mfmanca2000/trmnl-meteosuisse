@@ -1,0 +1,22 @@
+{
+  "date": "12-08",
+  "feast_day": "8 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "María",
+      "feast_day": "8 de diciembre",
+      "era": "Antigüedad",
+      "patronage": [
+        "Iglesia católica",
+        "mujeres embarazadas",
+        "niños",
+        "Estados Unidos"
+      ],
+      "legacy": "Madre de Dios y modelo de pureza",
+      "summary": "La Inmaculada Concepción se refiere a la creencia de que María, la madre de Jesús, fue concebida sin pecado original. Este dogma fue proclamado solemnemente por el papa Pío IX en 1854, afirmando su pureza y su papel especial en la historia de la salvación. La fiesta se celebra el 8 de diciembre, en su honor como modelo de santidad y gracia.",
+      "image": "/images/the_immaculate_conception.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Immaculate_Conception"
+    }
+  ]
+}

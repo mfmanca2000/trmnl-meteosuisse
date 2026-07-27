@@ -1,0 +1,31 @@
+{
+  "date": "11-27",
+  "feast_day": "27 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catalina Labouré",
+      "feast_day": "27 de noviembre",
+      "era": "siglo XIX",
+      "patronage": [
+        "la Medalla Milagrosa",
+        "los enfermos",
+        "las Hijas de la Caridad"
+      ],
+      "legacy": "Visionaria de la Medalla Milagrosa",
+      "summary": "Catalina Labouré fue una religiosa francesa de las Hijas de la Caridad, conocida por sus visiones de la Virgen María. En 1830 recibió una visión que inspiró la creación de la Medalla Milagrosa, que desde entonces se ha convertido en un poderoso símbolo de fe y devoción. Su vida y su obra resaltan la importancia de la oración y la intercesión de María en la vida de los fieles.",
+      "image": "/images/the_miraculous_medal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+    },
+    {
+      "name": "Máximo",
+      "feast_day": "27 de noviembre",
+      "era": "siglo V",
+      "patronage": null,
+      "legacy": "Un modelo de humildad y virtud",
+      "summary": "San Máximo fue obispo de Riez en el siglo V, conocido por su profunda piedad y su compromiso con la virtud. Al principio se resistió a convertirse en obispo, prefiriendo una vida de humildad y servicio en su monasterio. Su liderazgo se caracterizó por la mansedumbre y la bondad, ganándose el afecto de su clero y de las personas a las que sirvió hasta su muerte en 460.",
+      "image": "/images/saint_maximus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "05-23",
+  "feast_day": "23 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanna Antida Thouret",
+      "feast_day": "23 maggio",
+      "era": "XIX secolo",
+      "patronage": null,
+      "legacy": "Fondatrice",
+      "summary": "Nata nella diocesi di Besançon nel novembre del 1765, santa Giovanna Antida perse la sua pia madre all'età di sedici anni, e per diversi anni si occupò della casa e dei suoi fratelli e sorelle più piccoli. Dopo molte esitazioni, il padre le permise di entrare nella Congregazione delle Figlie della Carità di san Vincenzo de' Paoli a Parigi, nel 1787. Lavorò in vari ospedali prendendosi cura dei malati, finché la Rivoluzione in Francia non provocò la dispersione delle Congregazioni.",
+      "image": "/images/saint_joan_antide_thouret.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Giulia",
+      "feast_day": "23 maggio",
+      "era": null,
+      "patronage": null,
+      "legacy": "Vergine, martire",
+      "summary": "fu una nobile vergine di Cartagine che, quando la città fu presa da Genserico nel 439, venne venduta come schiava a un mercante pagano di Siria. Nei compiti più umilianti della sua condizione, grazie alla sua allegria e pazienza trovò una felicità e un conforto che il mondo non poteva dare. Ogni volta che non era occupata nelle faccende domestiche, il suo tempo era dedicato alla preghiera e alla lettura di libri di pietà.",
+      "image": "/images/saint_julia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

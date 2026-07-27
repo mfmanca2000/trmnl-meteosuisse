@@ -1,0 +1,21 @@
+{
+  "date": "02-10",
+  "feast_day": "10 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Scholastique",
+      "feast_day": "10 février",
+      "era": "VIe siècle",
+      "patronage": [
+        "religieuses",
+        "enfants convulsifs",
+        "tempêtes"
+      ],
+      "legacy": "Modèle de dévotion monastique et d'amour fraternel.",
+      "summary": "Sainte Scholastique était une abbesse et la sœur de saint Benoît, le fondateur du monachisme occidental. Elle fonda un couvent près du Mont-Cassin et consacra sa vie à la prière et à la formation spirituelle de sa communauté. Connue pour sa foi profonde et son lien avec son frère, sa vie illustre l'importance de la compagnie spirituelle et du dévouement à Dieu.",
+      "image": "/images/saint_scholastica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Scholastica"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "date": "03-11",
+  "feast_day": "11 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eulogio de Córdoba",
+      "feast_day": "11 de marzo",
+      "era": "siglo IX",
+      "patronage": [
+        "los mártires",
+        "los conversos cristianos"
+      ],
+      "legacy": "Defensor de la fe y mártir cristiano",
+      "summary": "Eulogio de Córdoba fue un mártir cristiano y sacerdote del siglo IX conocido por su firme defensa de la fe durante el período de dominio musulmán en España. Fue ejecutado por sus críticas abiertas al Islam y sus esfuerzos por convertir a los musulmanes al cristianismo. Sus escritos y su martirio lo convirtieron en una figura destacada en la historia de la resistencia cristiana en la península ibérica.",
+      "image": "/images/saint_eulogius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba"
+    }
+  ]
+}

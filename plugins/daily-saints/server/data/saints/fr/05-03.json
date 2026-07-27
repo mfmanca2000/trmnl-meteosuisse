@@ -1,0 +1,17 @@
+{
+  "date": "05-03",
+  "feast_day": "3 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "L'Invention de la Sainte Croix",
+      "feast_day": "3 mai",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": null,
+      "summary": "Lorsque Dieu rendit la paix à son Église en élevant Constantin le Grand au trône impérial, ce prince pieux, qui avait triomphé de ses ennemis par le pouvoir miraculeux de la Croix du Christ, désira vivement témoigner sa vénération pour les lieux saints qu'avaient honorés et sanctifiés la présence et les souffrances de notre bienheureux Rédempteur sur la terre. Il résolut donc de bâtir une magnifique église dans la ville de Jérusalem. Sainte Hélène, mère de l'Empereur, désirant visiter les lieux saints, fit le voyage en Palestine en 326, bien qu'elle eût alors près de quatre-vingts ans.",
+      "image": "/images/the_finding_of_the_holy_cross.jpg",
+      "wikipedia": null
+    }
+  ]
+}

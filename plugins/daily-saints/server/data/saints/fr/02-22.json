@@ -1,0 +1,35 @@
+{
+  "date": "02-22",
+  "feast_day": "22 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre",
+      "feast_day": "22 février",
+      "era": "Ier siècle",
+      "patronage": [
+        "pêcheurs",
+        "fabricants de filets",
+        "constructeurs de navires"
+      ],
+      "legacy": "Fondation de l'Église et leadership apostolique",
+      "summary": "Saint Pierre est l'un des douze apôtres de Jésus et est considéré comme le premier pape de l'Église catholique romaine. Il est connu pour son leadership au sein de la première communauté chrétienne et l'on croit traditionnellement qu'il fut martyrisé à Rome. Son rôle de « Prince des Apôtres » souligne son importance dans la fondation de l'Église.",
+      "image": "/images/saint_peters_chair_at_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Marguerite de Cortone",
+      "feast_day": "22 février",
+      "era": "Médiéval",
+      "patronage": [
+        "pénitents",
+        "sans-abri",
+        "mères célibataires"
+      ],
+      "legacy": "Un phare d'espoir pour les pécheurs",
+      "summary": "Marguerite de Cortone était une tertiaire franciscaine du XIIIe siècle qui transforma sa vie de péché en une vie de profonde sainteté après le meurtre de son amant. Elle se consacra au service des pauvres et fonda un hôpital ainsi qu'une congrégation pour venir en aide aux nécessiteux. Connue pour ses visions et ses intercessions miraculeuses, elle devint une figure très aimée en Toscane, souvent surnommée le « lys de la vallée ».",
+      "image": "/images/saint_margaret_of_cortona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Cortona"
+    }
+  ]
+}

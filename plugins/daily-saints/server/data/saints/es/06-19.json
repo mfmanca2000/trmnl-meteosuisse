@@ -1,0 +1,20 @@
+{
+  "date": "06-19",
+  "feast_day": "19 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juliana Falconieri",
+      "feast_day": "19 de junio",
+      "era": "Medieval",
+      "patronage": [
+        "enfermos",
+        "quienes sufren dolencias estomacales"
+      ],
+      "legacy": "Devoción y caridad al servicio de los demás.",
+      "summary": "Juliana Falconieri fue una virgen del siglo XIV y fundadora de las Mantelatas, una rama de la Orden de los Siervos de María. Conocida por su profunda devoción y modestia, dedicó su vida a servir a los demás y llevó una vida de caridad apostólica. Su muerte estuvo marcada por un signo milagroso, al aparecer la forma del Santísimo Sacramento sobre su corazón.",
+      "image": "/images/saint_juliana_falconieri.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Juliana_Falconieri"
+    }
+  ]
+}

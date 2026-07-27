@@ -1,0 +1,45 @@
+{
+  "date": "06-09",
+  "feast_day": "9 de junio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Ana María Taigi",
+      "feast_day": "9 de junio",
+      "era": "Siglo XIX",
+      "patronage": [
+        "trabajadoras domésticas",
+        "madres",
+        "enfermos"
+      ],
+      "legacy": "Un modelo de humildad y devoción familiar",
+      "summary": "Ana María Taigi fue una devota esposa y madre que se convirtió en terciaria trinitaria, conocida por su profunda espiritualidad y sus extraordinarias experiencias místicas. A pesar de las dificultades de una vida familiar turbulenta, mantuvo un hogar sereno y amoroso, educando a sus hijos en la virtud y la compasión. Beatificada por el papa Benedicto XV en 1920, es recordada por su servicio desinteresado a los demás y su profunda unión con Dios.",
+      "image": "/images/blessed_anna_maria_taigi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anna_Maria_Taigi"
+    },
+    {
+      "name": "Primo y Feliciano",
+      "feast_day": "9 de junio",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Mártires de la fe y la caridad",
+      "summary": "Los santos Primo y Feliciano fueron hermanos y mártires que vivieron en Roma durante la última parte del siglo III. Convertidos al cristianismo por influencia del papa Félix I, dedicaron su vida a servir a los pobres y a animar a sus hermanos cristianos en tiempos de persecución. Finalmente fueron apresados y ejecutados por su fe, soportando severas torturas antes de ser decapitados el 9 de junio del año 286.",
+      "image": "/images/saints_primus_and_felicianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Primus_and_Felician"
+    },
+    {
+      "name": "Columba",
+      "feast_day": "9 de junio",
+      "era": "Siglo VI",
+      "patronage": [
+        "partos difíciles",
+        "poetas",
+        "navegantes"
+      ],
+      "legacy": "Apóstol de los pictos y fundador de Iona",
+      "summary": "San Columba, nacido en 521 en Irlanda, es reconocido como el apóstol de los pictos en Escocia. Fundó numerosos monasterios, en particular en la isla de Iona, donde estableció un importante centro de estudio cristiano y labor misionera. Su vida estuvo marcada por un profundo compromiso con la oración, la caridad y la conversión de las almas, lo que le valió una amplia veneración y respeto.",
+      "image": "/images/saint_columba_or_columkille.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Columba"
+    }
+  ]
+}

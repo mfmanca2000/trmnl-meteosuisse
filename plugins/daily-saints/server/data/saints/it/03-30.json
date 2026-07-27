@@ -1,0 +1,20 @@
+{
+  "date": "03-30",
+  "feast_day": "30 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni Climaco",
+      "feast_day": "30 marzo",
+      "era": "VI secolo",
+      "patronage": [
+        "i monaci",
+        "la crescita spirituale"
+      ],
+      "legacy": "Guida all'ascesa spirituale e alla saggezza",
+      "summary": "Giovanni Climaco fu un monaco e abate del VI secolo noto per i suoi scritti spirituali, in particolare 'La Scala del Paradiso', che delinea il cammino verso la perfezione spirituale. Trascorse gran parte della sua vita in solitudine sul monte Sinai, dove divenne celebre per la sua saggezza e santità. I suoi insegnamenti continuano a ispirare i cristiani che cercano di approfondire la propria vita spirituale.",
+      "image": "/images/saint_john_climacus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Climacus"
+    }
+  ]
+}

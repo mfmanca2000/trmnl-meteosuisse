@@ -1,0 +1,21 @@
+{
+  "date": "07-23",
+  "feast_day": "23 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Apollinaire de Ravenne",
+      "feast_day": "23 juillet",
+      "era": "Ier siècle",
+      "patronage": [
+        "Ravenne",
+        "martyrs",
+        "malades"
+      ],
+      "legacy": "Premier évêque et martyr de Ravenne",
+      "summary": "Apollinaire de Ravenne fut le premier évêque de Ravenne et un martyr qui consacra sa vie à la diffusion du christianisme. Il accomplit de nombreux miracles, notamment la guérison du fils aveugle d'un soldat et celle de l'épouse d'un tribun militaire, ce qui contribua à établir une communauté chrétienne à Ravenne. Malgré une sévère persécution, incluant la torture et l'exil, il demeura fidèle à sa foi jusqu'à sa mort en l'an 79.",
+      "image": "/images/saint_apollinaris_of_ravenna.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apollinaris_of_Ravenna"
+    }
+  ]
+}

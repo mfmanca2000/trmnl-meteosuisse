@@ -1,0 +1,35 @@
+{
+  "date": "08-04",
+  "feast_day": "4 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Domenico",
+      "feast_day": "4 agosto",
+      "era": "Medioevo",
+      "patronage": [
+        "astronomi",
+        "Repubblica Dominicana",
+        "filosofi"
+      ],
+      "legacy": "Fondatore dell'Ordine domenicano e del Rosario",
+      "summary": "San Domenico di Guzmán fu un sacerdote spagnolo, fondatore dell'Ordine dei Predicatori, comunemente noto come i Domenicani. Dedicò la sua vita a combattere l'eresia e a promuovere la fede cattolica, ricevendo, secondo la tradizione, il Rosario dalla Vergine Maria. Il suo lascito comprende la fondazione di un ordine religioso che poneva l'accento sulla predicazione, sull'istruzione e sull'importanza della preghiera.",
+      "image": "/images/saint_dominic_de_guzman.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_de_Guzman"
+    },
+    {
+      "name": "Federico Janssoone",
+      "feast_day": "4 agosto",
+      "era": "Epoca moderna",
+      "patronage": [
+        "pellegrini",
+        "missionari",
+        "malati"
+      ],
+      "legacy": "Un missionario devoto e taumaturgo",
+      "summary": "Federico Janssoone fu un missionario francescano noto per la sua dedizione al servizio in Terra Santa e in Canada. Fondò numerose fraternite del Terz'Ordine di San Francesco e fu apprezzato per la sua umiltà e carità, che favorirono l'armonia tra i diversi gruppi presenti a Gerusalemme. Il suo lascito comprende la fondazione di luoghi di pellegrinaggio e la venerazione di reliquie ritenute miracolose.",
+      "image": "/images/blessed_father_frederick_janssoone_of_ghyvelde.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Janssoone"
+    }
+  ]
+}

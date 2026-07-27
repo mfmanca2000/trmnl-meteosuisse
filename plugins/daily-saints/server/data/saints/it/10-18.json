@@ -1,0 +1,22 @@
+{
+  "date": "10-18",
+  "feast_day": "18 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Luca",
+      "feast_day": "18 ottobre",
+      "era": "I secolo",
+      "patronage": [
+        "medici",
+        "artisti",
+        "macellai",
+        "fornai"
+      ],
+      "legacy": "Evangelista e compagno di san Paolo",
+      "summary": "Luca è riconosciuto come l'autore del Vangelo secondo Luca e degli Atti degli Apostoli, fornendo un resoconto dettagliato della vita di Gesù e della Chiesa primitiva. Medico di professione, fu compagno di san Paolo e svolse un ruolo importante nella diffusione del cristianesimo. Le sue raffigurazioni artistiche della Vergine Maria e i suoi scritti meticolosi hanno fatto di lui una figura venerata nella tradizione cristiana.",
+      "image": "/images/saint_luke.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luke_the_Evangelist"
+    }
+  ]
+}

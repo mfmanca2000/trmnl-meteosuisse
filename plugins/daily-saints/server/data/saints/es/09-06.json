@@ -1,0 +1,30 @@
+{
+  "date": "09-06",
+  "feast_day": "6 de septiembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Rosalía",
+      "feast_day": "6 de septiembre",
+      "era": "Siglo XII",
+      "patronage": [
+        "Sicilia",
+        "víctimas de la peste"
+      ],
+      "legacy": "Patrona de Palermo y Sicilia",
+      "summary": "Santa Rosalía fue una virgen y ermitaña del siglo XII de Palermo, Sicilia. Es conocida por su profunda devoción a Dios, habiendo elegido una vida de soledad y penitencia en lugar de las ambiciones mundanas. Su intercesión es reconocida por haber salvado a la ciudad de Palermo de una peste en el siglo XVII, lo que llevó a su veneración como santa patrona de la ciudad.",
+      "image": "/images/saint_rosalia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rosalia_of_Palermo"
+    },
+    {
+      "name": "Eleuterio",
+      "feast_day": "6 de septiembre",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Un modelo de humildad y oración",
+      "summary": "San Eleuterio fue un abad del siglo VI conocido por su sencillez y su profundo espíritu de compunción. Presidió el monasterio de San Marcos cerca de Spoleto y fue favorecido con el don de los milagros, incluida la curación de un niño de una posesión demoníaca. Tras renunciar a su abadía, murió en Roma, dejando un legado de humildad y devoción a Dios.",
+      "image": "/images/saint_eleutherius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eleutherius"
+    }
+  ]
+}

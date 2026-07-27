@@ -1,0 +1,21 @@
+{
+  "date": "11-30",
+  "feast_day": "30 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Andrés",
+      "feast_day": "30 de noviembre",
+      "era": "siglo I",
+      "patronage": [
+        "los pescadores",
+        "escocia",
+        "grecia"
+      ],
+      "legacy": "Primer discípulo llamado por Jesucristo",
+      "summary": "Andrés fue uno de los primeros discípulos de Jesús y hermano de san Pedro. Es conocido por haber llevado a Pedro hasta Cristo y por su labor misionera en Escitia y Grecia. Andrés fue martirizado en una cruz diagonal, la cual abrazó con alegría, predicando a quienes lo rodeaban hasta su muerte.",
+      "image": "/images/saint_andrew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_the_Apostle"
+    }
+  ]
+}

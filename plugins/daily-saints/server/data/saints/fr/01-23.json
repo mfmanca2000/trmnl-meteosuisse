@@ -1,0 +1,35 @@
+{
+  "date": "01-23",
+  "feast_day": "23 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Raymond de Peñafort",
+      "feast_day": "23 janvier",
+      "era": "XIIIe siècle",
+      "patronage": [
+        "avocats",
+        "captifs",
+        "rachat des captifs"
+      ],
+      "legacy": "Patron des avocats et des captifs",
+      "summary": "Raymond de Peñafort était un prêtre dominicain espagnol et une figure éminente du XIIIe siècle. Il est surtout connu pour avoir fondé l'Ordre de Notre-Dame de la Merci, consacré à la rédemption des captifs chrétiens détenus par les musulmans. Son héritage comprend des contributions importantes au droit canonique et une vie marquée par des miracles et une profonde dévotion à la Vierge Marie.",
+      "image": "/images/saint_raymond_of_pennafort.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raymond_of_Pe%C3%B1afort"
+    },
+    {
+      "name": "Ildefonse",
+      "feast_day": "23 janvier",
+      "era": "VIIe siècle",
+      "patronage": [
+        "théologiens",
+        "vierges",
+        "Tolède"
+      ],
+      "legacy": "Défenseur de la virginité perpétuelle de Marie",
+      "summary": "Ildefonse fut un évêque de Tolède du VIIe siècle connu pour sa défense de la virginité perpétuelle de la Vierge Marie. Théologien de premier plan, il écrivit abondamment sur la doctrine mariale, ce qui lui valut le titre de « Docteur de la virginité de la Mère de Dieu ». Son héritage comprend de nombreux miracles qui lui sont attribués ainsi que la fondation d'un monastère de vierges en l'honneur de Marie.",
+      "image": "/images/saint_ildephonsus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ildephonsus_of_Toledo"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "09-15",
+  "feast_day": "15 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria",
+      "feast_day": "15 settembre",
+      "era": "I secolo",
+      "patronage": [
+        "madri",
+        "dolori",
+        "lutto",
+        "famiglia"
+      ],
+      "legacy": "Madre di Dio e modello di fede",
+      "summary": "Maria è venerata come la Madre di Gesù Cristo e occupa un ruolo centrale nel cristianesimo. È spesso raffigurata come una figura di compassione e dolore, in particolare in relazione alla Passione di Cristo. La sua vita esemplifica una fede profonda e una devozione materna, rendendola un modello per i credenti.",
+      "image": "/images/the_seven_sorrows_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Caterina da Genova",
+      "feast_day": "15 settembre",
+      "era": "Rinascimento",
+      "patronage": [
+        "malati",
+        "operatori sanitari",
+        "moribondi"
+      ],
+      "legacy": "Devozione alle anime sofferenti del purgatorio",
+      "summary": "Caterina da Genova era una nobildonna che dedicò la sua vita a Dio dopo aver sopportato un matrimonio difficile. È nota per la sua profonda spiritualità, in particolare la sua devozione verso le anime del purgatorio, e la sua rigorosa penitenza, che includeva il vivere della sola Santa Comunione per molti anni. Caterina servì anche i malati e i poveri della sua comunità, arrivando a gestire un grande ospedale a Genova.",
+      "image": "/images/saint_catherine_of_genoa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Genoa"
+    }
+  ]
+}

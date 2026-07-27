@@ -1,0 +1,17 @@
+{
+  "date": "03-25",
+  "feast_day": "25 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anunciación de la Bienaventurada Virgen María y la Encarnación del Verbo de Dios",
+      "feast_day": "25 de marzo",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "Esta gran festividad toma su nombre de la feliz noticia traída por el Arcángel Gabriel a la Bienaventurada Virgen, anunciando la Encarnación del Hijo de Dios. Conmemora la embajada más importante que jamás se haya conocido, una embajada enviada por el Rey de reyes, y llevada a cabo por uno de los principales príncipes de su corte celestial, y dirigida, no a los grandes de esta tierra, sino a una pobre virgen desconocida que, dotada de pureza angélica de alma y cuerpo, y de humildad y sumisión perfectas a Dios, era más grande a sus ojos que el más poderoso monarca del mundo. Cuando el Hijo de Dios se hizo hombre, podría haber tomado nuestra naturaleza sin la cooperación de ninguna criatura; pero le agradó nacer de una mujer, la anunciada en el tercer capítulo del Génesis.",
+      "image": "/images/annunciation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": null
+    }
+  ]
+}

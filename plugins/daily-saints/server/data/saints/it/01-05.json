@@ -1,0 +1,31 @@
+{
+  "date": "01-05",
+  "feast_day": "5 gennaio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Simeone Stilita",
+      "feast_day": "5 gennaio",
+      "era": "V secolo",
+      "patronage": [
+        "asceti",
+        "eremiti",
+        "coloro che cercano la solitudine"
+      ],
+      "legacy": "Pioniere dell'ascesi sulla colonna e della preghiera",
+      "summary": "Simeone Stilita fu un asceta cristiano noto per la sua forma estrema di monachesimo, trascorrendo 37 anni in cima a una colonna in Siria. Praticò severe austerità, tra cui il digiuno e la disciplina personale, che attirarono molti seguaci e ammiratori. La sua vita di preghiera e dedizione a Dio ispirò innumerevoli persone e portò a numerosi miracoli attribuiti alla sua intercessione.",
+      "image": "/images/saint_simeon_stylites.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simeon_Stylites"
+    },
+    {
+      "name": "Telesforo",
+      "feast_day": "5 gennaio",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede e riformatore liturgico",
+      "summary": "Telesforo fu un papa greco e martire che servì come vescovo di Roma all'inizio del II secolo. È noto per i suoi sforzi nel combattere l'eresia e per aver istituito alcune pratiche liturgiche, tra cui la celebrazione della Messa nella vigilia di Natale. Telesforo fu martirizzato sotto l'imperatore Antonino Pio ed è commemorato il 5 gennaio.",
+      "image": "/images/saint_telesphorus_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Telesphorus"
+    }
+  ]
+}

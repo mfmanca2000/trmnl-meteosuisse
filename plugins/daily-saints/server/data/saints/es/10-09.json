@@ -1,0 +1,34 @@
+{
+  "date": "10-09",
+  "feast_day": "9 de octubre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Luis Beltrán",
+      "feast_day": "9 de octubre",
+      "era": "Siglo XVI",
+      "patronage": [
+        "misioneros",
+        "pueblos indígenas"
+      ],
+      "legacy": "Defensor de los derechos de los indígenas y de la fe",
+      "summary": "Luis Beltrán fue un misionero dominico español conocido por su dedicada labor en la conversión de los pueblos indígenas de las Américas durante el siglo XVI. Mostró una notable mansedumbre y compasión, incluso frente a la adversidad, y fue dotado con el don de la profecía y los milagros. Su legado incluye el bautismo de miles de personas y el compromiso de defender los derechos de las comunidades indígenas oprimidas.",
+      "image": "/images/saint_louis_bertrand.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_Bertrand_(saint)"
+    },
+    {
+      "name": "Dionisio Areopagita",
+      "feast_day": "9 de octubre",
+      "era": "Siglo I",
+      "patronage": [
+        "Francia",
+        "filósofos",
+        "teólogos"
+      ],
+      "legacy": "Pionero del cristianismo en la Galia",
+      "summary": "Dionisio Areopagita fue un destacado misionero cristiano de los primeros tiempos y el primer obispo de Atenas, convertido por san Pablo. Desempeñó un papel importante en la difusión del cristianismo en la Galia, en particular en París, donde fundó varias iglesias. Se le recuerda como mártir, pues fue ejecutado por su fe hacia el año 117.",
+      "image": "/images/saint_dionysius_the_areopagite.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dionysius_the_Areopagite"
+    }
+  ]
+}

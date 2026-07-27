@@ -1,0 +1,17 @@
+{
+  "date": "09-14",
+  "feast_day": "14 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Exaltación de la Santa Cruz",
+      "feast_day": "14 de septiembre",
+      "era": "Siglo VII",
+      "patronage": null,
+      "legacy": "Celebración del triunfo de la Cruz",
+      "summary": "La Exaltación de la Santa Cruz conmemora la recuperación de la Vera Cruz por el emperador Heraclio en el año 628, después de que hubiera sido tomada por los persas. Este acontecimiento simboliza el triunfo del cristianismo sobre el paganismo y la importancia de la Cruz en la fe. La fiesta sirve como recordatorio del significado de la Cruz en la vida de los creyentes y de los milagros asociados a ella.",
+      "image": "/images/the_exaltation_of_the_holy_cross_of_our_lord_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Exaltation_of_the_Holy_Cross"
+    }
+  ]
+}

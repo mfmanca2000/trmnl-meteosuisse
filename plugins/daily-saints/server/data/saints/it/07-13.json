@@ -1,0 +1,27 @@
+{
+  "date": "07-13",
+  "feast_day": "13 luglio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Anacleto",
+      "feast_day": "13 luglio",
+      "era": "I secolo",
+      "patronage": null,
+      "legacy": "Guida della Chiesa primitiva e martire",
+      "summary": "Sant'Anacleto fu il secondo papa e martire, successore di san Cleto intorno all'anno 83. Svolse un ruolo cruciale nella Chiesa primitiva consacrando sei vescovi e stabilendo importanti norme per la consacrazione episcopale. Anacleto era noto per la sua dedizione ai fedeli durante un periodo di intensa persecuzione sotto l'imperatore Domiziano, e fu sepolto in Vaticano dopo la sua morte, avvenuta il 13 luglio del 96.",
+      "image": "/images/saint_anacletus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anacletus"
+    },
+    {
+      "name": "Eugenio",
+      "feast_day": "13 luglio",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Una guida salda durante la persecuzione",
+      "summary": "Eugenio fu vescovo di Cartagine in un periodo di intensa persecuzione contro i cattolici sotto i re vandali. Era noto per la sua pietà, il suo sapere e il suo impegno verso i poveri, sacrificando spesso le proprie comodità per aiutare chi era nel bisogno. Dopo aver sopportato l'esilio e le difficoltà, morì in un monastero in Francia, dove furono riportati numerosi miracoli presso la sua tomba.",
+      "image": "/images/saint_eugenius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eugenius_of_Carthage"
+    }
+  ]
+}

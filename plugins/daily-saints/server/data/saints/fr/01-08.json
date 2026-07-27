@@ -1,0 +1,17 @@
+{
+  "date": "01-08",
+  "feast_day": "8 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Apollinaire",
+      "feast_day": "8 janvier",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi dans les débuts du christianisme",
+      "summary": "Apollinaire fut évêque de Hiérapolis en Phrygie et une figure notable de l'Église primitive. Il est surtout connu pour son apologie adressée à l'empereur Marc Aurèle, plaidant pour la protection des chrétiens en cette période de persécution. Bien qu'une grande partie de son œuvre soit perdue, il fut très estimé par les historiens de l'Église primitive pour sa défense de la foi contre les hérésies.",
+      "image": "/images/saint_apollinaris_the_apologist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apollinaris_of_Hierapolis"
+    }
+  ]
+}

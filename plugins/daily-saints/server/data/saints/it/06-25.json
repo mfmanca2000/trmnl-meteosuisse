@@ -1,0 +1,30 @@
+{
+  "date": "06-25",
+  "feast_day": "25 giugno",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Guglielmo da Vercelli",
+      "feast_day": "25 giugno",
+      "era": "XII secolo",
+      "patronage": [
+        "monaci",
+        "pellegrini"
+      ],
+      "legacy": "Fondatore della Congregazione di Montevergine",
+      "summary": "Guglielmo da Vercelli fu un abate italiano e fondatore della Congregazione di Montevergine. Dopo una vita di pellegrinaggio e contemplazione, fondò una comunità monastica dedicata a una vita austera e alla devozione verso la Vergine Maria. Il suo lascito comprende la continua venerazione di un'immagine della Vergine custodita nel monastero, che attira numerosi pellegrini.",
+      "image": "/images/saint_william_of_vercelli.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_of_Vercelli"
+    },
+    {
+      "name": "Prospero d'Aquitania",
+      "feast_day": "25 giugno",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Difensore degli insegnamenti di Agostino e dell'ortodossia",
+      "summary": "Prospero d'Aquitania fu un importante teologo e Dottore della Chiesa nel V secolo, noto per i suoi scritti e per la sua difesa contro l'eresia semipelagiana. Collaborò strettamente con sant'Agostino, contribuendo ai dibattiti teologici del suo tempo e aiutando a chiarire gli insegnamenti agostiniani. Il suo lascito comprende un ruolo significativo negli sforzi della Chiesa per combattere l'eresia e promuovere la sana dottrina.",
+      "image": "/images/saint_prosper_of_aquitaine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine"
+    }
+  ]
+}

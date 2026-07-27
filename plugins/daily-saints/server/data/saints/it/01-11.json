@@ -1,0 +1,31 @@
+{
+  "date": "01-11",
+  "feast_day": "11 gennaio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Teodosio",
+      "feast_day": "11 gennaio",
+      "era": "V-VI secolo",
+      "patronage": [
+        "monaci",
+        "ospedali",
+        "malati"
+      ],
+      "legacy": "Un modello di carità e umiltà",
+      "summary": "San Teodosio fu un abate di rilievo e fondatore di comunità monastiche in Palestina tra il V e il VI secolo. Noto per la sua profonda carità e umiltà, costruì un grande monastero e diversi ospedali, provvedendo ai poveri e ai malati. Si oppose con successo agli insegnamenti eretici e fu venerato per la sua pietà e la sua guida tra le comunità religiose del suo tempo.",
+      "image": "/images/saint_theodosius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodosius_the_Cenobiarch"
+    },
+    {
+      "name": "Igino",
+      "feast_day": "11 gennaio",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede contro le prime eresie",
+      "summary": "Igino fu papa dal 139 al 142 circa, in un periodo di relativa pace per la Chiesa sotto l'imperatore Antonino Pio. Dovette affrontare eretici come Cerdone e Valentino, che cercò di correggere con cura pastorale. Sebbene non sia stato ufficialmente martirizzato, è riconosciuto come martire per le persecuzioni che subì come guida della Chiesa primitiva.",
+      "image": "/images/saint_hyginus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Hyginus"
+    }
+  ]
+}

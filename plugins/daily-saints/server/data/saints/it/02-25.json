@@ -1,0 +1,17 @@
+{
+  "date": "02-25",
+  "feast_day": "25 febbraio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tarasio",
+      "feast_day": "25 febbraio",
+      "era": "VIII secolo",
+      "patronage": null,
+      "legacy": "Difensore delle icone e dell'integrità della Chiesa",
+      "summary": "Tarasio fu patriarca di Costantinopoli dal 784 all'806, noto per la sua strenua difesa della venerazione delle icone durante la controversia iconoclasta. Era un uomo di grande virtù e semplicità, che conduceva una vita di preghiera e servizio, rifiutandosi di scendere a compromessi sui propri principi anche di fronte alla pressione imperiale. Il suo lascito comprende l'impegno per l'integrità della Chiesa e la promozione delle sacre immagini, confermata dal secondo Concilio di Nicea.",
+      "image": "/images/saint_tarasius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarasios_of_Constantinople"
+    }
+  ]
+}

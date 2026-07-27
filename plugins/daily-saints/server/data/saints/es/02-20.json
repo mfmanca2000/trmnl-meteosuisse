@@ -1,0 +1,17 @@
+{
+  "date": "02-20",
+  "feast_day": "20 de febrero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eucherio",
+      "feast_day": "20 de febrero",
+      "era": "Siglo VIII",
+      "patronage": null,
+      "legacy": "Defensor de los derechos de la Iglesia",
+      "summary": "Eucherio fue obispo de Orleans, conocido por su profundo compromiso con Dios y su vida virtuosa. Tras pasar años en un monasterio, fue elegido a regañadientes para dirigir la diócesis, donde se convirtió en un firme defensor de los derechos de la Iglesia frente a las intromisiones del poder secular. Su legado está marcado por su dedicación a la oración y la contemplación, incluso frente a la adversidad.",
+      "image": "/images/saint_eucherius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eucherius_of_Orl%C3%A9ans"
+    }
+  ]
+}

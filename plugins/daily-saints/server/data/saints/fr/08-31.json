@@ -1,0 +1,21 @@
+{
+  "date": "08-31",
+  "feast_day": "31 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Raymond Nonnat",
+      "feast_day": "31 août",
+      "era": "Moyen Âge",
+      "patronage": [
+        "captifs",
+        "accouchement",
+        "sages-femmes"
+      ],
+      "legacy": "Champion des captifs et des opprimés",
+      "summary": "Raymond Nonnat était un saint espagnol né en 1204, qui consacra sa vie au rachat des captifs. Il rejoignit l'Ordre de Notre-Dame de la Merci et risqua sa vie pour libérer des esclaves, devenant lui-même finalement otage. Après avoir enduré de sévères tortures pour sa foi, il mourut en 1240 et fut plus tard canonisé, reconnu pour son sacrifice désintéressé et son dévouement au salut des âmes.",
+      "image": "/images/saint_raymund_nonnatus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Nonnatus"
+    }
+  ]
+}

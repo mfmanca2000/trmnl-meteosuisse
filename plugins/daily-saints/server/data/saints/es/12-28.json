@@ -1,0 +1,21 @@
+{
+  "date": "12-28",
+  "feast_day": "28 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Santos Inocentes",
+      "feast_day": "28 de diciembre",
+      "era": "Siglo I",
+      "patronage": [
+        "niños",
+        "inocencia",
+        "víctimas de la violencia"
+      ],
+      "legacy": "Mártires de la inocencia y de la fe",
+      "summary": "Los Santos Inocentes son los niños martirizados por el rey Herodes en su intento de matar al niño Jesús recién nacido. Son reconocidos como los primeros mártires del cristianismo, habiendo muerto por su fe sin haberla conocido jamás. Su fiesta se celebra en honor a su sacrificio e inocencia.",
+      "image": "/images/the_holy_innocents.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Innocents"
+    }
+  ]
+}

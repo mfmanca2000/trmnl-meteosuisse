@@ -1,0 +1,35 @@
+{
+  "date": "05-06",
+  "feast_day": "6 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Domingo Savio",
+      "feast_day": "6 de mayo",
+      "era": "Siglo XIX",
+      "patronage": [
+        "monaguillos",
+        "delincuentes juveniles",
+        "estudiantes"
+      ],
+      "legacy": "Una inspiración para la juventud a través de la fe y la alegría",
+      "summary": "Domingo Savio fue un joven estudiante italiano y miembro de la Sociedad Salesiana, conocido por su profundo compromiso con la fe y su deseo de santidad desde temprana edad. Fue estrecho colaborador de san Juan Bosco y fundó la Sodalicio de la Inmaculada Concepción para promover la fe entre sus compañeros. A pesar de su corta vida, se le recuerda por su carácter alegre y su dedicación a ayudar a los demás a crecer en la fe.",
+      "image": "/images/saint_dominic_savio.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Savio"
+    },
+    {
+      "name": "Juan",
+      "feast_day": "6 de mayo",
+      "era": "Siglo I",
+      "patronage": [
+        "autores",
+        "teólogos",
+        "boticarios"
+      ],
+      "legacy": "Discípulo amado y autor del Apocalipsis",
+      "summary": "San Juan Evangelista fue el último apóstol superviviente y desempeñó un papel importante en la Iglesia primitiva, especialmente en Asia Menor. Escapó milagrosamente del martirio cuando fue arrojado a un caldero de aceite hirviendo, que no le causó ningún daño. Finalmente fue exiliado a la isla de Patmos, donde recibió las visiones que se convertirían en el Libro del Apocalipsis.",
+      "image": "/images/saint_john_before_the_latin_gate.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Evangelist"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "08-04",
+  "feast_day": "4 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Dominique",
+      "feast_day": "4 août",
+      "era": "Moyen Âge",
+      "patronage": [
+        "astronomes",
+        "République dominicaine",
+        "philosophes"
+      ],
+      "legacy": "Fondateur de l'ordre dominicain et du Rosaire",
+      "summary": "Saint Dominique de Guzmán était un prêtre espagnol, fondateur de l'Ordre des Prêcheurs, communément appelé les Dominicains. Il consacra sa vie à combattre l'hérésie et à promouvoir la foi catholique, ayant reçu, selon la tradition, le Rosaire des mains de la Vierge Marie. Son héritage comprend la fondation d'un ordre religieux qui mettait l'accent sur la prédication, l'enseignement et l'importance de la prière.",
+      "image": "/images/saint_dominic_de_guzman.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_de_Guzman"
+    },
+    {
+      "name": "Frédéric Janssoone",
+      "feast_day": "4 août",
+      "era": "Époque moderne",
+      "patronage": [
+        "pèlerins",
+        "missionnaires",
+        "malades"
+      ],
+      "legacy": "Un missionnaire dévoué et faiseur de miracles",
+      "summary": "Frédéric Janssoone était un missionnaire franciscain connu pour son dévouement au service de la Terre Sainte et du Canada. Il fonda de nombreuses fraternités du Tiers-Ordre de Saint François et fut reconnu pour son humilité et sa charité, qui favorisèrent l'harmonie entre divers groupes à Jérusalem. Son héritage comprend la création de lieux de pèlerinage et la vénération de reliques auxquelles on attribuait des miracles.",
+      "image": "/images/blessed_father_frederick_janssoone_of_ghyvelde.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Janssoone"
+    }
+  ]
+}

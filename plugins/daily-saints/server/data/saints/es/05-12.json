@@ -1,0 +1,31 @@
+{
+  "date": "05-12",
+  "feast_day": "12 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Imelda",
+      "feast_day": "12 de mayo",
+      "era": "Siglo XIV",
+      "patronage": null,
+      "legacy": "Virgen",
+      "summary": "Santa Imelda nació en Bolonia, Italia, a principios del siglo XIV. Siendo aún niña, dispuso un pequeño oratorio en su casa, donde solía orar con frecuencia. Resolvió entrar en un monasterio y pronunciar los votos religiosos, para entregarse por completo a su Salvador.",
+      "image": "/images/saint_imelda.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Epifanio",
+      "feast_day": "12 de mayo",
+      "era": "Siglo IV",
+      "patronage": [
+        "teólogos",
+        "monjes",
+        "Chipre"
+      ],
+      "legacy": "Campeón de la vida monástica y la caridad",
+      "summary": "San Epifanio nació hacia el año 315 en Palestina y se convirtió en un destacado líder cristiano y teólogo. Ejerció como arzobispo de Salamina en Chipre y fue conocido por su profundo compromiso con la vida monástica, la caridad y el estudio de las Escrituras. Su legado incluye un fuerte énfasis en la importancia del trabajo dentro de la fe y una reputación de santidad que lo protegió de la persecución en vida.",
+      "image": "/images/saint_epiphanius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Epiphanius_of_Salamis"
+    }
+  ]
+}

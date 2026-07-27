@@ -1,0 +1,31 @@
+{
+  "date": "08-09",
+  "feast_day": "9 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni Maria Vianney",
+      "feast_day": "9 agosto",
+      "era": "XIX secolo",
+      "patronage": [
+        "sacerdoti",
+        "malati",
+        "confessione sacramentale"
+      ],
+      "legacy": "Modello di cura pastorale e santità",
+      "summary": "Giovanni Maria Vianney, noto come il Curato d'Ars, fu un umile sacerdote celebre per la sua straordinaria cura pastorale e per la sua dedizione al sacramento della confessione. Trasformò la parrocchia di Ars, in Francia, in una vivace comunità cristiana grazie alla sua pietà, alla predicazione e alle opere di carità. La sua vita di penitenza e devozione ne ha fatto un modello per i sacerdoti e un santo molto amato nella Chiesa cattolica.",
+      "image": "/images/saint_john_vianney.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Vianney"
+    },
+    {
+      "name": "Romano",
+      "feast_day": "9 agosto",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Un martire ispirato da una fede incrollabile",
+      "summary": "San Romano era un soldato della legione romana sotto l'imperatore Valeriano, che si convertì al cristianesimo dopo aver assistito alla fermezza di san Lorenzo durante il suo martirio. Mosso dalla grazia che aveva percepito, Romano abbracciò la fede e fu successivamente imprigionato per le sue convinzioni. Fu condannato e decapitato per la sua fede il 9 agosto del 258, e le sue spoglie sono venerate a Lucca, in Italia.",
+      "image": "/images/saint_romanus_statue.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romanus_of_Rome"
+    }
+  ]
+}

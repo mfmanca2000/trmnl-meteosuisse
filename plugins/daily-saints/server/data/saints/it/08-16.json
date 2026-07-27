@@ -1,0 +1,35 @@
+{
+  "date": "08-16",
+  "feast_day": "16 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Rocco",
+      "feast_day": "16 agosto",
+      "era": "Medioevo",
+      "patronage": [
+        "invalidi",
+        "vittime della peste",
+        "cani"
+      ],
+      "legacy": "Patrono dei malati e dei viandanti",
+      "summary": "San Rocco nacque figlio di un governatore di Montpellier e dedicò la sua vita al servizio dei poveri e dei malati. È noto per le sue guarigioni miracolose durante un'epidemia di peste in Italia, dove si prese cura degli ammalati. Colpito egli stesso dalla peste, morì in prigione, riconosciuto grazie alla croce rossa impressa sul petto, e divenne una figura popolare della devozione cristiana.",
+      "image": "/images/saint_roch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roch"
+    },
+    {
+      "name": "Gioacchino",
+      "feast_day": "16 agosto",
+      "era": "I secolo",
+      "patronage": [
+        "nonni",
+        "padri",
+        "famiglie"
+      ],
+      "legacy": "Padre della Vergine Maria e fedele servitore",
+      "summary": "San Gioacchino è riconosciuto come il padre della Vergine Maria e sposo di sant'Anna. Egli e Anna rimasero senza figli per molti anni, finché un angelo annunciò loro che avrebbero avuto una figlia, Maria, che sarebbe diventata la Madre di Gesù. Gioacchino è onorato per la sua pietà e devozione, esempio di fedeltà a Dio nelle avversità.",
+      "image": "/images/saint_joachim.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joachim"
+    }
+  ]
+}

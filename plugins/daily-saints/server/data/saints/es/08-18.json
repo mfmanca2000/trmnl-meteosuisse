@@ -1,0 +1,45 @@
+{
+  "date": "08-18",
+  "feast_day": "18 de agosto",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Elena",
+      "feast_day": "18 de agosto",
+      "era": "Siglo IV",
+      "patronage": [
+        "conversos",
+        "arqueólogos",
+        "matrimonios difíciles"
+      ],
+      "legacy": "Descubridora de la Vera Cruz",
+      "summary": "Santa Elena fue una princesa británica y madre de Constantino el Grande, el primer emperador cristiano. Es célebre por su peregrinación a Jerusalén, donde descubrió la Vera Cruz y construyó iglesias en lugares cristianos importantes. Su influencia sobre su hijo y su contribución al cristianismo son celebradas, en particular su papel en la promoción de la fe durante los primeros años de la Iglesia.",
+      "image": "/images/saint_helen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Helen_of_Constantinople"
+    },
+    {
+      "name": "Agapito",
+      "feast_day": "18 de agosto",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Valeroso mártir y convertidor de paganos",
+      "summary": "San Agapito fue un joven mártir que sufrió mucho por su fe bajo el reinado del emperador Aureliano. Su firmeza bajo tortura llevó a la conversión de numerosos paganos, que fueron posteriormente ejecutados por sus nuevas creencias. Agapito fue finalmente decapitado por negarse a ofrecer sacrificios a Apolo, y es recordado por su extraordinario valor y su fe.",
+      "image": "/images/saint_agapet.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agapetus"
+    },
+    {
+      "name": "Clara de Montefalco",
+      "feast_day": "18 de agosto",
+      "era": "Medieval",
+      "patronage": [
+        "enfermedades del corazón",
+        "enfermos",
+        "monjas"
+      ],
+      "legacy": "Un modelo de devoción y compasión",
+      "summary": "Clara de Montefalco fue una virgen y abadesa italiana conocida por su profunda espiritualidad y su dedicación a la Pasión de Cristo. Dirigió una comunidad de monjas y fue reconocida por su sabiduría, sus curaciones milagrosas y sus dones proféticos. Se decía que su corazón llevaba grabada la imagen del Salvador crucificado, simbolizando su profunda conexión con el sufrimiento de Cristo.",
+      "image": "/images/saint_clare_of_montefalco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clare_of_Montefalco"
+    }
+  ]
+}

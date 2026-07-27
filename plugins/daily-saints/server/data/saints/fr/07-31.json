@@ -1,0 +1,21 @@
+{
+  "date": "07-31",
+  "feast_day": "31 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ignace de Loyola",
+      "feast_day": "31 juillet",
+      "era": "XVIe siècle",
+      "patronage": [
+        "soldats",
+        "retraites spirituelles",
+        "éducation"
+      ],
+      "legacy": "Fondateur des Jésuites et guide spirituel",
+      "summary": "Saint Ignace de Loyola fut un prêtre et théologien espagnol qui fonda la Compagnie de Jésus, également connue sous le nom de Jésuites. Après une profonde conversion spirituelle survenue à la suite d'une grave blessure, il consacra sa vie au service de Dieu et à l'aide aux autres à travers l'éducation et les exercices spirituels. Son héritage comprend les Exercices spirituels, un guide pour la croissance spirituelle qui a influencé d'innombrables personnes et communautés.",
+      "image": "/images/saint_ignatius_of_loyola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
+    }
+  ]
+}

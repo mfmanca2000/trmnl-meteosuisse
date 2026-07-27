@@ -4,25 +4,29 @@
 {% endcomment %}
 {% assign saint = saints[0] %}
 <div class="layout">
-  {% if saint %}
-  <div class="flex flex--row gap--small h--full" style="align-items: center;">
-    {% if saint.image %}
-    <img class="image" src="{{ saint.image }}" style="width: 90px; height: 110px; object-fit: cover; border-radius: 6px; flex: 0 0 auto;">
-    {% endif %}
-    <div class="flex flex--col gap--xsmall" style="min-width: 0;">
-      <div class="title title--small">{{ saint.name }}</div>
-      <div class="label label--small">{{ feastDay }}{% if saint.era %} &middot; {{ saint.era }}{% endif %}</div>
-      {% if saint.legacy %}
-      <div class="description" style="font-style: italic; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">&ldquo;{{ saint.legacy }}&rdquo;</div>
+  <div class="flex flex--col h--full" style="width: 100%;">
+    {% if saint %}
+    <div class="flex flex--row gap--small" style="align-items: center; flex: 1;">
+      {% if saint.image %}
+      <img class="image" src="{{ saint.image }}" style="width: 90px; height: 110px; object-fit: cover; border-radius: 6px; flex: 0 0 auto;">
       {% endif %}
+      <div class="flex flex--col gap--xsmall" style="min-width: 0;">
+        <div class="title title--small">{{ saint.name }}</div>
+        <div class="label label--small">{{ feastDay }}{% if saint.era %} &middot; {{ saint.era }}{% endif %}</div>
+        {% if saint.legacy %}
+        <div class="description" style="font-style: italic; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">&ldquo;{{ saint.legacy }}&rdquo;</div>
+        {% endif %}
+      </div>
     </div>
+    {% else %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--xsmall" style="flex: 1;">
+      <div class="value value--small">&#128330;</div>
+      <div class="description text--center">No saint data</div>
+    </div>
+    {% endif %}
+
+    <div class="text--center" style="opacity: 0.5; font-size: 8px; line-height: 1.2;">github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
   </div>
-  {% else %}
-  <div class="flex flex--col flex--center-x flex--center-y gap--xsmall h--full">
-    <div class="value value--small">&#128330;</div>
-    <div class="description text--center">No saint data</div>
-  </div>
-  {% endif %}
 </div>
 
 <div class="title_bar">

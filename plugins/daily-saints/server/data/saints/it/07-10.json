@@ -1,0 +1,21 @@
+{
+  "date": "07-10",
+  "feast_day": "10 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Felicita",
+      "feast_day": "10 luglio",
+      "era": "II secolo",
+      "patronage": [
+        "madri",
+        "martiri",
+        "parti difficili"
+      ],
+      "legacy": "Una fede coraggiosa di fronte alla persecuzione.",
+      "summary": "Santa Felicita fu una nobile matrona romana nota per la sua fede incrollabile e la sua virtù. Allevò i suoi sette figli nella fede cristiana, incoraggiandoli a rimanere saldi nelle loro convinzioni anche di fronte alla persecuzione. Alla fine, lei e i suoi figli furono martirizzati per essersi rifiutati di rinnegare la propria fede, dimostrando coraggio e devozione a Dio.",
+      "image": "/images/saint_felicity_and_her_seven_sons.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felicitas_of_Rome"
+    }
+  ]
+}

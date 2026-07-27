@@ -1,0 +1,17 @@
+{
+  "date": "07-28",
+  "feast_day": "28 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nazaire",
+      "feast_day": "28 juillet",
+      "era": "Ier siècle",
+      "patronage": null,
+      "legacy": "Martyre pour la foi et la vertu",
+      "summary": "Saint Nazaire fut un martyr chrétien du premier siècle, connu pour sa prédication zélée de l'Évangile. Il fut baptisé par saint Lin et voyagea abondamment pour répandre le christianisme, affrontant souvent la persécution. Avec son disciple Celse, il fut finalement arrêté et décapité pour avoir refusé de renier sa foi sous le règne de Néron.",
+      "image": "/images/saints_nazarius_and_celsus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nazarius"
+    }
+  ]
+}

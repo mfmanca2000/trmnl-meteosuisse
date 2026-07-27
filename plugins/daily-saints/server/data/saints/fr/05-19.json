@@ -1,0 +1,30 @@
+{
+  "date": "05-19",
+  "feast_day": "19 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre Célestin",
+      "feast_day": "19 mai",
+      "era": "XIIIe siècle",
+      "patronage": [
+        "célibat",
+        "élections papales"
+      ],
+      "legacy": "Pape et fondateur des Célestins",
+      "summary": "Pierre Célestin fut un pape du XIIIe siècle, fondateur de l'ordre des Célestins, une branche des Bénédictins. Connu pour sa spiritualité profonde et son désir de solitude, il renonça à la papauté après seulement cinq mois, s'estimant inapte à cette charge. Il passa le reste de sa vie retiré du monde, accomplissant des miracles et entretenant une relation étroite avec Dieu et les anges.",
+      "image": "/images/saint_peter_celestine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Celestine"
+    },
+    {
+      "name": "Yves",
+      "feast_day": "19 mai",
+      "era": "XIVe siècle",
+      "patronage": null,
+      "legacy": "Confesseur",
+      "summary": "Saint Yves Hélori, issu d'une famille noble et vertueuse près de Tréguier en Bretagne, naquit en 1253. À quatorze ans, il partit pour Paris, puis pour Orléans afin de poursuivre ses études. Sa mère avait coutume de lui dire souvent qu'il devait vivre de manière à devenir un saint, ce à quoi il répondait toujours qu'il espérait effectivement le devenir.",
+      "image": "/images/saint_yves.jpg",
+      "wikipedia": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "02-05",
+  "feast_day": "5 février",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Agathe",
+      "feast_day": "5 février",
+      "era": "IIIe siècle",
+      "patronage": [
+        "patientes atteintes du cancer du sein",
+        "infirmières",
+        "pompiers",
+        "cuisiniers"
+      ],
+      "legacy": "Patronne de la pureté et de la protection",
+      "summary": "Sainte Agathe était une martyre chrétienne de Sicile célébrée pour sa foi inébranlable et son engagement envers la chasteté. Elle endura de graves tortures, y compris des mutilations, pour avoir refusé de renier sa foi, et resta dévouée au Christ jusqu'à sa mort. Son héritage perdure car elle est vénérée pour sa pureté et invoquée pour la protection contre les catastrophes naturelles, en particulier dans sa ville natale de Catane.",
+      "image": "/images/saint_agatha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agatha_of_Sicily"
+    },
+    {
+      "name": "Saints Martyrs du Japon",
+      "feast_day": "5 février",
+      "era": "XVIe siècle",
+      "patronage": [
+        "Japon",
+        "missionnaires",
+        "martyrs"
+      ],
+      "legacy": "Témoins courageux de la foi et du sacrifice.",
+      "summary": "Les Saints Martyrs du Japon formaient un groupe de 26 chrétiens, dont six franciscains, trois jésuites et dix-sept laïcs, martyrisés en 1597 durant une période de persécution intense. Leur foi inébranlable et leur volonté de mourir pour le Christ inspirèrent beaucoup de gens et contribuèrent à l'essor du christianisme au Japon. Canonisés par le pape Pie IX en 1862, ils sont commémorés pour leur courage et leur dévotion à leurs croyances.",
+      "image": "/images/the_holy_martyrs_of_japan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Martyrs_of_Jasenovac"
+    },
+    {
+      "name": "Philippe de Jésus",
+      "feast_day": "5 février",
+      "era": "XVIe siècle",
+      "patronage": [
+        "Mexique",
+        "franciscains",
+        "martyrs"
+      ],
+      "legacy": "Premier martyr de la mission chrétienne du Japon",
+      "summary": "Philippe de Jésus était un frère franciscain et martyr né au Mexique, qui se rendit ensuite au Japon comme missionnaire. Il fut arrêté et exécuté pour sa foi durant une période de persécution intense contre les chrétiens au Japon. Son héritage est honoré comme celui de l'un des premiers martyrs du Japon, et il est resté dans les mémoires pour son engagement inébranlable envers sa foi jusqu'à la mort.",
+      "image": "/images/saint_philip_of_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_of_Jesus"
+    }
+  ]
+}

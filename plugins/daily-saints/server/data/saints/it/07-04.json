@@ -1,0 +1,17 @@
+{
+  "date": "07-04",
+  "feast_day": "4 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Berta",
+      "feast_day": "4 luglio",
+      "era": "VII secolo",
+      "patronage": null,
+      "legacy": "Fondatrice di monasteri e madre santa",
+      "summary": "Santa Berta fu una vedova e badessa francese nata nel 644. Dopo la morte del marito, fondò un monastero a Blangy e divenne nota per la sua pietà e devozione alla fede cristiana. È ricordata per il suo ruolo nella fondazione di comunità religiose e per l'eredità di santità trasmessa alle sue figlie, anch'esse canonizzate come sante.",
+      "image": "/images/saint_bertha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bertha_of_Blangy"
+    }
+  ]
+}

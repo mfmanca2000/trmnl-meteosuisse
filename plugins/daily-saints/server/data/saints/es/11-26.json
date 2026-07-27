@@ -1,0 +1,30 @@
+{
+  "date": "11-26",
+  "feast_day": "26 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan Berchmans",
+      "feast_day": "26 de noviembre",
+      "era": "siglo XVII",
+      "patronage": [
+        "los estudiantes",
+        "los novicios jesuitas"
+      ],
+      "legacy": "Un modelo de piedad y dedicación",
+      "summary": "Juan Berchmans fue un seminarista jesuita belga conocido por su profunda piedad y su dedicación a la educación. Sobresalió en sus estudios y era amado por los niños por sus atractivas lecciones de catecismo. Su vida estuvo marcada por la humildad y la caridad, y murió a una edad temprana, dejando un legado de santidad y devoción.",
+      "image": "/images/saint_john_berchmans.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Berchmans"
+    },
+    {
+      "name": "Pedro de Alejandría",
+      "feast_day": "26 de noviembre",
+      "era": "Comienzos del siglo IV",
+      "patronage": null,
+      "legacy": "Defensor de la fe durante la persecución",
+      "summary": "Pedro de Alejandría fue un patriarca y mártir que dirigió la Iglesia de Alejandría durante las severas persecuciones bajo el emperador Diocleciano. Es conocido por su firme postura contra la herejía y su cuidado pastoral hacia los cristianos encarcelados, animándolos a permanecer firmes en su fe. Finalmente fue martirizado por decapitación el 26 de noviembre de 310, tras una vida dedicada al servicio de Dios y de la Iglesia.",
+      "image": "/images/saint_peter_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Alexandria"
+    }
+  ]
+}

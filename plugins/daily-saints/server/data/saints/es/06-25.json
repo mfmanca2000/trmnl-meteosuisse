@@ -1,0 +1,30 @@
+{
+  "date": "06-25",
+  "feast_day": "25 de junio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Guillermo de Vercelli",
+      "feast_day": "25 de junio",
+      "era": "Siglo XII",
+      "patronage": [
+        "monjes",
+        "peregrinos"
+      ],
+      "legacy": "Fundador de la Congregación de Montevirgen",
+      "summary": "Guillermo de Vercelli fue un abad italiano y fundador de la Congregación de Montevirgen. Tras una vida de peregrinación y contemplación, estableció una comunidad monástica dedicada a una vida austera y a la devoción a la Virgen María. Su legado incluye la continua veneración de una imagen de la Virgen conservada en el monasterio, que atrae a numerosos peregrinos.",
+      "image": "/images/saint_william_of_vercelli.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_of_Vercelli"
+    },
+    {
+      "name": "Próspero de Aquitania",
+      "feast_day": "25 de junio",
+      "era": "Siglo V",
+      "patronage": null,
+      "legacy": "Defensor de las enseñanzas de Agustín y de la ortodoxia",
+      "summary": "Próspero de Aquitania fue un destacado teólogo y Doctor de la Iglesia en el siglo V, conocido por sus escritos y su defensa frente a la herejía semipelagiana. Colaboró estrechamente con san Agustín, contribuyendo a los debates teológicos de su época y ayudando a aclarar las enseñanzas agustinianas. Su legado incluye un papel importante en los esfuerzos de la Iglesia por combatir la herejía y promover la sana doctrina.",
+      "image": "/images/saint_prosper_of_aquitaine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine"
+    }
+  ]
+}

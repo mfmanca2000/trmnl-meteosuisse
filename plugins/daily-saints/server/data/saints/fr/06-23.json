@@ -1,0 +1,31 @@
+{
+  "date": "06-23",
+  "feast_day": "23 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie d'Oignies",
+      "feast_day": "23 juin",
+      "era": "Médiéval",
+      "patronage": null,
+      "legacy": "Un modèle de dévotion mystique et de charité.",
+      "summary": "Marie d'Oignies était une recluse belge née en 1167 qui consacra sa vie à la prière et à la contemplation. Bien que mariée, elle et son époux choisirent de vivre dans la continence et se dévouèrent aux pauvres et aux œuvres spirituelles. Connue pour sa profonde spiritualité et ses expériences mystiques, elle devint une figure respectée pour ses prières d'intercession et fut vénérée après sa mort en 1213.",
+      "image": "/images/saint_mary_of_oignies.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_of_Oignies"
+    },
+    {
+      "name": "Etheldreda",
+      "feast_day": "23 juin",
+      "era": "7e siècle",
+      "patronage": [
+        "mariages difficiles",
+        "abbesses",
+        "Ely"
+      ],
+      "legacy": "Un modèle de dévotion et de persévérance",
+      "summary": "Sainte Etheldreda, également connue sous le nom d'Audrey, était une reine et abbesse du 7e siècle qui consacra sa vie à Dieu. Après avoir enduré deux mariages contre sa volonté, elle fonda un double monastère à Ely, où elle exerça la fonction de première abbesse. Sa vie fut marquée par l'ascèse et la dévotion, et elle est restée dans les mémoires pour ses reliques incorrompues et les miracles qui lui furent attribués après sa mort.",
+      "image": "/images/saint_etheldreda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Etheldreda"
+    }
+  ]
+}

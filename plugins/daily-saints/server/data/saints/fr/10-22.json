@@ -1,0 +1,31 @@
+{
+  "date": "10-22",
+  "feast_day": "22 octobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hilarion",
+      "feast_day": "22 octobre",
+      "era": "IVe siècle",
+      "patronage": [
+        "moines",
+        "guérisseurs",
+        "malades"
+      ],
+      "legacy": "Fondateur de la vie monastique en Palestine",
+      "summary": "Saint Hilarion était un éminent moine chrétien des premiers temps et le fondateur de la vie monastique en Palestine. Connu pour son ascétisme rigoureux et ses œuvres miraculeuses, il attira de nombreux disciples et fut vénéré pour ses dons de guérison. Il mourut en 372, laissant un héritage de dévotion et de vie monastique qui influença la communauté chrétienne.",
+      "image": "/images/saint_hilarion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilarion"
+    },
+    {
+      "name": "Mello de Cardiff",
+      "feast_day": "22 octobre",
+      "era": "Début du IVe siècle",
+      "patronage": null,
+      "legacy": "Apôtre de Rouen et faiseur de miracles",
+      "summary": "Saint Mello de Cardiff était un évêque des premiers temps chrétiens qui joua un rôle important dans la diffusion de l'Évangile en Neustrie, aujourd'hui la Normandie. Après s'être converti de l'idolâtrie, il fut ordonné par le pape saint Étienne et accomplit de nombreux miracles, dont des guérisons et même une résurrection. Il reste dans les mémoires pour son long épiscopat à Rouen, où il fonda une église et baptisa de nombreux convertis, laissant un héritage durable dans la région.",
+      "image": "/images/saint_mello_of_cardiff.jpg",
+      "wikipedia": null
+    }
+  ]
+}

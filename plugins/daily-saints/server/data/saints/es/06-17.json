@@ -1,0 +1,21 @@
+{
+  "date": "06-17",
+  "feast_day": "17 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Avito",
+      "feast_day": "17 de junio",
+      "era": "Siglo VI",
+      "patronage": [
+        "monjes",
+        "los pobres",
+        "milagros"
+      ],
+      "legacy": "Hacedor de milagros y abad devoto",
+      "summary": "San Avito fue un monje y abad conocido por su profundo compromiso con Dios y su servicio a los pobres. Se convirtió en abad de un monasterio en Orleans y más tarde vivió en soledad, donde realizó milagros, entre ellos devolver el habla a un pastor mudo. Su legado incluye la fundación de un monasterio que llevó su nombre y su fama por la oración de intercesión y las obras milagrosas.",
+      "image": "/images/saint_avitus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Avitus"
+    }
+  ]
+}

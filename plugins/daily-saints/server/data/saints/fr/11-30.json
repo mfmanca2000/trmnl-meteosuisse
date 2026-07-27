@@ -1,0 +1,21 @@
+{
+  "date": "11-30",
+  "feast_day": "30 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "André",
+      "feast_day": "30 novembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "pêcheurs",
+        "écosse",
+        "grèce"
+      ],
+      "legacy": "Premier disciple appelé de Jésus-Christ",
+      "summary": "André fut l'un des premiers disciples de Jésus et le frère de saint Pierre. Il est connu pour avoir amené Pierre au Christ et pour son œuvre missionnaire en Scythie et en Grèce. André fut martyrisé sur une croix en diagonale, qu'il accueillit avec joie, prêchant à ceux qui l'entouraient jusqu'à sa mort.",
+      "image": "/images/saint_andrew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_the_Apostle"
+    }
+  ]
+}

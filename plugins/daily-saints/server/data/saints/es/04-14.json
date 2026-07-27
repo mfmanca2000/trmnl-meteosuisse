@@ -1,0 +1,40 @@
+{
+  "date": "04-14",
+  "feast_day": "14 de abril",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Lidvina de Schiedam",
+      "feast_day": "14 de abril",
+      "era": "Siglo XV",
+      "patronage": null,
+      "legacy": "Virgen",
+      "summary": "Santa Lidvina nació en Holanda de padres virtuosos pero pobres, única hija entre nueve hermanos. Su nombre significa «sufrir en plenitud», y en efecto toda su vida no fue más que un sufrimiento continuo. Ya desde la cuna una grave enfermedad la afligió.",
+      "image": "/images/saint_lydwina_of_schiedam.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Benezet",
+      "feast_day": "14 de abril",
+      "era": "Siglo XII",
+      "patronage": [
+        "constructores de puentes",
+        "viajeros"
+      ],
+      "legacy": "Patrón de los constructores de puentes y de los viajeros",
+      "summary": "San Benezet era un joven muchacho que, inspirado por Dios, emprendió la monumental tarea de construir un puente sobre el río Ródano en Aviñón para evitar los ahogamientos. Comenzó la construcción en 1177 y dirigió las obras hasta su muerte en 1184, durante las cuales se relataron muchos milagros. Su cuerpo fue enterrado en el puente, que se convirtió durante siglos en un lugar de veneración y milagros.",
+      "image": "/images/saint_benezet.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9zet"
+    },
+    {
+      "name": "Justino de Naplusa",
+      "feast_day": "14 de abril",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Mártir",
+      "summary": "San Justino nació hacia el año 103 de padres paganos en Neápolis o Siquem, en Samaria, sitio del pozo de Jacob. Recibió una buena educación y se dedicó en particular al estudio de la filosofía, siempre con un único objetivo: llegar a conocer a Dios. Buscó este conocimiento entre las escuelas filosóficas rivales, pero en vano; y finalmente Dios apaciguó la sed que Él mismo había creado.",
+      "image": "/images/saint_justin_martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

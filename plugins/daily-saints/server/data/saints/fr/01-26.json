@@ -1,0 +1,20 @@
+{
+  "date": "01-26",
+  "feast_day": "26 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Polycarpe",
+      "feast_day": "26 janvier",
+      "era": "IIe siècle",
+      "patronage": [
+        "martyrs",
+        "chrétiens persécutés"
+      ],
+      "legacy": "Un modèle de foi et de persévérance",
+      "summary": "Saint Polycarpe était un évêque de Smyrne du IIe siècle et disciple de saint Jean l'Apôtre. Il est connu pour sa foi inébranlable et son refus de renier le Christ durant la persécution, ce qui conduisit finalement à son martyre. Ses écrits et ses enseignements mettaient l'accent sur l'amour de Dieu et de l'Église, ainsi qu'une ferme opposition à l'hérésie.",
+      "image": "/images/saint_polycarp.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Polycarp_of_Smyrna"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "01-13",
+  "feast_day": "13 de enero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jesús",
+      "feast_day": "13 de enero",
+      "era": "Siglo I",
+      "patronage": null,
+      "legacy": "El inicio del ministerio público de Cristo",
+      "summary": "El bautismo de Jesús por Juan el Bautista marca el comienzo de su ministerio público y es un acontecimiento significativo en la teología cristiana. Durante este evento, Jesús es ungido por el Espíritu Santo, simbolizando su misión divina como Mesías. Este acto representa la naturaleza vicaria de su sacrificio, ya que asume los pecados del mundo y abre el camino de la salvación para la humanidad.",
+      "image": "/images/the_baptism_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baptism_of_Jesus"
+    },
+    {
+      "name": "Verónica de Milán",
+      "feast_day": "13 de enero",
+      "era": "Siglo XV",
+      "patronage": [
+        "enfermos",
+        "pintores",
+        "espiritualidad"
+      ],
+      "legacy": "Un modelo de humildad y devoción",
+      "summary": "Santa Verónica de Milán fue una virgen y hermana laica devota, conocida por su profunda espiritualidad y su compromiso con sus deberes religiosos. A pesar de sus sufrimientos físicos, dedicó su vida a servir a su comunidad y a orar por los demás. Su vida estuvo marcada por visiones y éxtasis, reflejo de su profunda conexión con la Pasión de Cristo.",
+      "image": "/images/saint_veronica_of_milan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Veronica_of_Milan"
+    }
+  ]
+}

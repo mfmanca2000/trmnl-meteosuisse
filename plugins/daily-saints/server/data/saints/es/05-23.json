@@ -1,0 +1,27 @@
+{
+  "date": "05-23",
+  "feast_day": "23 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juana Antida Thouret",
+      "feast_day": "23 de mayo",
+      "era": "Siglo XIX",
+      "patronage": null,
+      "legacy": "Fundadora",
+      "summary": "Nacida en la diócesis de Besanzón en noviembre de 1765, santa Juana Antida perdió a su piadosa madre a los dieciséis años, y durante varios años se hizo cargo del hogar y de sus hermanos y hermanas menores. Tras muchas dudas, su padre le permitió ingresar en la Congregación de las Hijas de la Caridad de San Vicente de Paúl en París, en 1787. Trabajó en varios hospitales cuidando a los enfermos, hasta que la Revolución en Francia provocó la dispersión de las congregaciones.",
+      "image": "/images/saint_joan_antide_thouret.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Julia",
+      "feast_day": "23 de mayo",
+      "era": null,
+      "patronage": null,
+      "legacy": "Virgen, mártir",
+      "summary": "fue una noble virgen de Cartago que, cuando la ciudad fue tomada por Genserico en 439, fue vendida como esclava a un mercader pagano de Siria. En los oficios más humillantes de su condición, gracias a su alegría y paciencia halló una felicidad y un consuelo que el mundo no podía dar. Siempre que no estaba ocupada en las tareas domésticas, dedicaba su tiempo a la oración y a la lectura de libros de piedad.",
+      "image": "/images/saint_julia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

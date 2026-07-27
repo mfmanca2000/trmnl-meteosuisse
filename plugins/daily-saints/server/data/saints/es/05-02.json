@@ -1,0 +1,20 @@
+{
+  "date": "05-02",
+  "feast_day": "2 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Atanasio",
+      "feast_day": "2 de mayo",
+      "era": "Siglo IV",
+      "patronage": [
+        "teólogos",
+        "fidelidad"
+      ],
+      "legacy": "Defensor de la divinidad de Cristo",
+      "summary": "San Atanasio fue un destacado obispo de Alejandría y un defensor clave de la fe cristiana frente a la herejía arriana, que negaba la divinidad de Cristo. Afrontó una oposición considerable, incluidos varios exilios y enfrentamientos con cuatro emperadores romanos, pero permaneció firme en sus convicciones y en sus deberes pastorales. Reconocido como doctor de la Iglesia, sus escritos y enseñanzas han tenido un impacto duradero en la teología cristiana.",
+      "image": "/images/saint_athanasius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+    }
+  ]
+}

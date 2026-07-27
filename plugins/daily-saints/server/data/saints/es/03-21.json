@@ -1,0 +1,22 @@
+{
+  "date": "03-21",
+  "feast_day": "21 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Benito",
+      "feast_day": "21 de marzo",
+      "era": "siglo VI",
+      "patronage": [
+        "los monjes",
+        "Europa",
+        "los estudiantes",
+        "los agricultores"
+      ],
+      "legacy": "Padre del monacato occidental",
+      "summary": "San Benito es conocido como el Padre del monacato occidental, habiendo establecido la Regla de San Benito, que se convirtió en el fundamento de la vida monástica en la Iglesia de Occidente. Huyó al desierto para escapar de la decadencia moral de Roma y vivió como ermitaño antes de fundar varios monasterios. Su vida estuvo marcada por milagros y un profundo compromiso con la oración y la vida comunitaria, influyendo en incontables monjes y en el desarrollo del monacato en Europa.",
+      "image": "/images/saint_benedict.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_of_Nursia"
+    }
+  ]
+}

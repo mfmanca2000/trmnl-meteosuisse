@@ -1,0 +1,22 @@
+{
+  "date": "08-01",
+  "feast_day": "1° agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pietro",
+      "feast_day": "1° agosto",
+      "era": "I secolo",
+      "patronage": [
+        "pescatori",
+        "fabbricanti di reti",
+        "costruttori navali",
+        "papi"
+      ],
+      "legacy": "Primo papa e capo degli apostoli.",
+      "summary": "Pietro, uno dei dodici apostoli di Gesù, è riconosciuto come il primo papa e una figura fondamentale del cristianesimo. È noto per la sua guida nella Chiesa primitiva e per il suo ruolo nella diffusione del Vangelo. La sua miracolosa fuga dal carcere, narrata negli Atti degli Apostoli, testimonia la sua fede e la potenza della preghiera.",
+      "image": "/images/saint_peters_chains.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "03-17",
+  "feast_day": "17 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Patricio",
+      "feast_day": "17 de marzo",
+      "era": "siglo V",
+      "patronage": [
+        "Irlanda",
+        "los ingenieros",
+        "el clero parroquial",
+        "las serpientes"
+      ],
+      "legacy": "Santo patrón de Irlanda y de los misioneros",
+      "summary": "San Patricio es conocido como el Apóstol de Irlanda, a quien se atribuye la conversión de los irlandeses al cristianismo en el siglo V. Nacido en Escocia, fue secuestrado y llevado a Irlanda como esclavo, donde más tarde regresó para difundir el Evangelio tras escapar del cautiverio. Su labor misionera condujo al establecimiento de iglesias, escuelas y monasterios en toda Irlanda, convirtiéndolo en una figura central del cristianismo irlandés.",
+      "image": "/images/saint_patrick.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Patrick_of_Ireland"
+    }
+  ]
+}

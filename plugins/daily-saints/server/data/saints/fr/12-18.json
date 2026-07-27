@@ -1,0 +1,17 @@
+{
+  "date": "12-18",
+  "feast_day": "18 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gatien",
+      "feast_day": "18 décembre",
+      "era": "Ier siècle",
+      "patronage": null,
+      "legacy": "Apôtre des Gaules et évêque",
+      "summary": "Saint Gatien fut le premier évêque de Tours et un disciple des Apôtres. Il consacra sa vie à prêcher l'Évangile et à convertir les Gaulois païens, endurant persécutions et épreuves dans cette entreprise. Ses efforts menèrent à l'établissement de communautés chrétiennes et à l'abandon du culte païen dans la région.",
+      "image": "/images/saint_gatian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gatianus_of_Tours"
+    }
+  ]
+}

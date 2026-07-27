@@ -1,0 +1,21 @@
+{
+  "date": "09-18",
+  "feast_day": "18 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giuseppe da Copertino",
+      "feast_day": "18 settembre",
+      "era": "XVII secolo",
+      "patronage": [
+        "studenti",
+        "aviatori",
+        "astronauti"
+      ],
+      "legacy": "Patrono degli studenti e degli aviatori",
+      "summary": "Giuseppe da Copertino fu un sacerdote francescano noto per la sua profonda spiritualità e le sue esperienze mistiche, spesso descritto come in estasi. Nonostante numerose difficoltà, tra cui la mancanza di un'istruzione formale e le derisioni altrui, divenne una figura amata per la sua umiltà e devozione. È particolarmente ricordato per le sue miracolose levitazioni durante la preghiera e la sua fede incrollabile fino alla morte nel 1663.",
+      "image": "/images/saint_joseph_of_cupertino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Cupertino"
+    }
+  ]
+}

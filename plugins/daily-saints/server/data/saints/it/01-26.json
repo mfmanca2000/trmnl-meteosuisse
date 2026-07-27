@@ -1,0 +1,20 @@
+{
+  "date": "01-26",
+  "feast_day": "26 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Policarpo",
+      "feast_day": "26 gennaio",
+      "era": "II secolo",
+      "patronage": [
+        "martiri",
+        "cristiani perseguitati"
+      ],
+      "legacy": "Un modello di fede e perseveranza",
+      "summary": "San Policarpo fu un vescovo di Smirne del II secolo e discepolo di san Giovanni Apostolo. È noto per la sua fede incrollabile e il suo rifiuto di rinnegare Cristo durante la persecuzione, il che portò infine al suo martirio. I suoi scritti e i suoi insegnamenti sottolineavano l'amore per Dio e per la Chiesa, oltre a una forte opposizione all'eresia.",
+      "image": "/images/saint_polycarp.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Polycarp_of_Smyrna"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-23",
+  "feast_day": "23 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Apolinar de Rávena",
+      "feast_day": "23 de julio",
+      "era": "Siglo I",
+      "patronage": [
+        "Rávena",
+        "mártires",
+        "enfermos"
+      ],
+      "legacy": "Primer obispo y mártir de Rávena",
+      "summary": "Apolinar de Rávena fue el primer obispo de Rávena y un mártir que dedicó su vida a la difusión del cristianismo. Realizó numerosos milagros, entre ellos la curación del hijo ciego de un soldado y la de la esposa de un tribuno militar, lo que ayudó a establecer una comunidad cristiana en Rávena. A pesar de sufrir una severa persecución, incluidas la tortura y el exilio, permaneció firme en su fe hasta su muerte, ocurrida en el año 79 d.C.",
+      "image": "/images/saint_apollinaris_of_ravenna.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apollinaris_of_Ravenna"
+    }
+  ]
+}

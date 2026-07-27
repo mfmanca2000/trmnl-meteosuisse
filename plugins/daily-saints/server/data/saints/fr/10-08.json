@@ -1,0 +1,21 @@
+{
+  "date": "10-08",
+  "feast_day": "8 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Brigitte de Suède",
+      "feast_day": "8 octobre",
+      "era": "XIVe siècle",
+      "patronage": [
+        "veuves",
+        "mariages difficiles",
+        "Europe"
+      ],
+      "legacy": "Fondatrice de l'ordre du Saint-Sauveur",
+      "summary": "Brigitte de Suède naquit dans une famille royale en 1302 et devint une mystique éminente et fondatrice de l'ordre du Saint-Sauveur. Après la mort de son mari, elle consacra sa vie au service des pauvres et reçut de nombreuses révélations, dont les Quinze Prières de sainte Brigitte. Elle est connue pour sa profonde dévotion à la Passion du Christ et ses contributions importantes à la vie spirituelle de son époque.",
+      "image": "/images/saint_bridget_of_sweden.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bridget_of_Sweden"
+    }
+  ]
+}

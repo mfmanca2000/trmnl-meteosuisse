@@ -1,0 +1,31 @@
+{
+  "date": "02-13",
+  "feast_day": "13 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catherine de Ricci",
+      "feast_day": "13 février",
+      "era": "XVIe siècle",
+      "patronage": [
+        "âmes du Purgatoire",
+        "malades",
+        "contre les maux corporels"
+      ],
+      "legacy": "Mystique dévouée à la Passion du Christ",
+      "summary": "Catherine de Ricci était une vierge et mystique italienne du XVIe siècle, connue pour sa profonde dévotion à la Passion du Christ. Elle connut de nombreuses visions mystiques et reçut les stigmates, endurant d'intenses souffrances pour les âmes du purgatoire. Sa vie fut marquée par une charité et une intercession extraordinaires, poussant beaucoup de gens à rechercher ses prières après sa mort.",
+      "image": "/images/saint_catherine_of_ricci.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_de%27_Ricci"
+    },
+    {
+      "name": "Ambroise Leblanc",
+      "feast_day": "13 février",
+      "era": "XXe siècle",
+      "patronage": null,
+      "legacy": "Une vie de joie et de foi inébranlable",
+      "summary": "Ambroise Leblanc était un évêque et missionnaire franciscain canadien connu pour son dévouement à la formation de la jeunesse et son œuvre au Japon. Il fut emprisonné pendant la Seconde Guerre mondiale mais conserva un esprit de joie et de foi, encourageant ses confrères prêtres à célébrer la messe malgré leurs épreuves. Son héritage comprend la promotion de la dévotion à la Vierge du Sourire et un engagement profond envers sa foi jusqu'à sa mort prématurée en 1959.",
+      "image": "/images/blessed_bishop_ambrose_leblanc.jpg",
+      "wikipedia": null
+    }
+  ]
+}

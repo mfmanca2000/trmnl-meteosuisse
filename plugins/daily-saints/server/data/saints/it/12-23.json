@@ -1,0 +1,35 @@
+{
+  "date": "12-23",
+  "feast_day": "23 dicembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Margherita d'Youville",
+      "feast_day": "23 dicembre",
+      "era": "XVIII secolo",
+      "patronage": [
+        "i poveri",
+        "il personale ospedaliero",
+        "le vedove"
+      ],
+      "legacy": "Pioniera della carità e dell'assistenza sanitaria in Canada",
+      "summary": "Margherita d'Youville fu una fondatrice canadese nota per aver istituito le Suore della Carità, note anche come Suore Grigie, a Montreal. Rimasta vedova, dedicò la sua vita al servizio dei poveri, dei malati e degli emarginati della sua comunità. Il suo lascito prosegue attraverso l'opera continua delle Suore Grigie, che hanno esteso la loro missione in tutto il Nord America.",
+      "image": "/images/saint_margaret_d_youville.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie-Marguerite_d%27Youville"
+    },
+    {
+      "name": "Servolo di Roma",
+      "feast_day": "23 dicembre",
+      "era": "VII secolo",
+      "patronage": [
+        "persone con disabilità",
+        "mendicanti",
+        "malati"
+      ],
+      "legacy": "Un modello di fede nella sofferenza",
+      "summary": "San Servolo di Roma era un mendicante paralizzato che visse in povertà pur incarnando una fede e una pazienza profonde. Nonostante le sue limitazioni fisiche, dedicò la sua vita alla preghiera e alla meditazione sulle sofferenze di Cristo, diventando fonte di ispirazione per molti. La sua vita di umiltà e carità trasformò la sua sofferenza in una potente testimonianza della grazia di Dio.",
+      "image": "/images/saint_servulus_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Servulus_of_Rome"
+    }
+  ]
+}

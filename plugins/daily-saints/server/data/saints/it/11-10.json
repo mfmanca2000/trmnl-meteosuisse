@@ -1,0 +1,20 @@
+{
+  "date": "11-10",
+  "feast_day": "10 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Andrea Avellino",
+      "feast_day": "10 novembre",
+      "era": "XVI secolo",
+      "patronage": [
+        "protezione dalla morte improvvisa",
+        "avvocati"
+      ],
+      "legacy": "Protettore dalla morte improvvisa e imprevista",
+      "summary": "Andrea Avellino fu un sacerdote teatino noto per la sua dedizione nella riforma di una comunità di suore a Napoli. Nonostante affrontasse una violenta opposizione, rimase fedele alla sua missione e fu riconosciuto per la sua santità e umiltà. È ricordato per la sua profonda spiritualità e la sua capacità di ispirare gli altri, in particolare grazie alla sua amicizia con san Carlo Borromeo.",
+      "image": "/images/saint_andrew_avellino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Avellino"
+    }
+  ]
+}

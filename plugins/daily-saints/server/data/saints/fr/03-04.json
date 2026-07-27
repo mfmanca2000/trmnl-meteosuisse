@@ -1,0 +1,23 @@
+{
+  "date": "03-04",
+  "feast_day": "4 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Casimir",
+      "feast_day": "4 mars",
+      "era": "XVe siècle",
+      "patronage": [
+        "Pologne",
+        "les jeunes",
+        "les vierges",
+        "les malades",
+        "les étudiants"
+      ],
+      "legacy": "Modèle de pureté et de dévotion à Dieu",
+      "summary": "Casimir était un prince polonais connu pour sa profonde piété et son engagement envers une vie de vertu. Il choisit de rester vierge et se consacra à la prière et à la charité, même face à la maladie. Après sa mort, il fut vénéré pour les miracles qui lui furent attribués, notamment la guérison des malades et la résurrection des morts.",
+      "image": "/images/saint_casimir.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Casimir_of_Poland"
+    }
+  ]
+}

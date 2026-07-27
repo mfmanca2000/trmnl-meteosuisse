@@ -1,0 +1,22 @@
+{
+  "date": "09-27",
+  "feast_day": "27 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cosme y Damián",
+      "feast_day": "27 de septiembre",
+      "era": "Siglo III",
+      "patronage": [
+        "médicos",
+        "cirujanos",
+        "barberos",
+        "contra la peste"
+      ],
+      "legacy": "Patronos de los médicos y trabajadores sanitarios",
+      "summary": "Los santos Cosme y Damián eran hermanos gemelos y médicos que vivieron en el siglo III. Son conocidos por su inquebrantable fe cristiana y por ejercer la medicina sin aceptar pago alguno, lo que les valió un gran respeto entre la gente. Fueron martirizados durante la persecución de Diocleciano por negarse a renunciar a su fe y por continuar curando en el nombre de Cristo.",
+      "image": "/images/saint_cosmas_and_saint_damian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cosmas_and_Damian"
+    }
+  ]
+}

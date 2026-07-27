@@ -1,0 +1,21 @@
+{
+  "date": "08-27",
+  "feast_day": "27 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giuseppe Calasanzio",
+      "feast_day": "27 agosto",
+      "era": "XVII secolo",
+      "patronage": [
+        "insegnanti",
+        "studenti",
+        "poveri"
+      ],
+      "legacy": "Pioniere dell'istruzione gratuita per i poveri",
+      "summary": "Giuseppe Calasanzio fu un sacerdote spagnolo, fondatore degli Scolopi, un ordine dedicato all'istruzione dei bambini poveri. Fondò a Roma scuole che offrivano un'istruzione gratuita, unendo la formazione religiosa alle materie di base. Nonostante l'opposizione e le difficoltà incontrate, rimase fedele alla sua missione fino alla morte, avvenuta nel 1648.",
+      "image": "/images/saint_joseph_calasanctius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Calasanctius"
+    }
+  ]
+}

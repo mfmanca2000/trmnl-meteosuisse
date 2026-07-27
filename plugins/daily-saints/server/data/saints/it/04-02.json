@@ -1,0 +1,17 @@
+{
+  "date": "04-02",
+  "feast_day": "2 aprile",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francesco di Paola",
+      "feast_day": "2 aprile",
+      "era": "XVI secolo",
+      "patronage": null,
+      "legacy": "Taumaturgo, Fondatore",
+      "summary": "All'età di quindici anni, san Francesco lasciò la sua povera casa a Paola, in Calabria, per vivere da eremita in una grotta sulla costa. Col tempo si radunarono attorno a lui dei discepoli, e con essi, nel 1436, fondò l'Ordine dei Minimi. Scelse questo nome affinché si considerassero sempre i minimi tra gli ordini monastici.",
+      "image": "/images/saint_francis_of_paula.jpg",
+      "wikipedia": null
+    }
+  ]
+}

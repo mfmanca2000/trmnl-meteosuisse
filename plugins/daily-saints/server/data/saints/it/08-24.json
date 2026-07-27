@@ -1,0 +1,36 @@
+{
+  "date": "08-24",
+  "feast_day": "24 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Bartolomeo",
+      "feast_day": "24 agosto",
+      "era": "I secolo",
+      "patronage": [
+        "macellai",
+        "conciatori",
+        "pittori",
+        "geografi"
+      ],
+      "legacy": "Apostolo noto per il suo zelo missionario",
+      "summary": "Bartolomeo, conosciuto anche come Natanaele, fu uno dei dodici apostoli scelti da Gesù Cristo. È celebrato per la sua opera missionaria in varie regioni, tra cui l'India e l'Armenia, dove infine subì il martirio. Il suo lascito è segnato dalla sua fede incrollabile e dalla dedizione nella diffusione del Vangelo, spesso raffigurato come simbolo di innocenza e sincerità.",
+      "image": "/images/saint_bartholomew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bartholomew_the_Apostle"
+    },
+    {
+      "name": "Emilia de Vialar",
+      "feast_day": "24 agosto",
+      "era": "XIX secolo",
+      "patronage": [
+        "malati",
+        "educatori",
+        "donne"
+      ],
+      "legacy": "Pioniera della carità e dell'educazione per tutti.",
+      "summary": "Emilia de Vialar fu una fondatrice francese che istituì la Congregazione delle Suore di San Giuseppe dell'Apparizione nel XIX secolo. Dedicò la sua vita all'educazione dei bambini e alla cura dei malati, in particolare in risposta alle devastazioni causate dalla Rivoluzione francese. Canonizzata nel 1951, il suo lascito comprende numerose fondazioni del suo ordine in tutto il mondo, con particolare attenzione alla carità e al servizio.",
+      "image": "/images/saint_emily_de_vialar.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Emily_de_Vialar"
+    }
+  ]
+}

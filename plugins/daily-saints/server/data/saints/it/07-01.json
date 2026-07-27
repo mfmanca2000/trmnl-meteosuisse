@@ -1,0 +1,29 @@
+{
+  "date": "07-01",
+  "feast_day": "1 luglio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Preziosissimo Sangue di Gesù",
+      "feast_day": "1 luglio",
+      "era": null,
+      "patronage": null,
+      "legacy": "Simbolo di salvezza e grazia divina",
+      "summary": "Il Preziosissimo Sangue di Gesù è venerato nella Chiesa cattolica come fonte di salvezza e grazia. Simboleggia il sacrificio di Cristo e il potere purificatore che esso esercita sui peccati dell'umanità. I devoti credono che, attraverso il Preziosissimo Sangue, i credenti possano ottenere la vita eterna e la guarigione delle proprie anime.",
+      "image": "/images/most_precious_blood_of_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Feast_of_the_Most_Precious_Blood"
+    },
+    {
+      "name": "Gal",
+      "feast_day": "1 luglio",
+      "era": "VI secolo",
+      "patronage": [
+        "contro le febbri"
+      ],
+      "legacy": "Un modello di umiltà e pazienza",
+      "summary": "San Gal fu vescovo di Clermont, che dedicò la propria vita a Dio dopo aver rinunciato alle ambizioni mondane. Noto per la sua umiltà, carità e straordinaria pazienza, divenne un rispettato guida della Chiesa. Partecipò a importanti concili ed è ricordato per i miracoli avvenuti presso la sua tomba dopo la sua morte nel 553.",
+      "image": "/images/saint_gal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gal_I_of_Clermont"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "01-27",
+  "feast_day": "27 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean Chrysostome",
+      "feast_day": "27 janvier",
+      "era": "IVe-Ve siècle",
+      "patronage": [
+        "prédicateurs",
+        "orateurs",
+        "malades",
+        "exilés"
+      ],
+      "legacy": "Maître de l'éloquence et de la sollicitude pastorale",
+      "summary": "Jean Chrysostome fut un père de l'Église primitive éminent, connu pour son éloquente prédication et ses écrits abondants. Il exerça la fonction de patriarche de Constantinople et fut une figure clé du développement de la liturgie chrétienne. Bien qu'il ait connu l'exil et les épreuves en raison de ses critiques ouvertes du vice, il demeura ferme dans sa foi et est resté dans les mémoires comme docteur de l'Église.",
+      "image": "/images/saint_john_chrysostom.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Chrysostom"
+    }
+  ]
+}

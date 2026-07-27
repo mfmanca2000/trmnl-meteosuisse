@@ -1,0 +1,30 @@
+{
+  "date": "05-24",
+  "feast_day": "24 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria Ausiliatrice",
+      "feast_day": "24 maggio",
+      "era": "Epoca moderna",
+      "patronage": [
+        "Chiesa cattolica",
+        "cristianesimo"
+      ],
+      "legacy": "Patrona delle lotte della Chiesa cattolica",
+      "summary": "Maria Ausiliatrice è un titolo della Beata Vergine Maria, riconosciuto per la sua intercessione e il suo aiuto alla Chiesa. Istituita da papa Pio VII nel 1815, questa festa commemora il suo ruolo di sostegno al papato nei momenti di avversità, in particolare durante il dominio di Napoleone. Questa devozione fu promossa in special modo da san Giovanni Bosco, che dedicò a lei il suo Ordine salesiano e fece costruire una chiesa in suo onore a Torino.",
+      "image": "/images/our_lady_help_of_christians.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_Help_of_Christians"
+    },
+    {
+      "name": "Donaziano e Rogaziano",
+      "feast_day": "24 maggio",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Martiri della fede e della fratellanza",
+      "summary": "Donaziano e Rogaziano erano fratelli nobili di Nantes vissuti alla fine del III secolo. Furono martirizzati per la loro fede cristiana: Donaziano convertiva attivamente altre persone, mentre Rogaziano esprimeva il desiderio di ricevere il battesimo. Entrambi i fratelli subirono una brutale tortura e l'esecuzione, morendo infine per il loro incrollabile impegno verso Cristo.",
+      "image": "/images/saints_donatian_and_rogatian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Donatian_and_Rogatian"
+    }
+  ]
+}

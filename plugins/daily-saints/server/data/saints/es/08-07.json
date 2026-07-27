@@ -1,0 +1,21 @@
+{
+  "date": "08-07",
+  "feast_day": "7 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cayetano de Thiene",
+      "feast_day": "7 de agosto",
+      "era": "Renacimiento",
+      "patronage": [
+        "personas en busca de empleo",
+        "desempleados",
+        "divina providencia"
+      ],
+      "legacy": "Fundador de la Orden de los Teatinos y reformador",
+      "summary": "San Cayetano de Thiene fue un sacerdote italiano y fundador de los Teatinos, una orden religiosa dedicada a la reforma del clero y a la promoción de los sacramentos. Es conocido por su profunda devoción a la Bienaventurada Virgen María y por introducir la práctica de las Cuarenta Horas de adoración al Santísimo Sacramento. Cayetano dedicó su vida a servir a los pobres y a los enfermos, dejando un legado duradero de caridad y renovación espiritual en la Iglesia.",
+      "image": "/images/saint_cajetan_of_thiena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cajetan_of_Thiene"
+    }
+  ]
+}

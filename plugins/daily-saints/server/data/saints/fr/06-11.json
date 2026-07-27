@@ -1,0 +1,21 @@
+{
+  "date": "06-11",
+  "feast_day": "11 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Barnabé",
+      "feast_day": "11 juin",
+      "era": "1er siècle",
+      "patronage": [
+        "Chypre",
+        "missionnaires",
+        "consolateurs"
+      ],
+      "legacy": "Apôtre des Gentils et martyr",
+      "summary": "Barnabé fut un disciple et apôtre des premiers temps chrétiens, connu pour son rôle dans la diffusion de l'Évangile. Il est reconnu pour son association avec saint Paul lors de voyages missionnaires et pour ses efforts dans l'établissement de l'Église à Antioche. Barnabé devint finalement le premier évêque de Milan et fut martyrisé pour sa foi vers l'an 61.",
+      "image": "/images/saint_barnabas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barnabas"
+    }
+  ]
+}

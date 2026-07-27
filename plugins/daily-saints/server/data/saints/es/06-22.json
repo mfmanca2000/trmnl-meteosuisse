@@ -1,0 +1,21 @@
+{
+  "date": "06-22",
+  "feast_day": "22 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paulino de Nola",
+      "feast_day": "22 de junio",
+      "era": "Cristianismo primitivo",
+      "patronage": [
+        "poetas",
+        "teólogos",
+        "Nola"
+      ],
+      "legacy": "Un modelo de humildad y generosidad",
+      "summary": "Paulino de Nola fue un senador romano que llegó a ser obispo y una figura destacada de la Iglesia primitiva. Tras experimentar una tragedia personal, renunció a su riqueza y a su rango para llevar una vida de pobreza y servicio, dedicándose al cuidado de su comunidad. Es recordado por su profunda humildad, su generosidad y su compromiso con la fe cristiana, especialmente en tiempos de crisis.",
+      "image": "/images/saint_paulinus_of_nola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paulinus_of_Nola"
+    }
+  ]
+}

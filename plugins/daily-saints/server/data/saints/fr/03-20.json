@@ -1,0 +1,30 @@
+{
+  "date": "03-20",
+  "feast_day": "20 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Frère André",
+      "feast_day": "20 mars",
+      "era": "XXe siècle",
+      "patronage": null,
+      "legacy": "Frère laïc, faiseur de miracles",
+      "summary": "Le petit Alfred Bessette, né à Saint-Grégoire, au Québec, le 9 août 1845, avait ses racines dans notre propre sol. Le futur saint Frère André du Mont-Royal était un fils de cette terre et de la famille canadienne-française.",
+      "image": "/images/saint_brother_andrew_ODM.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Vulfran",
+      "feast_day": "20 mars",
+      "era": "Époque médiévale",
+      "patronage": [
+        "les missionnaires",
+        "la Frise"
+      ],
+      "legacy": "Un missionnaire compatissant et faiseur de miracles.",
+      "summary": "Saint Vulfran fut archevêque de Sens qui renonça à la grandeur du monde pour servir Dieu et l'Église. Il devint missionnaire en Frise, où il baptisa de nombreuses personnes et accomplit des miracles, notamment en sauvant un garçon du sacrifice. Ses efforts aidèrent à établir le christianisme en terre païenne, et il est resté célèbre pour sa compassion et son dévouement à la foi.",
+      "image": "/images/saint_wulfran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wulfram_of_Sens"
+    }
+  ]
+}

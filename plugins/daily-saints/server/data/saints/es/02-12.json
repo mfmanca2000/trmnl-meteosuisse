@@ -1,0 +1,34 @@
+{
+  "date": "02-12",
+  "feast_day": "12 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Los Siete Santos Fundadores de los Siervos de María",
+      "feast_day": "12 de febrero",
+      "era": "Medieval",
+      "patronage": [
+        "siervos de María",
+        "retiros espirituales"
+      ],
+      "legacy": "Fundadores de la Orden de los Siervos de María",
+      "summary": "Los Siete Santos Fundadores de los Siervos de María fueron un grupo de hombres de Florencia que dedicaron su vida a Dios a mediados del siglo XIII. Formaron la Orden de los Siervos de María tras recibir una visión de la Santísima Virgen María, que los animaba a llevar una vida de oración y penitencia. Su compromiso condujo a la fundación de una orden religiosa que creció considerablemente por toda Europa y más allá.",
+      "image": "/images/the_seven_holy_servite_founders.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Servites"
+    },
+    {
+      "name": "Benito de Aniano",
+      "feast_day": "12 de febrero",
+      "era": "Siglo VIII",
+      "patronage": [
+        "monjes",
+        "espiritualidad",
+        "vida monástica"
+      ],
+      "legacy": "Restaurador de la disciplina y la unidad monásticas",
+      "summary": "Benito de Aniano fue un destacado abad y reformador de la vida monástica en el siglo VIII. Es conocido por restaurar la disciplina monástica y establecer una regla unificada para los monjes en Occidente, basada en la Regla de san Benito. Sus esfuerzos influyeron significativamente en el desarrollo del monacato en Francia y Alemania, dando lugar a un renacer del fervor espiritual entre los monjes.",
+      "image": "/images/saint_benedict_of_anian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_of_Aniane"
+    }
+  ]
+}

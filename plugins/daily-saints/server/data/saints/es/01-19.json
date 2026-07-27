@@ -1,0 +1,21 @@
+{
+  "date": "01-19",
+  "feast_day": "19 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Canuto",
+      "feast_day": "19 de enero",
+      "era": "Siglo XI",
+      "patronage": [
+        "Dinamarca",
+        "gobernantes",
+        "marineros"
+      ],
+      "legacy": "Un rey mártir dedicado a la justicia y a la fe.",
+      "summary": "Canuto, rey de Dinamarca, fue un gobernante piadoso y justo que reinó en el siglo XI. Es conocido por sus éxitos militares y sus esfuerzos por difundir el cristianismo en su reino. Finalmente fue martirizado durante una rebelión, demostrando su fe inquebrantable y su compromiso con su pueblo.",
+      "image": "/images/saint_canutus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Canute_the_Great"
+    }
+  ]
+}

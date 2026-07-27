@@ -1,0 +1,30 @@
+{
+  "date": "02-26",
+  "feast_day": "26 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Matilde de Hackeborn",
+      "feast_day": "26 de febrero",
+      "era": "Medieval",
+      "patronage": null,
+      "legacy": "Mística influyente y escritora espiritual",
+      "summary": "Matilde de Hackeborn fue una abadesa del siglo XIII, conocida por su profunda espiritualidad y sus contribuciones a la teología mística. Era la hermana menor de santa Gertrudis la Grande y sirvió como maestra de coro en su monasterio. Sus escritos, en particular «El Libro de la Gracia Especial», han tenido un impacto duradero en el misticismo y la literatura cristiana.",
+      "image": "/images/saint_mechtildis_of_hackeborn.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mechthild_of_Hackeborn"
+    },
+    {
+      "name": "Porfirio",
+      "feast_day": "26 de febrero",
+      "era": "Comienzos del siglo V",
+      "patronage": [
+        "conversos cristianos",
+        "la ciudad de Gaza"
+      ],
+      "legacy": "Campeón de la conversión cristiana en Gaza",
+      "summary": "San Porfirio fue un obispo conocido por sus celosos esfuerzos por convertir a los paganos en Gaza, a finales del siglo IV y comienzos del V. Tras una vida de ascetismo y dedicación a la fe cristiana, logró desmantelar el culto pagano en su diócesis y establecer una sólida comunidad cristiana. Su legado incluye la transformación de un importante templo pagano en iglesia, simbolizando el triunfo del cristianismo sobre la idolatría.",
+      "image": "/images/saint_porphyry.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Porphyry_of_Gaza"
+    }
+  ]
+}

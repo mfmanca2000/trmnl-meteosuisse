@@ -1,0 +1,34 @@
+{
+  "date": "11-02",
+  "feast_day": "2 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Odilon de Cluny",
+      "feast_day": "2 novembre",
+      "era": "Xe siècle",
+      "patronage": [
+        "âmes du purgatoire",
+        "moines bénédictins"
+      ],
+      "legacy": "Champion des prières pour les défunts",
+      "summary": "Saint Odilon de Cluny était un abbé bénédictin connu pour avoir institué la commémoration de tous les fidèles défunts, qui deviendra plus tard le jour des Morts. Ses efforts pour promouvoir la prière pour les morts ont souligné l'importance de l'intercession et de la charité dans la foi chrétienne. L'héritage d'Odilon continue d'inspirer les fidèles à se souvenir et à prier pour ceux qui sont décédés.",
+      "image": "/images/commemoration_of_the_faithful_departed.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odilo_of_Cluny"
+    },
+    {
+      "name": "Malachie",
+      "feast_day": "2 novembre",
+      "era": "XIIe siècle",
+      "patronage": [
+        "l'Irlande",
+        "les prêtres",
+        "le diocèse d'Armagh"
+      ],
+      "legacy": "Prophète des futurs papes et réformateur",
+      "summary": "Saint Malachie était un évêque irlandais du XIIe siècle connu pour son dévouement à la réforme de l'Église et pour ses visions prophétiques concernant les futurs papes. Il fut archevêque d'Armagh et contribua de manière décisive à revitaliser la foi parmi son peuple, endurant d'importantes épreuves durant son ministère. Son héritage comprend une célèbre prophétie énumérant les devises des futurs papes, qui a intrigué savants et fidèles.",
+      "image": "/images/saint_malachy_d_armagh.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Malachy"
+    }
+  ]
+}

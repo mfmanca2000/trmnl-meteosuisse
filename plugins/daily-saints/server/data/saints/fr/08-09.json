@@ -1,0 +1,31 @@
+{
+  "date": "08-09",
+  "feast_day": "9 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean-Marie Vianney",
+      "feast_day": "9 août",
+      "era": "XIXe siècle",
+      "patronage": [
+        "prêtres",
+        "malades",
+        "confession sacramentelle"
+      ],
+      "legacy": "Modèle de charité pastorale et de sainteté",
+      "summary": "Jean-Marie Vianney, connu comme le Curé d'Ars, était un prêtre humble célèbre pour son extraordinaire charité pastorale et son dévouement au sacrement de la confession. Il transforma la paroisse d'Ars, en France, en une communauté chrétienne vivante grâce à sa piété, sa prédication et ses œuvres charitables. Sa vie de pénitence et de dévotion a fait de lui un modèle pour les prêtres et un saint très aimé de l'Église catholique.",
+      "image": "/images/saint_john_vianney.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Vianney"
+    },
+    {
+      "name": "Romain",
+      "feast_day": "9 août",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Un martyr inspiré par une foi inébranlable",
+      "summary": "Saint Romain était un soldat de la légion romaine sous l'empereur Valérien, qui se convertit au christianisme après avoir été témoin de la constance de saint Laurent lors de son martyre. Touché par la grâce qu'il avait perçue, Romain embrassa la foi et fut par la suite emprisonné pour ses convictions. Il fut condamné et décapité pour sa foi le 9 août 258, et ses reliques sont vénérées à Lucques, en Italie.",
+      "image": "/images/saint_romanus_statue.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romanus_of_Rome"
+    }
+  ]
+}

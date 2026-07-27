@@ -1,0 +1,22 @@
+{
+  "date": "12-03",
+  "feast_day": "3 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francesco Saverio",
+      "feast_day": "3 dicembre",
+      "era": "XVI secolo",
+      "patronage": [
+        "missionari",
+        "missioni estere",
+        "India",
+        "Giappone"
+      ],
+      "legacy": "Pioniere delle missioni cristiane in Asia",
+      "summary": "Francesco Saverio fu un missionario gesuita spagnolo che svolse un ruolo cruciale nella diffusione del cristianesimo in Asia nel XVI secolo. È noto soprattutto per la sua intensa opera missionaria in India e in Giappone, dove battezzò migliaia di persone e fondò numerose chiese. La sua dedizione e le sue opere miracolose gli valsero il titolo di Apostolo delle Indie e del Giappone.",
+      "image": "/images/saint_francis_xavier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Xavier"
+    }
+  ]
+}

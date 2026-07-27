@@ -1,0 +1,31 @@
+{
+  "date": "03-15",
+  "feast_day": "15 mars",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Clément Marie Hofbauer",
+      "feast_day": "15 mars",
+      "era": "XVIIIe siècle",
+      "patronage": [
+        "Vienne",
+        "les boulangers",
+        "les rédemptoristes"
+      ],
+      "legacy": "Champion de l'éducation et de la pastorale",
+      "summary": "Clément Marie Hofbauer était un prêtre rédemptoriste connu pour son dévouement à l'éducation et à la pastorale en Autriche et en Pologne. Il fonda un orphelinat et une école pour garçons à Varsovie, contribuant considérablement au paysage spirituel et éducatif de la région. Ses efforts pour promouvoir la foi catholique et soutenir la jeunesse lui valurent d'être reconnu comme une figure majeure de l'Église de son temps.",
+      "image": "/images/saint_clement_mary_hofbauer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clement_Mary_Hofbauer"
+    },
+    {
+      "name": "Zacharie",
+      "feast_day": "15 mars",
+      "era": "VIIIe siècle",
+      "patronage": null,
+      "legacy": "Pape",
+      "summary": "Saint Zacharie, natif de Syrie, fut un moine bénédictin avant d'être créé cardinal-prêtre par saint Grégoire II. Il succéda au pape Grégoire III en 741, et fut un homme d'une douceur et d'une bonté singulières. Il fut élu à une époque de troubles affligeant toute l'Italie, durant une invasion de Rome menée par le roi lombard Luitprand.",
+      "image": "/images/saint_zachary.jpg",
+      "wikipedia": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "07-13",
+  "feast_day": "13 juillet",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Anaclet",
+      "feast_day": "13 juillet",
+      "era": "Ier siècle",
+      "patronage": null,
+      "legacy": "Chef de l'Église primitive et martyr",
+      "summary": "Saint Anaclet fut le deuxième pape et martyr, succédant à saint Clet vers l'an 83. Il joua un rôle crucial dans l'Église primitive en consacrant six évêques et en établissant d'importantes ordonnances pour la consécration des évêques. Anaclet était connu pour son dévouement envers les fidèles durant une période de persécution intense sous l'empereur Domitien, et fut enterré au Vatican après sa mort le 13 juillet 96.",
+      "image": "/images/saint_anacletus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anacletus"
+    },
+    {
+      "name": "Eugène",
+      "feast_day": "13 juillet",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Un chef inébranlable pendant la persécution",
+      "summary": "Eugène fut évêque de Carthage à une époque de persécution intense contre les catholiques sous les rois vandales. Il était connu pour sa piété, son savoir et son engagement envers les pauvres, sacrifiant souvent son propre confort pour venir en aide à ceux dans le besoin. Après avoir enduré l'exil et l'épreuve, il mourut dans un monastère en France, où de nombreux miracles furent rapportés sur son tombeau.",
+      "image": "/images/saint_eugenius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eugenius_of_Carthage"
+    }
+  ]
+}

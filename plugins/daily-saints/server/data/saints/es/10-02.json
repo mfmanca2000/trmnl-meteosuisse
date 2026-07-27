@@ -1,0 +1,21 @@
+{
+  "date": "10-02",
+  "feast_day": "2 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Santos Ángeles Custodios",
+      "feast_day": "2 de octubre",
+      "era": null,
+      "patronage": [
+        "niños",
+        "viajeros",
+        "enfermos"
+      ],
+      "legacy": "Protectores divinos de cada persona",
+      "summary": "Se cree que los Ángeles Custodios son seres celestiales encargados de proteger y guiar a cada persona a lo largo de su vida. Según la doctrina cristiana, a cada persona se le asigna un Ángel de la Guarda al nacer, que vela por ella e intercede en su favor. La existencia de los Ángeles Custodios es un dogma de la fe cristiana, que subraya su papel en la protección de los fieles.",
+      "image": "/images/the_holy_guardian_angels.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guardian_angel"
+    }
+  ]
+}

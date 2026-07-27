@@ -1,0 +1,21 @@
+{
+  "date": "07-15",
+  "feast_day": "15 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Henri II",
+      "feast_day": "15 juillet",
+      "era": "Médiéval",
+      "patronage": [
+        "Allemagne",
+        "les sans-enfants",
+        "mariages difficiles"
+      ],
+      "legacy": "Un modèle de piété et de leadership",
+      "summary": "Henri II, également connu sous le nom de saint Henri, fut roi de Germanie et empereur du Saint-Empire romain germanique. Il est resté dans les mémoires pour sa piété, son humilité et son dévouement à la foi chrétienne, ainsi que pour ses efforts pour répandre le christianisme en Europe de l'Est. Son règne fut marqué par des victoires militaires et la fondation de nombreuses églises et monastères, reflétant son engagement au service de Dieu.",
+      "image": "/images/saint_henry.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+    }
+  ]
+}

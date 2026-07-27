@@ -1,0 +1,21 @@
+{
+  "date": "06-12",
+  "feast_day": "12 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean de Sahagún",
+      "feast_day": "12 juin",
+      "era": "15e siècle",
+      "patronage": [
+        "prédicateurs",
+        "théologiens",
+        "ceux qui souffrent d'empoisonnement"
+      ],
+      "legacy": "Un modèle de sainteté et de réforme",
+      "summary": "Jean de Sahagún était un confesseur augustinien espagnol connu pour sa prédication puissante et sa réforme morale à Salamanque au 15e siècle. Il consacra sa vie aux pauvres et fut reconnu pour sa profonde dévotion à la sainte messe, qui le conduisait souvent à passer de longues heures en prière. Sa dénonciation courageuse du vice mena finalement à une mort quasi martyre, et il fut canonisé en 1690 en raison des miracles qui lui furent attribués après sa mort.",
+      "image": "/images/saint_john_of_sahagun_or_st_fagondez.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Sahag%C3%BAn"
+    }
+  ]
+}

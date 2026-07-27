@@ -1,0 +1,21 @@
+{
+  "date": "07-22",
+  "feast_day": "22 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "María Magdalena",
+      "feast_day": "22 de julio",
+      "era": "Siglo I",
+      "patronage": [
+        "penitentes",
+        "mujeres",
+        "conversos"
+      ],
+      "legacy": "Símbolo de arrepentimiento y devoción",
+      "summary": "María Magdalena es una figura destacada del Nuevo Testamento, conocida por su profunda devoción a Jesucristo. Fue testigo de su crucifixión y la primera en encontrarse con Cristo resucitado, recibiendo el mensaje de su resurrección para compartirlo con los Apóstoles. Su vida ejemplifica el arrepentimiento y el poder transformador del amor y la fe en Jesús.",
+      "image": "/images/saint_mary_magdalen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Magdalene"
+    }
+  ]
+}

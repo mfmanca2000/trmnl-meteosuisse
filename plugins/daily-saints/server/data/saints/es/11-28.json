@@ -1,0 +1,34 @@
+{
+  "date": "11-28",
+  "feast_day": "28 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catalina Labouré",
+      "feast_day": "28 de noviembre",
+      "era": "siglo XIX",
+      "patronage": [
+        "los enfermos",
+        "las medallas",
+        "los milagros"
+      ],
+      "legacy": "Visionaria de la Medalla Milagrosa",
+      "summary": "Catalina Labouré fue una religiosa y visionaria francesa conocida por sus apariciones de la Virgen María. En 1830 recibió una visión que llevó a la creación de la Medalla Milagrosa, que desde entonces se ha convertido en un símbolo de fe y devoción. Su vida estuvo dedicada a servir a los pobres y a los ancianos, y se la recuerda por su profunda espiritualidad y su compromiso con su comunidad religiosa.",
+      "image": "/images/saint_catherine_laboure.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+    },
+    {
+      "name": "Jacobo de la Marca",
+      "feast_day": "28 de noviembre",
+      "era": "siglo XV",
+      "patronage": [
+        "los enfermos",
+        "los predicadores"
+      ],
+      "legacy": "Un predicador devoto y hacedor de milagros.",
+      "summary": "Jacobo de la Marca de Ancona fue un sacerdote franciscano conocido por su profunda espiritualidad y su compromiso con la oración. Dedicó su vida a predicar y realizó numerosos milagros, convirtiendo muchos corazones a Dios por toda Europa. A pesar de sufrir persecución y enfermedad, permaneció firme en su fe hasta su muerte en 1476.",
+      "image": "/images/saint_james_of_the_march_of_ancona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_of_the_Marches"
+    }
+  ]
+}

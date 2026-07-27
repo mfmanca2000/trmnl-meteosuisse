@@ -1,0 +1,17 @@
+{
+  "date": "12-30",
+  "feast_day": "30 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Sabino",
+      "feast_day": "30 dicembre",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Martirio e miracoli nella fede",
+      "summary": "San Sabino fu vescovo di Spoleto e martire, vissuto agli inizi del IV secolo. Fu imprigionato per aver rifiutato di adorare gli idoli e compì miracoli, tra cui la guarigione di un cieco, che portò alla conversione di molti. Fu infine martirizzato per la sua fede il 7 dicembre 303, ed è ricordato per la sua fermezza di fronte alla persecuzione.",
+      "image": "/images/saint_sabinus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sabinus_of_Spoleto"
+    }
+  ]
+}

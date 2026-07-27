@@ -1,0 +1,35 @@
+{
+  "date": "08-03",
+  "feast_day": "3 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre-Julien Eymard",
+      "feast_day": "3 août",
+      "era": "XIXe siècle",
+      "patronage": [
+        "adoration eucharistique",
+        "clergé",
+        "Saint-Sacrement"
+      ],
+      "legacy": "Champion de la dévotion et de la spiritualité eucharistiques.",
+      "summary": "Pierre-Julien Eymard était un prêtre français, fondateur de la Congrégation du Saint-Sacrement. Il consacra sa vie à promouvoir la dévotion à l'Eucharistie et fonda des communautés pour soutenir cette mission. Canonisé en 1962, il est resté célèbre pour sa profonde spiritualité et son engagement envers la vie sacramentelle de l'Église.",
+      "image": "/images/saint_peter-julian_eymard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Julian_Eymard"
+    },
+    {
+      "name": "Étienne",
+      "feast_day": "3 août",
+      "era": "1er siècle",
+      "patronage": [
+        "diacres",
+        "tailleurs de pierre",
+        "mort subite"
+      ],
+      "legacy": "Premier martyr et défenseur de la foi",
+      "summary": "Saint Étienne est reconnu comme le premier martyr chrétien, connu pour sa foi inébranlable et la puissance de sa prédication. Il fut lapidé à mort pour ses convictions, comme le rapportent les Actes des Apôtres. Ses reliques furent découvertes en 415, donnant lieu à une fête importante en son honneur et à la guérison de nombreux malades.",
+      "image": "/images/the_finding_of_saint_stephens_relics.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_the_Protomartyr"
+    }
+  ]
+}

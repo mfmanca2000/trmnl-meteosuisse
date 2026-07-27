@@ -1,0 +1,17 @@
+{
+  "date": "03-29",
+  "feast_day": "29 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jonas et Barachisius",
+      "feast_day": "29 mars",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Martyrs d'une foi et d'un courage inébranlables",
+      "summary": "Les saints Jonas et Barachisius étaient des frères et martyrs qui vécurent sous le règne du roi Sapor de Perse. Ils encouragèrent courageusement les autres chrétiens confrontés à la persécution et finirent par subir de brutales tortures pour leur foi inébranlable. Leur engagement inconditionnel envers le Christ et leur martyre témoignent avec force de la puissance de la vertu chrétienne face à la souffrance.",
+      "image": "/images/saints_jonas_and_barachisius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jonas_and_Barachisius"
+    }
+  ]
+}

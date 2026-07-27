@@ -1,0 +1,21 @@
+{
+  "date": "05-22",
+  "feast_day": "22 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Rita de Casia",
+      "feast_day": "22 de mayo",
+      "era": "Siglo XV",
+      "patronage": [
+        "causas imposibles",
+        "mujeres casadas",
+        "viudas"
+      ],
+      "legacy": "Patrona de las causas imposibles y de la reconciliación.",
+      "summary": "Santa Rita de Casia fue una viuda italiana del siglo XV, conocida por su profunda espiritualidad y su vida milagrosa. Tras soportar un matrimonio difícil y la pérdida de sus hijos, buscó consagrar su vida a Dios ingresando en un convento. Célebre por su piedad y el don de los milagros, es invocada con frecuencia para las causas difíciles y es una figura muy querida en la devoción católica.",
+      "image": "/images/saint_rita_of_cascia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rita_of_Cascia"
+    }
+  ]
+}

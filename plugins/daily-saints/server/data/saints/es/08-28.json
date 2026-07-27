@@ -1,0 +1,21 @@
+{
+  "date": "08-28",
+  "feast_day": "28 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Agustín",
+      "feast_day": "28 de agosto",
+      "era": "Iglesia primitiva",
+      "patronage": [
+        "teólogos",
+        "impresores",
+        "cerveceros"
+      ],
+      "legacy": "Padre del cristianismo y la filosofía occidentales",
+      "summary": "San Agustín fue un destacado teólogo y filósofo que desempeñó un papel decisivo en el desarrollo del cristianismo occidental. Nacido en 354 en el norte de África, llevó una juventud turbulenta antes de experimentar una profunda conversión al cristianismo a los 32 años. Como obispo de Hipona, se convirtió en una figura clave en la lucha contra la herejía y dejó un rico legado de escritos que sigue influyendo en el pensamiento cristiano en la actualidad.",
+      "image": "/images/saint_augustine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+    }
+  ]
+}

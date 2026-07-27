@@ -1,0 +1,35 @@
+{
+  "date": "07-25",
+  "feast_day": "25 luglio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giacomo il Maggiore",
+      "feast_day": "25 luglio",
+      "era": "I secolo",
+      "patronage": [
+        "Spagna",
+        "pellegrini",
+        "farmacisti"
+      ],
+      "legacy": "Primo apostolo a essere martirizzato",
+      "summary": "Giacomo il Maggiore fu uno dei dodici apostoli e stretto compagno di Gesù, noto per la sua fede fervente e il suo carattere schietto. Secondo la tradizione, predicò in Spagna dopo la risurrezione di Cristo, e fu il primo apostolo a essere martirizzato, giustiziato dal re Erode Agrippa intorno all'anno 44. La sua eredità è commemorata presso la Basilica di San Giacomo di Compostela, un importante luogo di pellegrinaggio in Spagna.",
+      "image": "/images/saint_james_the_greater.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_the_Great"
+    },
+    {
+      "name": "Cristoforo",
+      "feast_day": "25 luglio",
+      "era": "III secolo",
+      "patronage": [
+        "viaggiatori",
+        "automobilisti",
+        "bambini"
+      ],
+      "legacy": "Protettore dei viaggiatori e dei bambini",
+      "summary": "San Cristoforo è un venerato martire, noto per la sua straordinaria fede e il suo coraggio di fronte alla persecuzione. Secondo la tradizione, convertì migliaia di persone al cristianesimo attraverso la sua predicazione e i suoi atti miracolosi. Il suo martirio è celebrato il 25 luglio, in ricordo della sua fermezza e dei miracoli a lui attribuiti, tra cui guarigioni e protezioni.",
+      "image": "/images/saint_christopher.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher"
+    }
+  ]
+}

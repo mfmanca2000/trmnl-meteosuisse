@@ -1,0 +1,35 @@
+{
+  "date": "08-19",
+  "feast_day": "19 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan Eudes",
+      "feast_day": "19 de agosto",
+      "era": "Siglo XVII",
+      "patronage": [
+        "clero",
+        "párrocos",
+        "directores espirituales"
+      ],
+      "legacy": "Pionero de la devoción al Sagrado Corazón",
+      "summary": "Juan Eudes fue un sacerdote francés, fundador de la Congregación de Jesús y María y de las Hermanas de Nuestra Señora de la Caridad. Es conocido por su devoción al Sagrado Corazón de Jesús y al Inmaculado Corazón de María, así como por sus esfuerzos en la fundación de seminarios y la evangelización de los pobres. Eudes fue canonizado en 1925 y es reconocido por sus importantes contribuciones a la Iglesia católica durante el siglo XVII.",
+      "image": "/images/saint_john_eudes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Eudes"
+    },
+    {
+      "name": "Luis de Toulouse",
+      "feast_day": "19 de agosto",
+      "era": "Medieval",
+      "patronage": [
+        "pobres",
+        "estudiantes",
+        "franciscanos"
+      ],
+      "legacy": "Una vida de humildad y servicio",
+      "summary": "Luis de Toulouse fue un obispo conocido por su profunda piedad y su compromiso de servir a Dios desde temprana edad. Aunque nació en la nobleza, eligió una vida de humildad y servicio, dedicándose al cuidado de los pobres y los enfermos. Llegó a ser arzobispo de Toulouse y es recordado por su estilo de vida austero y su devoción hasta su temprana muerte a los veintitrés años.",
+      "image": "/images/saint_louis_of_toulouse.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_of_Toulouse"
+    }
+  ]
+}

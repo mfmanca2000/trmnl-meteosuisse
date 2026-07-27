@@ -1,0 +1,35 @@
+{
+  "date": "07-05",
+  "feast_day": "5 de julio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Antonio María Zacarías",
+      "feast_day": "5 de julio",
+      "era": "Siglo XVI",
+      "patronage": [
+        "médicos",
+        "enfermos",
+        "niños enfermos"
+      ],
+      "legacy": "Renovó la vida cristiana a través de la educación y el servicio.",
+      "summary": "Antonio María Zacarías fue un sacerdote italiano y fundador de la orden de los Barnabitas, dedicado a la renovación de la vida cristiana en el siglo XVI. Era conocido por su profunda devoción a san Pablo y por sus esfuerzos para educar y cuidar a los niños pobres y abandonados. A pesar de la oposición que enfrentó, estableció comunidades que enfatizaban la oración y el servicio, dejando un impacto duradero en la Iglesia.",
+      "image": "/images/saint_anthony_maria_zaccaria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Maria_Zaccaria"
+    },
+    {
+      "name": "Pedro de Luxemburgo",
+      "feast_day": "5 de julio",
+      "era": "Medieval",
+      "patronage": [
+        "niños",
+        "causas perdidas",
+        "sacerdotes diocesanos"
+      ],
+      "legacy": "Un modelo de santidad juvenil y caridad.",
+      "summary": "Pedro de Luxemburgo fue un obispo y cardenal conocido por su profunda piedad y su compromiso con el servicio a la Iglesia. Nombrado obispo de Metz a la temprana edad de quince años, gobernó con notable celo y caridad, a menudo repartiendo su propia fortuna. Murió con solo dieciocho años, dejando un legado de santidad e intercesión milagrosa.",
+      "image": "/images/blessed_peter_of_luxemburg.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Luxembourg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "08-13",
+  "feast_day": "13 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "13 août",
+      "era": "1er siècle",
+      "patronage": [
+        "mères",
+        "femmes enceintes",
+        "perte des parents"
+      ],
+      "legacy": "Mère de Dieu et modèle de foi",
+      "summary": "Marie, la mère de Jésus, est vénérée comme une figure centrale du christianisme, connue pour sa pureté et son amour maternel. Sa mort est célébrée comme la Dormition, reflétant sa foi profonde et son désir d'être unie à son Fils. Marie est considérée comme un modèle pour tous les croyants, incarnant les vertus d'humilité et de dévotion.",
+      "image": "/images/the_dormition_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Radegonde",
+      "feast_day": "13 août",
+      "era": "VIe siècle",
+      "patronage": [
+        "mariages difficiles",
+        "veuves",
+        "soins infirmiers",
+        "pauvres"
+      ],
+      "legacy": "Une vie de dévotion et de service",
+      "summary": "Sainte Radegonde était une reine de France qui consacra sa vie à Dieu après son mariage avec le roi Clotaire. Elle fonda le monastère Sainte-Croix à Poitiers et mena une vie d'extrême austérité et de dévotion. Connue pour son soin des malades et des pauvres, elle devint une figure importante du christianisme du haut Moyen Âge.",
+      "image": "/images/saint_radegundes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Radegund"
+    }
+  ]
+}

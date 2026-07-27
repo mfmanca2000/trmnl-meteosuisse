@@ -1,0 +1,30 @@
+{
+  "date": "02-19",
+  "feast_day": "19 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Corrado di Piacenza",
+      "feast_day": "19 febbraio",
+      "era": "XIV secolo",
+      "patronage": [
+        "ernie",
+        "penitenti"
+      ],
+      "legacy": "Una vita di penitenza e pentimento",
+      "summary": "San Corrado di Piacenza era un nobile che trasformò la sua vita dopo un tragico incidente causato dalle sue battute di caccia. Pieno di rimorso per la condanna ingiusta di un innocente, vendette tutti i suoi beni per risarcire i danneggiati e si dedicò a una vita di penitenza. Divenne eremita, vivendo in stretta austerità, ed era noto per i suoi doni profetici e i suoi miracoli fino alla sua morte nel 1351.",
+      "image": "/images/saint_conrad_of_piacenza.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Conrad_of_Piacenza"
+    },
+    {
+      "name": "Barbato",
+      "feast_day": "19 febbraio",
+      "era": "VII secolo",
+      "patronage": null,
+      "legacy": "Campione contro l'idolatria e la superstizione",
+      "summary": "San Barbato fu vescovo di Benevento, in Italia, nel VII secolo. Noto per la sua pietà e dedizione, lavorò instancabilmente per sradicare l'idolatria e le superstizioni tra i suoi fedeli. La sua guida e le sue intuizioni profetiche durante un assedio della città consolidarono il suo lascito come santo venerato nella Chiesa cattolica.",
+      "image": "/images/saint_barbatus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbatus_of_Benevento"
+    }
+  ]
+}

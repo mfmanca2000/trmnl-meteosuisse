@@ -1,0 +1,49 @@
+{
+  "date": "07-21",
+  "feast_day": "21 juillet",
+  "count": 3,
+  "saints": [
+    {
+      "name": "François de Laval",
+      "feast_day": "21 juillet",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "Canada",
+        "clergé",
+        "évangélisation"
+      ],
+      "legacy": "Pionnier de l'Église au Canada",
+      "summary": "François de Laval fut le premier évêque de Québec et joua un rôle crucial dans l'établissement de l'Église catholique au Canada. Il était connu pour sa charité, sa piété et son dévouement à la formation du clergé, fondant le séminaire de Québec pour soutenir cette mission. Malgré d'importants défis, notamment l'opposition des autorités laïques et la lutte contre le commerce de l'alcool, il demeura fidèle à son engagement envers l'évangélisation et le bien-être de sa communauté.",
+      "image": "/images/blessed_francois_de_montmorency-laval.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_Laval"
+    },
+    {
+      "name": "Victor de Marseille",
+      "feast_day": "21 juillet",
+      "era": "IIIe siècle",
+      "patronage": [
+        "martyrs",
+        "soldats",
+        "prisonniers"
+      ],
+      "legacy": "Martyr courageux et défenseur de la foi",
+      "summary": "Victor de Marseille fut un officier chrétien de l'armée romaine, devenu martyr pour sa foi sous le règne de l'empereur Maximien, vers l'an 290. Il défia courageusement les ordres de l'empereur d'adorer les dieux païens, endurant de graves tortures et finalement la mort pour ses convictions. Son héritage comprend de nombreux miracles attribués à son intercession, en particulier sur son lieu de sépulture, où de nombreux fidèles vinrent chercher son aide.",
+      "image": "/images/saint_victor_of_marseille.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Victor_of_Marseilles"
+    },
+    {
+      "name": "Praxède",
+      "feast_day": "21 juillet",
+      "era": "IIe siècle",
+      "patronage": [
+        "vierges",
+        "les pauvres",
+        "prisonniers"
+      ],
+      "legacy": "Servante compatissante des fidèles persécutés",
+      "summary": "Sainte Praxède fut une vierge romaine et fille d'un sénateur, connue pour sa profonde compassion et son dévouement à la foi chrétienne en une période de persécution. Elle consacra sa vie à la prière, au jeûne et à l'aide aux pauvres, en particulier ceux qui souffraient pour leurs convictions. Praxède est restée dans les mémoires pour ses actes de charité, notamment le soin apporté aux chrétiens emprisonnés, à qui elle offrait réconfort et soutien.",
+      "image": "/images/saint_praxedes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Praxedes"
+    }
+  ]
+}

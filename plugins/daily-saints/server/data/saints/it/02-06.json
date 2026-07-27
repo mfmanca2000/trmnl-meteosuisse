@@ -1,0 +1,35 @@
+{
+  "date": "02-06",
+  "feast_day": "6 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Tito",
+      "feast_day": "6 febbraio",
+      "era": "I secolo",
+      "patronage": [
+        "Creta",
+        "clero",
+        "amministratori"
+      ],
+      "legacy": "Pacificatore e fedele discepolo di Paolo",
+      "summary": "San Tito fu un convertito di lingua greca e discepolo di san Paolo, che accompagnò in varie missioni apostoliche. Svolse un ruolo cruciale nell'affrontare i problemi all'interno della chiesa di Corinto e fu in seguito nominato vescovo di Creta. Il suo lascito è segnato dalle sue capacità amministrative e dalla sua capacità di ispirare rispetto e gioia tra i fedeli.",
+      "image": "/images/saint_titus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Titus"
+    },
+    {
+      "name": "Dorotea",
+      "feast_day": "6 febbraio",
+      "era": "Inizio del IV secolo",
+      "patronage": [
+        "giardinieri",
+        "fioristi",
+        "vergini"
+      ],
+      "legacy": "Martirio e doni miracolosi di fiori",
+      "summary": "Santa Dorotea fu una giovane vergine e martire di Cesarea di Cappadocia, nota per la sua fede incrollabile durante la persecuzione dioclezianea. Affrontò la tortura e l'esecuzione con gioia, spingendo altri a tornare al cristianesimo grazie alla sua costanza. Il suo lascito comprende il miracoloso invio di mele e rose al suo persecutore, a simboleggiare il suo legame con il divino e il suo ruolo di patrona di giardinieri e fioristi.",
+      "image": "/images/saint_dorothy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_of_Caesarea"
+    }
+  ]
+}

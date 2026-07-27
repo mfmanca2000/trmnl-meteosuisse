@@ -1,0 +1,21 @@
+{
+  "date": "08-12",
+  "feast_day": "12 agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Chiara d'Assisi",
+      "feast_day": "12 agosto",
+      "era": "XIII secolo",
+      "patronage": [
+        "televisione",
+        "malattie degli occhi",
+        "orafi"
+      ],
+      "legacy": "Pioniera della vita monastica femminile",
+      "summary": "Chiara d'Assisi fu una santa italiana del XIII secolo, fondatrice dell'Ordine delle Sorelle Povere, oggi conosciuto come le Clarisse. Ispirata da san Francesco, dedicò la sua vita alla povertà e alla preghiera, fondando una comunità monastica incentrata sulla semplicità e sulla devozione a Dio. Nonostante la salute cagionevole, è ricordata per aver miracolosamente difeso il suo convento da un esercito invasore grazie alla sua fede e al Santissimo Sacramento.",
+      "image": "/images/saint_clare_of_assisi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clare_of_Assisi"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "10-04",
+  "feast_day": "4 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francisco de Asís",
+      "feast_day": "4 de octubre",
+      "era": "Medieval",
+      "patronage": [
+        "animales",
+        "medio ambiente",
+        "comerciantes",
+        "ecología"
+      ],
+      "legacy": "Santo patrono de los animales y de la ecología.",
+      "summary": "Francisco de Asís fue un santo italiano del siglo XIII conocido por su profundo amor a la naturaleza y su compromiso con la pobreza. Fundó la Orden Franciscana, poniendo énfasis en una vida de sencillez y servicio a los pobres. Su legado incluye la promoción de la paz y el cuidado de la creación, lo que lo convierte en una figura muy querida dentro y fuera del cristianismo.",
+      "image": "/images/saint_francis_of_assisi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    }
+  ]
+}

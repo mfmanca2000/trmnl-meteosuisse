@@ -1,0 +1,31 @@
+{
+  "date": "10-24",
+  "feast_day": "24 octobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Raphaël",
+      "feast_day": "24 octobre",
+      "era": "Biblique",
+      "patronage": [
+        "guérisseurs",
+        "voyageurs",
+        "aveugles"
+      ],
+      "legacy": "Ange de la guérison et du guide",
+      "summary": "Raphaël est l'un des sept archanges qui se tiennent devant Dieu et est connu pour son rôle dans le Livre de Tobie, où il guide Tobie dans un voyage pour récupérer l'argent de son père et trouver une épouse. Il est associé à la guérison, ayant aidé à guérir la cécité du père de Tobie et étant considéré comme celui qui agitait les eaux de la piscine de Béthesda pour la guérison. Le nom de Raphaël signifie « Dieu guérit », et il est vénéré pour son aide et son guide dans les moments de besoin.",
+      "image": "/images/saint_raphael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raphael_the_Archangel"
+    },
+    {
+      "name": "Magloire",
+      "feast_day": "24 octobre",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Abbé dévoué et faiseur de miracles",
+      "summary": "Saint Magloire était un abbé breton qui consacra sa vie au service monastique et à la prière. Il dirigea le monastère de Lanmeur pendant plus de cinquante ans avant de devenir abbé de Dol. Connu pour sa piété et ses intercessions miraculeuses, il reste dans les mémoires pour sa profonde dévotion et la fondation d'un monastère sur l'île de Jersey.",
+      "image": "/images/saint_magloire.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Magloire"
+    }
+  ]
+}

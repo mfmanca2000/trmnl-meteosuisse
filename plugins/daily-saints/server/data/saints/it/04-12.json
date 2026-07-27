@@ -1,0 +1,27 @@
+{
+  "date": "04-12",
+  "feast_day": "12 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Caterina di Sant'Agostino",
+      "feast_day": "12 aprile",
+      "era": "XVII secolo",
+      "patronage": null,
+      "legacy": "Vergine",
+      "summary": "Giovane futura missionaria nella Nuova Francia, Catherine de Longpré, in religione suor Maria Caterina di Sant'Agostino, fu una monaca infermiera nella comunità delle Suore Ospedaliere di Sant'Agostino a Évreux. Nata in Francia nel 1632, si recò a Québec all'età di sedici anni. Avendo offerto la sua vita per i malati e la santificazione delle anime, trovò a Québec un ospedale appena fondato e molto povero, dove lavorò per vent'anni con devozione e coraggio incrollabili.",
+      "image": "/images/blessed_catherine_of_st_augustine.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Giulio I",
+      "feast_day": "12 aprile",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Difensore del cristianesimo niceno",
+      "summary": "Giulio I fu un papa romano che resse la Chiesa dal 337 al 352 d.C. È noto per la sua difesa della fede nicena contro l'arianesimo e per aver accolto a Roma i vescovi esiliati. Il suo pontificato fu segnato da importanti riforme ecclesiastiche e dalla costruzione di basiliche e cimiteri nella città.",
+      "image": "/images/saint_julius_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julius_I"
+    }
+  ]
+}

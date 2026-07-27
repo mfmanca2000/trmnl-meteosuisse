@@ -1,0 +1,22 @@
+{
+  "date": "09-01",
+  "feast_day": "1 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gil",
+      "feast_day": "1 de septiembre",
+      "era": "Siglo VII",
+      "patronage": [
+        "mendigos",
+        "pobres",
+        "discapacitados",
+        "cerveceros"
+      ],
+      "legacy": "Patrono de los pobres y los discapacitados",
+      "summary": "San Gil fue un ermitaño del siglo VII conocido por su profunda compasión y sus obras milagrosas. Nacido en Atenas en el seno de una familia noble, dedicó su vida a la pobreza y la soledad, realizando numerosos milagros que atraían a la gente hacia él. Su legado incluye la fundación de un monasterio en Francia que se convirtió en un centro de la Orden Benedictina.",
+      "image": "/images/saint_giles.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giles_of_Provence"
+    }
+  ]
+}

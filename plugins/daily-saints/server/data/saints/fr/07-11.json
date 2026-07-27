@@ -1,0 +1,31 @@
+{
+  "date": "07-11",
+  "feast_day": "11 juillet",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pie Ier",
+      "feast_day": "11 juillet",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi contre l'hérésie",
+      "summary": "Pie Ier fut le neuvième pape de l'Église catholique, régnant de 142 à 157 après J.-C. Il est connu pour ses efforts dans la lutte contre l'hérésie et pour avoir établi la célébration de Pâques un dimanche. Pie Ier fut martyrisé pour sa foi, devenant un symbole de constance dans l'Église primitive.",
+      "image": "/images/saint_pius_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_I"
+    },
+    {
+      "name": "Jacques de Nisibe",
+      "feast_day": "11 juillet",
+      "era": "IVe siècle",
+      "patronage": [
+        "Nisibe",
+        "prophétie",
+        "miracles"
+      ],
+      "legacy": "Protecteur de Nisibe et faiseur de miracles",
+      "summary": "Jacques de Nisibe fut un éminent évêque et docteur de l'Église syrienne, connu pour sa profonde spiritualité et son attachement à la prière. Il est célébré pour ses interventions miraculeuses, notamment la protection de sa ville lors d'un siège perse grâce à la prière divine. Son héritage perdure comme symbole de foi et de résilience face à l'adversité.",
+      "image": "/images/saint_james_of_nisibis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_of_Nisibis"
+    }
+  ]
+}

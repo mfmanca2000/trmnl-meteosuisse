@@ -1,0 +1,27 @@
+{
+  "date": "04-20",
+  "feast_day": "20 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Inés de Montepulciano",
+      "feast_day": "20 de abril",
+      "era": "Siglo XIV",
+      "patronage": null,
+      "legacy": "Virgen",
+      "summary": "Santa Inés nació en Italia en 1274, dulce futura gloria de la Orden de santo Domingo. Su padre era un eminente cristiano que vivía en la aldea de Gracciano Vecchio, cerca del lago de Perugia, en el centro de Italia. El mismo día de su nacimiento, un primer milagro anunció a los presentes que se trataba de una niña predestinada: aparecieron misteriosas antorchas encendidas, brillando espléndidamente cerca de su cuna.",
+      "image": "/images/saint_agnes_of_monte_pulciano.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Marcelino",
+      "feast_day": "20 de abril",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Obispo de Embrun",
+      "summary": "San Marcelino nació en África de una familia noble; junto con otros dos cristianos deseosos de evangelizar la Galia, Vicente y Domnino, acudió al papa san Dámaso. Los jóvenes fueron enviados a Eusebio, obispo de Vercelli, quien los animó en su misión y les anunció que tendrían mucho que sufrir. Los tres fueron ordenados, y Marcelino fue consagrado obispo de Embrun por Eusebio y el obispo de Valence.",
+      "image": "/images/saint_marcellinus_of_embrun.jpg",
+      "wikipedia": null
+    }
+  ]
+}

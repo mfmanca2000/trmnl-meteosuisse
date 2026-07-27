@@ -1,0 +1,21 @@
+{
+  "date": "09-10",
+  "feast_day": "10 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nicolás de Tolentino",
+      "feast_day": "10 de septiembre",
+      "era": "Medieval",
+      "patronage": [
+        "Iglesia universal",
+        "almas del purgatorio",
+        "moribundos"
+      ],
+      "legacy": "Patrono de la Iglesia universal y de las almas",
+      "summary": "Nicolás de Tolentino fue un confesor del siglo XIII conocido por su profunda espiritualidad y su dedicación al servicio de Dios. Fue célebre por sus milagros, entre ellos la resurrección de niños, y por su profunda caridad hacia las almas del purgatorio. Canonizado en 1446, es reconocido como patrono de la Iglesia universal y sigue inspirando devoción entre los fieles.",
+      "image": "/images/saint_nicholas_of_tolentino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Tolentino"
+    }
+  ]
+}

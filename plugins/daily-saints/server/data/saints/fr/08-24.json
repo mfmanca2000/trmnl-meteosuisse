@@ -1,0 +1,36 @@
+{
+  "date": "08-24",
+  "feast_day": "24 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Barthélemy",
+      "feast_day": "24 août",
+      "era": "1er siècle",
+      "patronage": [
+        "bouchers",
+        "tanneurs",
+        "peintres",
+        "géographes"
+      ],
+      "legacy": "Apôtre connu pour son zèle missionnaire",
+      "summary": "Barthélemy, également connu sous le nom de Nathanaël, était l'un des douze apôtres choisis par Jésus-Christ. Il est célébré pour son œuvre missionnaire dans diverses régions, notamment en Inde et en Arménie, où il subit finalement le martyre. Son héritage se caractérise par sa foi inébranlable et son dévouement à la diffusion de l'Évangile, souvent représenté comme un symbole d'innocence et de sincérité.",
+      "image": "/images/saint_bartholomew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bartholomew_the_Apostle"
+    },
+    {
+      "name": "Émilie de Vialar",
+      "feast_day": "24 août",
+      "era": "XIXe siècle",
+      "patronage": [
+        "malades",
+        "éducateurs",
+        "femmes"
+      ],
+      "legacy": "Pionnière de la charité et de l'éducation pour tous.",
+      "summary": "Émilie de Vialar était une fondatrice française qui établit la Congrégation des Sœurs de Saint-Joseph de l'Apparition au XIXe siècle. Elle consacra sa vie à l'éducation des enfants et aux soins des malades, en particulier en réponse aux ravages causés par la Révolution française. Canonisée en 1951, son héritage comprend de nombreuses fondations de son ordre à travers le monde, mettant l'accent sur la charité et le service.",
+      "image": "/images/saint_emily_de_vialar.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Emily_de_Vialar"
+    }
+  ]
+}

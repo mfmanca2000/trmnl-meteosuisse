@@ -1,0 +1,35 @@
+{
+  "date": "07-25",
+  "feast_day": "25 juillet",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jacques le Majeur",
+      "feast_day": "25 juillet",
+      "era": "Ier siècle",
+      "patronage": [
+        "Espagne",
+        "pèlerins",
+        "apothicaires"
+      ],
+      "legacy": "Premier apôtre à être martyrisé",
+      "summary": "Jacques le Majeur fut l'un des douze apôtres et un proche compagnon de Jésus, connu pour sa foi fervente et son caractère franc. La tradition rapporte qu'il aurait prêché en Espagne après la résurrection du Christ, et il fut le premier apôtre à être martyrisé, exécuté par le roi Hérode Agrippa vers l'an 44. Son héritage est commémoré à la basilique de Saint-Jacques-de-Compostelle, un haut lieu de pèlerinage en Espagne.",
+      "image": "/images/saint_james_the_greater.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_the_Great"
+    },
+    {
+      "name": "Christophe",
+      "feast_day": "25 juillet",
+      "era": "IIIe siècle",
+      "patronage": [
+        "voyageurs",
+        "conducteurs",
+        "enfants"
+      ],
+      "legacy": "Protecteur des voyageurs et des enfants",
+      "summary": "Saint Christophe est un martyr vénéré, connu pour sa foi extraordinaire et son courage face à la persécution. La tradition rapporte qu'il aurait converti des milliers de personnes au christianisme par sa prédication et ses actes miraculeux. Son martyre est célébré le 25 juillet, commémorant sa constance et les miracles qui lui sont attribués, notamment des guérisons et des protections.",
+      "image": "/images/saint_christopher.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher"
+    }
+  ]
+}

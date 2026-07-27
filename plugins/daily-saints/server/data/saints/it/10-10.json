@@ -1,0 +1,21 @@
+{
+  "date": "10-10",
+  "feast_day": "10 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francesco Borgia",
+      "feast_day": "10 ottobre",
+      "era": "XVI secolo",
+      "patronage": [
+        "gesuiti",
+        "nobili",
+        "moribondi"
+      ],
+      "legacy": "Un nobile divenuto servo di Dio",
+      "summary": "Francesco Borgia fu un nobile spagnolo divenuto gesuita che servì come Preposito Generale della Compagnia di Gesù. Dopo aver assistito alla morte dell'imperatrice Isabella, rinunciò alle sue ambizioni mondane e dedicò la sua vita al servizio di Dio e dei poveri. Fu determinante nella fondazione di collegi e case gesuitiche in tutta la Spagna e il Portogallo, e morì al servizio della Chiesa nel 1572.",
+      "image": "/images/saint_francis_borgia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Borgia"
+    }
+  ]
+}

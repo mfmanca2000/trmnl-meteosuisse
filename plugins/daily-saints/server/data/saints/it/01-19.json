@@ -1,0 +1,21 @@
+{
+  "date": "01-19",
+  "feast_day": "19 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Canuto",
+      "feast_day": "19 gennaio",
+      "era": "XI secolo",
+      "patronage": [
+        "Danimarca",
+        "sovrani",
+        "marinai"
+      ],
+      "legacy": "Un re martire devoto alla giustizia e alla fede.",
+      "summary": "Canuto, re di Danimarca, fu un sovrano pio e giusto che regnò nell'XI secolo. È noto per i suoi successi militari e per i suoi sforzi nel diffondere il cristianesimo nel suo regno. Fu infine martirizzato durante una ribellione, dimostrando la sua fede incrollabile e il suo impegno verso il suo popolo.",
+      "image": "/images/saint_canutus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Canute_the_Great"
+    }
+  ]
+}

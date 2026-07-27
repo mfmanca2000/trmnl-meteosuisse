@@ -1,0 +1,21 @@
+{
+  "date": "06-21",
+  "feast_day": "21 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Louis de Gonzague",
+      "feast_day": "21 juin",
+      "era": "16e siècle",
+      "patronage": [
+        "jeunesse",
+        "étudiants",
+        "malades du sida"
+      ],
+      "legacy": "Saint patron de la jeunesse et des étudiants",
+      "summary": "Saint Louis de Gonzague était un séminariste jésuite connu pour son profond engagement envers la pureté et la pénitence. Il consacra sa vie au service des malades lors d'une épidémie de fièvre à Rome, succombant lui-même à la maladie à un jeune âge. Son héritage est celui d'une foi inébranlable et d'un dévouement à Dieu, inspirant beaucoup de personnes à mener une vie de sainteté.",
+      "image": "/images/saint_aloysius_gonzaga.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aloysius_Gonzaga"
+    }
+  ]
+}

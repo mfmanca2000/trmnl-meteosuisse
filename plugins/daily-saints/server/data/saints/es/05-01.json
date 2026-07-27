@@ -1,0 +1,22 @@
+{
+  "date": "05-01",
+  "feast_day": "1 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "José",
+      "feast_day": "1 de mayo",
+      "era": "Siglo I",
+      "patronage": [
+        "trabajadores",
+        "padres",
+        "carpinteros",
+        "familias"
+      ],
+      "legacy": "Patrono de los trabajadores y las familias",
+      "summary": "San José es reconocido como el padre terrenal de Jesucristo y esposo de la Virgen María. Es celebrado por su humildad, obediencia y dedicación a su familia, encarnando las virtudes de la fe y la rectitud. Su festividad, establecida por el papa Pío XII, honra su papel como patrono de los trabajadores y las familias.",
+      "image": "/images/saint_joseph_the_worker.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Nazareth"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "06-12",
+  "feast_day": "12 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan de Sahagún",
+      "feast_day": "12 de junio",
+      "era": "Siglo XV",
+      "patronage": [
+        "predicadores",
+        "teólogos",
+        "quienes sufren de envenenamiento"
+      ],
+      "legacy": "Un modelo de santidad y reforma",
+      "summary": "Juan de Sahagún fue un confesor agustino español conocido por su poderosa predicación y su reforma moral en Salamanca durante el siglo XV. Dedicó su vida a los pobres y fue reconocido por su profunda devoción a la Santa Misa, que a menudo lo llevaba a pasar largas horas en oración. Su valiente denuncia del vicio condujo finalmente a una muerte casi de mártir, y fue canonizado en 1690 gracias a los milagros que se le atribuyeron tras su fallecimiento.",
+      "image": "/images/saint_john_of_sahagun_or_st_fagondez.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Sahag%C3%BAn"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "04-06",
+  "feast_day": "6 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Célestin",
+      "feast_day": "6 avril",
+      "era": "Début du Ve siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi et de la miséricorde",
+      "summary": "Saint Célestin Ier fut pape de 422 à 432, connu pour sa position ferme contre l'hérésie. Il condamna les enseignements de Nestorius et envoya des missionnaires en Grande-Bretagne et en Irlande pour combattre la propagation du pélagianisme. Sa papauté mit l'accent sur l'importance du repentir et de la miséricorde de Dieu envers les pécheurs.",
+      "image": "/images/saint_celestine_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Celestine_I"
+    }
+  ]
+}

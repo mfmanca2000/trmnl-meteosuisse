@@ -1,0 +1,27 @@
+{
+  "date": "11-05",
+  "feast_day": "5 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Santas Reliquias",
+      "feast_day": "5 de noviembre",
+      "era": null,
+      "patronage": null,
+      "legacy": "Veneración de los santos a través de sus reliquias",
+      "summary": "Las santas reliquias son los restos físicos o los efectos personales de los santos, venerados en la Iglesia católica. El culto a las reliquias es una tradición de larga data, que se cree conecta a los fieles con lo divino a través de la intercesión de los santos. Esta práctica se basa en la creencia de que honrar las reliquias puede traer beneficios espirituales y milagros.",
+      "image": "/images/feast_of_the_holy_relics.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_relics"
+    },
+    {
+      "name": "Bertila",
+      "feast_day": "5 de noviembre",
+      "era": "siglo VII",
+      "patronage": null,
+      "legacy": "Líder ejemplar y abadesa devota",
+      "summary": "Santa Bertila fue una abadesa del siglo VII conocida por su profundo compromiso con la vida monástica y su liderazgo ejemplar en la abadía de Chelles. Fue alentada inicialmente en su vocación por San Owen y se hizo conocida por su humildad, caridad y habilidades administrativas. Bertila gobernó su comunidad durante cuarenta y seis años, atrayendo a muchos con su guía espiritual hasta su muerte en 692.",
+      "image": "/images/saint_bertilla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Bertille"
+    }
+  ]
+}

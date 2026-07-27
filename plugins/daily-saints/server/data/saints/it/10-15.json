@@ -1,0 +1,22 @@
+{
+  "date": "10-15",
+  "feast_day": "15 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Teresa d'Ávila",
+      "feast_day": "15 ottobre",
+      "era": "XVI secolo",
+      "patronage": [
+        "malati",
+        "perdita dei genitori",
+        "scrittori",
+        "Spagna"
+      ],
+      "legacy": "Pioniera della preghiera contemplativa e della riforma",
+      "summary": "Teresa d'Ávila fu una mistica spagnola e riformatrice dell'Ordine carmelitano, nota per i suoi profondi scritti spirituali e per il suo ruolo nella riforma della sua comunità religiosa. Fondò numerosi conventi e si dedicò a una vita di preghiera e servizio, sottolineando l'importanza di una relazione personale con Dio. Canonizzata nel 1622, è riconosciuta come Dottore della Chiesa per il suo contributo alla spiritualità cristiana.",
+      "image": "/images/saint_teresa_of_avila.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
+    }
+  ]
+}

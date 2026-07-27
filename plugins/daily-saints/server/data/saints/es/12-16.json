@@ -1,0 +1,17 @@
+{
+  "date": "12-16",
+  "feast_day": "16 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eusebio de Vercelli",
+      "feast_day": "16 de diciembre",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Defensor de la fe nicena y del clero",
+      "summary": "Eusebio de Vercelli fue un obispo conocido por su firme oposición al arrianismo y sus esfuerzos por promover un clero celoso. Fue exiliado varias veces por sus convicciones, pero continuó defendiendo el Credo niceno y las enseñanzas del Evangelio. Su legado incluye la integración de la vida monástica con los deberes clericales, influyendo en la estructura de la Iglesia en Occidente.",
+      "image": "/images/saint_eusebius_of_vercelli.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eusebius_of_Vercelli"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "05-26",
+  "feast_day": "26 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Felipe Neri",
+      "feast_day": "26 de mayo",
+      "era": "Siglo XVI",
+      "patronage": [
+        "juventud",
+        "alegría",
+        "clero"
+      ],
+      "legacy": "Apóstol de Roma y patrono de la juventud",
+      "summary": "Felipe Neri fue un sacerdote del siglo XVI, conocido por su espíritu alegre y su dedicación a la juventud de Roma. Fundó el Oratorio, una sociedad de sacerdotes dedicada a la educación espiritual y el acompañamiento pastoral. Célebre por su piedad y por casos de bilocación, se convirtió en una figura muy querida de la Iglesia católica, subrayando la importancia de servir a Dios con alegría.",
+      "image": "/images/saint_philip_neri.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_Neri"
+    }
+  ]
+}

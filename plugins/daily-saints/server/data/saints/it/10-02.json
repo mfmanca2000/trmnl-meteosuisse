@@ -1,0 +1,21 @@
+{
+  "date": "10-02",
+  "feast_day": "2 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Angeli Custodi",
+      "feast_day": "2 ottobre",
+      "era": null,
+      "patronage": [
+        "bambini",
+        "viaggiatori",
+        "malati"
+      ],
+      "legacy": "Protettori divini di ogni persona",
+      "summary": "Gli Angeli Custodi sono considerati esseri celesti incaricati di proteggere e guidare ogni persona per tutta la vita. Secondo la dottrina cristiana, a ogni individuo viene assegnato un Angelo Custode fin dalla nascita, che veglia su di lui e intercede in suo favore. L'esistenza degli Angeli Custodi è un dogma della fede cristiana, che ne sottolinea il ruolo nella protezione dei fedeli.",
+      "image": "/images/the_holy_guardian_angels.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guardian_angel"
+    }
+  ]
+}

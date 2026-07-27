@@ -1,0 +1,21 @@
+{
+  "date": "01-28",
+  "feast_day": "28 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pietro Nolasco",
+      "feast_day": "28 gennaio",
+      "era": "XIII secolo",
+      "patronage": [
+        "prigionieri",
+        "riscatto",
+        "carcerati"
+      ],
+      "legacy": "Campione dei prigionieri cristiani e della libertà",
+      "summary": "Pietro Nolasco fu, nel XIII secolo, il fondatore dell'Ordine di Nostra Signora della Mercede, dedicato alla redenzione dei prigionieri cristiani in mano ai Mori. Dedicò la sua vita e la sua fortuna a salvare i cristiani ridotti in schiavitù, negoziando spesso con i loro rapitori e offrendo persino se stesso come riscatto. Canonizzato nel 1628, il suo lascito prosegue attraverso l'opera costante del suo Ordine nella predicazione e negli sforzi umanitari.",
+      "image": "/images/saint_peter_nolasco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nolasco"
+    }
+  ]
+}

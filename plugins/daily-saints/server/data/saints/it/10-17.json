@@ -1,0 +1,21 @@
+{
+  "date": "10-17",
+  "feast_day": "17 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Margherita Maria Alacoque",
+      "feast_day": "17 ottobre",
+      "era": "XVII secolo",
+      "patronage": [
+        "devozione al Sacro Cuore",
+        "perdita dei genitori",
+        "malati"
+      ],
+      "legacy": "Apostola del Sacro Cuore di Gesù",
+      "summary": "Santa Margherita Maria Alacoque fu una suora e mistica francese nota per le sue visioni del Sacro Cuore di Gesù. Ebbe un ruolo determinante nella diffusione della devozione al Sacro Cuore, che sottolinea l'amore di Dio per l'umanità. Canonizzata nel 1920, la sua eredità continua a ispirare devozione e fede tra i cattolici di tutto il mondo.",
+      "image": "/images/saint_margaret_mary_alacoque.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "06-22",
+  "feast_day": "22 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paolino di Nola",
+      "feast_day": "22 giugno",
+      "era": "Cristianesimo delle origini",
+      "patronage": [
+        "poeti",
+        "teologi",
+        "Nola"
+      ],
+      "legacy": "Un modello di umiltà e generosità",
+      "summary": "Paolino di Nola fu un senatore romano divenuto vescovo e figura di rilievo della Chiesa delle origini. Dopo aver vissuto una tragedia personale, rinunciò alla sua ricchezza e al suo rango per condurre una vita di povertà e servizio, dedicandosi alla cura della sua comunità. È ricordato per la sua profonda umiltà, la sua generosità e il suo impegno verso la fede cristiana, in particolare nei momenti di crisi.",
+      "image": "/images/saint_paulinus_of_nola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paulinus_of_Nola"
+    }
+  ]
+}

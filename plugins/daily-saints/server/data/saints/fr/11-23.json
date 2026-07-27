@@ -1,0 +1,21 @@
+{
+  "date": "11-23",
+  "feast_day": "23 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Clément de Rome",
+      "feast_day": "23 novembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "marins",
+        "enfants malades",
+        "faussement accusés"
+      ],
+      "legacy": "Chef de l'Église primitive et martyr",
+      "summary": "Clément de Rome fut un éminent dirigeant chrétien des origines et le quatrième pape, succédant à saint Lin. Il est connu pour ses efforts à restaurer la paix et l'ordre au sein de l'Église, notamment à travers son influente Épître aux Corinthiens. Son leadership durant une période de persécution et de discorde interne a consolidé son héritage de martyr et de figure clé de l'Église primitive.",
+      "image": "/images/saint_clement_i_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clement_of_Rome"
+    }
+  ]
+}

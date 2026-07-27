@@ -1,0 +1,17 @@
+{
+  "date": "08-26",
+  "feast_day": "26 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ceferino",
+      "feast_day": "26 de agosto",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Defensor de la divinidad de Cristo y de la fe",
+      "summary": "San Ceferino fue papa y mártir, que dirigió la Iglesia durante un período de dura persecución bajo el emperador Septimio Severo. Es recordado por su constante defensa de la fe frente a las herejías y por su compasivo liderazgo de su rebaño. Ceferino gobernó la Iglesia durante diecinueve años antes de morir mártir hacia el año 217.",
+      "image": "/images/saint_zephyrinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zephyrinus"
+    }
+  ]
+}

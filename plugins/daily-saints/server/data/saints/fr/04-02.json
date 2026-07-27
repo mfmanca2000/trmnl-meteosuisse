@@ -1,0 +1,17 @@
+{
+  "date": "04-02",
+  "feast_day": "2 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "François de Paule",
+      "feast_day": "2 avril",
+      "era": "XVIe siècle",
+      "patronage": null,
+      "legacy": "Thaumaturge, Fondateur",
+      "summary": "À l'âge de quinze ans, saint François quitta son humble foyer de Paola, en Calabre, en Italie, pour vivre en ermite dans une grotte au bord de la mer. Avec le temps, des disciples se rassemblèrent autour de lui, et avec eux, en 1436, il fonda l'ordre des Minimes. Il choisit ce nom afin qu'ils se considèrent toujours comme les moindres des ordres monastiques.",
+      "image": "/images/saint_francis_of_paula.jpg",
+      "wikipedia": null
+    }
+  ]
+}

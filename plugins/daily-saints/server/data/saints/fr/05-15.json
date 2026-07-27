@@ -1,0 +1,27 @@
+{
+  "date": "05-15",
+  "feast_day": "15 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jean-Baptiste de La Salle",
+      "feast_day": "15 mai",
+      "era": "XVIIIe siècle",
+      "patronage": null,
+      "legacy": "Fondateur",
+      "summary": "Une dévotion totale à ce qu'il considérait comme la volonté de Dieu pour lui domine la vie de Jean-Baptiste de La Salle. Fondateur des Frères des Écoles chrétiennes, il fut canonisé en 1900. En 1950, le pape Pie XII le nomma patron des enseignants.",
+      "image": "/images/saint_john_baptist_de_lasalle.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Pierre, André, Paul et Dionysia",
+      "feast_day": "15 mai",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyrs",
+      "summary": "Lors de la persécution de Dèce, en l'an 250, le sang des chrétiens coula à Lampsaque, ville d'Asie Mineure. Un jeune chrétien nommé Pierre fut le premier conduit devant le proconsul ; on lui ordonna de sacrifier à la déesse Vénus. Sa condamnation énergique de l'impureté et sa défense de son Dieu, roi de tous les siècles, lui valurent d'être condamné à mort pour le nom du Christ, et il alla joyeusement à son supplice.",
+      "image": "/images/saints_peter_andrew_paul_dionysia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

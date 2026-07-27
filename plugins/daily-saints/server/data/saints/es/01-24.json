@@ -1,0 +1,21 @@
+{
+  "date": "01-24",
+  "feast_day": "24 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Timoteo",
+      "feast_day": "24 de enero",
+      "era": "Siglo I",
+      "patronage": [
+        "cerveceros",
+        "enfermos",
+        "estudiantes"
+      ],
+      "legacy": "Un discípulo devoto y líder de la Iglesia primitiva.",
+      "summary": "Timoteo fue compañero y discípulo de san Pablo, y se convirtió en el primer obispo de Éfeso. Es conocido por su dedicación a la difusión del cristianismo y por su papel en la guía de las primeras comunidades cristianas. Timoteo terminó siendo mártir, muerto mientras intentaba calmar un motín en honor a la diosa Diana en Éfeso.",
+      "image": "/images/saint_timothy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Timothy"
+    }
+  ]
+}

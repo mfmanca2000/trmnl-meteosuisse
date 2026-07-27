@@ -1,0 +1,21 @@
+{
+  "date": "11-20",
+  "feast_day": "20 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Félix de Valois",
+      "feast_day": "20 novembre",
+      "era": "Médiéval",
+      "patronage": [
+        "captifs",
+        "prisonniers",
+        "l'ordre trinitaire"
+      ],
+      "legacy": "Cofondateur de l'ordre trinitaire",
+      "summary": "Saint Félix de Valois fut cofondateur de l'ordre trinitaire, consacré à la rédemption des captifs chrétiens. Né dans la noblesse, il mena une vie d'austérité et de vertu, fondant finalement une communauté monastique en France. Son héritage se caractérise par la croissance rapide de l'ordre trinitaire, qui joua un rôle déterminant dans la libération des captifs au Moyen Âge.",
+      "image": "/images/saint_felix_of_valois.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Valois"
+    }
+  ]
+}

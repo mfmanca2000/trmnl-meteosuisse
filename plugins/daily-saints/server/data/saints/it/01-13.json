@@ -1,0 +1,31 @@
+{
+  "date": "01-13",
+  "feast_day": "13 gennaio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gesù",
+      "feast_day": "13 gennaio",
+      "era": "I secolo",
+      "patronage": null,
+      "legacy": "L'inizio del ministero pubblico di Cristo",
+      "summary": "Il battesimo di Gesù per mano di Giovanni Battista segna l'inizio del suo ministero pubblico ed è un evento significativo nella teologia cristiana. Durante questo evento, Gesù viene unto dallo Spirito Santo, a simboleggiare la sua missione divina come Messia. Questo atto rappresenta la natura vicaria del suo sacrificio, poiché egli si assume i peccati del mondo e apre la via alla salvezza per l'umanità.",
+      "image": "/images/the_baptism_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baptism_of_Jesus"
+    },
+    {
+      "name": "Veronica da Milano",
+      "feast_day": "13 gennaio",
+      "era": "XV secolo",
+      "patronage": [
+        "malati",
+        "pittori",
+        "spiritualità"
+      ],
+      "legacy": "Un modello di umiltà e devozione",
+      "summary": "Santa Veronica da Milano fu una vergine e suora laica devota, nota per la sua profonda spiritualità e il suo impegno nei doveri religiosi. Nonostante le sue sofferenze fisiche, dedicò la sua vita al servizio della propria comunità e alla preghiera per gli altri. La sua vita fu segnata da visioni ed estasi, riflesso del suo profondo legame con la Passione di Cristo.",
+      "image": "/images/saint_veronica_of_milan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Veronica_of_Milan"
+    }
+  ]
+}

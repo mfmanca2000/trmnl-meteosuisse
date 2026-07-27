@@ -1,0 +1,21 @@
+{
+  "date": "10-13",
+  "feast_day": "13 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Édouard le Confesseur",
+      "feast_day": "13 octobre",
+      "era": "XIe siècle",
+      "patronage": [
+        "mariages difficiles",
+        "paix",
+        "Angleterre"
+      ],
+      "legacy": "Un roi saint connu pour la paix et la charité.",
+      "summary": "Édouard le Confesseur fut roi d'Angleterre de 1042 jusqu'à sa mort en 1066. Connu pour sa piété et son engagement envers l'Église, il régna en privilégiant la paix et la charité, s'attirant l'affection de ses sujets. Son règne fut marqué par la reconstruction d'églises, dont l'abbaye de Westminster, et il fut canonisé en 1161 en raison des miracles qui lui furent attribués après sa mort.",
+      "image": "/images/saint_edward_iii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+    }
+  ]
+}

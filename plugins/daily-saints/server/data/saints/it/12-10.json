@@ -1,0 +1,36 @@
+{
+  "date": "12-10",
+  "feast_day": "10 dicembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Madonna di Loreto",
+      "feast_day": "10 dicembre",
+      "era": "Medioevo",
+      "patronage": [
+        "viaggiatori aerei",
+        "costruttori",
+        "famiglie",
+        "proprietari di casa"
+      ],
+      "legacy": "Simbolo di fede e di pellegrinaggio",
+      "summary": "La Madonna di Loreto è un titolo della Vergine Maria associato alla Santa Casa di Loreto, ritenuta la casa di Maria a Nazareth. Secondo la tradizione, la casa fu trasportata miracolosamente a Loreto, in Italia, alla fine del XIII secolo. Questo luogo è diventato un'importante meta di pellegrinaggio, simbolo dell'Incarnazione e del ruolo di Maria nella storia della salvezza.",
+      "image": "/images/translation_of_the_holy_house_of_loreto.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Loreto"
+    },
+    {
+      "name": "Eulalia",
+      "feast_day": "10 dicembre",
+      "era": "Inizio del IV secolo",
+      "patronage": [
+        "Merida",
+        "giovani",
+        "martiri"
+      ],
+      "legacy": "Martire coraggiosa e patrona di Merida",
+      "summary": "Sant'Eulalia era una giovane martire cristiana di Merida, in Spagna, che affrontò coraggiosamente la persecuzione durante il regno dell'imperatore Diocleziano. A soli dodici anni, rifiutò di rinnegare la sua fede, sopportando terribili torture prima di soccombere alle ferite. Il suo lascito come simbolo di coraggio e fede continua a ispirare molti, ed è venerata come patrona di Merida.",
+      "image": "/images/saint_eulalia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulalia_of_M%C3%A9rida"
+    }
+  ]
+}

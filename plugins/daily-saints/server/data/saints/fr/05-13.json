@@ -1,0 +1,45 @@
+{
+  "date": "05-13",
+  "feast_day": "13 mai",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Notre-Dame de Fatima",
+      "feast_day": "13 mai",
+      "era": "XXe siècle",
+      "patronage": [
+        "paix",
+        "familles",
+        "voyageurs"
+      ],
+      "legacy": "Un appel à la prière et à la conversion",
+      "summary": "Notre-Dame de Fatima désigne les apparitions de la Vierge Marie survenues en 1917 à Fatima, au Portugal. Elle apparut à trois petits bergers, leur délivrant des messages de prière, de pénitence et un avertissement concernant l'expansion du communisme. La dernière apparition, le 13 octobre 1917, s'accompagna du Miracle du Soleil, observé par des milliers de personnes, confirmant ses messages et l'importance de la foi.",
+      "image": "/images/our_lady_of_fatima.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima"
+    },
+    {
+      "name": "Robert Bellarmin",
+      "feast_day": "13 mai",
+      "era": "XVIe-XVIIe siècle",
+      "patronage": [
+        "théologiens",
+        "catéchistes",
+        "apologétique"
+      ],
+      "legacy": "Défenseur de la doctrine et de la foi catholiques",
+      "summary": "Saint Robert Bellarmin fut un éminent théologien jésuite et cardinal, connu pour sa défense de la doctrine catholique durant la Contre-Réforme. Il rédigea des ouvrages majeurs, dont ses Controverses et un Commentaire sur les Psaumes, qui enrichirent la tradition intellectuelle de l'Église. Canonisé en 1930 et proclamé docteur de l'Église, on se souvient de lui pour son profond attachement à la foi et à l'érudition.",
+      "image": "/images/saint_robert_bellarmine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_Bellarmine"
+    },
+    {
+      "name": "Jean le Silencieux",
+      "feast_day": "13 mai",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Un modèle de silence et de prière",
+      "summary": "Jean le Silencieux fut un évêque et moine connu pour son profond attachement au silence et à la prière. Né en Arménie, il fonda un monastère et mena une vie d'austérité, se retirant souvent dans le désert. Il guida de nombreuses âmes vers Dieu par son exemple et son enseignement jusqu'à sa mort, vers l'an 558.",
+      "image": "/images/saint_john_the_silent.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Silent"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "07-24",
+  "feast_day": "24 juillet",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Christine",
+      "feast_day": "24 juillet",
+      "era": "IIIe siècle",
+      "patronage": [
+        "martyrs",
+        "situations difficiles"
+      ],
+      "legacy": "Défenseure de la foi face à la persécution",
+      "summary": "Sainte Christine fut une jeune vierge et martyre qui défia son père païen en détruisant ses idoles et en distribuant leurs fragments aux pauvres. Elle endura de sévères tortures pour sa foi, notamment le fait d'être jetée dans un lac avec une lourde pierre, dont elle fut miraculeusement sauvée par un ange. Finalement, elle fut martyrisée par des flèches, et ses reliques sont vénérées à Palerme, en Sicile.",
+      "image": "/images/saint_christina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Christina_of_Bolsena"
+    },
+    {
+      "name": "François Solano",
+      "feast_day": "24 juillet",
+      "era": "XVIe siècle",
+      "patronage": [
+        "missionnaires",
+        "peuples autochtones",
+        "malades"
+      ],
+      "legacy": "Un missionnaire dévoué et artisan de paix.",
+      "summary": "François Solano fut un missionnaire franciscain espagnol connu pour son dévouement fervent à la diffusion de l'Évangile en Amérique du Sud, notamment parmi les peuples autochtones du Pérou. Il est célébré pour son humilité, sa compassion et sa capacité miraculeuse à établir un lien avec les hommes comme avec la nature, ce qui conduisit à la conversion de milliers de personnes. Son héritage est marqué par sa foi inébranlable et son engagement au service des malades et des marginalisés, même face au danger et à l'adversité.",
+      "image": "/images/saint_francis_solano.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Solanus"
+    }
+  ]
+}

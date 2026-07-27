@@ -1,0 +1,20 @@
+{
+  "date": "03-30",
+  "feast_day": "30 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean Climaque",
+      "feast_day": "30 mars",
+      "era": "VIe siècle",
+      "patronage": [
+        "les moines",
+        "la croissance spirituelle"
+      ],
+      "legacy": "Guide de l'ascension spirituelle et de la sagesse",
+      "summary": "Jean Climaque était un moine et abbé du VIe siècle connu pour ses écrits spirituels, en particulier « L'Échelle sainte », qui décrit le chemin vers la perfection spirituelle. Il passa une grande partie de sa vie dans la solitude sur le mont Sinaï, où il devint célèbre pour sa sagesse et sa sainteté. Ses enseignements continuent d'inspirer les chrétiens désireux d'approfondir leur vie spirituelle.",
+      "image": "/images/saint_john_climacus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Climacus"
+    }
+  ]
+}

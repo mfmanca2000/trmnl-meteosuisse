@@ -1,0 +1,41 @@
+{
+  "date": "10-23",
+  "feast_day": "23 octobre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Jésus-Christ",
+      "feast_day": "23 octobre",
+      "era": "Ier siècle",
+      "patronage": null,
+      "legacy": "Rédempteur de l'humanité par son sacrifice",
+      "summary": "Jésus-Christ est la figure centrale du christianisme, considéré par les chrétiens comme le Fils de Dieu et le Messie (Christ) attendu et prophétisé dans l'Ancien Testament. Son enseignement, sa crucifixion et sa résurrection forment le fondement de la foi chrétienne, mettant l'accent sur les thèmes de la rédemption, de l'amour et du pardon. Par son sacrifice, il offre le salut à l'humanité, la libérant du péché et de la mort.",
+      "image": "/images/feast_of_the_holy_redeemer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jesus"
+    },
+    {
+      "name": "Antoine-Marie Claret",
+      "feast_day": "23 octobre",
+      "era": "XIXe siècle",
+      "patronage": [
+        "tisserands",
+        "missionnaires",
+        "la presse catholique"
+      ],
+      "legacy": "Un champion de l'évangélisation et de l'éducation.",
+      "summary": "Antoine-Marie Claret était un prêtre espagnol et fondateur des Pères Clarétains, consacré à l'évangélisation et à la promotion de la foi catholique. Il servit comme archevêque de Santiago de Cuba, où il fonda des institutions éducatives et œuvra sans relâche pour le bien-être spirituel et social de sa communauté. Son héritage inclut un engagement profond envers l'œuvre missionnaire et l'écrit, ayant rédigé de nombreux textes destinés à inspirer les autres dans leur foi.",
+      "image": "/images/saint_anthony-mary_claret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Mary_Claret"
+    },
+    {
+      "name": "Théodoret",
+      "feast_day": "23 octobre",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Martyre pour la foi et la conviction",
+      "summary": "Saint Théodoret était un martyr chrétien qui vécut sous le règne de l'empereur Julien l'Apostat. Il était connu pour sa foi inébranlable et fut torturé pour ses croyances avant d'être exécuté par l'épée. Son courage face à la persécution demeure une source d'inspiration pour les chrétiens confrontés à des épreuves pour leur foi.",
+      "image": "/images/saint_theodoret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodoret_(martyr)"
+    }
+  ]
+}

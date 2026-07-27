@@ -1,0 +1,17 @@
+{
+  "date": "05-03",
+  "feast_day": "3 de mayo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "La Invención de la Santa Cruz",
+      "feast_day": "3 de mayo",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": null,
+      "summary": "Cuando Dios devolvió la paz a su Iglesia elevando a Constantino el Grande al trono imperial, aquel piadoso príncipe, que había triunfado sobre sus enemigos gracias al poder milagroso de la Cruz de Cristo, deseó vivamente expresar su veneración por los lugares santos que habían sido honrados y santificados por la presencia y los sufrimientos de nuestro bendito Redentor en la tierra. Resolvió entonces construir una magnífica iglesia en la ciudad de Jerusalén. Santa Elena, madre del Emperador, deseando visitar aquellos lugares santos, emprendió un viaje a Palestina en el año 326, aunque por entonces tenía casi ochenta años.",
+      "image": "/images/the_finding_of_the_holy_cross.jpg",
+      "wikipedia": null
+    }
+  ]
+}

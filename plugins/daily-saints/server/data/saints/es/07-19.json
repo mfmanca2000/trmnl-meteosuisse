@@ -1,0 +1,21 @@
+{
+  "date": "07-19",
+  "feast_day": "19 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vicente de Paúl",
+      "feast_day": "19 de julio",
+      "era": "Siglo XVII",
+      "patronage": [
+        "caridad",
+        "voluntarios",
+        "trabajadores hospitalarios"
+      ],
+      "legacy": "Campeón de los pobres y los marginados",
+      "summary": "Vicente de Paúl fue un sacerdote francés conocido por su profundo compromiso al servicio de los pobres y los marginados. Fundó la Congregación de la Misión y las Hijas de la Caridad, que siguen sirviendo hoy a quienes lo necesitan. Su vida ejemplificó el llamado cristiano a la caridad y la humildad, convirtiéndolo en una figura muy querida dentro del catolicismo.",
+      "image": "/images/saint_vincent_de_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_de_Paul"
+    }
+  ]
+}

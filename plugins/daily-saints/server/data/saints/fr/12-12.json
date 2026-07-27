@@ -1,0 +1,46 @@
+{
+  "date": "12-12",
+  "feast_day": "12 décembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Notre-Dame de Guadalupe",
+      "feast_day": "12 décembre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "Amérique latine",
+        "les enfants à naître",
+        "femmes enceintes",
+        "environnement"
+      ],
+      "legacy": "Patronne des Amériques et des enfants à naître",
+      "summary": "Notre-Dame de Guadalupe est une célèbre apparition de la Vierge Marie survenue en 1531 au Mexique. Elle apparut à Juan Diego, un humble homme autochtone, et demanda la construction d'une église en son honneur. Son image, miraculeusement imprimée sur la tilma de Juan Diego, demeure un symbole de foi et d'identité culturelle pour des millions de personnes en Amérique latine.",
+      "image": "/images/our_lady_of_guadalupe.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe"
+    },
+    {
+      "name": "Finnian",
+      "feast_day": "12 décembre",
+      "era": "VIe siècle",
+      "patronage": [
+        "éducateurs",
+        "étudiants",
+        "Irlande"
+      ],
+      "legacy": "Père de l'éducation monastique irlandaise",
+      "summary": "Saint Finnian était un évêque et enseignant éminent de l'Irlande primitive, connu pour son rôle dans la création d'écoles monastiques. Il fonda le célèbre monastère de Clonard, qui devint un centre d'enseignement et produisit de nombreux saints irlandais renommés. Son dévouement envers ses fidèles et son engagement pour l'éducation spirituelle influencèrent grandement le développement du christianisme en Irlande.",
+      "image": "/images/saint_finnian_or_finan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Finnian_of_Clonard"
+    },
+    {
+      "name": "Valéry",
+      "feast_day": "12 décembre",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Thaumaturge et fondateur monastique",
+      "summary": "Saint Valéry était un moine et abbé du VIe siècle, connu pour sa piété et ses œuvres miraculeuses. Il étudia d'abord auprès d'un maître, puis rejoignit le monastère de Saint-Antoine avant de se rendre à Luxeuil pour vivre sous la règle de saint Colomban. Valéry finit par établir une communauté monastique dans les terres sauvages de Leuconaus, où il accomplit des miracles et devint renommé pour sa sainteté avant sa mort en 619.",
+      "image": "/images/saint_valery.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Valery"
+    }
+  ]
+}

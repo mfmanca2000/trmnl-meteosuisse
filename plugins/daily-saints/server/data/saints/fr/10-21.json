@@ -1,0 +1,21 @@
+{
+  "date": "10-21",
+  "feast_day": "21 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ursule",
+      "feast_day": "21 octobre",
+      "era": "IVe siècle",
+      "patronage": [
+        "jeunes enseignantes",
+        "vierges",
+        "étudiants"
+      ],
+      "legacy": "Martyre et protection de la virginité",
+      "summary": "Sainte Ursule était une princesse britannique et martyre qui conduisit un groupe de onze mille vierges à la mort plutôt que de se soumettre au déshonneur. Elle est célébrée pour son courage et son engagement envers sa foi, ayant voué sa vie à Jésus-Christ. Son héritage est particulièrement honoré à Cologne, où de nombreuses églises abritent des reliques d'elle et de ses compagnes, attirant des pèlerins en quête de protection et d'intercession.",
+      "image": "/images/saint_ursula_and_her_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Ursula"
+    }
+  ]
+}

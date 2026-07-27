@@ -1,0 +1,22 @@
+{
+  "date": "06-06",
+  "feast_day": "6 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Norberto",
+      "feast_day": "6 giugno",
+      "era": "XI secolo",
+      "patronage": [
+        "malati",
+        "devozione sacramentale",
+        "pace",
+        "il clero"
+      ],
+      "legacy": "Riformatore e promotore della devozione eucaristica",
+      "summary": "San Norberto era un nobile che visse una profonda conversione dopo una vita di lusso e dissolutezza. Fondò l'Ordine dei Premostratensi, che univa il ministero attivo alla vita monastica, ponendo l'accento sull'importanza dell'Eucaristia e sulla riforma del clero. Come vescovo di Magdeburgo, dedicò la sua vita alla predicazione, alla riforma e alla lotta contro l'eresia fino alla morte, all'età di cinquantatré anni.",
+      "image": "/images/saint_norbert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Norbert_of_Xanten"
+    }
+  ]
+}

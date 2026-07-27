@@ -1,0 +1,34 @@
+{
+  "date": "10-09",
+  "feast_day": "9 ottobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Luigi Bertrán",
+      "feast_day": "9 ottobre",
+      "era": "XVI secolo",
+      "patronage": [
+        "missionari",
+        "popoli indigeni"
+      ],
+      "legacy": "Difensore dei diritti degli indigeni e della fede",
+      "summary": "Luigi Bertrán fu un missionario domenicano spagnolo noto per il suo impegno nella conversione dei popoli indigeni delle Americhe nel XVI secolo. Dimostrò una straordinaria mitezza e compassione, anche di fronte alle avversità, e fu dotato del dono della profezia e dei miracoli. La sua eredità comprende il battesimo di migliaia di persone e l'impegno nel difendere i diritti delle comunità indigene oppresse.",
+      "image": "/images/saint_louis_bertrand.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_Bertrand_(saint)"
+    },
+    {
+      "name": "Dionigi l'Areopagita",
+      "feast_day": "9 ottobre",
+      "era": "I secolo",
+      "patronage": [
+        "Francia",
+        "filosofi",
+        "teologi"
+      ],
+      "legacy": "Pioniere del cristianesimo in Gallia",
+      "summary": "Dionigi l'Areopagita fu un importante missionario cristiano dei primi tempi e il primo vescovo di Atene, convertito da san Paolo. Ebbe un ruolo significativo nella diffusione del cristianesimo in Gallia, in particolare a Parigi, dove fondò diverse chiese. È ricordato come martire, essendo stato giustiziato per la sua fede intorno all'anno 117.",
+      "image": "/images/saint_dionysius_the_areopagite.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dionysius_the_Areopagite"
+    }
+  ]
+}

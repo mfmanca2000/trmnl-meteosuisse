@@ -1,0 +1,21 @@
+{
+  "date": "05-09",
+  "feast_day": "9 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Grégoire de Nazianze",
+      "feast_day": "9 mai",
+      "era": "IVe siècle",
+      "patronage": [
+        "théologiens",
+        "étudiants",
+        "orateurs"
+      ],
+      "legacy": "Champion de l'orthodoxie chrétienne et de l'éloquence.",
+      "summary": "Grégoire de Nazianze fut un influent théologien du christianisme primitif et archevêque de Constantinople. Connu pour ses sermons et ses écrits éloquents, il joua un rôle essentiel dans le développement de la doctrine chrétienne pendant la controverse arienne. Son héritage de docteur de l'Église et de champion de l'orthodoxie continue d'être célébré dans la tradition chrétienne.",
+      "image": "/images/saint_gregory_nazianzen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Nazianzen"
+    }
+  ]
+}

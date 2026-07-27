@@ -1,0 +1,20 @@
+{
+  "date": "10-05",
+  "feast_day": "5 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Placido",
+      "feast_day": "5 ottobre",
+      "era": "VI secolo",
+      "patronage": [
+        "monaci",
+        "Sicilia"
+      ],
+      "legacy": "Primo martire e fondatore benedettino",
+      "summary": "San Placido fu un monaco benedettino nato a Roma intorno al 515. Fondò un monastero a Messina, in Sicilia, dove era noto per la sua umiltà e le sue guarigioni miracolose. Fu martirizzato dai pirati saraceni nel 541, diventando così il primo martire benedettino.",
+      "image": "/images/saint_placid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Placidus"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "02-09",
+  "feast_day": "9 février",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cyrille d'Alexandrie",
+      "feast_day": "9 février",
+      "era": "Ve siècle",
+      "patronage": [
+        "théologiens",
+        "étudiants",
+        "Égypte"
+      ],
+      "legacy": "Défenseur de l'Incarnation et de la Théotokos",
+      "summary": "Cyrille d'Alexandrie fut un théologien éminent et le patriarche d'Alexandrie au début du Ve siècle. Il joua un rôle crucial dans les controverses christologiques de son époque, s'opposant notamment au nestorianisme et défendant le titre de Théotokos pour Marie. Ses écrits et ses réflexions théologiques ont profondément marqué la doctrine chrétienne et lui ont valu le titre de docteur de l'Église.",
+      "image": "/images/saint_cyril_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
+    },
+    {
+      "name": "Apolline",
+      "feast_day": "9 février",
+      "era": "IIIe siècle",
+      "patronage": [
+        "dentistes",
+        "maux de dents",
+        "martyrs"
+      ],
+      "legacy": "Témoin courageux de la foi et du martyre",
+      "summary": "Sainte Apolline était une martyre chrétienne d'Alexandrie, connue pour sa foi inébranlable durant une persécution brutale des chrétiens en 249 apr. J.-C. Elle fut soumise à d'horribles tortures, notamment se faire briser les dents, avant d'être conduite vers un bûcher où elle choisit de mourir plutôt que de renier le Christ. Son courage et sa constance face à la mort ont fait d'elle un symbole de foi et de martyre dans la tradition chrétienne.",
+      "image": "/images/saint_apollonia_virgin_and_the_martyrs_of_alexandr.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Apollonia"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "01-20",
+  "feast_day": "20 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Sébastien",
+      "feast_day": "20 janvier",
+      "era": "IIIe siècle",
+      "patronage": [
+        "soldats",
+        "athlètes",
+        "victimes de la peste"
+      ],
+      "legacy": "Champion de la foi et du martyre",
+      "summary": "Saint Sébastien était un officier romain et martyr vénéré pour sa foi inébranlable dans le Christ. Il encouragea ses compagnons chrétiens durant une période de persécution et fut connu pour accomplir des miracles, notamment guérir les malades. Il fut finalement martyrisé à deux reprises, d'abord par les flèches puis en étant battu à mort, ce qui consolida son héritage de champion de la foi.",
+      "image": "/images/saint_sebastian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sebastian"
+    },
+    {
+      "name": "Fabien",
+      "feast_day": "20 janvier",
+      "era": "IIIe siècle",
+      "patronage": null,
+      "legacy": "Martyre et direction de l'Église primitive",
+      "summary": "Saint Fabien était un pape et martyr qui dirigea l'Église durant une période tumultueuse du IIIe siècle. Il fut élu pape en 236 après J.-C., choisi selon la tradition par un signe miraculeux lorsqu'une colombe se posa sur sa tête. Fabien mourut en martyr durant la persécution des chrétiens sous l'empereur Dèce en 250 après J.-C., resté dans les mémoires pour sa sainteté et son leadership.",
+      "image": "/images/saint_fabian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Fabian"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "01-25",
+  "feast_day": "25 gennaio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paolo",
+      "feast_day": "25 gennaio",
+      "era": "I secolo",
+      "patronage": [
+        "missionari",
+        "teologi",
+        "gentiluomini"
+      ],
+      "legacy": "Apostolo dei gentili e teologo",
+      "summary": "Paolo, originariamente conosciuto come Saulo di Tarso, fu un fervente persecutore dei primi cristiani prima di vivere una profonda conversione sulla via di Damasco. Dopo questo incontro trasformante con Gesù, divenne uno degli apostoli più influenti, diffondendo il messaggio del cristianesimo in tutto l'Impero romano. Le sue lettere alle varie comunità cristiane costituiscono una parte significativa del Nuovo Testamento, plasmando la teologia e la pratica cristiane.",
+      "image": "/images/the_conversion_of_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_the_Apostle"
+    }
+  ]
+}

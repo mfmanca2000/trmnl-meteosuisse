@@ -1,0 +1,35 @@
+{
+  "date": "11-16",
+  "feast_day": "16 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gertrudis",
+      "feast_day": "16 de noviembre",
+      "era": "Medieval",
+      "patronage": [
+        "las almas del purgatorio",
+        "los enfermos",
+        "los enfermos mentales"
+      ],
+      "legacy": "Mística y abogada de las almas",
+      "summary": "Santa Gertrudis de Eisleben, también conocida como Gertrudis la Grande, fue una mística y abadesa del siglo XIV conocida por sus profundas percepciones espirituales y su devoción a la Pasión de Cristo. Nacida en una familia noble, dedicó su vida a la oración y la contemplación, recibiendo numerosas experiencias místicas y revelaciones. Sus escritos, en particular el libro de sus Revelaciones, siguen inspirando devoción y reflexión sobre el amor de Dios y la salvación de las almas.",
+      "image": "/images/saint_gertrude.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gertrude"
+    },
+    {
+      "name": "Edmundo de Canterbury",
+      "feast_day": "16 de noviembre",
+      "era": "Medieval",
+      "patronage": [
+        "los arzobispos",
+        "los maestros",
+        "los estudiantes"
+      ],
+      "legacy": "Defensor de los derechos de la Iglesia y la caridad",
+      "summary": "San Edmundo de Canterbury fue un arzobispo inglés conocido por su piedad y su dedicación a la Iglesia. Defendió los derechos de la Iglesia contra la codicia del rey Enrique III y sufrió persecución por su firmeza. Canonizado poco después de su muerte, es recordado por sus milagros y su compromiso con una vida de oración y caridad.",
+      "image": "/images/saint_edmund.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edmund_of_East_Anglia"
+    }
+  ]
+}

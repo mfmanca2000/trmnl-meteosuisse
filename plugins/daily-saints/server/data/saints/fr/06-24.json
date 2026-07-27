@@ -1,0 +1,22 @@
+{
+  "date": "06-24",
+  "feast_day": "24 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean-Baptiste",
+      "feast_day": "24 juin",
+      "era": "1er siècle",
+      "patronage": [
+        "baptême",
+        "conversions",
+        "peintres",
+        "imprimeurs"
+      ],
+      "legacy": "Précurseur du Christ et martyr",
+      "summary": "Jean-Baptiste est une figure majeure du christianisme, connu pour son rôle de précurseur de Jésus-Christ. Il prêcha la repentance et baptisa Jésus dans le Jourdain, marquant le début du ministère public du Christ. Sa vie fut caractérisée par l'ascèse et un profond engagement envers Dieu, aboutissant finalement à son martyre aux mains d'Hérode Antipas.",
+      "image": "/images/saint_john_the_baptist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Baptist"
+    }
+  ]
+}

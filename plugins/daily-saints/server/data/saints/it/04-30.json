@@ -1,0 +1,22 @@
+{
+  "date": "04-30",
+  "feast_day": "30 aprile",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Caterina da Siena",
+      "feast_day": "30 aprile",
+      "era": "XIV secolo",
+      "patronage": [
+        "Italia",
+        "infermiere",
+        "contro il fuoco",
+        "persone derise per la loro fede"
+      ],
+      "legacy": "Mistica e riformatrice della Chiesa",
+      "summary": "Caterina da Siena fu una mistica del XIV secolo e una figura di spicco della Chiesa cattolica, nota per la sua profonda spiritualità e il suo impegno per la riforma della Chiesa. Svolse un ruolo cruciale nel riportare papa Gregorio XI a Roma da Avignone e fu consigliera di diversi papi durante un periodo turbolento della storia della Chiesa. La sua vita fu segnata da una preghiera intensa, visioni, e una dedizione al servizio di Dio e della Chiesa, che portò infine alla sua canonizzazione e al riconoscimento come Dottore della Chiesa.",
+      "image": "/images/saint_catherine_of_siena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Siena"
+    }
+  ]
+}

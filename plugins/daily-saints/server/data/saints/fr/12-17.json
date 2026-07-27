@@ -1,0 +1,21 @@
+{
+  "date": "12-17",
+  "feast_day": "17 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Olympias de Constantinople",
+      "feast_day": "17 décembre",
+      "era": "Époque paléochrétienne",
+      "patronage": [
+        "veuves",
+        "diaconesses",
+        "pauvres"
+      ],
+      "legacy": "Modèle de charité et de foi inébranlable",
+      "summary": "Sainte Olympias de Constantinople était une noble veuve et diaconesse, connue pour son profond engagement dans la prière, la pénitence et la charité. Après la mort de son mari, elle consacra sa vie au service des pauvres et au soutien de l'Église, aidant notamment saint Jean Chrysostome dans ses œuvres charitables. Malgré la persécution et l'exil, elle demeura fidèle dans sa foi et ses bonnes œuvres jusqu'à sa mort en 410.",
+      "image": "/images/saint_olympia_of_constantinople.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+    }
+  ]
+}

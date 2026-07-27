@@ -1,0 +1,21 @@
+{
+  "date": "03-22",
+  "feast_day": "22 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Caterina di Svezia",
+      "feast_day": "22 marzo",
+      "era": "XIV secolo",
+      "patronage": [
+        "le vedove",
+        "i pellegrini",
+        "contro le tentazioni"
+      ],
+      "legacy": "Vita devota di pellegrinaggio e penitenza",
+      "summary": "Caterina di Svezia era figlia di Santa Brigida ed una devota figura religiosa nota per la sua pietà e il suo impegno verso Dio. Dopo la morte del marito, dedicò la sua vita al pellegrinaggio, alla carità e a una severa penitenza, visitando spesso le tombe dei martiri. Entrò in un monastero e visse una vita di devozione fino alla sua morte nel 1381.",
+      "image": "/images/saint_catherine_of_sweden.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Sweden,_Saint"
+    }
+  ]
+}

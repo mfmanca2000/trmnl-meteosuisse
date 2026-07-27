@@ -1,0 +1,22 @@
+{
+  "date": "11-19",
+  "feast_day": "19 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Élisabeth de Hongrie",
+      "feast_day": "19 novembre",
+      "era": "Médiéval",
+      "patronage": [
+        "pauvres",
+        "personnel hospitalier",
+        "infirmières",
+        "boulangers"
+      ],
+      "legacy": "Un modèle de charité et d'humilité",
+      "summary": "Élisabeth de Hongrie était une princesse connue pour sa profonde compassion et son dévouement envers les pauvres. Malgré son statut royal, elle choisit une vie de service, construisant des hôpitaux et soignant les malades. Après la mort de son mari, elle affronta de grandes épreuves mais continua à vivre une vie d'humilité et de charité jusqu'à sa mort à un jeune âge.",
+      "image": "/images/saint_elizabeth_of_hungary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary"
+    }
+  ]
+}

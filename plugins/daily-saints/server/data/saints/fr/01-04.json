@@ -1,0 +1,31 @@
+{
+  "date": "01-04",
+  "feast_day": "4 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Angèle de Foligno",
+      "feast_day": "4 janvier",
+      "era": "Moyen Âge",
+      "patronage": [
+        "pénitents",
+        "malades",
+        "mystiques"
+      ],
+      "legacy": "Inspiration pour les pénitents et les mystiques",
+      "summary": "Angèle de Foligno était une mystique du XIIIe siècle qui connut une profonde conversion après avoir mené une vie de péché. Inspirée par les idéaux de saint François d'Assise, elle devint tertiaire franciscaine et vécut une vie de pénitence et de charité. Ses visions et sa profonde communion avec Dieu firent d'elle une figure importante de la tradition franciscaine, offrant espoir et inspiration aux pécheurs en quête de rédemption.",
+      "image": "/images/saint_angela_of_foligno.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Angela_of_Foligno"
+    },
+    {
+      "name": "Grégoire de Langres",
+      "feast_day": "4 janvier",
+      "era": "VIe siècle",
+      "patronage": null,
+      "legacy": "Un modèle d'humilité et de sollicitude pastorale.",
+      "summary": "Grégoire de Langres était un administrateur et évêque chrétien connu pour sa vie vertueuse et son dévouement à ses devoirs pastoraux. Après avoir démissionné de sa fonction de comte d'Autun, il devint évêque et se distingua par son humilité, sa prière et ses efforts pour convertir de nombreuses personnes au christianisme. Il fut évêque pendant trente-trois ans, fondant des monastères et laissant une empreinte durable dans son diocèse avant sa mort en 539.",
+      "image": "/images/saint_gregory_of_langres.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_of_Langres"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "02-23",
+  "feast_day": "23 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pedro Damián",
+      "feast_day": "23 de febrero",
+      "era": "Siglo XI",
+      "patronage": [
+        "cardenales",
+        "estudiantes",
+        "teólogos"
+      ],
+      "legacy": "Reformador y defensor de la integridad de la Iglesia",
+      "summary": "Pedro Damián fue un destacado cardenal y obispo del siglo XI, conocido por sus esfuerzos de reforma dentro de la Iglesia. Dedicó su vida a combatir la simonía y la corrupción eclesiástica, sirviendo como consejero de siete papas. Su compromiso con la oración y el ascetismo, junto con su liderazgo, dejaron un impacto duradero en la orientación moral y espiritual de la Iglesia.",
+      "image": "/images/saint_peter_damian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Damian"
+    },
+    {
+      "name": "Sereno",
+      "feast_day": "23 de febrero",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Martirio por la fe y la virtud",
+      "summary": "San Sereno fue un mártir griego que vivió a comienzos del siglo IV. Dedicó su vida a Dios a través del celibato, la penitencia y la oración, cultivando un jardín en Sirmio, Panonia. Tras ser falsamente acusado de conducta indebida, profesó valientemente su fe cristiana y fue decapitado por negarse a sacrificar a los dioses.",
+      "image": "/images/saint_serenus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Serenus"
+    }
+  ]
+}

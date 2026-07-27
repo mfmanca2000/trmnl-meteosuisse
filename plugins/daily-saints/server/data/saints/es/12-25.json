@@ -1,0 +1,32 @@
+{
+  "date": "12-25",
+  "feast_day": "25 de diciembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "La Natividad de Nuestro Señor Jesucristo",
+      "feast_day": "25 de diciembre",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "La Natividad de Nuestro Señor O. pinxit La Natividad de Nuestro Señor ¡Navidad! Este era el grito de nuestros padres cuando la Fe reinaba, ardiente y viva en el seno de las familias, las instituciones y toda la sociedad.",
+      "image": "/images/the_nativity_of_our_lord.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Francisco de Asís",
+      "feast_day": "25 de diciembre",
+      "era": "Edad Media",
+      "patronage": [
+        "animales",
+        "medio ambiente",
+        "comerciantes",
+        "paz"
+      ],
+      "legacy": "Santo patrono de los animales y de la ecología",
+      "summary": "Francisco de Asís fue un fraile italiano del siglo XIII y fundador de la Orden Franciscana, conocido por su profundo amor por la naturaleza y su compromiso con la pobreza. Es célebre por haber creado el primer belén viviente en Greccio, que resaltaba la humildad del nacimiento de Cristo. Sus enseñanzas y su ejemplo siguen inspirando a millones de personas a llevar una vida de paz, compasión y servicio a los demás.",
+      "image": "/images/christmas-of-saint-francis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    }
+  ]
+}

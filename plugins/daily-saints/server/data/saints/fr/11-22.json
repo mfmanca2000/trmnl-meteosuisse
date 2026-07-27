@@ -1,0 +1,22 @@
+{
+  "date": "11-22",
+  "feast_day": "22 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cécile",
+      "feast_day": "22 novembre",
+      "era": "IIe siècle",
+      "patronage": [
+        "musiciens",
+        "poètes",
+        "musique sacrée",
+        "compositeurs"
+      ],
+      "legacy": "Patronne des musiciens et des martyrs.",
+      "summary": "Sainte Cécile est vénérée comme une vierge martyre ayant vécu au début de l'ère chrétienne. Elle est connue pour sa foi inébranlable et son engagement envers son vœu de virginité, même face à la persécution. Son héritage perdure en tant que patronne des musiciens, reflétant son association avec la musique et les arts.",
+      "image": "/images/saint_cecilia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cecilia"
+    }
+  ]
+}

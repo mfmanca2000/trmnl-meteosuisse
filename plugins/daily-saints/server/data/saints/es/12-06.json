@@ -1,0 +1,22 @@
+{
+  "date": "12-06",
+  "feast_day": "6 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nicolás",
+      "feast_day": "6 de diciembre",
+      "era": "Siglo IV",
+      "patronage": [
+        "niños",
+        "marineros",
+        "viajeros",
+        "prisioneros"
+      ],
+      "legacy": "Protector de los niños y de los marineros",
+      "summary": "San Nicolás, arzobispo de Mira, es célebre por su generosidad y sus obras milagrosas. Dedicó su vida a ayudar a los pobres y a proteger a los inocentes, resucitando célebremente a tres niños de la muerte. Su legado como protector de los niños y de los marineros lo ha convertido en una figura muy querida del cristianismo, celebrada por su compasión y bondad.",
+      "image": "/images/saint_nicholas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Myra"
+    }
+  ]
+}

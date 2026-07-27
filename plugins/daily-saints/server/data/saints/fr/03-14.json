@@ -1,0 +1,17 @@
+{
+  "date": "03-14",
+  "feast_day": "14 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mathilde",
+      "feast_day": "14 mars",
+      "era": "Xe siècle",
+      "patronage": null,
+      "legacy": "Impératrice",
+      "summary": "Cette princesse, la plus grande gloire de sa noble famille, était la fille de Thierry, un puissant comte saxon, et de Reinhilde, princesse du Danemark. Ses parents la placèrent très jeune au monastère d'Erfort, dont sa grand-mère Maude était devenue abbesse. La jeune fille devint dans cette maison un modèle accompli de toutes les vertus et des arts domestiques.",
+      "image": "/images/saint_mathilda.jpg",
+      "wikipedia": null
+    }
+  ]
+}

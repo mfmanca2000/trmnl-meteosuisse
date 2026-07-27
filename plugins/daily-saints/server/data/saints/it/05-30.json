@@ -1,0 +1,33 @@
+{
+  "date": "05-30",
+  "feast_day": "30 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanna d'Arco",
+      "feast_day": "30 maggio",
+      "era": "XV secolo",
+      "patronage": [
+        "Francia",
+        "soldati",
+        "martiri",
+        "donne",
+        "prigionieri"
+      ],
+      "legacy": "Simbolo di fede e orgoglio nazionale",
+      "summary": "Giovanna d'Arco, giovane contadina nata in Francia, svolse un ruolo cruciale nella guerra dei Cent'anni guidando le truppe francesi verso diverse importanti vittorie. Catturata dagli inglesi, fu processata per eresia e arsa viva nel 1431, diventando così martire. Canonizzata nel 1920, è celebrata come eroina nazionale della Francia e simbolo di coraggio e fede.",
+      "image": "/images/saint_joan_of_arc.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+    },
+    {
+      "name": "Felice I",
+      "feast_day": "30 maggio",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede contro l'eresia",
+      "summary": "Felice I fu un papa romano e martire, che resse la Chiesa dal 269 al 274 d.C. È noto per le sue lettere riguardanti la giustizia ecclesiastica e per aver confutato varie eresie, tra cui quelle di Nestorio ed Eutiche. Felice I fu martirizzato durante una persecuzione sotto l'imperatore Aureliano, e la sua eredità comprende la pratica di racchiudere le reliquie dei santi negli altari.",
+      "image": "/images/saint_felix_i_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Felix_I"
+    }
+  ]
+}

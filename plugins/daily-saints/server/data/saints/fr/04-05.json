@@ -1,0 +1,22 @@
+{
+  "date": "04-05",
+  "feast_day": "5 avril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincent Ferrier",
+      "feast_day": "5 avril",
+      "era": "Médiéval",
+      "patronage": [
+        "bâtisseurs",
+        "plombiers",
+        "malades",
+        "contre une mort imprévue"
+      ],
+      "legacy": "Apôtre de la conversion et prédicateur miraculeux",
+      "summary": "Vincent Ferrier fut un missionnaire dominicain espagnol connu pour sa prédication puissante et ses œuvres miraculeuses. Il consacra sa vie à convertir les pécheurs et à apporter la lumière du Christ à diverses communautés à travers l'Europe, à une époque de grand schisme dans l'Église. Son héritage comprend la création de nombreuses institutions religieuses et un impact profond sur la vie spirituelle de milliers de personnes.",
+      "image": "/images/saint_vincent_ferrer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Ferrer"
+    }
+  ]
+}

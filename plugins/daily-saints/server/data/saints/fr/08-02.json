@@ -1,0 +1,49 @@
+{
+  "date": "08-02",
+  "feast_day": "2 août",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Alphonse de Liguori",
+      "feast_day": "2 août",
+      "era": "XVIIIe siècle",
+      "patronage": [
+        "théologiens",
+        "confesseurs",
+        "moralistes"
+      ],
+      "legacy": "Champion des pauvres et de la théologie morale",
+      "summary": "Saint Alphonse de Liguori était un évêque et théologien italien connu pour sa profonde dévotion et son engagement envers les pauvres. Il fonda la Congrégation du Très Saint Rédempteur et rédigea de nombreux ouvrages théologiques, dont l'influent « Les Gloires de Marie ». Reconnu comme docteur de l'Église, son enseignement continue d'inspirer et de guider les fidèles dans leur vie spirituelle.",
+      "image": "/images/saint_alphonsus_liguori.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alphonsus_Liguori"
+    },
+    {
+      "name": "Joseph Chiwatenhwa",
+      "feast_day": "2 août",
+      "era": "XVIIe siècle",
+      "patronage": [
+        "Hurons",
+        "martyrs",
+        "convertis chrétiens"
+      ],
+      "legacy": "Apôtre et martyr des Hurons",
+      "summary": "Joseph Chiwatenhwa était un martyr huron et un chrétien fervent qui vécut au début du XVIIe siècle. Il fut baptisé par des missionnaires jésuites et devint un apôtre pour son peuple, promouvant le christianisme et donnant l'exemple au sein de sa famille et de sa communauté. Il fut tragiquement martyrisé en 1640, mais l'héritage de sa foi inspira de nombreuses conversions chez les Hurons après sa mort.",
+      "image": "/images/blessed_joseph_chiwatenhwa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Chiwatenhwa"
+    },
+    {
+      "name": "Étienne",
+      "feast_day": "2 août",
+      "era": "IIIe siècle",
+      "patronage": [
+        "papes",
+        "diacres",
+        "tailleurs de pierre"
+      ],
+      "legacy": "Défenseur de la foi et martyr",
+      "summary": "Étienne, né à Rome, devint pape et martyr au IIIe siècle. Il est connu pour sa défense de la validité du baptême et ses efforts pour préserver l'intégrité de la foi durant une période de disputes hérétiques. Il fut finalement martyrisé le 2 août 257, fidèle jusqu'au bout à son engagement envers le Christ et l'Église.",
+      "image": "/images/saint_stephen_I_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_of_Armenia"
+    }
+  ]
+}

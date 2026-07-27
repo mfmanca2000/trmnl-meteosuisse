@@ -1,0 +1,27 @@
+{
+  "date": "04-22",
+  "feast_day": "22 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Sotero y Cayo",
+      "feast_day": "22 de abril",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Papas, Mártires",
+      "summary": "San Sotero fue elevado al papado a la muerte de san Aniceto en el año 161. Con la dulzura de sus discursos consoló a todas las personas afligidas con la ternura de un padre, y socorrió a los indigentes con generosas limosnas, especialmente a los que sufrían por la Fe. Extendió generosamente su caridad, según la costumbre de sus predecesores, hasta las iglesias más remotas.",
+      "image": "/images/saint_soter_and_saint_caius.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Leónidas",
+      "feast_day": "22 de abril",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Padre de Orígenes y mártir de los primeros tiempos",
+      "summary": "Leónidas fue un mártir cristiano y padre del teólogo Orígenes. Fue ejecutado durante la persecución de los cristianos bajo el emperador Severo en el año 202 d.C. Su legado está marcado por su dedicación a la fe y la profunda influencia que tuvo sobre su hijo, quien se convirtió en uno de los más importantes eruditos cristianos de los primeros tiempos.",
+      "image": "/images/saint_leonides.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leonides_of_Alexandria"
+    }
+  ]
+}

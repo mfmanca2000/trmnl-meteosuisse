@@ -1,0 +1,34 @@
+{
+  "date": "11-14",
+  "feast_day": "14 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giosafat",
+      "feast_day": "14 novembre",
+      "era": "XVII secolo",
+      "patronage": [
+        "unità tra i cristiani",
+        "unità della Chiesa"
+      ],
+      "legacy": "Martire per l'unità e la riconciliazione della Chiesa.",
+      "summary": "San Giosafat fu un arcivescovo e martire polacco noto per i suoi sforzi nell'unire la Chiesa rutena divisa. Dedicò la sua vita a predicare e a ristabilire la fede tra coloro che si erano separati dalla Santa Sede. Giosafat fu assassinato nel 1623 a causa del suo incrollabile impegno verso l'unione, e fu canonizzato da papa Pio IX nel 1867.",
+      "image": "/images/saint_josaphat.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Josaphat"
+    },
+    {
+      "name": "Lorenzo O'Toole",
+      "feast_day": "14 novembre",
+      "era": "XII secolo",
+      "patronage": [
+        "Irlanda",
+        "arcivescovi",
+        "i poveri"
+      ],
+      "legacy": "Difensore dei poveri e artefice di pace",
+      "summary": "Lorenzo O'Toole fu arcivescovo di Dublino e una figura di rilievo della Chiesa nel XII secolo. Noto per la sua profonda pietà e il suo impegno verso i poveri, dedicò la sua vita a rispondere ai bisogni della sua comunità e a promuovere la disciplina ecclesiastica in Irlanda. È ricordato per le sue guarigioni miracolose e i suoi sforzi per riconciliare i conflitti, diventando infine un martire della sua fede.",
+      "image": "/images/saint_laurence_o_toole.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Laurence_O%27Toole"
+    }
+  ]
+}

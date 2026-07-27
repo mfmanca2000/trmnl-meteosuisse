@@ -1,0 +1,17 @@
+{
+  "date": "11-12",
+  "feast_day": "12 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Martin Ier",
+      "feast_day": "12 novembre",
+      "era": "VIIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la vraie foi",
+      "summary": "Martin Ier fut pape de 649 à 655 et est resté célèbre pour sa défense inébranlable de la vraie foi contre les hérésies, en particulier l'hérésie monothélite. Il fut exilé et souffrit grandement pour ses convictions, endurant emprisonnement et privations, mais il demeura ferme dans sa foi. Son héritage est celui du courage et de l'engagement envers les enseignements du Christ, illustrant les épreuves affrontées par les premiers dirigeants de l'Église.",
+      "image": "/images/saint_martin_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Martin_I"
+    }
+  ]
+}

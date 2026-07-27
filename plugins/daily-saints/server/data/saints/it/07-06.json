@@ -1,0 +1,48 @@
+{
+  "date": "07-06",
+  "feast_day": "6 luglio",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Tommaso Moro",
+      "feast_day": "6 luglio",
+      "era": "Rinascimento",
+      "patronage": [
+        "politici",
+        "funzionari pubblici",
+        "avvocati",
+        "martiri"
+      ],
+      "legacy": "Difensore della fede e della coscienza.",
+      "summary": "Tommaso Moro fu un avvocato, filosofo e scrittore inglese, noto soprattutto per il suo libro 'Utopia'. Ricoprì la carica di Lord Cancelliere d'Inghilterra, ma si dimise in opposizione alla separazione del re Enrico VIII dalla Chiesa cattolica. Moro fu giustiziato per essersi rifiutato di riconoscere la supremazia del re sulla Chiesa, ed è celebrato come martire e santo nella Chiesa cattolica.",
+      "image": "/images/saint_thomas_more.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More"
+    },
+    {
+      "name": "Palladio",
+      "feast_day": "6 luglio",
+      "era": "V secolo",
+      "patronage": [
+        "Scozia",
+        "missionari"
+      ],
+      "legacy": "Primo vescovo e apostolo degli Scozzesi",
+      "summary": "San Palladio fu il primo vescovo e apostolo degli Scozzesi, inviato da papa Celestino nel 429 per predicare il cristianesimo nel nord della Britannia. È riconosciuto per i suoi sforzi nel contrastare l'eresia e nello stabilire la fede cattolica tra gli Scozzesi e in alcune parti dell'Irlanda. Palladio è spesso considerato un precursore di san Patrizio nell'evangelizzazione dell'Irlanda.",
+      "image": "/images/saint_palladius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palladius_(bishop_of_Ireland)"
+    },
+    {
+      "name": "Goar",
+      "feast_day": "6 luglio",
+      "era": "VI secolo",
+      "patronage": [
+        "ospitalità",
+        "viaggiatori"
+      ],
+      "legacy": "Patrono dell'ospitalità e dei viaggiatori",
+      "summary": "San Goar fu un sacerdote ed eremita noto per la sua pietà e la sua fervente predicazione nel VI secolo. Dedicò la propria vita al servizio di Dio nella solitudine, convertendo al contempo molte persone con il suo esempio e i suoi miracoli. Rinomato per la sua ospitalità, divenne una figura venerata nella regione vicino a Treviri, in Germania, dove fondò un eremo e una chiesa.",
+      "image": "/images/saint_goar.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Goar_of_Aquitaine"
+    }
+  ]
+}

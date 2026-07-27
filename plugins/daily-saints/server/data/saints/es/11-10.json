@@ -1,0 +1,20 @@
+{
+  "date": "11-10",
+  "feast_day": "10 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Andrés Avelino",
+      "feast_day": "10 de noviembre",
+      "era": "siglo XVI",
+      "patronage": [
+        "la protección contra la muerte súbita",
+        "los abogados"
+      ],
+      "legacy": "Protector contra la muerte súbita e imprevista",
+      "summary": "Andrés Avelino fue un sacerdote teatino conocido por su dedicación a reformar una comunidad de monjas en Nápoles. A pesar de enfrentar una violenta oposición, permaneció fiel a su misión y fue reconocido por su santidad y humildad. Se le recuerda por su profunda espiritualidad y su capacidad para inspirar a otros, particularmente gracias a su amistad con san Carlos Borromeo.",
+      "image": "/images/saint_andrew_avellino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Avellino"
+    }
+  ]
+}

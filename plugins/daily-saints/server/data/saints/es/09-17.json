@@ -1,0 +1,36 @@
+{
+  "date": "09-17",
+  "feast_day": "17 de septiembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Francisco de Asís",
+      "feast_day": "17 de septiembre",
+      "era": "Medieval",
+      "patronage": [
+        "animales",
+        "medio ambiente",
+        "comerciantes",
+        "polizones"
+      ],
+      "legacy": "Santo patrono de los animales y la ecología",
+      "summary": "Francisco de Asís fue un fraile italiano del siglo XIII y fundador de la Orden Franciscana, conocido por su profundo amor a la naturaleza y su compromiso con la pobreza. Es célebre sobre todo por haber recibido los estigmas, las llagas de Cristo, que lo marcaron como un vivo reflejo del sufrimiento de Jesús. Su vida y sus enseñanzas hacían hincapié en la humildad, la compasión y una profunda conexión con toda la creación.",
+      "image": "/images/the_stigmata_of_saint_francis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    },
+    {
+      "name": "Lamberto",
+      "feast_day": "17 de septiembre",
+      "era": "Siglo VII",
+      "patronage": [
+        "obispos",
+        "canteros",
+        "pescadores"
+      ],
+      "legacy": "Martirio por la fe y la integridad",
+      "summary": "San Lamberto fue un obispo de Maastricht y mártir que vivió en el siglo VII. Conocido por sus milagros y su dedicación al Evangelio, fue elegido sucesor del obispo Teodardo siendo aún joven. Su firme oposición a la corrupción moral condujo finalmente a su asesinato en el año 705.",
+      "image": "/images/saint_lambert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lambert_of_Maastricht"
+    }
+  ]
+}

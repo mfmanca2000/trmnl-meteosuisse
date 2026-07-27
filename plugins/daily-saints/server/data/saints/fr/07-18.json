@@ -1,0 +1,21 @@
+{
+  "date": "07-18",
+  "feast_day": "18 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Camille de Lellis",
+      "feast_day": "18 juillet",
+      "era": "XVIe siècle",
+      "patronage": [
+        "malades",
+        "infirmières",
+        "personnel hospitalier"
+      ],
+      "legacy": "Serviteur compatissant des malades",
+      "summary": "Saint Camille de Lellis fut le fondateur des Serviteurs des malades, un ordre religieux dédié aux soins des malades et des nécessiteux. Après une jeunesse tumultueuse marquée par le jeu et le service militaire, il connut une profonde conversion qui le conduisit à consacrer sa vie au service des malades. Il est resté dans les mémoires pour sa compassion et ses efforts inlassables dans les hôpitaux, notamment en temps de famine et de peste.",
+      "image": "/images/saint_camillus_of_lellis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Camillus_de_Lellis"
+    }
+  ]
+}

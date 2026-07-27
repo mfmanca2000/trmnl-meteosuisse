@@ -1,0 +1,22 @@
+{
+  "date": "09-02",
+  "feast_day": "2 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Stefano",
+      "feast_day": "2 settembre",
+      "era": "XI secolo",
+      "patronage": [
+        "Ungheria",
+        "sovrani",
+        "politici",
+        "muratori"
+      ],
+      "legacy": "Apostolo dell'Ungheria e re cristiano",
+      "summary": "Stefano d'Ungheria fu il primo re d'Ungheria, regnando dall'anno 1000 fino alla sua morte nel 1038. Svolse un ruolo cruciale nella conversione del popolo ungherese al cristianesimo e pose le fondamenta dello stato ungherese. La sua eredità include la promozione dei valori cristiani e la fondazione della Chiesa cattolica in Ungheria.",
+      "image": "/images/saint_stephen_king_of_hungary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+    }
+  ]
+}

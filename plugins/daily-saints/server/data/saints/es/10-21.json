@@ -1,0 +1,21 @@
+{
+  "date": "10-21",
+  "feast_day": "21 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Úrsula",
+      "feast_day": "21 de octubre",
+      "era": "Siglo IV",
+      "patronage": [
+        "jóvenes maestras",
+        "vírgenes",
+        "estudiantes"
+      ],
+      "legacy": "Martirio y protección de la virginidad",
+      "summary": "Santa Úrsula fue una princesa britana y mártir que condujo a un grupo de once mil vírgenes hacia la muerte antes que someterse al deshonor. Es celebrada por su valentía y su compromiso con la fe, habiendo consagrado su vida a Jesucristo. Su legado se honra especialmente en Colonia, donde numerosas iglesias albergan reliquias suyas y de sus compañeras, atrayendo a peregrinos en busca de protección e intercesión.",
+      "image": "/images/saint_ursula_and_her_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Ursula"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "03-17",
+  "feast_day": "17 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Patrick",
+      "feast_day": "17 mars",
+      "era": "Ve siècle",
+      "patronage": [
+        "l'Irlande",
+        "les ingénieurs",
+        "le clergé paroissial",
+        "les serpents"
+      ],
+      "legacy": "Saint patron de l'Irlande et des missionnaires",
+      "summary": "Saint Patrick est connu comme l'Apôtre de l'Irlande, à qui l'on attribue la conversion des Irlandais au christianisme au Ve siècle. Né en Écosse, il fut enlevé et emmené en Irlande comme esclave, où il revint plus tard pour répandre l'Évangile après s'être échappé de captivité. Son œuvre missionnaire mena à l'établissement d'églises, d'écoles et de monastères à travers toute l'Irlande, faisant de lui une figure centrale du christianisme irlandais.",
+      "image": "/images/saint_patrick.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Patrick_of_Ireland"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "04-19",
+  "feast_day": "19 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Elfego",
+      "feast_day": "19 aprile",
+      "era": "XI secolo",
+      "patronage": null,
+      "legacy": "Arcivescovo di Canterbury",
+      "summary": "Sant'Elfego nacque nell'anno 954, da una nobile famiglia sassone. Divenne monaco nel monastero di Deerhurst, vicino a Tewkesbury, in Inghilterra, e in seguito visse da eremita vicino a Bath, dove fondò una comunità sotto la regola di san Benedetto e ne divenne il primo abate. All'età di trent'anni fu scelto come vescovo di Winchester, e ventidue anni dopo divenne arcivescovo di Canterbury.",
+      "image": "/images/saint_elphege.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Leone IX",
+      "feast_day": "19 aprile",
+      "era": "Medievale",
+      "patronage": null,
+      "legacy": "Riformatore e difensore della dottrina della Chiesa",
+      "summary": "Leone IX fu papa dal 1049 al 1054 ed è noto per le sue importanti riforme all'interno della Chiesa. Condannò la simonia e si adoperò per far rispettare la disciplina ecclesiastica, opponendosi anche alle dottrine di Berengario riguardo alla Transustanziazione. Il suo pontificato segnò l'inizio dello scisma tra la Chiesa cattolica romana e le Chiese ortodosse orientali.",
+      "image": "/images/saint_leo_ix.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leo_IX"
+    }
+  ]
+}

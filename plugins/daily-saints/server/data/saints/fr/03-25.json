@@ -1,0 +1,17 @@
+{
+  "date": "03-25",
+  "feast_day": "25 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Annonciation de la Bienheureuse Vierge Marie et Incarnation du Verbe de Dieu",
+      "feast_day": "25 mars",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "Cette grande fête tire son nom de l'heureuse nouvelle apportée par l'archange Gabriel à la Bienheureuse Vierge, annonçant l'Incarnation du Fils de Dieu. Elle commémore l'ambassade la plus importante qui ait jamais été connue, une ambassade envoyée par le Roi des rois, et accomplie par l'un des principaux princes de sa cour céleste, et adressée, non aux grands de cette terre, mais à une pauvre vierge inconnue qui, dotée d'une pureté angélique de l'âme et du corps, et d'une humilité et d'une soumission parfaites à Dieu, était plus grande à ses yeux que le plus puissant monarque du monde. Lorsque le Fils de Dieu se fit homme, il aurait pu prendre notre nature sans la coopération d'aucune créature ; mais il lui plut de naître d'une femme, celle annoncée au troisième chapitre de la Genèse.",
+      "image": "/images/annunciation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": null
+    }
+  ]
+}

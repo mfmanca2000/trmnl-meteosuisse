@@ -1,0 +1,17 @@
+{
+  "date": "03-29",
+  "feast_day": "29 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jonás y Barachisio",
+      "feast_day": "29 de marzo",
+      "era": "siglo IV",
+      "patronage": null,
+      "legacy": "Mártires de fe y valor inquebrantables",
+      "summary": "Los santos Jonás y Barachisio fueron hermanos y mártires que vivieron durante el reinado del rey Sapor de Persia. Animaron valientemente a otros cristianos que enfrentaban la persecución y finalmente sufrieron brutales torturas por su fe inquebrantable. Su compromiso incondicional con Cristo y su martirio son un poderoso testimonio de la fuerza de la virtud cristiana frente al sufrimiento.",
+      "image": "/images/saints_jonas_and_barachisius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jonas_and_Barachisius"
+    }
+  ]
+}

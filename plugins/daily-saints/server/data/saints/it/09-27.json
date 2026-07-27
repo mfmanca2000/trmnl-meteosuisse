@@ -1,0 +1,22 @@
+{
+  "date": "09-27",
+  "feast_day": "27 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cosma e Damiano",
+      "feast_day": "27 settembre",
+      "era": "III secolo",
+      "patronage": [
+        "medici",
+        "chirurghi",
+        "barbieri",
+        "contro la peste"
+      ],
+      "legacy": "Patroni dei medici e degli operatori sanitari",
+      "summary": "I santi Cosma e Damiano erano fratelli gemelli e medici vissuti nel III secolo. Sono noti per la loro incrollabile fede cristiana e per la loro pratica della medicina senza accettare compensi, guadagnandosi grande rispetto tra la gente. Furono martirizzati durante la persecuzione di Diocleziano per essersi rifiutati di rinnegare la loro fede e per aver continuato a guarire nel nome di Cristo.",
+      "image": "/images/saint_cosmas_and_saint_damian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cosmas_and_Damian"
+    }
+  ]
+}

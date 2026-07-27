@@ -1,0 +1,35 @@
+{
+  "date": "09-16",
+  "feast_day": "16 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cipriano",
+      "feast_day": "16 settembre",
+      "era": "III secolo",
+      "patronage": [
+        "Africa del Nord",
+        "clero",
+        "martiri"
+      ],
+      "legacy": "Un pilastro della fede e del martirio.",
+      "summary": "San Cipriano fu un importante vescovo di Cartagine e martire vissuto nel III secolo. Fu inizialmente pagano ma si convertì al cristianesimo e divenne un leader significativo in un periodo di persecuzione. La sua fermezza nella fede e la sua guida durante le crisi, tra cui una pestilenza e la persecuzione di Decio, lasciarono un'impronta duratura nella Chiesa primitiva.",
+      "image": "/images/saint_cyprian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyprian_of_Carthage"
+    },
+    {
+      "name": "Andrea Kim",
+      "feast_day": "16 settembre",
+      "era": "XIX secolo",
+      "patronage": [
+        "Corea",
+        "sacerdoti cattolici",
+        "martiri"
+      ],
+      "legacy": "Primo sacerdote coreano e martire",
+      "summary": "Andrea Kim fu il primo sacerdote coreano e un martire che svolse un ruolo cruciale nell'introduzione del cristianesimo in Corea. Affrontò enormi pericoli e persecuzioni nel tentativo di portare missionari nella sua patria, sacrificando infine la propria vita per la fede. La sua eredità ispira molte persone in Corea e oltre, simboleggiando il coraggio e la dedizione alla missione cristiana.",
+      "image": "/images/saint_andrew_kim.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Kim_Taegon"
+    }
+  ]
+}

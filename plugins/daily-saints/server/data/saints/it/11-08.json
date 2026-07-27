@@ -1,0 +1,21 @@
+{
+  "date": "11-08",
+  "feast_day": "8 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Goffredo",
+      "feast_day": "8 novembre",
+      "era": "Medievale",
+      "patronage": [
+        "ospedali",
+        "i malati",
+        "pellegrini"
+      ],
+      "legacy": "Capo compassionevole e taumaturgo",
+      "summary": "San Goffredo fu vescovo di Amiens, noto per la sua profonda compassione verso i poveri e i malati. Divenne abate di Nogent in giovane età e rivitalizzò il monastero, dimostrando una forte guida e dedizione verso la sua comunità. La sua vita fu segnata da miracoli e da un impegno nel servire coloro che erano nel bisogno, portando infine alla sua canonizzazione dopo la morte nel 1115.",
+      "image": "/images/saint_godfrey_or_geoffroy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Godfrey_of_Amiens"
+    }
+  ]
+}

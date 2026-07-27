@@ -1,0 +1,22 @@
+{
+  "date": "04-05",
+  "feast_day": "5 aprile",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincenzo Ferreri",
+      "feast_day": "5 aprile",
+      "era": "Medievale",
+      "patronage": [
+        "costruttori",
+        "idraulici",
+        "malati",
+        "contro la morte improvvisa"
+      ],
+      "legacy": "Apostolo della conversione e predicatore miracoloso",
+      "summary": "Vincenzo Ferreri fu un missionario domenicano spagnolo noto per la sua potente predicazione e le sue opere miracolose. Dedicò la sua vita a convertire i peccatori e a portare la luce di Cristo a varie comunità in tutta Europa, in un'epoca di grande scisma nella Chiesa. Il suo lascito comprende la fondazione di numerose istituzioni religiose e un profondo impatto sulla vita spirituale di migliaia di persone.",
+      "image": "/images/saint_vincent_ferrer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Ferrer"
+    }
+  ]
+}

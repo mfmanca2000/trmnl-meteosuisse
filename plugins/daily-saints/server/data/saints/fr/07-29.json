@@ -1,0 +1,21 @@
+{
+  "date": "07-29",
+  "feast_day": "29 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marthe",
+      "feast_day": "29 juillet",
+      "era": "Ier siècle",
+      "patronage": [
+        "cuisiniers",
+        "serviteurs",
+        "hospitalité"
+      ],
+      "legacy": "Modèle de service et de foi dans le Christ",
+      "summary": "Marthe de Béthanie est connue pour son rôle dans le Nouveau Testament en tant que sœur de Marie et de Lazare, dépeinte comme une servante dévouée de Jésus. Elle est célébrée pour sa foi solide, notamment dans le récit de la résurrection de Lazare, où elle exprime sa croyance en la puissance de Jésus. La tradition rapporte qu'après la mort de Jésus, elle se rendit en France, où elle mena une vie d'austérité et de sainteté.",
+      "image": "/images/saint_martha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martha_of_Bethany"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "05-09",
+  "feast_day": "9 maggio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregorio Nazianzeno",
+      "feast_day": "9 maggio",
+      "era": "IV secolo",
+      "patronage": [
+        "teologi",
+        "studenti",
+        "oratori"
+      ],
+      "legacy": "Campione dell'ortodossia cristiana e dell'eloquenza.",
+      "summary": "Gregorio Nazianzeno fu un influente teologo del primo cristianesimo e arcivescovo di Costantinopoli. Noto per i suoi eloquenti sermoni e scritti, svolse un ruolo cruciale nello sviluppo della dottrina cristiana durante la controversia ariana. La sua eredità come dottore della Chiesa e campione dell'ortodossia continua a essere celebrata nella tradizione cristiana.",
+      "image": "/images/saint_gregory_nazianzen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Nazianzen"
+    }
+  ]
+}

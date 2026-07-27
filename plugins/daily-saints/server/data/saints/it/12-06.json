@@ -1,0 +1,22 @@
+{
+  "date": "12-06",
+  "feast_day": "6 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nicola",
+      "feast_day": "6 dicembre",
+      "era": "IV secolo",
+      "patronage": [
+        "bambini",
+        "marinai",
+        "viaggiatori",
+        "prigionieri"
+      ],
+      "legacy": "Protettore dei bambini e dei marinai",
+      "summary": "San Nicola, arcivescovo di Myra, è rinomato per la sua generosità e le sue opere miracolose. Dedicò la sua vita ad aiutare i poveri e a proteggere gli innocenti, risuscitando notoriamente tre bambini dalla morte. Il suo lascito di protettore dei bambini e dei marinai ha fatto di lui una figura amata nel cristianesimo, celebrata per la sua compassione e la sua bontà.",
+      "image": "/images/saint_nicholas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Myra"
+    }
+  ]
+}

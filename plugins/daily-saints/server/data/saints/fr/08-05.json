@@ -1,0 +1,22 @@
+{
+  "date": "08-05",
+  "feast_day": "5 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marie des Neiges",
+      "feast_day": "5 août",
+      "era": "IVe siècle",
+      "patronage": [
+        "mères",
+        "accouchement",
+        "neige",
+        "bâtisseurs"
+      ],
+      "legacy": "Fondation miraculeuse d'une grande basilique",
+      "summary": "Marie des Neiges, également connue sous le nom de Notre-Dame des Neiges, commémore l'événement miraculeux au cours duquel la Vierge Marie indiqua l'emplacement d'une église à Rome en le recouvrant de neige. Cet événement conduisit à la construction de la basilique Sainte-Marie-Majeure, l'une des plus anciennes et des plus importantes églises dédiées à Marie. La fête est célébrée le 5 août, marquant la dédicace de la basilique et honorant le rôle de Marie en tant que Mère de Dieu.",
+      "image": "/images/the_dedication_of_saint_mary_of_the_snows.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Snows"
+    }
+  ]
+}

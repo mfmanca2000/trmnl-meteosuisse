@@ -1,0 +1,17 @@
+{
+  "date": "02-28",
+  "feast_day": "28 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Romain",
+      "feast_day": "28 février",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Fondateur de communautés monastiques dans le Jura",
+      "summary": "Saint Romain était un moine et abbé du Ve siècle qui, avec son frère Lupicin, fonda plusieurs monastères dans la région du Jura. Il était connu pour sa douceur de leadership et sa patience, accueillant souvent de nouveau les moines qui s'étaient égarés loin de leur communauté. Romain consacra sa vie à la prière, à l'étude et à la culture de la vie monastique, laissant un héritage durable de foi et de communauté.",
+      "image": "/images/saints_romanus_and_lupicinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romanus_of_Condat"
+    }
+  ]
+}

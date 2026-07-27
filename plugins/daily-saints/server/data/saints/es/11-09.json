@@ -1,0 +1,58 @@
+{
+  "date": "11-09",
+  "feast_day": "9 de noviembre",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Silvestre",
+      "feast_day": "9 de noviembre",
+      "era": "Cristianismo primitivo",
+      "patronage": [
+        "las iglesias",
+        "el bautismo"
+      ],
+      "legacy": "Pionero de la consagración de iglesias y la unidad",
+      "summary": "El papa Silvestre I fue obispo de Roma desde el año 314 hasta el 335 d. C., durante una época crucial de la Iglesia primitiva. Es conocido sobre todo por su papel en la construcción de la basílica de Letrán, la primera iglesia construida en Roma, que se convirtió en un importante centro del culto cristiano. Su pontificado coincidió con el edicto de Milán, que concedió la libertad religiosa a los cristianos del Imperio romano.",
+      "image": "/images/dedication_of_the_lateran_basilica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_I"
+    },
+    {
+      "name": "Maturino",
+      "feast_day": "9 de noviembre",
+      "era": "siglo IV",
+      "patronage": [
+        "la enfermedad mental",
+        "la posesión demoníaca",
+        "los alfareros"
+      ],
+      "legacy": "Patrono de la salud mental y el exorcismo",
+      "summary": "Maturino fue un sacerdote y confesor que vivió a finales del siglo IV, conocido por sus capacidades milagrosas y su dedicación a la fe cristiana. Convirtió a su familia del paganismo y se convirtió en una figura destacada de la Iglesia primitiva, predicando y realizando milagros, particularmente en Roma. Su legado incluye ser patrono de quienes sufren enfermedad mental y posesión demoníaca, con un culto importante en Larchant, Francia, donde se veneraban sus reliquias.",
+      "image": "/images/saint_mathurin_of_larchant.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maturinus"
+    },
+    {
+      "name": "Teodoro Tirón",
+      "feast_day": "9 de noviembre",
+      "era": "siglo IV",
+      "patronage": [
+        "los soldados",
+        "los mártires",
+        "los bomberos"
+      ],
+      "legacy": "Un símbolo de fe y valentía inquebrantables.",
+      "summary": "San Teodoro Tirón fue un mártir cristiano originario de Asia Menor que vivió a comienzos del siglo IV. Era un soldado que se negó a renegar de su fe frente a la persecución y la tortura, siendo finalmente ejecutado por sus creencias. Su firmeza y valentía ante la muerte lo convirtieron en una figura celebrada entre los primeros cristianos y un símbolo de fidelidad a Dios.",
+      "image": "/images/saint_theodore_tyro.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodore_of_Amasea"
+    },
+    {
+      "name": "Benén",
+      "feast_day": "9 de noviembre",
+      "era": "siglo V",
+      "patronage": null,
+      "legacy": "Discípulo amado de Patricio y cantor",
+      "summary": "San Benén, también conocido como Benigno, fue un discípulo cercano de san Patricio y desempeñó un papel importante en la Iglesia cristiana primitiva en Irlanda. Es célebre por su dulce voz para el canto, que utilizaba para atraer a muchas personas al cristianismo. Tras servir como obispo coadjutor de Armagh, continuó evangelizando y contribuyendo a la Iglesia hasta su muerte en 467.",
+      "image": "/images/saint_benen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Benen"
+    }
+  ]
+}

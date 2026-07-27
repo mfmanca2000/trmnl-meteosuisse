@@ -1,0 +1,21 @@
+{
+  "date": "06-29",
+  "feast_day": "29 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pierre",
+      "feast_day": "29 juin",
+      "era": "1er siècle",
+      "patronage": [
+        "pêcheurs",
+        "fabricants de filets",
+        "constructeurs de bateaux"
+      ],
+      "legacy": "Premier pape et chef des apôtres",
+      "summary": "Saint Pierre, l'un des douze apôtres, est reconnu comme le premier pape et le « Rocher » sur lequel le Christ bâtit son Église. Il joua un rôle déterminant dans la communauté chrétienne primitive, prêchant l'Évangile et établissant l'Église à Rome. Son martyre par crucifixion sous l'empereur Néron a consolidé son héritage en tant que figure fondatrice du christianisme.",
+      "image": "/images/saint_peter_apostle.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    }
+  ]
+}

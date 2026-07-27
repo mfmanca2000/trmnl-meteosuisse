@@ -1,0 +1,22 @@
+{
+  "date": "07-02",
+  "feast_day": "2 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "2 juillet",
+      "era": "Ier siècle",
+      "patronage": [
+        "mères",
+        "femmes enceintes",
+        "famille",
+        "voyageurs"
+      ],
+      "legacy": "Modèle de foi et de maternité",
+      "summary": "Marie est vénérée comme la mère de Jésus-Christ et occupe une place centrale dans le christianisme. La Visitation, célébrée le 2 juillet, commémore sa visite à sa cousine Élisabeth, au cours de laquelle Élisabeth reconnut Marie comme la mère de son Seigneur. Cet événement met en lumière l'humilité de Marie et son rôle d'intercesseur, apportant la grâce divine à ceux qui l'entourent.",
+      "image": "/images/the_visitation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

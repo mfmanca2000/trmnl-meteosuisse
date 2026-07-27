@@ -1,0 +1,22 @@
+{
+  "date": "08-10",
+  "feast_day": "10 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Laurent",
+      "feast_day": "10 août",
+      "era": "IIIe siècle",
+      "patronage": [
+        "diacres",
+        "pauvres",
+        "cuisiniers",
+        "pompiers"
+      ],
+      "legacy": "Patron des pauvres et des diacres",
+      "summary": "Saint Laurent était un diacre de Rome, connu pour sa foi inébranlable et sa charité envers les pauvres. Il fut martyrisé en 258 apr. J.-C. durant la persécution des chrétiens sous l'empereur Valérien, endurant, dit-on, le supplice avec humour. Son héritage de patron des pauvres et symbole de charité continue d'inspirer de nombreux fidèles catholiques.",
+      "image": "/images/saint_lawrence.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_of_Rome"
+    }
+  ]
+}

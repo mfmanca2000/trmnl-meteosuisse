@@ -1,0 +1,17 @@
+{
+  "date": "03-18",
+  "feast_day": "18 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cirillo di Gerusalemme",
+      "feast_day": "18 marzo",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Difensore della fede e della catechesi",
+      "summary": "Cirillo di Gerusalemme fu un importante vescovo e teologo della Chiesa delle origini, noto per le sue lezioni catechetiche che posero le basi dell'istruzione cristiana sul Credo e sui Sacramenti. Affrontò la persecuzione durante il suo episcopato ma rimase saldo nella sua fede, opponendosi in particolare ai tentativi di ricostruire il tempio ebraico sotto l'imperatore Giuliano. L'eredità di Cirillo perdura attraverso i suoi scritti e il suo ruolo nella difesa dell'ortodossia contro l'eresia.",
+      "image": "/images/saint_cyril_of_jerusalem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+    }
+  ]
+}

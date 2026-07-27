@@ -1,0 +1,32 @@
+{
+  "date": "10-11",
+  "feast_day": "11 octobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "11 octobre",
+      "era": "Ier siècle",
+      "patronage": [
+        "mères",
+        "femmes enceintes",
+        "malades",
+        "causes désespérées"
+      ],
+      "legacy": "Mère de Dieu et intercesseure pour tous",
+      "summary": "Marie, la Mère de Jésus, est vénérée dans le christianisme comme la Théotokos, ou porteuse de Dieu, en raison de son rôle dans l'Incarnation. Son acceptation de la volonté de Dieu et sa grâce unique font d'elle une figure centrale de la foi, symbolisant la pureté et l'amour maternel. Marie est souvent invoquée comme intercesseure et considérée comme un modèle pour tous les croyants dans leur relation avec Dieu.",
+      "image": "/images/the_divine_maternity_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Tarachus",
+      "feast_day": "11 octobre",
+      "era": "Début du IVe siècle",
+      "patronage": null,
+      "legacy": "Martyrs courageux de l'Église primitive",
+      "summary": "Saint Tarachus était un martyr qui, avec ses compagnons Probus et Andronic, subit la persécution sous le règne de l'empereur Dioclétien en l'an 304. Ils étaient connus pour leur foi inébranlable et leur courage face à des tortures brutales et à l'exécution. Leurs actes de martyre sont recensés comme des contributions importantes à l'histoire chrétienne primitive, témoignant de leur engagement indéfectible envers Dieu malgré d'immenses souffrances.",
+      "image": "/images/saint_tarachus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarachus,_Probus,_and_Andronicus"
+    }
+  ]
+}

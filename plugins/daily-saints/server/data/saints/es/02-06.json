@@ -1,0 +1,35 @@
+{
+  "date": "02-06",
+  "feast_day": "6 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Tito",
+      "feast_day": "6 de febrero",
+      "era": "Siglo I",
+      "patronage": [
+        "Creta",
+        "clero",
+        "administradores"
+      ],
+      "legacy": "Pacificador y fiel discípulo de Pablo",
+      "summary": "San Tito fue un converso de habla griega y discípulo de san Pablo, a quien acompañó en diversas misiones apostólicas. Desempeñó un papel crucial al abordar los problemas dentro de la iglesia de Corinto y más tarde fue nombrado obispo de Creta. Su legado se caracteriza por sus dotes administrativas y su capacidad para inspirar respeto y alegría entre los fieles.",
+      "image": "/images/saint_titus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Titus"
+    },
+    {
+      "name": "Dorotea",
+      "feast_day": "6 de febrero",
+      "era": "Comienzos del siglo IV",
+      "patronage": [
+        "jardineros",
+        "floristas",
+        "vírgenes"
+      ],
+      "legacy": "Martirio y dones milagrosos de flores",
+      "summary": "Santa Dorotea fue una joven virgen y mártir de Cesarea de Capadocia, conocida por su fe inquebrantable durante la persecución de Diocleciano. Afrontó la tortura y la ejecución con alegría, inspirando a otros a volver al cristianismo gracias a su firmeza. Su legado incluye el envío milagroso de manzanas y rosas a su perseguidor, simbolizando su conexión con lo divino y su papel como patrona de jardineros y floristas.",
+      "image": "/images/saint_dorothy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_of_Caesarea"
+    }
+  ]
+}

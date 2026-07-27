@@ -1,0 +1,30 @@
+{
+  "date": "09-12",
+  "feast_day": "12 de septiembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Santísimo Nombre de María",
+      "feast_day": "12 de septiembre",
+      "era": "Moderna",
+      "patronage": null,
+      "legacy": "Celebración del poder intercesor de María",
+      "summary": "La fiesta del Santísimo Nombre de María se celebra el 12 de septiembre, conmemorando la intercesión de la Bienaventurada Virgen María durante el asedio de Viena en 1683. Esta fiesta fue instituida por el papa Inocencio XI en acción de gracias por la liberación de la ciudad de los invasores turcos. Destaca la importancia del papel de María en la protección de la Iglesia y de los fieles.",
+      "image": "/images/feast_of_the_holy_name_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Name_of_Mary"
+    },
+    {
+      "name": "Guido de Anderlecht",
+      "feast_day": "12 de septiembre",
+      "era": "Siglo X",
+      "patronage": [
+        "peregrinos",
+        "pobres"
+      ],
+      "legacy": "Devoción a la oración y servicio a los pobres",
+      "summary": "San Guido de Anderlecht fue un ermitaño y peregrino del siglo X conocido por su profunda devoción a la oración y su servicio a los pobres. Tras un breve período de inconstancia en su vida, se consagró a una vida de penitencia y peregrinación, visitando importantes lugares religiosos. Es recordado por su humildad y su compromiso con la Iglesia, falleciendo en 1012, cuando se dice que una luz brilló a su alrededor en el momento de su muerte.",
+      "image": "/images/saint_guy_of_anderlecht.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guy_of_Anderlecht"
+    }
+  ]
+}

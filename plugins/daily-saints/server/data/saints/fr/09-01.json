@@ -1,0 +1,22 @@
+{
+  "date": "09-01",
+  "feast_day": "1 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gilles",
+      "feast_day": "1 septembre",
+      "era": "VIIe siècle",
+      "patronage": [
+        "mendiants",
+        "pauvres",
+        "personnes handicapées",
+        "brasseurs"
+      ],
+      "legacy": "Patron des pauvres et des personnes handicapées",
+      "summary": "Saint Gilles était un ermite du VIIe siècle connu pour sa profonde compassion et ses actes miraculeux. Né à Athènes dans une famille noble, il consacra sa vie à la pauvreté et à la solitude, accomplissant de nombreux miracles qui attiraient les gens à lui. Son héritage comprend la fondation d'un monastère en France qui devint un centre de l'ordre bénédictin.",
+      "image": "/images/saint_giles.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giles_of_Provence"
+    }
+  ]
+}

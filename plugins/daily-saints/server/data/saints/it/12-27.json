@@ -1,0 +1,22 @@
+{
+  "date": "12-27",
+  "feast_day": "27 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni",
+      "feast_day": "27 dicembre",
+      "era": "I secolo",
+      "patronage": [
+        "autori",
+        "teologi",
+        "amore",
+        "amicizia"
+      ],
+      "legacy": "Discepolo prediletto e autore dell'Apocalisse",
+      "summary": "Giovanni, fratello di Giacomo, era uno dei dodici apostoli ed è spesso indicato come il discepolo prediletto di Gesù. La tradizione gli attribuisce la stesura del Vangelo di Giovanni, di tre epistole e dell'Apocalisse. Dopo la crocifissione, divenne una figura chiave della Chiesa delle origini, evangelizzando in Asia Minore e ricoprendo il ruolo di primo arcivescovo di Efeso.",
+      "image": "/images/saint_john.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Apostle"
+    }
+  ]
+}

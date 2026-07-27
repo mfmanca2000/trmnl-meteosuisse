@@ -1,0 +1,22 @@
+{
+  "date": "11-11",
+  "feast_day": "11 de noviembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Martín de Tours",
+      "feast_day": "11 de noviembre",
+      "era": "siglo IV",
+      "patronage": [
+        "los soldados",
+        "los caballos",
+        "los vinicultores",
+        "los mendigos"
+      ],
+      "legacy": "Apóstol de las Galias y modelo de caridad",
+      "summary": "Martín de Tours fue un obispo del siglo IV conocido por su labor misionera en las Galias. Es famoso por su acto de caridad al compartir su capa con un mendigo, lo que dio lugar a una visión de Cristo. Sus esfuerzos por evangelizar y convertir a la población pagana le valieron el título de Luz y Apóstol de las Galias.",
+      "image": "/images/saint_martin_of_tours.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Tours"
+    }
+  ]
+}

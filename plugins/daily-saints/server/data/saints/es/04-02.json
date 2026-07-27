@@ -1,0 +1,17 @@
+{
+  "date": "04-02",
+  "feast_day": "2 de abril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francisco de Paula",
+      "feast_day": "2 de abril",
+      "era": "Siglo XVI",
+      "patronage": null,
+      "legacy": "Taumaturgo, Fundador",
+      "summary": "A los quince años, san Francisco dejó su humilde hogar en Paula, en Calabria, Italia, para vivir como ermitaño en una cueva junto al mar. Con el tiempo se reunieron discípulos a su alrededor, y con ellos, en 1436, fundó la Orden de los Mínimos. Eligió este nombre para que se consideraran siempre los más pequeños de las órdenes monásticas.",
+      "image": "/images/saint_francis_of_paula.jpg",
+      "wikipedia": null
+    }
+  ]
+}

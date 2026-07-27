@@ -1,0 +1,22 @@
+{
+  "date": "09-02",
+  "feast_day": "2 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Étienne",
+      "feast_day": "2 septembre",
+      "era": "XIe siècle",
+      "patronage": [
+        "Hongrie",
+        "dirigeants",
+        "hommes politiques",
+        "maçons"
+      ],
+      "legacy": "Apôtre de la Hongrie et roi chrétien",
+      "summary": "Étienne de Hongrie fut le premier roi de Hongrie, régnant de l'an 1000 jusqu'à sa mort en 1038. Il joua un rôle crucial dans la conversion du peuple hongrois au christianisme et posa les fondations de l'État hongrois. Son héritage comprend la promotion des valeurs chrétiennes et l'établissement de l'Église catholique en Hongrie.",
+      "image": "/images/saint_stephen_king_of_hungary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+    }
+  ]
+}

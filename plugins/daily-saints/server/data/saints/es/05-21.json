@@ -1,0 +1,31 @@
+{
+  "date": "05-21",
+  "feast_day": "21 de mayo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Andrés Bobola",
+      "feast_day": "21 de mayo",
+      "era": "Siglo XVII",
+      "patronage": [
+        "Polonia",
+        "jesuitas",
+        "víctimas de la persecución religiosa"
+      ],
+      "legacy": "Martirio por la fe y la evangelización",
+      "summary": "Andrés Bobola fue un sacerdote jesuita polaco y mártir, conocido por su dedicada labor misionera en Lituania durante una época de gran agitación. Sufrió una brutal persecución por su fe, lo que finalmente condujo a su martirio en 1657. Su legado es celebrado por su inquebrantable compromiso con la evangelización y su compasión por los que sufrían.",
+      "image": "/images/saint_andrew_bobola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bobola"
+    },
+    {
+      "name": "Hospicio",
+      "feast_day": "21 de mayo",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Un modelo de ascetismo y profecía",
+      "summary": "San Hospicio fue un recluso que vivió en una torre cerca de Niza, en Provenza, durante el siglo VI. Practicaba un ascetismo extremo, sobreviviendo con muy poco alimento y dedicando su vida a la oración y la profecía. Conocido por sus dones milagrosos, predijo la invasión de los lombardos y convirtió a un soldado que había intentado hacerle daño.",
+      "image": "/images/saint_hospitius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hospitius"
+    }
+  ]
+}

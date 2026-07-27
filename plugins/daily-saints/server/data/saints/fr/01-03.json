@@ -1,0 +1,21 @@
+{
+  "date": "01-03",
+  "feast_day": "3 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Geneviève",
+      "feast_day": "3 janvier",
+      "era": "Ve siècle",
+      "patronage": [
+        "Paris",
+        "mariages difficiles",
+        "enfants malades"
+      ],
+      "legacy": "Patronne de Paris et protectrice des fidèles.",
+      "summary": "Sainte Geneviève était une vierge du Ve siècle et la patronne de Paris. Connue pour sa piété et ses interventions miraculeuses, elle joua un rôle crucial dans la protection de la ville lors des sièges, notamment contre Attila le Hun. Son héritage perdure comme symbole de foi et de résilience face à l'adversité.",
+      "image": "/images/saint_genevieve.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Genevieve_of_Paris"
+    }
+  ]
+}

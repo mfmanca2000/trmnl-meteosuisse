@@ -1,0 +1,34 @@
+{
+  "date": "04-09",
+  "feast_day": "9 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan el Limosnero",
+      "feast_day": "9 de abril",
+      "era": "Siglo VI",
+      "patronage": [
+        "limosneros",
+        "pobres",
+        "caridad"
+      ],
+      "legacy": "Campeón de los pobres y la limosna",
+      "summary": "Juan el Limosnero fue un patriarca de Alejandría del siglo VI, conocido por su extraordinaria generosidad y su compromiso de ayudar a los pobres. Tras perder a su familia, dedicó su vida a la limosna, alimentando diariamente a miles de necesitados. Su legado incluye la fundación de numerosas iglesias y una reputación de fe y caridad inquebrantables.",
+      "image": "/images/saint_john_the_almsgiver.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Almsgiver"
+    },
+    {
+      "name": "María Egipcíaca",
+      "feast_day": "9 de abril",
+      "era": "Siglo V",
+      "patronage": [
+        "penitentes",
+        "conversos"
+      ],
+      "legacy": "Un símbolo de arrepentimiento y redención.",
+      "summary": "María Egipcíaca fue una antigua prostituta que experimentó una profunda conversión tras una peregrinación a Jerusalén. Al darse cuenta de su vida pecaminosa, se retiró al desierto, donde vivió en penitencia durante el resto de su vida. Su historia es un poderoso testimonio de la posibilidad de la redención y la gracia de Dios.",
+      "image": "/images/saint_mary_of_egypt.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_of_Egypt"
+    }
+  ]
+}

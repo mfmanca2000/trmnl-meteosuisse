@@ -1,0 +1,20 @@
+{
+  "date": "09-04",
+  "feast_day": "4 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Rosa da Viterbo",
+      "feast_day": "4 settembre",
+      "era": "XIII secolo",
+      "patronage": [
+        "malattia",
+        "persone derise per la loro fede"
+      ],
+      "legacy": "Una giovane santa nota per la sua fede ardente.",
+      "summary": "Santa Rosa da Viterbo fu una giovane vergine e mistica italiana che dedicò la sua vita a Dio fin dalla tenera età. Nota per la sua ardente devozione e il suo stile di vita austero, divenne una figura di spicco nella difesa della Chiesa durante un periodo di turbolenze politiche. Nonostante la sua breve vita, lasciò un'impronta duratura attraverso la sua predicazione e i suoi miracoli, venendo infine riconosciuta come santa poco dopo la sua morte all'età di diciotto anni.",
+      "image": "/images/saint_rose_of_viterbo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rose_of_Viterbo"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "date": "12-05",
+  "feast_day": "5 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Sabas",
+      "feast_day": "5 décembre",
+      "era": "VIe siècle",
+      "patronage": [
+        "moines",
+        "pèlerins"
+      ],
+      "legacy": "Patriarche du monachisme palestinien",
+      "summary": "Saint Sabas était un éminent abbé patriarcal en Palestine, connu pour son dévouement à la vie monastique et son autorité spirituelle. Il fonda plusieurs monastères et joua un rôle important au sein de la communauté religieuse, défendant l'Église en des temps de persécution. Son héritage comprend la création d'un hospice pour les pèlerins et un engagement à préserver la vraie foi face aux défis hérétiques.",
+      "image": "/images/saint_sabas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sabbas_the_Sanctified"
+    }
+  ]
+}

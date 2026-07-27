@@ -1,0 +1,35 @@
+{
+  "date": "11-18",
+  "feast_day": "18 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre",
+      "feast_day": "18 novembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "pêcheurs",
+        "fabricants de filets",
+        "constructeurs de navires"
+      ],
+      "legacy": "Premier pape et chef des apôtres",
+      "summary": "Pierre, l'un des douze apôtres de Jésus-Christ, est considéré comme le premier pape et une figure fondatrice du christianisme. Il est connu pour son leadership parmi les apôtres et son rôle dans la diffusion des enseignements de Jésus. Pierre fut martyrisé à Rome, et sa tombe se trouve sous la basilique Saint-Pierre, dans la Cité du Vatican.",
+      "image": "/images/dedication_of_the_basilicas_of_saint_peter_and_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Odon de Cluny",
+      "feast_day": "18 novembre",
+      "era": "Xe siècle",
+      "patronage": [
+        "moines",
+        "éducateurs",
+        "enfants"
+      ],
+      "legacy": "Pionnier de la réforme monastique et de l'éducation",
+      "summary": "Odon de Cluny était un abbé bénédictin qui joua un rôle déterminant dans la réforme et l'organisation de la vie monastique au Xe siècle. Il fonda l'abbaye de Cluny, qui devint un centre d'excellence spirituelle et éducative, attirant de nombreuses vocations et favorisant la Règle de saint Benoît. Son héritage comprend un engagement envers la charité et l'éducation des enfants, ainsi que la mise en place d'une fédération de monastères sous la direction de Cluny.",
+      "image": "/images/saint_odon_or_eudes_of_cluny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odo_of_Cluny"
+    }
+  ]
+}

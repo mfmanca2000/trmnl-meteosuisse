@@ -1,0 +1,21 @@
+{
+  "date": "03-22",
+  "feast_day": "22 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catalina de Suecia",
+      "feast_day": "22 de marzo",
+      "era": "siglo XIV",
+      "patronage": [
+        "las viudas",
+        "los peregrinos",
+        "contra las tentaciones"
+      ],
+      "legacy": "Vida dedicada a la peregrinación y la penitencia",
+      "summary": "Catalina de Suecia era hija de Santa Brígida y una devota figura religiosa conocida por su piedad y su compromiso con Dios. Tras la muerte de su esposo, dedicó su vida a la peregrinación, la caridad y una severa penitencia, visitando a menudo las tumbas de los mártires. Ingresó en un monasterio y vivió una vida de devoción hasta su muerte en 1381.",
+      "image": "/images/saint_catherine_of_sweden.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Sweden,_Saint"
+    }
+  ]
+}

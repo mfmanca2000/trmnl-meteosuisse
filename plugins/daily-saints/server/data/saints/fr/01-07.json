@@ -1,0 +1,17 @@
+{
+  "date": "01-07",
+  "feast_day": "7 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lucien",
+      "feast_day": "7 janvier",
+      "era": "Début du IVe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de l'Écriture et de la foi chrétienne",
+      "summary": "Saint Lucien était un prêtre et martyr de Samosate en Syrie, connu pour son dévouement à l'étude et à la révision des Écritures. Il traduisit la Bible hébraïque en grec, ce qui influença considérablement les traductions bibliques ultérieures, dont la Vulgate de saint Jérôme. Lucien fut emprisonné et torturé pour sa foi durant la persécution de Maximin, mourant finalement en martyr tout en affirmant son identité chrétienne.",
+      "image": "/images/saint_lucian_the_syrian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lucian_of_Samosata"
+    }
+  ]
+}

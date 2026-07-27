@@ -1,0 +1,27 @@
+{
+  "date": "04-10",
+  "feast_day": "10 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Michele de los Santos",
+      "feast_day": "10 aprile",
+      "era": "XVII secolo",
+      "patronage": null,
+      "legacy": "Devozione attraverso l'ascesi e i miracoli",
+      "summary": "Michele de los Santos fu un sacerdote trinitario spagnolo noto per la sua profonda pietà e il suo impegno per una vita di castità e mortificazione. Entrò tra i Trinitari in giovane età e si dedicò alla riforma dell'Ordine praticando un'ascesi estrema. Canonizzato nel 1862, è ricordato per i suoi miracoli e per la devozione che ispirò negli altri.",
+      "image": "/images/saint_michael_de_los_santos.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_dos_Santos"
+    },
+    {
+      "name": "Bademo",
+      "feast_day": "10 aprile",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Martirio e fede incrollabile in Cristo",
+      "summary": "Bademo fu un ricco cittadino di Bethlapeta, in Persia, che rinunciò ai suoi averi per seguire Cristo e fondò un monastero. Fu martirizzato durante la persecuzione dei cristiani sotto il re Sapore, sopportando severe torture con notevole pazienza. Il suo lascito è quello di una fede e una carità incrollabili, che ispirarono molti attraverso il suo esempio di sofferenza per la gloria di Dio.",
+      "image": "/images/saint_bademus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bademus"
+    }
+  ]
+}

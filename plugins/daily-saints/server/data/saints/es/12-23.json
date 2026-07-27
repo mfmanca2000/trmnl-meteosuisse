@@ -1,0 +1,35 @@
+{
+  "date": "12-23",
+  "feast_day": "23 de diciembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Margarita d'Youville",
+      "feast_day": "23 de diciembre",
+      "era": "Siglo XVIII",
+      "patronage": [
+        "los pobres",
+        "el personal hospitalario",
+        "las viudas"
+      ],
+      "legacy": "Pionera de la caridad y la asistencia sanitaria en Canadá",
+      "summary": "Margarita d'Youville fue una fundadora canadiense conocida por establecer las Hermanas de la Caridad, también llamadas Hermanas Grises, en Montreal. Tras quedar viuda, dedicó su vida a servir a los pobres, los enfermos y los marginados de su comunidad. Su legado continúa a través de la labor constante de las Hermanas Grises, que han ampliado su misión por toda Norteamérica.",
+      "image": "/images/saint_margaret_d_youville.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie-Marguerite_d%27Youville"
+    },
+    {
+      "name": "Sérvulo de Roma",
+      "feast_day": "23 de diciembre",
+      "era": "Siglo VII",
+      "patronage": [
+        "personas con discapacidad",
+        "mendigos",
+        "enfermos"
+      ],
+      "legacy": "Un modelo de fe en el sufrimiento",
+      "summary": "San Sérvulo de Roma era un mendigo paralítico que vivió en la pobreza y, sin embargo, encarnó una fe y una paciencia profundas. A pesar de sus limitaciones físicas, dedicó su vida a la oración y a la meditación sobre los sufrimientos de Cristo, convirtiéndose en fuente de inspiración para muchos. Su vida de humildad y caridad transformó su sufrimiento en un poderoso testimonio de la gracia de Dios.",
+      "image": "/images/saint_servulus_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Servulus_of_Rome"
+    }
+  ]
+}

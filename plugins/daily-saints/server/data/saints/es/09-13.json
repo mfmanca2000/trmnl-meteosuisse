@@ -1,0 +1,27 @@
+{
+  "date": "09-13",
+  "feast_day": "13 de septiembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maurilio",
+      "feast_day": "13 de septiembre",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Obispo y taumaturgo de Angers",
+      "summary": "San Maurilio fue un obispo de Angers que desempeñó un papel importante en la historia temprana de la Iglesia en Francia. Fue conocido por su celo en la conversión de paganos y por su profunda compasión, que lo llevó a buscar la resurrección de un niño que había muerto durante una misa. Su legado incluye la fundación de una iglesia y un monasterio que se convirtieron en un centro de vida cristiana en la región.",
+      "image": "/images/saint_maurilius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maurilius_of_Angers"
+    },
+    {
+      "name": "Eulogio de Alejandría",
+      "feast_day": "13 de septiembre",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Defensor de la ortodoxia y la fe",
+      "summary": "San Eulogio de Alejandría fue un monje sirio que se convirtió en Patriarca de Alejandría a finales del siglo VI. Fue conocido por su compromiso con la ortodoxia y sus esfuerzos contra las herejías, en particular la herejía eutiquiana que afligía a la Iglesia en esa época. Eulogio mantuvo una estrecha amistad con San Gregorio Magno y compuso numerosas obras en defensa de la fe antes de su muerte en el año 606.",
+      "image": "/images/saint_eulogius_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulogius_of_Alexandria"
+    }
+  ]
+}

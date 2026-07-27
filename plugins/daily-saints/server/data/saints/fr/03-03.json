@@ -1,0 +1,21 @@
+{
+  "date": "03-03",
+  "feast_day": "3 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cunégonde",
+      "feast_day": "3 mars",
+      "era": "Xe siècle",
+      "patronage": [
+        "mariages difficiles",
+        "veuves",
+        "les pauvres"
+      ],
+      "legacy": "Symbole de foi et de dévotion dans le mariage",
+      "summary": "Sainte Cunégonde fut une princesse du Xe siècle et l'épouse de l'empereur du Saint-Empire romain germanique Henri II. Elle est connue pour sa piété et son dévouement envers l'Église, s'engageant souvent dans des œuvres de charité et le soutien aux pauvres. Cunégonde fut canonisée en 1200, et son héritage perdure comme symbole de foi et de dévotion.",
+      "image": "/images/saint_cunegundes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cunigunde_of_Luxembourg"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "08-22",
+  "feast_day": "22 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "María",
+      "feast_day": "22 de agosto",
+      "era": "Moderna",
+      "patronage": [
+        "madres",
+        "familias",
+        "enfermos"
+      ],
+      "legacy": "Símbolo del amor maternal y la intercesión",
+      "summary": "El Inmaculado Corazón de María representa el amor puro y la compasión de la Virgen María por su Hijo, Jesucristo, y por toda la humanidad. Esta devoción resalta la importancia del papel materno de María en la vida espiritual de los creyentes y su poder de intercesión. El mensaje de Fátima de 1917 destacó el llamado a la devoción a su Inmaculado Corazón como medio para alcanzar la paz y la salvación.",
+      "image": "/images/the_immaculate_heart_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Immaculate_Heart_of_Mary"
+    },
+    {
+      "name": "Sinforiano",
+      "feast_day": "22 de agosto",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Un símbolo de fe cristiana inquebrantable",
+      "summary": "San Sinforiano fue un joven mártir cristiano de Autun, en Francia, que se negó a adorar a los ídolos paganos durante una procesión pública en honor a la diosa Ceres, hacia el año 180. Declaró con valentía su fe ante el magistrado y sufrió una severa tortura, siendo finalmente ejecutado a espada. Su madre, testigo de su martirio, lo animó a permanecer fiel a Dios, y ambos son recordados por su compromiso inquebrantable con Cristo.",
+      "image": "/images/saint_symphorian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Symphorian_and_Timotheus"
+    }
+  ]
+}

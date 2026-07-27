@@ -1,0 +1,31 @@
+{
+  "date": "03-15",
+  "feast_day": "15 de marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Clemente María Hofbauer",
+      "feast_day": "15 de marzo",
+      "era": "siglo XVIII",
+      "patronage": [
+        "Viena",
+        "los panaderos",
+        "los redentoristas"
+      ],
+      "legacy": "Campeón de la educación y la atención pastoral",
+      "summary": "Clemente María Hofbauer fue un sacerdote redentorista conocido por su dedicación a la educación y la atención pastoral en Austria y Polonia. Fundó un orfanato y una escuela para niños en Varsovia, contribuyendo significativamente al panorama espiritual y educativo de la región. Sus esfuerzos por promover la fe católica y apoyar a la juventud le valieron el reconocimiento como figura clave de la Iglesia de su tiempo.",
+      "image": "/images/saint_clement_mary_hofbauer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clement_Mary_Hofbauer"
+    },
+    {
+      "name": "Zacarías",
+      "feast_day": "15 de marzo",
+      "era": "siglo VIII",
+      "patronage": null,
+      "legacy": "Papa",
+      "summary": "San Zacarías, natural de Siria, fue monje benedictino antes de ser creado cardenal-presbítero por San Gregorio II. Sucedió al papa Gregorio III en 741, y fue un hombre de singular mansedumbre y bondad. Fue elegido en una época de disturbios que afligían a toda Italia, durante una invasión de Roma dirigida por el rey lombardo Luitprando.",
+      "image": "/images/saint_zachary.jpg",
+      "wikipedia": null
+    }
+  ]
+}

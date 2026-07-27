@@ -1,0 +1,21 @@
+{
+  "date": "07-16",
+  "feast_day": "16 juillet",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Notre-Dame du Mont-Carmel",
+      "feast_day": "16 juillet",
+      "era": "Médiéval",
+      "patronage": [
+        "carmes",
+        "ceux qui cherchent protection",
+        "gens de mer"
+      ],
+      "legacy": "Patronne de l'ordre du Carmel",
+      "summary": "Notre-Dame du Mont-Carmel est un titre donné à la Bienheureuse Vierge Marie dans son rôle de patronne de l'ordre du Carmel. Selon la tradition, elle apparut à saint Simon Stock en 1251, lui remettant le scapulaire brun en signe de sa protection. Cette dévotion s'est depuis largement répandue, symbolisant l'intercession et la sollicitude de Marie envers ses fidèles.",
+      "image": "/images/our_lady_of_mount_carmel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Mount_Carmel"
+    }
+  ]
+}

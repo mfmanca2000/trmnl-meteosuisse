@@ -1,0 +1,21 @@
+{
+  "date": "03-26",
+  "feast_day": "26 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ludger",
+      "feast_day": "26 de marzo",
+      "era": "siglo VIII",
+      "patronage": [
+        "Westfalia",
+        "Frisia",
+        "los educadores"
+      ],
+      "legacy": "Pionero de la fe cristiana en el norte de Europa",
+      "summary": "San Ludger fue el primer obispo de Münster y desempeñó un papel importante en la cristianización de los sajones en Frisia. Formado bajo San Gregorio de Utrecht y Alcuino en Inglaterra, fundó varios monasterios e iglesias durante su labor misionera. Conocido por su profunda piedad y sus milagros, continuó con sus deberes pastorales hasta su muerte el 26 de marzo de 809.",
+      "image": "/images/saint_ludger.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ludger"
+    }
+  ]
+}

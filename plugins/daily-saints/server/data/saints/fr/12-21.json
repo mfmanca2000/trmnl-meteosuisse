@@ -1,0 +1,22 @@
+{
+  "date": "12-21",
+  "feast_day": "21 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Thomas",
+      "feast_day": "21 décembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "architectes",
+        "bâtisseurs",
+        "Inde",
+        "incrédules"
+      ],
+      "legacy": "Du doute à la foi, un témoignage puissant.",
+      "summary": "Thomas était l'un des douze apôtres de Jésus, connu pour son doute initial concernant la résurrection du Christ. Il déclara célèbrement : « Mon Seigneur et mon Dieu ! » en voyant le Christ ressuscité, symbolisant le chemin du doute vers la foi. Après avoir répandu l'Évangile dans diverses régions, il devint finalement martyr en Inde, où il est vénéré comme une figure fondatrice de la communauté chrétienne locale.",
+      "image": "/images/saint_thomas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_the_Apostle"
+    }
+  ]
+}

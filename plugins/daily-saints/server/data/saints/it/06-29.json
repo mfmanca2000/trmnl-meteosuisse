@@ -1,0 +1,21 @@
+{
+  "date": "06-29",
+  "feast_day": "29 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pietro",
+      "feast_day": "29 giugno",
+      "era": "I secolo",
+      "patronage": [
+        "pescatori",
+        "fabbricanti di reti",
+        "costruttori di navi"
+      ],
+      "legacy": "Primo papa e capo degli apostoli",
+      "summary": "San Pietro, uno dei dodici apostoli, è riconosciuto come il primo papa e la 'Roccia' su cui Cristo edificò la sua Chiesa. Svolse un ruolo fondamentale nella comunità cristiana delle origini, predicando il Vangelo e stabilendo la Chiesa a Roma. Il suo martirio per crocifissione sotto l'imperatore Nerone consolidò il suo lascito come figura fondamentale del cristianesimo.",
+      "image": "/images/saint_peter_apostle.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    }
+  ]
+}

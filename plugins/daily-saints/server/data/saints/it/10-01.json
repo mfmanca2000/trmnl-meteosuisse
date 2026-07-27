@@ -1,0 +1,21 @@
+{
+  "date": "10-01",
+  "feast_day": "1 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Remigio",
+      "feast_day": "1 ottobre",
+      "era": "V secolo",
+      "patronage": [
+        "Francia",
+        "battesimo",
+        "mercanti"
+      ],
+      "legacy": "Apostolo dei Franchi e della Francia",
+      "summary": "San Remigio fu un vescovo del V secolo che svolse un ruolo cruciale nella conversione del re franco Clodoveo al cristianesimo. È noto per aver battezzato Clodoveo e guidato la cristianizzazione della Francia, il che valse al paese il titolo di 'figlia primogenita della Chiesa'. Il suo lungo episcopato e le sue opere miracolose consolidarono la sua eredità come figura di primo piano nella storia della Chiesa cattolica in Francia.",
+      "image": "/images/saint_remi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Remigius"
+    }
+  ]
+}

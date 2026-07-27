@@ -1,0 +1,22 @@
+{
+  "date": "07-26",
+  "feast_day": "26 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anna",
+      "feast_day": "26 luglio",
+      "era": "I secolo",
+      "patronage": [
+        "madri",
+        "nonne",
+        "donne partorienti",
+        "casalinghe"
+      ],
+      "legacy": "Madre della Beata Vergine Maria",
+      "summary": "Sant'Anna è venerata come madre della Beata Vergine Maria e nonna di Gesù Cristo. Lei e suo marito, san Gioacchino, erano noti per la loro pietà e devozione a Dio, nonostante la prova della sterilità affrontata per molti anni. La loro eredità è celebrata in vari santuari, in particolare in Francia e Canada, dove sono onorati per il loro ruolo all'interno della Sacra Famiglia.",
+      "image": "/images/saint_anne.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anne"
+    }
+  ]
+}

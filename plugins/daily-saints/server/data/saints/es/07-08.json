@@ -1,0 +1,21 @@
+{
+  "date": "07-08",
+  "feast_day": "8 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Isabel de Portugal",
+      "feast_day": "8 de julio",
+      "era": "Medieval",
+      "patronage": [
+        "paz",
+        "obras de caridad",
+        "matrimonios difíciles"
+      ],
+      "legacy": "Un modelo de caridad y pacificación",
+      "summary": "Isabel de Portugal nació en 1271 y llegó a ser reina consorte del rey Dionisio de Portugal. Conocida por su profunda fe y sus obras de caridad, dedicó su vida a servir a los pobres y a mediar la paz dentro de su familia. Tras la muerte de su esposo, abrazó una vida de austeridad y devoción, siendo finalmente reconocida como santa por su vida virtuosa.",
+      "image": "/images/saint_elizabeth_of_portugal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal"
+    }
+  ]
+}

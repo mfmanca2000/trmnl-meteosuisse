@@ -1,0 +1,27 @@
+{
+  "date": "03-23",
+  "feast_day": "23 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Vittoriano e compagni",
+      "feast_day": "23 marzo",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Martiri",
+      "summary": "Unerico, il re ariano dei Vandali in Africa, succedette a suo padre Genserico nel 477. Agì dapprima con moderazione verso i cattolici di Cartagine, ma nel 480 iniziò una grave persecuzione del clero e delle sante vergini, che nel 484 divenne generale. Un vasto numero di cattolici fu messo a morte.",
+      "image": "/images/saint_victorian_and_companions.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Turibio",
+      "feast_day": "23 marzo",
+      "era": "XVII secolo",
+      "patronage": null,
+      "legacy": "Arcivescovo di Lima",
+      "summary": "San Turibio, Arcivescovo di Lima, nacque il 6 novembre 1538 a Mayorga, nel regno di León, in Spagna. Cresciuto in una famiglia pia, in cui la devozione era ereditaria, la sua giovinezza fu un modello per tutti coloro che lo conoscevano. Una tenera devozione alla Beata Vergine e un amore per i poveri contraddistinsero questo fanciullo.",
+      "image": "/images/saint_turribius_of_lima.jpg",
+      "wikipedia": null
+    }
+  ]
+}

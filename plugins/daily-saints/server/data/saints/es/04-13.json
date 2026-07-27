@@ -1,0 +1,20 @@
+{
+  "date": "04-13",
+  "feast_day": "13 de abril",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Hermenegildo",
+      "feast_day": "13 de abril",
+      "era": "Siglo VI",
+      "patronage": [
+        "mártires",
+        "conversiones"
+      ],
+      "legacy": "Un martirio que inspira la fe y la conversión",
+      "summary": "San Hermenegildo fue un príncipe visigodo y mártir, ejecutado por su padre, el rey Leovigildo, por convertirse al cristianismo. A pesar de sufrir severas torturas y la tentación de renunciar a su fe, se mantuvo firme y eligió morir antes que traicionar sus creencias. Su martirio inspiró a muchos, incluido su hermano Recaredo, quien más tarde convirtió a los visigodos al cristianismo.",
+      "image": "/images/saint_hermenegild.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hermenegild"
+    }
+  ]
+}

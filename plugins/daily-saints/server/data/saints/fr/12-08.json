@@ -1,0 +1,22 @@
+{
+  "date": "12-08",
+  "feast_day": "8 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "8 décembre",
+      "era": "Antiquité",
+      "patronage": [
+        "Église catholique",
+        "femmes enceintes",
+        "enfants",
+        "les États-Unis"
+      ],
+      "legacy": "Mère de Dieu et modèle de pureté",
+      "summary": "L'Immaculée Conception désigne la croyance selon laquelle Marie, la mère de Jésus, fut conçue sans péché originel. Ce dogme fut solennellement proclamé par le pape Pie IX en 1854, affirmant sa pureté et son rôle particulier dans l'histoire du salut. La fête est célébrée le 8 décembre, en son honneur comme modèle de sainteté et de grâce.",
+      "image": "/images/the_immaculate_conception.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Immaculate_Conception"
+    }
+  ]
+}

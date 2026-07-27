@@ -1,0 +1,36 @@
+{
+  "date": "12-10",
+  "feast_day": "10 de diciembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nuestra Señora de Loreto",
+      "feast_day": "10 de diciembre",
+      "era": "Edad Media",
+      "patronage": [
+        "viajeros aéreos",
+        "constructores",
+        "familias",
+        "propietarios de vivienda"
+      ],
+      "legacy": "Símbolo de fe y peregrinación",
+      "summary": "Nuestra Señora de Loreto es un título de la Virgen María asociado a la Santa Casa de Loreto, que se cree que fue el hogar de María en Nazaret. Según la tradición, la casa fue transportada milagrosamente a Loreto, Italia, a finales del siglo XIII. Este lugar se ha convertido en un importante destino de peregrinación, símbolo de la Encarnación y del papel de María en la historia de la salvación.",
+      "image": "/images/translation_of_the_holy_house_of_loreto.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Loreto"
+    },
+    {
+      "name": "Eulalia",
+      "feast_day": "10 de diciembre",
+      "era": "Principios del siglo IV",
+      "patronage": [
+        "Mérida",
+        "jóvenes",
+        "mártires"
+      ],
+      "legacy": "Mártir valiente y patrona de Mérida",
+      "summary": "Santa Eulalia fue una joven mártir cristiana de Mérida, España, que afrontó con valentía la persecución durante el reinado del emperador Diocleciano. Con solo doce años, se negó a renunciar a su fe, soportando terribles torturas antes de sucumbir finalmente a sus heridas. Su legado como símbolo de valentía y fe continúa inspirando a muchos, y es venerada como patrona de Mérida.",
+      "image": "/images/saint_eulalia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulalia_of_M%C3%A9rida"
+    }
+  ]
+}

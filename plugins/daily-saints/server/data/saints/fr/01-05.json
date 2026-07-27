@@ -1,0 +1,31 @@
+{
+  "date": "01-05",
+  "feast_day": "5 janvier",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Siméon le Stylite",
+      "feast_day": "5 janvier",
+      "era": "Ve siècle",
+      "patronage": [
+        "ascètes",
+        "ermites",
+        "ceux qui recherchent la solitude"
+      ],
+      "legacy": "Pionnier de l'ascèse sur colonne et de la prière",
+      "summary": "Siméon le Stylite était un ascète chrétien connu pour sa forme extrême de monachisme, passant 37 ans au sommet d'une colonne en Syrie. Il pratiquait de sévères austérités, dont le jeûne et la maîtrise de soi, qui attirèrent de nombreux disciples et admirateurs. Sa vie de prière et de dévotion à Dieu inspira d'innombrables personnes et donna lieu à de nombreux miracles attribués à son intercession.",
+      "image": "/images/saint_simeon_stylites.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simeon_Stylites"
+    },
+    {
+      "name": "Télesphore",
+      "feast_day": "5 janvier",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi et réformateur liturgique",
+      "summary": "Télesphore était un pape grec et martyr qui exerça la fonction d'évêque de Rome au début du IIe siècle. Il est connu pour ses efforts contre l'hérésie et pour avoir institué certaines pratiques liturgiques, notamment la célébration de la messe la veille de Noël. Télesphore fut martyrisé sous l'empereur Antonin le Pieux et est commémoré le 5 janvier.",
+      "image": "/images/saint_telesphorus_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Telesphorus"
+    }
+  ]
+}

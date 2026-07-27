@@ -1,0 +1,34 @@
+{
+  "date": "05-31",
+  "feast_day": "31 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria, Regina del Mondo",
+      "feast_day": "31 maggio",
+      "era": "Cristianesimo delle origini",
+      "patronage": [
+        "madri",
+        "donne incinte",
+        "malati"
+      ],
+      "legacy": "Madre del Salvatore e Regina del Cielo",
+      "summary": "Maria, la madre di Gesù, occupa un posto speciale nella devozione cattolica come Regina del Cielo e della Terra. È venerata per la sua intercessione materna ed è considerata una potente avvocata dell'umanità. La sua festa, celebrata il 31 maggio, sottolinea il suo ruolo di fonte di speranza e di pace per il mondo.",
+      "image": "/images/mary-queen-of-the-world.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Heaven"
+    },
+    {
+      "name": "Petronilla",
+      "feast_day": "31 maggio",
+      "era": "I secolo",
+      "patronage": [
+        "vergini",
+        "bambini malati"
+      ],
+      "legacy": "Un simbolo di verginità e santità",
+      "summary": "Santa Petronilla è tradizionalmente considerata figlia di san Pietro, uno degli Apostoli. È celebrata per il suo voto di verginità e la sua esemplare santità durante i primi tempi del cristianesimo. La sua eredità è onorata nella Basilica di San Pietro, dove sono conservate le sue reliquie.",
+      "image": "/images/saint_petronilla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Petronilla"
+    }
+  ]
+}

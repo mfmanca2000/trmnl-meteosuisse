@@ -1,0 +1,29 @@
+{
+  "date": "07-01",
+  "feast_day": "1 juillet",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Le Précieux Sang de Jésus",
+      "feast_day": "1 juillet",
+      "era": null,
+      "patronage": null,
+      "legacy": "Symbole du salut et de la grâce divine",
+      "summary": "Le Précieux Sang de Jésus est vénéré dans l'Église catholique comme une source de salut et de grâce. Il symbolise le sacrifice du Christ et le pouvoir purificateur qu'il exerce sur les péchés de l'humanité. Les fidèles croient que par le Précieux Sang, les croyants peuvent obtenir la vie éternelle et la guérison de leurs âmes.",
+      "image": "/images/most_precious_blood_of_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Feast_of_the_Most_Precious_Blood"
+    },
+    {
+      "name": "Gal",
+      "feast_day": "1 juillet",
+      "era": "VIe siècle",
+      "patronage": [
+        "contre les fièvres"
+      ],
+      "legacy": "Un modèle d'humilité et de patience",
+      "summary": "Saint Gal fut évêque de Clermont, qui consacra sa vie à Dieu après avoir renoncé aux ambitions du monde. Connu pour son humilité, sa charité et sa remarquable patience, il devint un chef respecté de l'Église. Il participa à d'importants conciles et est resté dans les mémoires pour les miracles survenus sur son tombeau après sa mort en 553.",
+      "image": "/images/saint_gal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gal_I_of_Clermont"
+    }
+  ]
+}

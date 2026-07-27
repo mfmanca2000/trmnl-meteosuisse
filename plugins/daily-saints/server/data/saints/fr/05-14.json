@@ -1,0 +1,30 @@
+{
+  "date": "05-14",
+  "feast_day": "14 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Michel Garicoïts",
+      "feast_day": "14 mai",
+      "era": "XIXe siècle",
+      "patronage": null,
+      "legacy": "Fondateur des Prêtres du Sacré-Cœur",
+      "summary": "Michel Garicoïts fut un prêtre français, fondateur des Prêtres du Sacré-Cœur de Bétharram. Il consacra sa vie à promouvoir la dévotion au Sacré-Cœur et à établir une communauté religieuse centrée sur la pauvreté et la vie intérieure. Son héritage se perpétue à travers l'expansion de sa congrégation dans divers pays et leur engagement envers l'éducation et la croissance spirituelle.",
+      "image": "/images/saint_michael_garicoits.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michel_Garico%C3%AFts"
+    },
+    {
+      "name": "Pacôme",
+      "feast_day": "14 mai",
+      "era": "IVe siècle",
+      "patronage": [
+        "moines",
+        "monachisme chrétien"
+      ],
+      "legacy": "Fondateur de la vie communautaire monastique chrétienne",
+      "summary": "Saint Pacôme fut un moine chrétien et le fondateur du monachisme cénobitique, qui met l'accent sur la vie communautaire des moines. Après sa conversion du paganisme, il établit un monastère à Tabenna, en Égypte, où il élabora une règle de vie alliant discipline spirituelle et accessibilité pour les nouveaux moines. Ses enseignements et ses pratiques posèrent les fondations de nombreuses futures communautés monastiques chrétiennes.",
+      "image": "/images/saint_pachomius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pachomius_the_Great"
+    }
+  ]
+}

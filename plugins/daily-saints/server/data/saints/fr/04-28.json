@@ -1,0 +1,54 @@
+{
+  "date": "04-28",
+  "feast_day": "28 avril",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Louis-Marie de Montfort",
+      "feast_day": "28 avril",
+      "era": "XVIIIe siècle",
+      "patronage": null,
+      "legacy": "Docteur de Marie",
+      "summary": "L'un des grands saints dont la mission apparaît confirmée et croissante à mesure que les années passent et que nous nous trouvons au milieu des derniers temps, saint Louis-Marie de Montfort peut désormais être reconnu comme un prophète et un oracle de Dieu pour la sanctification de l'Église, qui doit résister aux maux annoncés de cette période. Auteur d'une Prière Prophétique demandant les Apôtres des derniers temps, il est aussi l'ardent apôtre de la Vraie Dévotion à la Sainte Vierge et le saint de l'amour pour la Croix du Seigneur, comme on le voit dans sa Lettre aux Amis de la Croix et dans toute sa vie d'activité missionnaire. Né à Montfort-la-Cane, près de Saint-Malo, en 1673, il était l'aîné de huit enfants.",
+      "image": "/images/saint_louis_mary_de_montfort.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Paul de la Croix",
+      "feast_day": "28 avril",
+      "era": "XVIIIe siècle",
+      "patronage": [
+        "désolation spirituelle",
+        "les Passionistes"
+      ],
+      "legacy": "Fondateur de l'ordre des Passionistes",
+      "summary": "Paul de la Croix fut le fondateur de l'ordre des Passionistes, consacré à la méditation de la Passion de Jésus-Christ. Tout au long de sa vie, il endura d'importantes souffrances physiques et spirituelles, qu'il accueillit comme un moyen d'approfondir sa foi et son engagement envers Dieu. On se souvient de lui pour sa profonde spiritualité et la fondation d'une communauté religieuse centrée sur la Passion du Christ.",
+      "image": "/images/saint_paul_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_the_Cross"
+    },
+    {
+      "name": "Luchesio",
+      "feast_day": "28 avril",
+      "era": "XIIIe siècle",
+      "patronage": [
+        "marchands",
+        "pauvres",
+        "tiers-ordre de saint François"
+      ],
+      "legacy": "Premier membre du Tiers-Ordre franciscain",
+      "summary": "Luchesio fut un riche marchand de Poggibonsi, en Italie, qui connut une profonde conversion après avoir entendu prêcher saint François d'Assise. Il devint le premier membre du Tiers-Ordre de saint François, consacrant sa vie à la charité et au service des pauvres. Aux côtés de son épouse, Bona Dona, il fonda une communauté qui subvenait aux besoins des indigents et devint connue pour ses œuvres de miséricorde.",
+      "image": "/images/blessed_luchesio.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luchesius_Modestini"
+    },
+    {
+      "name": "Vital de Ravenne",
+      "feast_day": "28 avril",
+      "era": "IIe siècle",
+      "patronage": null,
+      "legacy": "Martyr",
+      "summary": "Saint Vital fut un citoyen chrétien de Milan au premier siècle et le père des frères jumeaux et futurs martyrs, les saints Gervais et Protais. Il est le principal patron de Ravenne, où il fut martyrisé. La providence divine l'avait conduit dans cette ville, où il vit comparaître devant le tribunal un médecin chrétien nommé Ursicin, qui avait été torturé et qui fut alors condamné à perdre la tête pour sa foi.",
+      "image": "/images/saint_vitalis_of_ravenna.jpg",
+      "wikipedia": null
+    }
+  ]
+}

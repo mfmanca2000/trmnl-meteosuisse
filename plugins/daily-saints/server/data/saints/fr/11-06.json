@@ -1,0 +1,20 @@
+{
+  "date": "11-06",
+  "feast_day": "6 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Léonard",
+      "feast_day": "6 novembre",
+      "era": "VIe siècle",
+      "patronage": [
+        "prisonniers",
+        "femmes en couches"
+      ],
+      "legacy": "Saint patron des prisonniers et de la liberté",
+      "summary": "Saint Léonard était un ermite et le saint patron des prisonniers, connu pour sa profonde compassion et son dévouement à venir en aide à ceux qui étaient dans le besoin. Il se forgea une réputation de faiseur de miracles, en particulier pour libérer des prisonniers de leurs chaînes par la prière. Son héritage continue d'inspirer la dévotion, notamment en France, où de nombreuses églises et monastères lui sont dédiés.",
+      "image": "/images/saint_leonard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leonard_of_Noblac"
+    }
+  ]
+}

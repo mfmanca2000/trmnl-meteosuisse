@@ -1,0 +1,21 @@
+{
+  "date": "05-05",
+  "feast_day": "5 mai",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pie V",
+      "feast_day": "5 mai",
+      "era": "XVIe siècle",
+      "patronage": [
+        "États pontificaux",
+        "réforme liturgique",
+        "le concile de Trente"
+      ],
+      "legacy": "Champion de la réforme de l'Église et de la liturgie",
+      "summary": "Pie V fut un pape reconnu pour son engagement résolu à réformer l'Église catholique et à faire appliquer les décrets du concile de Trente. Il est célèbre pour le rôle qu'il joua dans la victoire de la bataille de Lépante, attribuée à ses prières et à sa conduite. Son pontificat fut marqué par un attachement à la discipline ecclésiastique et par la promotion du Missel romain.",
+      "image": "/images/saint_pius_v.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_V"
+    }
+  ]
+}

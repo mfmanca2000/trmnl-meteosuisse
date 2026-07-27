@@ -1,0 +1,22 @@
+{
+  "date": "10-04",
+  "feast_day": "4 ottobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francesco d'Assisi",
+      "feast_day": "4 ottobre",
+      "era": "Medievale",
+      "patronage": [
+        "animali",
+        "ambiente",
+        "mercanti",
+        "ecologia"
+      ],
+      "legacy": "Santo patrono degli animali e dell'ecologia.",
+      "summary": "Francesco d'Assisi fu un santo italiano del XIII secolo noto per il suo profondo amore per la natura e il suo impegno verso la povertà. Fondò l'Ordine francescano, ponendo l'accento su una vita di semplicità e di servizio ai poveri. La sua eredità comprende la promozione della pace e la cura per il creato, rendendolo una figura amata nel cristianesimo e oltre.",
+      "image": "/images/saint_francis_of_assisi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "08-01",
+  "feast_day": "1 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pedro",
+      "feast_day": "1 de agosto",
+      "era": "Siglo I",
+      "patronage": [
+        "pescadores",
+        "fabricantes de redes",
+        "constructores navales",
+        "papas"
+      ],
+      "legacy": "Primer papa y líder de los apóstoles.",
+      "summary": "Pedro, uno de los doce apóstoles de Jesús, es reconocido como el primer papa y una figura fundacional del cristianismo. Es conocido por su liderazgo en la Iglesia primitiva y por su papel en la difusión del Evangelio. Su milagrosa fuga de la prisión, relatada en los Hechos de los Apóstoles, ejemplifica su fe y el poder de la oración.",
+      "image": "/images/saint_peters_chains.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-08",
+  "feast_day": "8 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Elisabetta di Portogallo",
+      "feast_day": "8 luglio",
+      "era": "Medievale",
+      "patronage": [
+        "pace",
+        "opere di carità",
+        "matrimoni difficili"
+      ],
+      "legacy": "Un modello di carità e di pacificazione",
+      "summary": "Elisabetta di Portogallo nacque nel 1271 e divenne regina consorte del re Dionigi I del Portogallo. Nota per la sua profonda fede e le sue opere di carità, dedicò la propria vita al servizio dei poveri e alla mediazione della pace all'interno della sua famiglia. Dopo la morte del marito, abbracciò una vita di austerità e devozione, venendo infine riconosciuta santa per la sua vita virtuosa.",
+      "image": "/images/saint_elizabeth_of_portugal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal"
+    }
+  ]
+}

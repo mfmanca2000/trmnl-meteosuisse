@@ -1,0 +1,35 @@
+{
+  "date": "04-27",
+  "feast_day": "27 avril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pierre Canisius",
+      "feast_day": "27 avril",
+      "era": "XVIe siècle",
+      "patronage": [
+        "Allemagne",
+        "catéchistes",
+        "étudiants"
+      ],
+      "legacy": "Champion de la Contre-Réforme catholique",
+      "summary": "Pierre Canisius fut un prêtre jésuite et théologien néerlandais qui joua un rôle crucial dans la Contre-Réforme catholique. Il contribua de manière décisive à la création de collèges jésuites et au développement de matériels catéchétiques, notamment son célèbre catéchisme. Canonisé en 1621 et déclaré docteur de l'Église en 1927, on se souvient de lui pour son dévouement au renouveau de la foi catholique en Allemagne et au-delà.",
+      "image": "/images/saint_peter_canisius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Canisius"
+    },
+    {
+      "name": "Zita",
+      "feast_day": "27 avril",
+      "era": "Médiéval",
+      "patronage": [
+        "domestiques",
+        "employés de maison",
+        "causes perdues"
+      ],
+      "legacy": "Patronne des servantes et des travailleurs",
+      "summary": "Sainte Zita fut une vierge et servante du XIIIe siècle originaire de Lucques, en Italie, connue pour sa foi inébranlable et son assiduité à la prière. Malgré les mauvais traitements de la part de ses employeurs et de ses compagnons de service, elle demeura patiente et bienveillante, gagnant finalement leur respect et leur admiration. Sa vie illustre les vertus du travail assidu et de la dévotion, ce qui conduisit à sa reconnaissance comme sainte après sa mort en 1278.",
+      "image": "/images/saint_zita.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zita_of_Lucca"
+    }
+  ]
+}

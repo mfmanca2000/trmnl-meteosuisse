@@ -1,0 +1,27 @@
+{
+  "date": "05-29",
+  "feast_day": "29 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maria Maddalena de' Pazzi",
+      "feast_day": "29 maggio",
+      "era": "XVII secolo",
+      "patronage": null,
+      "legacy": "Carmelitana",
+      "summary": "Santa Maria Maddalena de' Pazzi fu figlia unica dell'illustre Camillo de' Pazzi, imparentato con i Medici di Firenze. Nacque nell'anno 1566 e fu battezzata con il nome di Caterina. Da bambina amava ritirarsi in luoghi solitari per raccogliersi in preghiera con Dio, che si rivelò a lei fin dalla tenera età, senza l'ausilio di maestri, come suo Creatore, Redentore e Santificatore.",
+      "image": "/images/saint_mary_magdalene_of_pazzi.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Cirillo",
+      "feast_day": "29 maggio",
+      "era": null,
+      "patronage": null,
+      "legacy": "Fanciullo martire",
+      "summary": "ancora fanciullo a Cesarea di Cappadocia, soffrì durante le persecuzioni del terzo secolo. Era stato istruito segretamente nel cristianesimo e ripeteva continuamente il nome di Cristo, confessando che la sola pronuncia di questo Nome gli era benefica. Per questo, suo padre pagano, immerso nelle superstizioni del paganesimo, gli fece subire ogni sorta di maltrattamenti.",
+      "image": "/images/saint_cyril_boy-martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

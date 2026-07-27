@@ -1,0 +1,21 @@
+{
+  "date": "06-14",
+  "feast_day": "14 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Basile le Grand",
+      "feast_day": "14 juin",
+      "era": "4e siècle",
+      "patronage": [
+        "personnel hospitalier",
+        "moines",
+        "brasseurs"
+      ],
+      "legacy": "Père du monachisme en Orient",
+      "summary": "Basile le Grand fut un éminent évêque et théologien de l'Église chrétienne primitive, connu pour son rôle dans la lutte contre l'arianisme et la promotion du monachisme. Il fonda plusieurs monastères ainsi qu'un vaste hôpital à Césarée, établissant un modèle de charité chrétienne et de vie communautaire. Ses écrits et ses enseignements ont eu un impact durable sur la spiritualité et la liturgie chrétiennes, lui valant le titre de Docteur de l'Église.",
+      "image": "/images/saint_basil_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Basil_of_Caesarea"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "03-13",
+  "feast_day": "13 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Euphrasie",
+      "feast_day": "13 mars",
+      "era": "Début du Ve siècle",
+      "patronage": null,
+      "legacy": "Modèle d'humilité et de charité",
+      "summary": "Sainte Euphrasie était une vierge et religieuse née à Constantinople, connue pour son profond engagement envers une vie de prière et de charité. Après avoir refusé un mariage arrangé, elle consacra sa fortune aux pauvres et devint un modèle d'humilité et d'obéissance. Elle fut reconnue pour ses guérisons miraculeuses et son pouvoir sur les démons, laissant un héritage de foi et de dévotion.",
+      "image": "/images/saint_euphrasia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Euphrasia_of_Constantinople"
+    }
+  ]
+}

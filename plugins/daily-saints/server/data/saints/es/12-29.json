@@ -1,0 +1,21 @@
+{
+  "date": "12-29",
+  "feast_day": "29 de diciembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tomás Becket",
+      "feast_day": "29 de diciembre",
+      "era": "Siglo XII",
+      "patronage": [
+        "arzobispos",
+        "mártires",
+        "Inglaterra"
+      ],
+      "legacy": "Defensor de los derechos de la Iglesia y mártir",
+      "summary": "Tomás Becket fue arzobispo de Canterbury y mártir, que se opuso a los intentos del rey Enrique II de ejercer control sobre la Iglesia. Su firme compromiso con los derechos eclesiásticos lo llevó a ser asesinado en 1170, convirtiéndolo en un símbolo de la lucha por la libertad religiosa. Fue canonizado por el papa Alejandro III en 1173, apenas unos años después de su muerte, y se le recuerda por su defensa de la autoridad de la Iglesia.",
+      "image": "/images/saint_thomas_becket.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Becket"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "date": "03-11",
+  "feast_day": "11 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eulogio di Cordova",
+      "feast_day": "11 marzo",
+      "era": "IX secolo",
+      "patronage": [
+        "i martiri",
+        "i convertiti cristiani"
+      ],
+      "legacy": "Difensore della fede e martire cristiano",
+      "summary": "Eulogio di Cordova fu un martire cristiano e sacerdote del IX secolo noto per la sua strenua difesa della fede durante il periodo del dominio musulmano in Spagna. Fu giustiziato per le sue aperte critiche all'Islam e per i suoi sforzi nel convertire i musulmani al cristianesimo. I suoi scritti e il suo martirio ne hanno fatto una figura significativa nella storia della resistenza cristiana nella penisola iberica.",
+      "image": "/images/saint_eulogius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba"
+    }
+  ]
+}

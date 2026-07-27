@@ -1,0 +1,31 @@
+{
+  "date": "11-27",
+  "feast_day": "27 novembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Caterina Labouré",
+      "feast_day": "27 novembre",
+      "era": "XIX secolo",
+      "patronage": [
+        "la Medaglia Miracolosa",
+        "i malati",
+        "le Figlie della Carità"
+      ],
+      "legacy": "Visionaria della Medaglia Miracolosa",
+      "summary": "Caterina Labouré fu una religiosa francese delle Figlie della Carità, nota per le sue visioni della Vergine Maria. Nel 1830 ricevette una visione che ispirò la creazione della Medaglia Miracolosa, divenuta da allora un potente simbolo di fede e devozione. La sua vita e la sua opera sottolineano l'importanza della preghiera e dell'intercessione di Maria nella vita dei fedeli.",
+      "image": "/images/the_miraculous_medal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+    },
+    {
+      "name": "Massimo",
+      "feast_day": "27 novembre",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Un modello di umiltà e virtù",
+      "summary": "San Massimo fu vescovo di Riez nel V secolo, noto per la sua profonda pietà e il suo impegno verso la virtù. Inizialmente resistette a diventare vescovo, preferendo una vita di umiltà e servizio nel suo monastero. La sua guida fu caratterizzata da mitezza e bontà, guadagnandogli l'affetto del suo clero e delle persone che servì fino alla sua morte nel 460.",
+      "image": "/images/saint_maximus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

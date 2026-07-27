@@ -1,0 +1,33 @@
+{
+  "date": "08-30",
+  "feast_day": "30 agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Rosa da Lima",
+      "feast_day": "30 agosto",
+      "era": "XVII secolo",
+      "patronage": [
+        "Perù",
+        "giardinaggio",
+        "popoli indigeni dell'America Latina"
+      ],
+      "legacy": "Prima santa delle Americhe",
+      "summary": "Rosa da Lima fu la prima santa canonizzata delle Americhe, nata a Lima, in Perù, nel 1586. Nota per la sua estrema penitenza e devozione a Dio, dedicò la sua vita alla preghiera e al servizio, soffrendo spesso per la conversione dei peccatori. Morì giovane, nel 1617, lasciando un'eredità di umiltà e profonda fede.",
+      "image": "/images/saint_rose_of_lima.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rose_of_Lima"
+    },
+    {
+      "name": "Fiacro",
+      "feast_day": "30 agosto",
+      "era": "VII secolo",
+      "patronage": [
+        "giardinieri"
+      ],
+      "legacy": "Patrono dei giardinieri e della solitudine",
+      "summary": "San Fiacro fu un principe scozzese che rinunciò alla sua eredità reale per condurre una vita di solitudine e preghiera in Francia. Era noto per il suo stile di vita austero, coltivando un giardino e costruendo un oratorio in onore della Beata Vergine. Fiacro divenne una guida spirituale per molti ed è ricordato come patrono dei giardinieri.",
+      "image": "/images/saint_fiaker.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Fiacre"
+    }
+  ]
+}

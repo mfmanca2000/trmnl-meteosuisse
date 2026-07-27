@@ -1,0 +1,27 @@
+{
+  "date": "12-19",
+  "feast_day": "19 dicembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Urbano V",
+      "feast_day": "19 dicembre",
+      "era": "Medioevo",
+      "patronage": null,
+      "legacy": "Papa dedito alla riforma e all'umiltà",
+      "summary": "Urbano V fu un papa noto per i suoi sforzi volti a riportare il papato da Avignone a Roma. Si dedicò alla riforma dei costumi e alla diffusione della fede cattolica. La sua vita fu un esempio di umiltà e devozione, poiché visse con semplicità e attribuì ogni gloria a Dio.",
+      "image": "/images/blessed_urban_v.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Urban_V"
+    },
+    {
+      "name": "Nemesio di Alessandria",
+      "feast_day": "19 dicembre",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Martire coraggioso del cristianesimo delle origini",
+      "summary": "Nemesio di Alessandria fu un martire cristiano vissuto durante la persecuzione di Decio nel III secolo. Fu accusato di essere cristiano e, sebbene si fosse discolpato da un'accusa di furto, venne sottoposto a tortura e infine condannato a morte sul rogo. Insieme a lui, anche diversi compagni subirono il martirio, dimostrando un coraggio e una fede straordinari di fronte alla persecuzione.",
+      "image": "/images/saint_nemesion_of_alexandria_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nemesius_of_Alexandria"
+    }
+  ]
+}

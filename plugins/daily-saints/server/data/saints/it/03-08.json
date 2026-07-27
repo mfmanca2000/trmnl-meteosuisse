@@ -1,0 +1,21 @@
+{
+  "date": "03-08",
+  "feast_day": "8 marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giovanni di Dio",
+      "feast_day": "8 marzo",
+      "era": "XVI secolo",
+      "patronage": [
+        "gli ospedali",
+        "i malati",
+        "i vigili del fuoco"
+      ],
+      "legacy": "Patrono degli ospedali e dei malati",
+      "summary": "Giovanni di Dio fu un santo portoghese noto per la sua profonda compassione e la sua dedizione ai malati e ai poveri. Dopo una giovinezza turbolenta, fondò i Fatebenefratelli, un ordine dedicato alla cura dei bisognosi. La sua eredità perdura attraverso il suo impegno per la carità e la cura degli emarginati, ispirando molte persone nel campo della sanità e del servizio sociale.",
+      "image": "/images/saint_john_of_god.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_God"
+    }
+  ]
+}

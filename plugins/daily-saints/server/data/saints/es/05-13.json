@@ -1,0 +1,45 @@
+{
+  "date": "05-13",
+  "feast_day": "13 de mayo",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Nuestra Señora de Fátima",
+      "feast_day": "13 de mayo",
+      "era": "Siglo XX",
+      "patronage": [
+        "paz",
+        "familias",
+        "viajeros"
+      ],
+      "legacy": "Un llamado a la oración y la conversión",
+      "summary": "Nuestra Señora de Fátima hace referencia a las apariciones de la Virgen María ocurridas en 1917 en Fátima, Portugal. Se apareció a tres pastorcitos, transmitiéndoles mensajes de oración, penitencia y una advertencia sobre la expansión del comunismo. La última aparición, el 13 de octubre de 1917, estuvo acompañada por el Milagro del Sol, presenciado por miles de personas, confirmando sus mensajes y la importancia de la fe.",
+      "image": "/images/our_lady_of_fatima.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima"
+    },
+    {
+      "name": "Roberto Belarmino",
+      "feast_day": "13 de mayo",
+      "era": "Siglos XVI-XVII",
+      "patronage": [
+        "teólogos",
+        "catequistas",
+        "apologética"
+      ],
+      "legacy": "Defensor de la doctrina y la fe católicas",
+      "summary": "San Roberto Belarmino fue un destacado teólogo jesuita y cardenal, conocido por su defensa de la doctrina católica durante la Contrarreforma. Escribió obras importantes, entre ellas sus Controversias y un Comentario a los Salmos, que enriquecieron la tradición intelectual de la Iglesia. Canonizado en 1930 y declarado doctor de la Iglesia, se le recuerda por su profundo compromiso con la fe y el estudio.",
+      "image": "/images/saint_robert_bellarmine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_Bellarmine"
+    },
+    {
+      "name": "Juan el Silencioso",
+      "feast_day": "13 de mayo",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Un modelo de silencio y oración",
+      "summary": "Juan el Silencioso fue un obispo y monje conocido por su profundo compromiso con el silencio y la oración. Nacido en Armenia, fundó un monasterio y llevó una vida de austeridad, retirándose a menudo al desierto. Guio a muchas almas hacia Dios con su ejemplo y sus enseñanzas hasta su muerte, ocurrida hacia el año 558.",
+      "image": "/images/saint_john_the_silent.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Silent"
+    }
+  ]
+}

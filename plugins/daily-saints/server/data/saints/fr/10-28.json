@@ -1,0 +1,20 @@
+{
+  "date": "10-28",
+  "feast_day": "28 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Simon",
+      "feast_day": "28 octobre",
+      "era": "Ier siècle",
+      "patronage": [
+        "corroyeurs",
+        "zélotes"
+      ],
+      "legacy": "Apôtre connu pour sa foi ardente",
+      "summary": "Simon le Zélote était l'un des douze apôtres de Jésus et est traditionnellement considéré comme un frère de Jésus. Il prêcha l'Évangile dans diverses régions, notamment en Égypte et en Perse, où il connut finalement le martyre aux côtés de saint Jude. Connu pour son zèle dans la diffusion du christianisme, Simon reste dans les mémoires pour sa foi inébranlable et son dévouement à Dieu, même face à la persécution.",
+      "image": "/images/saint_simon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simon_the_Zealot"
+    }
+  ]
+}

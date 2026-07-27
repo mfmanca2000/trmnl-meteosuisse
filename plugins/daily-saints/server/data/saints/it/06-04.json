@@ -1,0 +1,20 @@
+{
+  "date": "06-04",
+  "feast_day": "4 giugno",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francesco Caracciolo",
+      "feast_day": "4 giugno",
+      "era": "XVI secolo",
+      "patronage": [
+        "malati",
+        "marinai"
+      ],
+      "legacy": "Fondatore dell'Ordine dei Chierici Regolari Minori",
+      "summary": "Francesco Caracciolo nacque nel 1563 a Napoli e divenne una figura di primo piano nella Chiesa cattolica come fondatore dell'Ordine dei Chierici Regolari Minori. Dopo aver superato una grave malattia, dedicò la sua vita al servizio dei poveri e alla promozione della devozione al Santissimo Sacramento. È ricordato per la sua profonda spiritualità e il suo impegno nella preghiera, in particolare davanti all'Eucaristia, fino alla sua morte nel 1608.",
+      "image": "/images/saint_francis_caracciolo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Caracciolo"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "06-05",
+  "feast_day": "5 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bonifacio",
+      "feast_day": "5 de junio",
+      "era": "Siglo VIII",
+      "patronage": [
+        "Alemania",
+        "misioneros",
+        "cerveceros"
+      ],
+      "legacy": "Un pionero del cristianismo en Alemania",
+      "summary": "San Bonifacio fue un misionero y obispo inglés que desempeñó un papel crucial en la cristianización de Alemania durante el siglo VIII. Afrontó numerosas dificultades, incluidas la violencia y la pobreza, pero se mantuvo firme en su misión de convertir a las tribus paganas. Finalmente fue martirizado mientras administraba la Confirmación, mostrando así su entrega a su fe y a su grey.",
+      "image": "/images/saint_boniface.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boniface"
+    }
+  ]
+}

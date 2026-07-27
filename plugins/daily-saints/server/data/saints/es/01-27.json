@@ -1,0 +1,22 @@
+{
+  "date": "01-27",
+  "feast_day": "27 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan Crisóstomo",
+      "feast_day": "27 de enero",
+      "era": "Siglos IV-V",
+      "patronage": [
+        "predicadores",
+        "oradores",
+        "enfermos",
+        "exiliados"
+      ],
+      "legacy": "Maestro de la elocuencia y del cuidado pastoral",
+      "summary": "Juan Crisóstomo fue un destacado padre de la Iglesia primitiva, conocido por su elocuente predicación y sus extensos escritos. Sirvió como patriarca de Constantinopla y fue una figura clave en el desarrollo de la liturgia cristiana. A pesar de enfrentar el exilio y las dificultades por sus críticas abiertas al vicio, permaneció firme en su fe y es recordado como doctor de la Iglesia.",
+      "image": "/images/saint_john_chrysostom.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Chrysostom"
+    }
+  ]
+}

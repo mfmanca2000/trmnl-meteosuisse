@@ -1,0 +1,22 @@
+{
+  "date": "12-03",
+  "feast_day": "3 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "François Xavier",
+      "feast_day": "3 décembre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "missionnaires",
+        "missions étrangères",
+        "Inde",
+        "Japon"
+      ],
+      "legacy": "Pionnier des missions chrétiennes en Asie",
+      "summary": "François Xavier était un missionnaire jésuite espagnol qui joua un rôle crucial dans la propagation du christianisme en Asie au XVIe siècle. Il est surtout connu pour son intense travail missionnaire en Inde et au Japon, où il baptisa des milliers de personnes et fonda de nombreuses églises. Son dévouement et ses actes miraculeux lui valurent le titre d'Apôtre des Indes et du Japon.",
+      "image": "/images/saint_francis_xavier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Xavier"
+    }
+  ]
+}

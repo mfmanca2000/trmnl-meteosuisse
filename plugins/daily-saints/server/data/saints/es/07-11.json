@@ -1,0 +1,31 @@
+{
+  "date": "07-11",
+  "feast_day": "11 de julio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pío I",
+      "feast_day": "11 de julio",
+      "era": "Siglo II",
+      "patronage": null,
+      "legacy": "Defensor de la fe contra la herejía",
+      "summary": "Pío I fue el noveno papa de la Iglesia católica, y gobernó entre los años 142 y 157 d.C. Es conocido por sus esfuerzos para combatir la herejía y por establecer la celebración de la Pascua en domingo. Pío I fue martirizado por su fe, convirtiéndose en un símbolo de firmeza en la Iglesia primitiva.",
+      "image": "/images/saint_pius_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_I"
+    },
+    {
+      "name": "Jacobo de Nísibis",
+      "feast_day": "11 de julio",
+      "era": "Siglo IV",
+      "patronage": [
+        "Nísibis",
+        "profecía",
+        "milagros"
+      ],
+      "legacy": "Protector de Nísibis y hacedor de milagros",
+      "summary": "Jacobo de Nísibis fue un destacado obispo y doctor de la Iglesia siria, conocido por su profunda espiritualidad y su compromiso con la oración. Es celebrado por sus intervenciones milagrosas, incluida la protección de su ciudad durante un asedio persa mediante la oración divina. Su legado perdura como símbolo de fe y resiliencia frente a la adversidad.",
+      "image": "/images/saint_james_of_nisibis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_of_Nisibis"
+    }
+  ]
+}

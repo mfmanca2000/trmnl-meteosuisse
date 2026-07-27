@@ -1,0 +1,21 @@
+{
+  "date": "09-24",
+  "feast_day": "24 settembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pietro Nolasco",
+      "feast_day": "24 settembre",
+      "era": "Medievale",
+      "patronage": [
+        "prigionieri",
+        "detenuti",
+        "coloro che hanno bisogno di redenzione"
+      ],
+      "legacy": "Campione dei prigionieri e della misericordia",
+      "summary": "Pietro Nolasco fu un santo spagnolo e il fondatore dell'Ordine di Nostra Signora della Mercede, istituito per riscattare i prigionieri cristiani dalla schiavitù musulmana. Dedicò la sua vita a opere di carità e fece voto di castità, mettendo la sua ricchezza al servizio della Chiesa. I suoi sforzi furono riconosciuti da re Giacomo I d'Aragona, ed è ricordato per la sua profonda fede e il suo impegno per la liberazione degli oppressi.",
+      "image": "/images/our_lady_of_ransom_or_of_mercy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nolasco"
+    }
+  ]
+}

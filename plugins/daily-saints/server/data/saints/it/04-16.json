@@ -1,0 +1,30 @@
+{
+  "date": "04-16",
+  "feast_day": "16 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Benedetto Giuseppe Labre",
+      "feast_day": "16 aprile",
+      "era": "XVIII secolo",
+      "patronage": [
+        "senzatetto",
+        "pellegrini"
+      ],
+      "legacy": "Un modello di umiltà e pellegrinaggio",
+      "summary": "Benedetto Giuseppe Labre fu un mendicante e pellegrino francese noto per la sua profonda pietà e devozione al Santissimo Sacramento. Dopo tentativi falliti di entrare in vari ordini religiosi, abbracciò una vita di pellegrinaggio, visitando molti santuari cristiani in tutta Europa pur vivendo in estrema povertà. È ricordato per la sua umiltà, la sua dedizione alla preghiera e il suo servizio ai poveri fino alla sua morte nel 1783.",
+      "image": "/images/saint_benedict_joseph_labre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Joseph_Labre"
+    },
+    {
+      "name": "Engrazia e i suoi compagni",
+      "feast_day": "16 aprile",
+      "era": "IV secolo",
+      "patronage": null,
+      "legacy": "Martiri",
+      "summary": "La Chiesa celebra in questo giorno il trionfo di sant'Engrazia, vergine e martire, originaria del Portogallo. Suo padre l'aveva promessa in sposa a un uomo di qualità nel Rossiglione, in Gallia, e per accompagnarla, inviò come scorta per il matrimonio suo zio Lupercio e un brillante seguito di altri sedici nobili, oltre a una serva di nome Giulia. Quando giunsero a Saragozza, ella venne a sapere dell'orribile massacro di cristiani che si stava allora compiendo, e dei tormenti che essi subivano per mano di Daciano, che governava quella regione in nome degli imperatori Diocleziano e Massimiano.",
+      "image": "/images/saint_engratia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

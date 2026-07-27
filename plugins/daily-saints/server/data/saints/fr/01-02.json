@@ -1,0 +1,17 @@
+{
+  "date": "01-02",
+  "feast_day": "2 janvier",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Macaire d'Alexandrie",
+      "feast_day": "2 janvier",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Modèle de spiritualité érémitique et de prière",
+      "summary": "Saint Macaire d'Alexandrie était un ermite et un disciple de saint Antoine le Grand. Il est connu pour ses pratiques spirituelles intenses et ses luttes contre la tentation, s'adonnant souvent à des formes extrêmes de mortification. Sa vie illustre la recherche de la sainteté par la prière, la vigilance et le renoncement à soi-même.",
+      "image": "/images/saint_macarius_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Macarius_of_Alexandria"
+    }
+  ]
+}

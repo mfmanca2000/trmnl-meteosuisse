@@ -1,0 +1,21 @@
+{
+  "date": "03-07",
+  "feast_day": "7 de marzo",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Tomás de Aquino",
+      "feast_day": "7 de marzo",
+      "era": "época medieval",
+      "patronage": [
+        "los estudiantes",
+        "las universidades",
+        "los filósofos"
+      ],
+      "legacy": "Padre de la Escolástica y Doctor Angélico",
+      "summary": "Tomás de Aquino fue un fraile dominico y teólogo del siglo XIII, célebre por sus influyentes obras de filosofía y teología. Es conocido sobre todo por su síntesis de la filosofía aristotélica con la doctrina cristiana, particularmente en su obra cumbre, la 'Suma Teológica'. Reconocido como Doctor de la Iglesia, es celebrado por sus profundas reflexiones sobre la fe y la razón, y sus escritos siguen conformando el pensamiento católico en la actualidad.",
+      "image": "/images/saint_thomas_aquinas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+    }
+  ]
+}

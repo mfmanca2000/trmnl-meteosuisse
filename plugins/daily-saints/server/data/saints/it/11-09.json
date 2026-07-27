@@ -1,0 +1,58 @@
+{
+  "date": "11-09",
+  "feast_day": "9 novembre",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Silvestro",
+      "feast_day": "9 novembre",
+      "era": "Cristianesimo primitivo",
+      "patronage": [
+        "chiese",
+        "battesimo"
+      ],
+      "legacy": "Pioniere della consacrazione delle chiese e dell'unità",
+      "summary": "Papa Silvestro I fu vescovo di Roma dal 314 al 335 d.C., durante un periodo cruciale della Chiesa primitiva. È noto soprattutto per il suo ruolo nella costruzione della basilica lateranense, la prima chiesa costruita a Roma, che divenne un importante centro del culto cristiano. Il suo pontificato coincise con l'editto di Milano, che concesse la libertà religiosa ai cristiani dell'Impero romano.",
+      "image": "/images/dedication_of_the_lateran_basilica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_I"
+    },
+    {
+      "name": "Maturino",
+      "feast_day": "9 novembre",
+      "era": "IV secolo",
+      "patronage": [
+        "malattia mentale",
+        "possessione demoniaca",
+        "vasai"
+      ],
+      "legacy": "Patrono della salute mentale e dell'esorcismo",
+      "summary": "Maturino fu un sacerdote ed esorcista vissuto alla fine del IV secolo, noto per le sue capacità miracolose e la sua dedizione alla fede cristiana. Convertì la sua famiglia dal paganesimo e divenne una figura di rilievo nella Chiesa primitiva, predicando e compiendo miracoli, in particolare a Roma. La sua eredità comprende il patronato su coloro che soffrono di malattia mentale e possessione demoniaca, con un culto importante a Larchant, in Francia, dove le sue reliquie erano venerate.",
+      "image": "/images/saint_mathurin_of_larchant.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maturinus"
+    },
+    {
+      "name": "Teodoro Tirone",
+      "feast_day": "9 novembre",
+      "era": "IV secolo",
+      "patronage": [
+        "soldati",
+        "martiri",
+        "vigili del fuoco"
+      ],
+      "legacy": "Un simbolo di fede e coraggio incrollabili.",
+      "summary": "San Teodoro Tirone fu un martire cristiano originario dell'Asia Minore, vissuto agli inizi del IV secolo. Era un soldato che rifiutò di rinnegare la propria fede di fronte alla persecuzione e alla tortura, venendo infine giustiziato per le sue convinzioni. La sua fermezza e il suo coraggio di fronte alla morte ne fecero una figura celebrata tra i primi cristiani e un simbolo di fedeltà a Dio.",
+      "image": "/images/saint_theodore_tyro.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodore_of_Amasea"
+    },
+    {
+      "name": "Benen",
+      "feast_day": "9 novembre",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Discepolo amato di Patrizio e cantore",
+      "summary": "San Benen, noto anche come Benigno, fu uno stretto discepolo di san Patrizio e svolse un ruolo significativo nella Chiesa cristiana primitiva in Irlanda. È celebrato per la sua voce dolce nel canto, che utilizzava per attirare molte persone al cristianesimo. Dopo aver servito come vescovo coadiutore di Armagh, continuò a evangelizzare e a contribuire alla Chiesa fino alla sua morte nel 467.",
+      "image": "/images/saint_benen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Benen"
+    }
+  ]
+}

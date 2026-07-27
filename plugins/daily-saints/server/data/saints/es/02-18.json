@@ -1,0 +1,34 @@
+{
+  "date": "02-18",
+  "feast_day": "18 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Bernadette Soubirous",
+      "feast_day": "18 de febrero",
+      "era": "Siglo XIX",
+      "patronage": [
+        "enfermos",
+        "pobres",
+        "males corporales"
+      ],
+      "legacy": "Visionaria de Lourdes y sanadora de enfermos",
+      "summary": "Bernadette Soubirous fue una virgen y mística francesa conocida por sus visiones de la Santísima Virgen María en Lourdes. A los catorce años, vivió dieciocho apariciones, durante las cuales se le pidió que revelara los poderes curativos de un manantial que brotó en el lugar. Más tarde se unió a las Hermanas de la Caridad y vivió una vida de humildad y sufrimiento hasta su muerte a los 36 años.",
+      "image": "/images/saint_bernadette_soubirous.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernadette_Soubirous"
+    },
+    {
+      "name": "Simeón",
+      "feast_day": "18 de febrero",
+      "era": "Siglo I",
+      "patronage": [
+        "mártires",
+        "Jerusalén"
+      ],
+      "legacy": "Mártir y guía de la Iglesia de Jerusalén",
+      "summary": "San Simeón fue el segundo obispo de Jerusalén y un mártir que guio a la comunidad cristiana durante un período turbulento. Era pariente de Jesucristo, hijo de Cleofás y primo del Salvador. Tras sufrir persecución y ser finalmente crucificado hacia el año 107, se le recuerda por su fe constante y su liderazgo.",
+      "image": "/images/saint_simeon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simeon_of_Jerusalem"
+    }
+  ]
+}

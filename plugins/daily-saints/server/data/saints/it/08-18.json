@@ -1,0 +1,45 @@
+{
+  "date": "08-18",
+  "feast_day": "18 agosto",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Elena",
+      "feast_day": "18 agosto",
+      "era": "IV secolo",
+      "patronage": [
+        "convertiti",
+        "archeologi",
+        "matrimoni difficili"
+      ],
+      "legacy": "Scopritrice della Vera Croce",
+      "summary": "Sant'Elena fu una principessa britannica e madre di Costantino il Grande, il primo imperatore cristiano. È celebre per il suo pellegrinaggio a Gerusalemme, dove scoprì la Vera Croce e fece costruire chiese nei luoghi cristiani più significativi. La sua influenza sul figlio e il suo contributo al cristianesimo sono celebrati, in particolare il suo ruolo nel promuovere la fede nei primi anni della Chiesa.",
+      "image": "/images/saint_helen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Helen_of_Constantinople"
+    },
+    {
+      "name": "Agapito",
+      "feast_day": "18 agosto",
+      "era": "III secolo",
+      "patronage": null,
+      "legacy": "Coraggioso martire e convertitore di pagani",
+      "summary": "Sant'Agapito fu un giovane martire che soffrì grandemente per la sua fede sotto il regno dell'imperatore Aureliano. La sua fermezza sotto tortura portò alla conversione di molti pagani, i quali furono in seguito giustiziati per le loro nuove convinzioni. Agapito fu infine decapitato per essersi rifiutato di sacrificare ad Apollo, ed è ricordato per il suo straordinario coraggio e la sua fede.",
+      "image": "/images/saint_agapet.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agapetus"
+    },
+    {
+      "name": "Chiara da Montefalco",
+      "feast_day": "18 agosto",
+      "era": "Medioevo",
+      "patronage": [
+        "malattie cardiache",
+        "malati",
+        "monache"
+      ],
+      "legacy": "Un modello di devozione e compassione",
+      "summary": "Chiara da Montefalco fu una vergine e badessa italiana nota per la sua profonda spiritualità e la sua dedizione alla Passione di Cristo. Guidò una comunità di monache e fu apprezzata per la sua saggezza, le guarigioni miracolose e i doni profetici. Si narra che il suo cuore recasse impressa l'immagine del Salvatore crocifisso, a simboleggiare il suo profondo legame con la sofferenza di Cristo.",
+      "image": "/images/saint_clare_of_montefalco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clare_of_Montefalco"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "date": "04-28",
+  "feast_day": "28 aprile",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Luigi Maria di Montfort",
+      "feast_day": "28 aprile",
+      "era": "XVIII secolo",
+      "patronage": null,
+      "legacy": "Dottore di Maria",
+      "summary": "Uno dei grandi Santi la cui missione appare confermata e in crescita col passare degli anni, mentre ci troviamo in mezzo agli ultimi tempi, san Luigi Maria di Montfort può ormai essere riconosciuto come un profeta e un oracolo di Dio per la santificazione della Chiesa, che deve resistere ai mali predetti di questo periodo. Autore di una Preghiera Profetica che chiede gli Apostoli degli Ultimi Tempi, egli è anche l'ardente apostolo della Vera Devozione alla Beata Vergine e il Santo dell'amore per la Croce del Signore, come si vede dalla sua Lettera agli Amici della Croce e da tutta la sua vita di attività missionaria. Nato a Montfort-la-Cane, presso Saint-Malo, nel 1673, era il maggiore di otto figli.",
+      "image": "/images/saint_louis_mary_de_montfort.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Paolo della Croce",
+      "feast_day": "28 aprile",
+      "era": "XVIII secolo",
+      "patronage": [
+        "desolazione spirituale",
+        "i Passionisti"
+      ],
+      "legacy": "Fondatore dell'Ordine dei Passionisti",
+      "summary": "Paolo della Croce fu il fondatore dell'Ordine dei Passionisti, dedicato alla meditazione sulla Passione di Gesù Cristo. Nel corso della sua vita, sopportò notevoli sofferenze fisiche e spirituali, che accolse come mezzo per approfondire la sua fede e il suo impegno verso Dio. È ricordato per la sua profonda spiritualità e per la fondazione di una comunità religiosa incentrata sulla Passione di Cristo.",
+      "image": "/images/saint_paul_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_the_Cross"
+    },
+    {
+      "name": "Luchesio",
+      "feast_day": "28 aprile",
+      "era": "XIII secolo",
+      "patronage": [
+        "mercanti",
+        "poveri",
+        "terz'ordine di san Francesco"
+      ],
+      "legacy": "Primo membro del Terz'Ordine francescano",
+      "summary": "Luchesio fu un ricco mercante di Poggibonsi, in Italia, che visse una profonda conversione dopo aver ascoltato la predicazione di san Francesco d'Assisi. Divenne il primo membro del Terz'Ordine di san Francesco, dedicando la sua vita alla carità e al servizio dei poveri. Insieme alla moglie, Bona Dona, fondò una comunità che provvedeva ai bisognosi e divenne nota per le sue opere di misericordia.",
+      "image": "/images/blessed_luchesio.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luchesius_Modestini"
+    },
+    {
+      "name": "Vitale di Ravenna",
+      "feast_day": "28 aprile",
+      "era": "II secolo",
+      "patronage": null,
+      "legacy": "Martire",
+      "summary": "San Vitale fu un cittadino cristiano di Milano del I secolo e padre dei fratelli gemelli e futuri martiri, i santi Gervasio e Protasio. È il principale patrono di Ravenna, dove fu martirizzato. La divina provvidenza lo aveva condotto in quella città, dove vide comparire davanti al tribunale un medico cristiano di nome Ursicino, che era stato torturato e che fu poi condannato a perdere la testa per la sua fede.",
+      "image": "/images/saint_vitalis_of_ravenna.jpg",
+      "wikipedia": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "05-23",
+  "feast_day": "23 mai",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jeanne-Antide Thouret",
+      "feast_day": "23 mai",
+      "era": "XIXe siècle",
+      "patronage": null,
+      "legacy": "Fondatrice",
+      "summary": "Née dans le diocèse de Besançon en novembre 1765, sainte Jeanne-Antide perdit sa pieuse mère à l'âge de seize ans, et prit en charge pendant plusieurs années le foyer familial ainsi que ses jeunes frères et sœurs. Après bien des hésitations, son père lui permit d'entrer dans la Congrégation des Filles de la Charité de saint Vincent de Paul à Paris, en 1787. Elle travailla dans divers hôpitaux au service des malades, jusqu'à ce que la Révolution en France provoque la dispersion des congrégations.",
+      "image": "/images/saint_joan_antide_thouret.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Julie",
+      "feast_day": "23 mai",
+      "era": null,
+      "patronage": null,
+      "legacy": "Vierge, martyre",
+      "summary": "fut une noble vierge de Carthage qui, lorsque la ville fut prise par Genséric en 439, fut vendue comme esclave à un marchand païen de Syrie. Dans les tâches les plus humiliantes de sa condition, par sa gaieté et sa patience, elle trouva un bonheur et un réconfort que le monde ne pouvait donner. Chaque fois qu'elle n'était pas occupée aux travaux domestiques, son temps était consacré à la prière et à la lecture de livres de piété.",
+      "image": "/images/saint_julia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

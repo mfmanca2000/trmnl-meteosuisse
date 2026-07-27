@@ -1,0 +1,22 @@
+{
+  "date": "09-08",
+  "feast_day": "8 septembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Marie",
+      "feast_day": "8 septembre",
+      "era": "Ier siècle",
+      "patronage": [
+        "mères",
+        "femmes enceintes",
+        "perte des parents",
+        "malades"
+      ],
+      "legacy": "Mère de Dieu et intercesseur pour tous",
+      "summary": "Marie est vénérée comme la mère de Jésus-Christ et occupe une place centrale dans la théologie chrétienne. Elle est célébrée pour sa pureté et son obéissance à la volonté de Dieu, ayant été conçue sans péché originel. La Nativité de la Bienheureuse Vierge Marie est commémorée comme un événement important du calendrier chrétien, marquant sa naissance et le début du chemin vers le salut.",
+      "image": "/images/the_nativity_of_the_blessed_virgin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

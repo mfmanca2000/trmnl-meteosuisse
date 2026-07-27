@@ -1,0 +1,21 @@
+{
+  "date": "10-13",
+  "feast_day": "13 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eduardo el Confesor",
+      "feast_day": "13 de octubre",
+      "era": "Siglo XI",
+      "patronage": [
+        "matrimonios difíciles",
+        "paz",
+        "Inglaterra"
+      ],
+      "legacy": "Un rey santo conocido por la paz y la caridad.",
+      "summary": "Eduardo el Confesor fue rey de Inglaterra desde 1042 hasta su muerte en 1066. Conocido por su piedad y su compromiso con la Iglesia, gobernó centrado en la paz y la caridad, ganándose el afecto de sus súbditos. Su reinado estuvo marcado por la reconstrucción de iglesias, entre ellas la abadía de Westminster, y fue canonizado en 1161 debido a los milagros que se le atribuyeron después de su muerte.",
+      "image": "/images/saint_edward_iii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+    }
+  ]
+}

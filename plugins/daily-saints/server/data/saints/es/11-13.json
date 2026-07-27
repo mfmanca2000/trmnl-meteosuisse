@@ -1,0 +1,35 @@
+{
+  "date": "11-13",
+  "feast_day": "13 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Estanislao Kostka",
+      "feast_day": "13 de noviembre",
+      "era": "siglo XVI",
+      "patronage": [
+        "la juventud",
+        "los estudiantes",
+        "los jesuitas"
+      ],
+      "legacy": "Patrono de la juventud y los estudiantes",
+      "summary": "San Estanislao Kostka fue un jesuita polaco conocido por su profunda espiritualidad y su compromiso con Dios desde muy joven. Ingresó en la Compañía de Jesús a los 17 años y es recordado por su piedad, su devoción a la Virgen María y las experiencias milagrosas vividas durante su enfermedad. Murió a la corta edad de 18 años, y su cuerpo incorrupto se convirtió en un lugar de veneración, lo que llevó a su canonización en 1726.",
+      "image": "/images/saint_stanislaus_kostka.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stanislaus_Kostka"
+    },
+    {
+      "name": "Diego de Alcalá",
+      "feast_day": "13 de noviembre",
+      "era": "siglo XV",
+      "patronage": [
+        "los hospitales",
+        "los enfermos",
+        "las Islas Canarias"
+      ],
+      "legacy": "Un modelo de humildad y servicio",
+      "summary": "San Diego de Alcalá, nacido en Andalucía a comienzos del siglo XV, fue un confesor franciscano conocido por su profunda espiritualidad y su compromiso de servir a los demás. Dedicó su vida a la oración, el ayuno y el cuidado de los enfermos, realizando a menudo milagros por su intercesión. Murió en 1463, y su cuerpo incorrupto se convirtió en fuente de veneración, lo que llevó a su canonización en 1588.",
+      "image": "/images/saint_didacus_or_diego.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Didacus"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "03-18",
+  "feast_day": "18 mars",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cyrille de Jérusalem",
+      "feast_day": "18 mars",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi et de la catéchèse",
+      "summary": "Cyrille de Jérusalem fut un évêque et théologien éminent de l'Église primitive, connu pour ses catéchèses qui jetèrent les bases de l'instruction chrétienne sur le Credo et les Sacrements. Il fit face à la persécution durant son épiscopat mais resta ferme dans sa foi, s'opposant notamment aux tentatives de reconstruction du temple juif sous l'empereur Julien. L'héritage de Cyrille perdure à travers ses écrits et son rôle dans la défense de l'orthodoxie contre l'hérésie.",
+      "image": "/images/saint_cyril_of_jerusalem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+    }
+  ]
+}

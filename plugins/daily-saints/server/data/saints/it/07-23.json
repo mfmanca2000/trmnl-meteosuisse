@@ -1,0 +1,21 @@
+{
+  "date": "07-23",
+  "feast_day": "23 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Apollinare di Ravenna",
+      "feast_day": "23 luglio",
+      "era": "I secolo",
+      "patronage": [
+        "Ravenna",
+        "martiri",
+        "malati"
+      ],
+      "legacy": "Primo vescovo e martire di Ravenna",
+      "summary": "Apollinare di Ravenna fu il primo vescovo di Ravenna e un martire che dedicò la propria vita alla diffusione del cristianesimo. Compì numerosi miracoli, tra cui la guarigione del figlio cieco di un soldato e quella della moglie di un tribuno militare, contribuendo a stabilire una comunità cristiana a Ravenna. Nonostante una dura persecuzione, che comprese torture ed esilio, rimase saldo nella sua fede fino alla morte, avvenuta nel 79 d.C.",
+      "image": "/images/saint_apollinaris_of_ravenna.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apollinaris_of_Ravenna"
+    }
+  ]
+}

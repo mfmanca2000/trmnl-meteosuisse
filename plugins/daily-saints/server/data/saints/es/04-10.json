@@ -1,0 +1,27 @@
+{
+  "date": "04-10",
+  "feast_day": "10 de abril",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Miguel de los Santos",
+      "feast_day": "10 de abril",
+      "era": "Siglo XVII",
+      "patronage": null,
+      "legacy": "Devoción a través de la ascesis y los milagros",
+      "summary": "Miguel de los Santos fue un sacerdote trinitario español conocido por su profunda piedad y su compromiso con una vida de castidad y mortificación. Ingresó en los Trinitarios siendo joven y se dedicó a la reforma de la Orden practicando una ascesis extrema. Canonizado en 1862, se le recuerda por sus milagros y la devoción que inspiró en los demás.",
+      "image": "/images/saint_michael_de_los_santos.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_dos_Santos"
+    },
+    {
+      "name": "Bademo",
+      "feast_day": "10 de abril",
+      "era": "Siglo IV",
+      "patronage": null,
+      "legacy": "Martirio y fe inquebrantable en Cristo",
+      "summary": "Bademo fue un rico ciudadano de Bethlapeta, en Persia, que renunció a sus posesiones para seguir a Cristo y fundó un monasterio. Fue martirizado durante la persecución de los cristianos bajo el rey Sapor, soportando severas torturas con notable paciencia. Su legado es el de una fe y una caridad inquebrantables, que inspiraron a muchos a través de su ejemplo de sufrimiento por la gloria de Dios.",
+      "image": "/images/saint_bademus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bademus"
+    }
+  ]
+}

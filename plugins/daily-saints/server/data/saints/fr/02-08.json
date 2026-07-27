@@ -1,0 +1,21 @@
+{
+  "date": "02-08",
+  "feast_day": "8 février",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jean de Matha",
+      "feast_day": "8 février",
+      "era": "Médiéval",
+      "patronage": [
+        "captifs",
+        "prisonniers",
+        "trinitaires"
+      ],
+      "legacy": "Défenseur des captifs et des pauvres",
+      "summary": "Saint Jean de Matha était un prêtre français et le fondateur de l'Ordre de la Très Sainte Trinité, consacré au rachat des captifs chrétiens. Il consacra sa vie au service des pauvres et à la libération de ceux réduits en esclavage pendant les croisades. Son œuvre fut reconnue par le pape Innocent III, qui approuva la fondation de son ordre en 1198.",
+      "image": "/images/saint_john_of_matha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Matha"
+    }
+  ]
+}

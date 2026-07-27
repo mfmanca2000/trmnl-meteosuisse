@@ -1,0 +1,20 @@
+{
+  "date": "06-28",
+  "feast_day": "28 juin",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Irénée",
+      "feast_day": "28 juin",
+      "era": "2e siècle",
+      "patronage": [
+        "apologistes",
+        "contre les hérésies"
+      ],
+      "legacy": "Défenseur de la foi contre les hérésies",
+      "summary": "Saint Irénée fut un éminent théologien du christianisme primitif et évêque de Lyon, connu pour son rôle dans la lutte contre les hérésies au 2e siècle. Il est surtout connu pour son ouvrage « Adversus Haereses », qui défendait la foi chrétienne contre les enseignements gnostiques. Irénée fut martyrisé vers l'an 202 sous l'empereur romain Septime Sévère, laissant un héritage durable en tant que Docteur de l'Église.",
+      "image": "/images/saint_irenaeus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Irenaeus"
+    }
+  ]
+}

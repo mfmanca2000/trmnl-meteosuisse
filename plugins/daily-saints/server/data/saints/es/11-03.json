@@ -1,0 +1,37 @@
+{
+  "date": "11-03",
+  "feast_day": "3 de noviembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Martín de Porres",
+      "feast_day": "3 de noviembre",
+      "era": "siglo XVII",
+      "patronage": [
+        "la justicia social",
+        "las personas de raza mixta",
+        "las víctimas inocentes",
+        "los pobres"
+      ],
+      "legacy": "Sanador compasivo y defensor de los pobres",
+      "summary": "Martín de Porres fue un hermano lego dominico nacido en Lima, Perú, en 1579. Conocido por su profunda humildad y extraordinaria compasión, dedicó su vida a servir a los pobres y enfermos, realizando a menudo milagros de curación. Canonizado en 1962, es recordado como un poderoso intercesor para quienes están necesitados.",
+      "image": "/images/saint_martin_de_porres.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_de_Porres"
+    },
+    {
+      "name": "Huberto",
+      "feast_day": "3 de noviembre",
+      "era": "Alta Edad Media",
+      "patronage": [
+        "los cazadores",
+        "los perros",
+        "los trabajadores forestales",
+        "los matemáticos"
+      ],
+      "legacy": "Santo patrono de los cazadores y del bosque.",
+      "summary": "San Huberto fue un obispo conocido por su profunda fe y su compromiso con la vida cristiana tras un encuentro transformador durante una expedición de caza. Se convirtió en un apóstol celoso, dedicando su vida al servicio de los pobres y a la difusión del Evangelio. Su legado incluye la fundación de la diócesis de Lieja y una reputación de obrar milagros.",
+      "image": "/images/saint_hubert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Hubert_of_Liege"
+    }
+  ]
+}

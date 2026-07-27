@@ -1,0 +1,35 @@
+{
+  "date": "05-06",
+  "feast_day": "6 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Domenico Savio",
+      "feast_day": "6 maggio",
+      "era": "XIX secolo",
+      "patronage": [
+        "chierichetti",
+        "delinquenti minorenni",
+        "studenti"
+      ],
+      "legacy": "Un'ispirazione per i giovani attraverso la fede e la gioia",
+      "summary": "Domenico Savio fu un giovane studente italiano e membro della Società Salesiana, noto per il suo profondo impegno nella fede e per il desiderio di santità fin dalla giovane età. Fu stretto collaboratore di san Giovanni Bosco e fondò la Compagnia dell'Immacolata Concezione per promuovere la fede tra i suoi compagni. Nonostante la sua breve vita, è ricordato per il suo carattere gioioso e per la dedizione nell'aiutare gli altri a crescere nella fede.",
+      "image": "/images/saint_dominic_savio.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Savio"
+    },
+    {
+      "name": "Giovanni",
+      "feast_day": "6 maggio",
+      "era": "I secolo",
+      "patronage": [
+        "autori",
+        "teologi",
+        "farmacisti"
+      ],
+      "legacy": "Discepolo prediletto e autore dell'Apocalisse",
+      "summary": "San Giovanni Evangelista fu l'ultimo apostolo sopravvissuto e svolse un ruolo importante nella Chiesa primitiva, in particolare in Asia Minore. Fu protagonista di una celebre fuga miracolosa dal martirio quando venne gettato in un calderone d'olio bollente, che non gli arrecò alcun danno. Fu infine esiliato sull'isola di Patmos, dove ricevette le visioni che sarebbero diventate il Libro dell'Apocalisse.",
+      "image": "/images/saint_john_before_the_latin_gate.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Evangelist"
+    }
+  ]
+}

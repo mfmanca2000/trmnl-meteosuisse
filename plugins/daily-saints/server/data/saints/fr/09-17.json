@@ -1,0 +1,36 @@
+{
+  "date": "09-17",
+  "feast_day": "17 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "François d'Assise",
+      "feast_day": "17 septembre",
+      "era": "Médiéval",
+      "patronage": [
+        "animaux",
+        "environnement",
+        "marchands",
+        "passagers clandestins"
+      ],
+      "legacy": "Saint patron des animaux et de l'écologie",
+      "summary": "François d'Assise était un frère italien du XIIIe siècle et le fondateur de l'ordre franciscain, connu pour son profond amour de la nature et son engagement envers la pauvreté. Il est surtout célèbre pour avoir reçu les stigmates, les blessures du Christ, qui firent de lui un reflet vivant de la souffrance de Jésus. Sa vie et son enseignement mettaient l'accent sur l'humilité, la compassion et un lien profond avec toute la création.",
+      "image": "/images/the_stigmata_of_saint_francis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    },
+    {
+      "name": "Lambert",
+      "feast_day": "17 septembre",
+      "era": "VIIe siècle",
+      "patronage": [
+        "évêques",
+        "tailleurs de pierre",
+        "pêcheurs"
+      ],
+      "legacy": "Martyre pour la foi et l'intégrité",
+      "summary": "Saint Lambert était un évêque de Maastricht et un martyr qui vécut au VIIe siècle. Connu pour ses miracles et son dévouement à l'Évangile, il fut choisi comme successeur de l'évêque Théodard alors qu'il était encore jeune. Sa forte opposition à la corruption morale conduisit finalement à son assassinat en 705.",
+      "image": "/images/saint_lambert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lambert_of_Maastricht"
+    }
+  ]
+}

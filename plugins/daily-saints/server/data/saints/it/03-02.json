@@ -1,0 +1,27 @@
+{
+  "date": "03-02",
+  "feast_day": "2 marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Enrico Suso",
+      "feast_day": "2 marzo",
+      "era": "XIV secolo",
+      "patronage": null,
+      "legacy": "Mistico e scrittore di profonda spiritualità",
+      "summary": "Enrico Suso fu un frate domenicano tedesco e mistico, noto per i suoi profondi scritti spirituali e la sua devozione alla Passione di Cristo. Ebbe un ruolo significativo nello sviluppo della mistica tedesca nel XIV secolo. Le sue opere, in particolare 'L'Esemplare', sottolineano l'importanza dell'amore e dell'unione con Dio.",
+      "image": "/images/blessed_henry_suzo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_Suso"
+    },
+    {
+      "name": "Simplicio",
+      "feast_day": "2 marzo",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Guidò la Chiesa attraverso tempi turbolenti",
+      "summary": "Simplicio fu Papa dal 468 al 483, durante un periodo tumultuoso segnato dalla caduta dell'Impero romano d'Occidente. Lavorò instancabilmente per confortare gli afflitti e diffondere la fede cattolica tra le tribù barbariche. La sua guida aiutò la Chiesa ad affrontare sfide significative, tra cui movimenti eretici e instabilità politica.",
+      "image": "/images/saint_simplicius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Simplicius"
+    }
+  ]
+}

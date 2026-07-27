@@ -1,0 +1,21 @@
+{
+  "date": "09-30",
+  "feast_day": "30 de septiembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jerónimo",
+      "feast_day": "30 de septiembre",
+      "era": "Siglo IV-V",
+      "patronage": [
+        "estudiantes",
+        "bibliotecas",
+        "traductores"
+      ],
+      "legacy": "Padre de la exégesis bíblica y la traducción",
+      "summary": "San Jerónimo fue un eminente erudito y traductor de los primeros tiempos cristianos, conocido sobre todo por su traducción latina de la Biblia, llamada la Vulgata. Pasó muchos años en soledad, estudiando y escribiendo en los desiertos de Siria y más tarde en Belén, donde produjo una abundante obra teológica. Sus contribuciones a la exégesis bíblica y su defensa contra las herejías lo convirtieron en Doctor de la Iglesia y en una figura destacada de la historia cristiana.",
+      "image": "/images/saint_jerome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerome"
+    }
+  ]
+}

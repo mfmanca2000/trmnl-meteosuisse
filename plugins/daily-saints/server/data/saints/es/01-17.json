@@ -1,0 +1,21 @@
+{
+  "date": "01-17",
+  "feast_day": "17 de enero",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Antonio del Desierto",
+      "feast_day": "17 de enero",
+      "era": "Siglo III",
+      "patronage": [
+        "monjes",
+        "sepultureros",
+        "animales"
+      ],
+      "legacy": "Padre del monacato cristiano",
+      "summary": "San Antonio del Desierto, nacido en el Alto Egipto hacia el año 251, es reconocido como el padre del monacato. Renunció a su riqueza para llevar una vida de soledad y oración en el desierto, donde afrontó numerosas tentaciones y batallas espirituales. Su legado incluye el establecimiento de comunidades monásticas y una profunda influencia en el ascetismo cristiano.",
+      "image": "/images/saint_anthony_of_the_desert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Egypt"
+    }
+  ]
+}

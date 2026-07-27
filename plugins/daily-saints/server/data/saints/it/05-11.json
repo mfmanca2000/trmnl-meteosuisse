@@ -1,0 +1,31 @@
+{
+  "date": "05-11",
+  "feast_day": "11 maggio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Filippo",
+      "feast_day": "11 maggio",
+      "era": "I secolo",
+      "patronage": [
+        "cappellai",
+        "innamorati",
+        "diaconato"
+      ],
+      "legacy": "Apostolo noto per il suo zelo evangelizzatore",
+      "summary": "Filippo fu uno dei primi discepoli scelti da Gesù Cristo, noto per aver invitato con entusiasmo Natanaele a incontrare il Messia. È ricordato per la sua profonda sete di Dio, illustrata dalla celebre richiesta rivolta a Gesù di mostrargli il Padre. La tradizione narra che Filippo fu martirizzato a Gerapoli, e che le sue reliquie furono in seguito trasferite a Roma.",
+      "image": "/images/saint_philip.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_the_Apostle"
+    },
+    {
+      "name": "Mamerto",
+      "feast_day": "11 maggio",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Arcivescovo di Vienne",
+      "summary": "San Mamerto, arcivescovo di Vienne nel Delfinato durante il V secolo, fu un prelato rinomato per la sua santità, il suo sapere e i suoi miracoli. Istituì nella sua diocesi i digiuni e le supplicazioni chiamate Rogazioni, nei tre giorni precedenti l'Ascensione, per rimediare al rilassamento religioso che aveva attirato sull'antica Gallia numerosi castighi. Dio onnipotente, per punire i peccati del popolo, l'aveva colpita con guerre e altre pubbliche calamità, e aveva risvegliato in particolare la città di Vienne dal suo torpore spirituale attraverso il terrore dei terremoti, degli incendi e delle belve feroci, che talvolta si vedevano perfino nella piazza del mercato.",
+      "image": "/images/saint_mammertus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

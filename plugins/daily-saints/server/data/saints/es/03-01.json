@@ -1,0 +1,35 @@
+{
+  "date": "03-01",
+  "feast_day": "1 de marzo",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Albino",
+      "feast_day": "1 de marzo",
+      "era": "siglo VI",
+      "patronage": [
+        "obispos",
+        "monjes",
+        "los esclavos"
+      ],
+      "legacy": "Un modelo de virtud y caridad",
+      "summary": "San Albino fue un obispo y abad conocido por su profunda piedad y su compromiso con la vida monástica. Dedicó su vida al alimento espiritual de su comunidad y trabajó incansablemente por la redención de los cristianos esclavizados durante las invasiones bárbaras. Su legado incluye numerosos milagros y una fuerte influencia en la disciplina eclesiástica de su región.",
+      "image": "/images/saint_albinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albinus_of_Angers"
+    },
+    {
+      "name": "David",
+      "feast_day": "1 de marzo",
+      "era": "siglo VI",
+      "patronage": [
+        "Gales",
+        "vegetarianos",
+        "trabajadores lácteos"
+      ],
+      "legacy": "Santo patrón de Gales y de la vida monástica",
+      "summary": "San David fue un influyente arzobispo y el santo patrón de Gales, conocido por su piedad y su devoción a Dios. Fundó varios monasterios, incluido el principal en Glyn Rhosyn (actual St Davids), donde llevó una estricta vida monástica. Sus enseñanzas y milagros ayudaron a combatir la herejía en Gran Bretaña a principios del siglo VI, y es celebrado por su humildad y su liderazgo espiritual.",
+      "image": "/images/saint_david_of_wales.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/David_of_Wales"
+    }
+  ]
+}

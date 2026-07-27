@@ -1,0 +1,21 @@
+{
+  "date": "07-22",
+  "feast_day": "22 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Maria Maddalena",
+      "feast_day": "22 luglio",
+      "era": "I secolo",
+      "patronage": [
+        "penitenti",
+        "donne",
+        "convertiti"
+      ],
+      "legacy": "Simbolo di pentimento e devozione",
+      "summary": "Maria Maddalena è una figura di rilievo del Nuovo Testamento, nota per la sua profonda devozione a Gesù Cristo. Fu testimone della sua crocifissione e la prima a incontrare il Cristo risorto, ricevendo il messaggio della sua risurrezione da riferire agli Apostoli. La sua vita esemplifica il pentimento e il potere trasformatore dell'amore e della fede in Gesù.",
+      "image": "/images/saint_mary_magdalen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Magdalene"
+    }
+  ]
+}

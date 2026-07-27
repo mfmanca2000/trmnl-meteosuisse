@@ -1,0 +1,46 @@
+{
+  "date": "12-12",
+  "feast_day": "12 de diciembre",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Nuestra Señora de Guadalupe",
+      "feast_day": "12 de diciembre",
+      "era": "Siglo XVI",
+      "patronage": [
+        "América Latina",
+        "los no nacidos",
+        "mujeres embarazadas",
+        "medio ambiente"
+      ],
+      "legacy": "Patrona de las Américas y de los no nacidos",
+      "summary": "Nuestra Señora de Guadalupe es una célebre aparición de la Virgen María ocurrida en 1531 en México. Se apareció a Juan Diego, un humilde hombre indígena, y pidió la construcción de una iglesia en su honor. Su imagen, milagrosamente impresa en la tilma de Juan Diego, sigue siendo un símbolo de fe e identidad cultural para millones de personas en América Latina.",
+      "image": "/images/our_lady_of_guadalupe.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe"
+    },
+    {
+      "name": "Finnian",
+      "feast_day": "12 de diciembre",
+      "era": "Siglo VI",
+      "patronage": [
+        "educadores",
+        "estudiantes",
+        "Irlanda"
+      ],
+      "legacy": "Padre de la educación monástica irlandesa",
+      "summary": "San Finnian fue un destacado obispo y maestro en la Irlanda primitiva, conocido por su papel en la fundación de escuelas monásticas. Fundó el célebre monasterio de Clonard, que se convirtió en un centro de enseñanza y dio lugar a numerosos santos irlandeses destacados. Su dedicación a su rebaño y su compromiso con la educación espiritual influyeron enormemente en el desarrollo del cristianismo en Irlanda.",
+      "image": "/images/saint_finnian_or_finan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Finnian_of_Clonard"
+    },
+    {
+      "name": "Valery",
+      "feast_day": "12 de diciembre",
+      "era": "Siglo VI",
+      "patronage": null,
+      "legacy": "Taumaturgo y fundador monástico",
+      "summary": "San Valery fue un monje y abad del siglo VI, conocido por su piedad y sus obras milagrosas. Estudió primero bajo un maestro y más tarde ingresó en el monasterio de San Antonio, antes de trasladarse a Luxeuil para vivir bajo la guía de san Columbano. Valery terminó por fundar una comunidad monástica en las tierras salvajes de Leuconaus, donde realizó milagros y se hizo célebre por su santidad antes de morir en 619.",
+      "image": "/images/saint_valery.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Valery"
+    }
+  ]
+}

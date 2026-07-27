@@ -1,0 +1,21 @@
+{
+  "date": "11-15",
+  "feast_day": "15 novembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Albert le Grand",
+      "feast_day": "15 novembre",
+      "era": "Médiéval",
+      "patronage": [
+        "scientifiques",
+        "philosophes",
+        "étudiants"
+      ],
+      "legacy": "Pionnier de l'intégration entre science et théologie",
+      "summary": "Albert le Grand fut un théologien et philosophe renommé du XIIIe siècle, connu pour ses vastes écrits sur les sciences naturelles, la philosophie et la théologie. Il fut le mentor de saint Thomas d'Aquin et joua un rôle important dans le développement de la scolastique. Canonisé en 1931 et déclaré docteur de l'Église, il est célébré pour ses contributions à la foi comme à la raison.",
+      "image": "/images/saint_albert_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albert_the_Great"
+    }
+  ]
+}

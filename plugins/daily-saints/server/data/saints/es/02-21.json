@@ -1,0 +1,30 @@
+{
+  "date": "02-21",
+  "feast_day": "21 de febrero",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Didace Pelletier",
+      "feast_day": "21 de febrero",
+      "era": "Siglo XVII",
+      "patronage": [
+        "hermanos legos",
+        "carpinteros"
+      ],
+      "legacy": "Primer hermano lego recoleto nacido en Canadá",
+      "summary": "Didace Pelletier, conocido como el Beato Hermano Didace, fue el primer hermano lego recoleto nacido en Canadá, en la Nueva Francia. Era un hábil carpintero que contribuyó de manera significativa a la construcción de diversas misiones e iglesias en Canadá. Su vida de piedad y dedicación a su trabajo dejó un legado duradero de santidad en la historia canadiense.",
+      "image": "/images/blessed_brother_didace_pelletier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Diane_Pelletier"
+    },
+    {
+      "name": "Severiano",
+      "feast_day": "21 de febrero",
+      "era": "Siglo V",
+      "patronage": null,
+      "legacy": "Valiente defensor de la fe",
+      "summary": "San Severiano fue un obispo y mártir conocido por su firme resistencia contra la herejía eutiquiana durante el reinado del emperador Marciano. Se opuso valientemente al tiránico monje Teodosio, que perseguía a los cristianos en Jerusalén. Severiano finalmente pagó el precio máximo por su fe, siendo martirizado hacia el año 452 o 453.",
+      "image": "/images/saint_severianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Severianus,_Bishop_of_Scythopolis"
+    }
+  ]
+}

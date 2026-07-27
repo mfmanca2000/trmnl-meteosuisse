@@ -1,0 +1,45 @@
+{
+  "date": "01-30",
+  "feast_day": "30 de enero",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Martina",
+      "feast_day": "30 de enero",
+      "era": "Siglo III",
+      "patronage": null,
+      "legacy": "Martirio y fe inquebrantable en Cristo",
+      "summary": "Santa Martina fue una virgen romana y mártir que vivió a principios del siglo III. Habiendo perdido a sus padres siendo joven, dedicó su vida a Cristo y a los pobres, enfrentando finalmente la persecución bajo el emperador Alejandro Severo. A pesar de soportar torturas atroces y sucesos milagrosos, permaneció firme en su fe y finalmente fue decapitada por negarse a renunciar a sus creencias.",
+      "image": "/images/saint_martina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martina"
+    },
+    {
+      "name": "Batilde",
+      "feast_day": "30 de enero",
+      "era": "Siglo VII",
+      "patronage": [
+        "esclavos",
+        "pobres",
+        "personal hospitalario"
+      ],
+      "legacy": "Una reina convertida en sierva de los pobres",
+      "summary": "Batilde fue una inglesa que se convirtió en reina de Francia después de ser vendida como esclava. Conocida por su humildad y virtud, utilizó su posición real para cuidar de los pobres y promover la Iglesia. Tras la muerte de su esposo, ingresó en un convento, dedicando su vida a la oración y al servicio hasta su fallecimiento en el año 680.",
+      "image": "/images/saint_bathildes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Bathilde"
+    },
+    {
+      "name": "Jacinta Marescotti",
+      "feast_day": "30 de enero",
+      "era": "Siglo XVII",
+      "patronage": [
+        "enfermos",
+        "enfermeras",
+        "pobres"
+      ],
+      "legacy": "Del lujo a una vida de servicio",
+      "summary": "Jacinta Marescotti fue una religiosa italiana del siglo XVII conocida por su profunda transformación, de una vida de lujo a una vida de profunda piedad y servicio. Tras experimentar un despertar espiritual, se dedicó a cuidar a los enfermos y fundó cofradías para ayudar a los pobres y a los ancianos. Su vida estuvo marcada por milagros y una fuerte devoción a la Santísima Virgen María, lo que llevó a su canonización en 1807.",
+      "image": "/images/saint_hyacintha_of_mariscotti.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hyacintha_of_Mariscotti"
+    }
+  ]
+}

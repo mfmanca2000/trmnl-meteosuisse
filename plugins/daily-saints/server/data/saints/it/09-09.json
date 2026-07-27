@@ -1,0 +1,31 @@
+{
+  "date": "09-09",
+  "feast_day": "9 settembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pietro Claver",
+      "feast_day": "9 settembre",
+      "era": "XVII secolo",
+      "patronage": [
+        "Colombia",
+        "schiavi",
+        "missioni africane"
+      ],
+      "legacy": "Un campione della dignità degli africani ridotti in schiavitù",
+      "summary": "Pietro Claver fu un missionario gesuita spagnolo noto per il suo dedicato servizio agli africani ridotti in schiavitù in Colombia nel XVII secolo. Nei suoi 44 anni di ministero, battezzò circa 400.000 persone e lavorò instancabilmente per migliorare le loro condizioni spirituali e fisiche. La sua vita esemplificò una profonda carità e un impegno verso gli emarginati, guadagnandogli il riconoscimento come santo patrono della Colombia e degli schiavi.",
+      "image": "/images/saint_peter_claver.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Claver"
+    },
+    {
+      "name": "Omer",
+      "feast_day": "9 settembre",
+      "era": "VII secolo",
+      "patronage": null,
+      "legacy": "Vescovo devoto e guida missionaria",
+      "summary": "Sant'Omer fu un vescovo del VII secolo noto per la sua dedizione alla conversione dei pagani nella regione di Thérouanne, in Francia. Entrò nella vita monastica insieme al padre e divenne in seguito un importante guida ecclesiastica, rivitalizzando la comunità cristiana nella sua diocesi. Divenuto cieco negli ultimi anni, continuò comunque a servire il suo gregge fino alla morte nel 670.",
+      "image": "/images/saint_omer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Omer_(saint)"
+    }
+  ]
+}

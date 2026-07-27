@@ -1,0 +1,27 @@
+{
+  "date": "04-04",
+  "feast_day": "4 aprile",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Isidoro",
+      "feast_day": "4 aprile",
+      "era": "VII secolo",
+      "patronage": null,
+      "legacy": "Dottore della Chiesa",
+      "summary": "disperato per lo scarso successo negli studi, fuggì dalla scuola. Riposandosi durante la fuga presso una sorgente lungo la strada, osservò una pietra scavata dal lento ma costante gocciolare dell'acqua. Questa lezione lo convinse a tornare, e allora, con determinata applicazione, riuscì.",
+      "image": "/images/saint_isidore.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Benedetto da Palermo",
+      "feast_day": "4 aprile",
+      "era": "XVI secolo",
+      "patronage": null,
+      "legacy": "Fratello laico",
+      "summary": "San Benedetto il Moro, nato in Sicilia intorno al 1526, apparteneva alla razza africana. I suoi genitori erano cristiani, e vivevano in un'antica città della Sicilia oggi chiamata San Fratello, in memoria del nostro Santo. Per le loro virtù possedevano la libertà che appartiene a tutti i veri figli di Dio, in qualunque condizione essi si trovino.",
+      "image": "/images/saint_benedict_of_palermo.jpg",
+      "wikipedia": null
+    }
+  ]
+}

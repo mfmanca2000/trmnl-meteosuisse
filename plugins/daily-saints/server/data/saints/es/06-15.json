@@ -1,0 +1,37 @@
+{
+  "date": "06-15",
+  "feast_day": "15 de junio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Germana Cousin",
+      "feast_day": "15 de junio",
+      "era": "Edad Moderna temprana",
+      "patronage": [
+        "enfermos",
+        "pastores",
+        "niños maltratados"
+      ],
+      "legacy": "Un símbolo de fe y resiliencia",
+      "summary": "Germana Cousin fue una virgen francesa nacida en 1579, conocida por su profunda fe a pesar de las graves penurias y enfermedades que soportó a lo largo de su vida. Trabajó como pastora y fue a menudo maltratada por su madrastra, pero permaneció devota a Dios e inspiró a quienes la rodeaban con su bondad. Tras su muerte en 1601, su cuerpo fue hallado incorrupto, lo que llevó a su canonización en 1867 y la convirtió en una figura venerada por los peregrinos en Pibrac, Francia.",
+      "image": "/images/saint_germaine_cousin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germaine_Cousin"
+    },
+    {
+      "name": "Vito",
+      "feast_day": "15 de junio",
+      "era": "Siglo IV",
+      "patronage": [
+        "bailarines",
+        "actores",
+        "cómicos",
+        "niños",
+        "caballos"
+      ],
+      "legacy": "Patrono de bailarines y actores",
+      "summary": "San Vito fue un joven mártir cristiano que vivió a comienzos del siglo IV. Es conocido por su fe inquebrantable frente a la persecución, pues se negó célebremente a renunciar a sus creencias a pesar de las severas torturas. Junto con sus compañeros Modesto y Crescencia, es celebrado por sus obras milagrosas y su constante devoción a Dios.",
+      "image": "/images/saints_vitus_modestus_and_crescentia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vitus"
+    }
+  ]
+}

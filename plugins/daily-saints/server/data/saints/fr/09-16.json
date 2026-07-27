@@ -1,0 +1,35 @@
+{
+  "date": "09-16",
+  "feast_day": "16 septembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cyprien",
+      "feast_day": "16 septembre",
+      "era": "IIIe siècle",
+      "patronage": [
+        "Afrique du Nord",
+        "clergé",
+        "martyrs"
+      ],
+      "legacy": "Un pilier de la foi et du martyre.",
+      "summary": "Saint Cyprien fut un évêque de Carthage éminent et un martyr qui vécut au IIIe siècle. Il fut d'abord païen avant de se convertir au christianisme et de devenir un chef important en période de persécution. Sa fermeté dans la foi et son rôle de dirigeant lors des crises, notamment une épidémie de peste et la persécution de Dèce, laissèrent une empreinte durable sur l'Église primitive.",
+      "image": "/images/saint_cyprian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyprian_of_Carthage"
+    },
+    {
+      "name": "André Kim",
+      "feast_day": "16 septembre",
+      "era": "XIXe siècle",
+      "patronage": [
+        "Corée",
+        "prêtres catholiques",
+        "martyrs"
+      ],
+      "legacy": "Premier prêtre coréen et martyr",
+      "summary": "André Kim fut le premier prêtre coréen et un martyr qui joua un rôle crucial dans l'introduction du christianisme en Corée. Il affronta d'immenses dangers et persécutions en s'efforçant de faire venir des missionnaires dans sa patrie, sacrifiant finalement sa vie pour sa foi. Son héritage inspire de nombreuses personnes en Corée et au-delà, symbolisant le courage et le dévouement à la mission chrétienne.",
+      "image": "/images/saint_andrew_kim.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Kim_Taegon"
+    }
+  ]
+}

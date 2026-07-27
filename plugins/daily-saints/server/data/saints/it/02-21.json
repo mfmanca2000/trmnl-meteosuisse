@@ -1,0 +1,30 @@
+{
+  "date": "02-21",
+  "feast_day": "21 febbraio",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Didace Pelletier",
+      "feast_day": "21 febbraio",
+      "era": "XVII secolo",
+      "patronage": [
+        "fratelli laici",
+        "falegnami"
+      ],
+      "legacy": "Primo fratello laico récollet nato in Canada",
+      "summary": "Didace Pelletier, noto come il Beato Fratel Didace, fu il primo fratello laico récollet nato in Canada, nella Nuova Francia. Era un abile falegname che contribuì in modo significativo alla costruzione di varie missioni e chiese in Canada. La sua vita di pietà e dedizione al lavoro lasciò un lascito duraturo di santità nella storia canadese.",
+      "image": "/images/blessed_brother_didace_pelletier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Diane_Pelletier"
+    },
+    {
+      "name": "Severiano",
+      "feast_day": "21 febbraio",
+      "era": "V secolo",
+      "patronage": null,
+      "legacy": "Coraggioso difensore della fede",
+      "summary": "San Severiano fu un vescovo e martire noto per la sua costante resistenza contro l'eresia eutichiana durante il regno dell'imperatore Marciano. Si oppose coraggiosamente al tirannico monaco Teodosio, che perseguitava i cristiani a Gerusalemme. Severiano pagò infine il prezzo più alto per la sua fede, venendo martirizzato intorno all'anno 452 o 453.",
+      "image": "/images/saint_severianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Severianus,_Bishop_of_Scythopolis"
+    }
+  ]
+}

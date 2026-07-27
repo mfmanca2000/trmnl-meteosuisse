@@ -1,0 +1,21 @@
+{
+  "date": "06-13",
+  "feast_day": "13 de junio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Antonio de Padua",
+      "feast_day": "13 de junio",
+      "era": "Medieval",
+      "patronage": [
+        "objetos perdidos",
+        "viajeros",
+        "los pobres"
+      ],
+      "legacy": "Hacedor de milagros y predicador muy querido",
+      "summary": "Antonio de Padua fue un fraile franciscano y predicador portugués conocido por sus poderosos sermones y sus milagros. Se convirtió en Doctor de la Iglesia y a menudo se le representa sosteniendo al Niño Jesús, símbolo de su profunda fe y devoción. Su vida estuvo marcada por el compromiso con la enseñanza y la ayuda a los pobres, y es ampliamente venerado como patrono de los objetos perdidos y de quienes buscan.",
+      "image": "/images/saint_anthony_of_padua.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Padua"
+    }
+  ]
+}

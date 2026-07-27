@@ -1,0 +1,21 @@
+{
+  "date": "08-20",
+  "feast_day": "20 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bernardo de Claraval",
+      "feast_day": "20 de agosto",
+      "era": "Siglo XII",
+      "patronage": [
+        "apicultores",
+        "fabricantes de velas",
+        "la Orden Cisterciense"
+      ],
+      "legacy": "Padre de la Orden Cisterciense",
+      "summary": "Bernardo de Claraval fue un destacado abad y teólogo del siglo XII, fundador del monasterio cisterciense de Claraval. Célebre por su elocuencia y su profunda espiritualidad, desempeñó un papel importante en la promoción de la Segunda Cruzada y fue influyente en la Iglesia de su época. Sus escritos y enseñanzas le valieron el título de Doctor de la Iglesia, y es recordado como una figura clave del monacato medieval.",
+      "image": "/images/saint_bernard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"
+    }
+  ]
+}

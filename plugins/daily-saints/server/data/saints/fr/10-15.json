@@ -1,0 +1,22 @@
+{
+  "date": "10-15",
+  "feast_day": "15 octobre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Thérèse d'Avila",
+      "feast_day": "15 octobre",
+      "era": "XVIe siècle",
+      "patronage": [
+        "malades",
+        "perte des parents",
+        "écrivains",
+        "Espagne"
+      ],
+      "legacy": "Pionnière de la prière contemplative et de la réforme",
+      "summary": "Thérèse d'Avila était une mystique espagnole et réformatrice de l'ordre du Carmel, connue pour ses écrits spirituels profonds et son rôle dans la réforme de sa communauté religieuse. Elle fonda de nombreux couvents et se consacra à une vie de prière et de service, soulignant l'importance d'une relation personnelle avec Dieu. Canonisée en 1622, elle est reconnue comme Docteur de l'Église pour ses contributions à la spiritualité chrétienne.",
+      "image": "/images/saint_teresa_of_avila.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
+    }
+  ]
+}

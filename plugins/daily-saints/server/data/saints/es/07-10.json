@@ -1,0 +1,21 @@
+{
+  "date": "07-10",
+  "feast_day": "10 de julio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Felícitas",
+      "feast_day": "10 de julio",
+      "era": "Siglo II",
+      "patronage": [
+        "madres",
+        "mártires",
+        "partos difíciles"
+      ],
+      "legacy": "Una fe valiente frente a la persecución.",
+      "summary": "Santa Felícitas fue una noble matrona romana conocida por su fe inquebrantable y su virtud. Crio a sus siete hijos en la fe cristiana, animándolos a permanecer firmes en sus creencias incluso frente a la persecución. Finalmente, ella y sus hijos fueron martirizados por negarse a renunciar a su fe, ejemplificando valor y devoción a Dios.",
+      "image": "/images/saint_felicity_and_her_seven_sons.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felicitas_of_Rome"
+    }
+  ]
+}

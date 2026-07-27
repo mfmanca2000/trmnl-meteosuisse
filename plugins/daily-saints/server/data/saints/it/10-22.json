@@ -1,0 +1,31 @@
+{
+  "date": "10-22",
+  "feast_day": "22 ottobre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ilarione",
+      "feast_day": "22 ottobre",
+      "era": "IV secolo",
+      "patronage": [
+        "monaci",
+        "guaritori",
+        "malati"
+      ],
+      "legacy": "Fondatore della vita monastica in Palestina",
+      "summary": "Sant'Ilarione fu un importante monaco cristiano dei primi tempi e il fondatore della vita monastica in Palestina. Noto per il suo severo ascetismo e le sue opere miracolose, attirò numerosi seguaci e fu venerato per le sue capacità di guarigione. Morì nel 372, lasciando un'eredità di devozione e monachesimo che influenzò la comunità cristiana.",
+      "image": "/images/saint_hilarion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilarion"
+    },
+    {
+      "name": "Mello di Cardiff",
+      "feast_day": "22 ottobre",
+      "era": "Inizio del IV secolo",
+      "patronage": null,
+      "legacy": "Apostolo di Rouen e taumaturgo",
+      "summary": "San Mello di Cardiff fu un vescovo dei primi tempi cristiani che ebbe un ruolo significativo nella diffusione del Vangelo in Neustria, l'odierna Normandia. Dopo essersi convertito dall'idolatria, fu ordinato da papa san Stefano e compì numerosi miracoli, tra cui guarigioni e persino una resurrezione. È ricordato per il suo lungo episcopato a Rouen, dove fondò una chiesa e battezzò molti convertiti, lasciando un'eredità duratura nella regione.",
+      "image": "/images/saint_mello_of_cardiff.jpg",
+      "wikipedia": null
+    }
+  ]
+}

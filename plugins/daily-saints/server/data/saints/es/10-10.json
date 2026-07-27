@@ -1,0 +1,21 @@
+{
+  "date": "10-10",
+  "feast_day": "10 de octubre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francisco de Borja",
+      "feast_day": "10 de octubre",
+      "era": "Siglo XVI",
+      "patronage": [
+        "jesuitas",
+        "nobles",
+        "moribundos"
+      ],
+      "legacy": "Un noble convertido en siervo de Dios",
+      "summary": "Francisco de Borja fue un noble español que se hizo jesuita y sirvió como General de la Compañía de Jesús. Tras presenciar la muerte de la emperatriz Isabel, renunció a sus ambiciones mundanas y dedicó su vida al servicio de Dios y de los pobres. Fue decisivo en la fundación de colegios y casas jesuitas por toda España y Portugal, y murió al servicio de la Iglesia en 1572.",
+      "image": "/images/saint_francis_borgia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Borgia"
+    }
+  ]
+}

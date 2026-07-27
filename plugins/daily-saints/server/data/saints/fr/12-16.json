@@ -1,0 +1,17 @@
+{
+  "date": "12-16",
+  "feast_day": "16 décembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eusèbe de Verceil",
+      "feast_day": "16 décembre",
+      "era": "IVe siècle",
+      "patronage": null,
+      "legacy": "Défenseur de la foi de Nicée et du clergé",
+      "summary": "Eusèbe de Verceil était un évêque connu pour son ferme rejet de l'arianisme et ses efforts pour promouvoir un clergé zélé. Il fut exilé à plusieurs reprises pour ses convictions, mais continua à défendre le Credo de Nicée et les enseignements de l'Évangile. Son héritage comprend l'intégration de la vie monastique aux devoirs cléricaux, influençant la structure de l'Église en Occident.",
+      "image": "/images/saint_eusebius_of_vercelli.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eusebius_of_Vercelli"
+    }
+  ]
+}

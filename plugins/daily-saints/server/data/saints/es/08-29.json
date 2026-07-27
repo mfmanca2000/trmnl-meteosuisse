@@ -1,0 +1,21 @@
+{
+  "date": "08-29",
+  "feast_day": "29 de agosto",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juan Bautista",
+      "feast_day": "29 de agosto",
+      "era": "Siglo I",
+      "patronage": [
+        "bautismo",
+        "conversiones",
+        "pintores"
+      ],
+      "legacy": "Precursor de Cristo y mártir",
+      "summary": "Juan Bautista es reconocido como el precursor de Jesucristo, anunciando su venida y llamando al arrepentimiento. Llevó una vida austera en el desierto, subrayando la necesidad de la purificación espiritual mediante el bautismo. Su audaz condena de las acciones inmorales de Herodes condujo finalmente a su martirio por decapitación.",
+      "image": "/images/the_beheading_of_saint_john_the_baptist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Baptist"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "date": "12-02",
+  "feast_day": "2 dicembre",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bibiana",
+      "feast_day": "2 dicembre",
+      "era": "IV secolo",
+      "patronage": [
+        "vergini",
+        "martiri"
+      ],
+      "legacy": "Un simbolo di fede e coraggio incrollabili",
+      "summary": "Santa Bibiana era una vergine e martire romana vissuta nel quarto secolo. Insieme alla sorella Demetria e alla madre Dafrosa, subì la persecuzione per la sua fede cristiana durante il regno dell'imperatore Giuliano l'Apostata. Bibiana sopportò atroci torture e infine morì per le sue convinzioni, diventando un simbolo di fede incrollabile e coraggio di fronte alle avversità.",
+      "image": "/images/saint_bibiana.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Bibiana"
+    }
+  ]
+}

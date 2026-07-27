@@ -1,0 +1,36 @@
+{
+  "date": "08-24",
+  "feast_day": "24 de agosto",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Bartolomé",
+      "feast_day": "24 de agosto",
+      "era": "Siglo I",
+      "patronage": [
+        "carniceros",
+        "curtidores",
+        "pintores",
+        "geógrafos"
+      ],
+      "legacy": "Apóstol conocido por su celo misionero",
+      "summary": "Bartolomé, también conocido como Natanael, fue uno de los doce apóstoles elegidos por Jesucristo. Es celebrado por su labor misionera en diversas regiones, entre ellas la India y Armenia, donde finalmente sufrió el martirio. Su legado se caracteriza por su fe inquebrantable y su dedicación a difundir el Evangelio, a menudo representado como símbolo de inocencia y sinceridad.",
+      "image": "/images/saint_bartholomew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bartholomew_the_Apostle"
+    },
+    {
+      "name": "Emilia de Vialar",
+      "feast_day": "24 de agosto",
+      "era": "Siglo XIX",
+      "patronage": [
+        "enfermos",
+        "educadores",
+        "mujeres"
+      ],
+      "legacy": "Pionera de la caridad y la educación para todos.",
+      "summary": "Emilia de Vialar fue una fundadora francesa que estableció la Congregación de las Hermanas de San José de la Aparición en el siglo XIX. Dedicó su vida a la educación de los niños y al cuidado de los enfermos, especialmente en respuesta a la devastación causada por la Revolución francesa. Canonizada en 1951, su legado incluye numerosas fundaciones de su orden por todo el mundo, con énfasis en la caridad y el servicio.",
+      "image": "/images/saint_emily_de_vialar.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Emily_de_Vialar"
+    }
+  ]
+}

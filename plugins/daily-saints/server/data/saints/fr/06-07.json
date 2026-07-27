@@ -1,0 +1,27 @@
+{
+  "date": "06-07",
+  "feast_day": "7 juin",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Claude",
+      "feast_day": "7 juin",
+      "era": "7e siècle",
+      "patronage": null,
+      "legacy": "Modèle de dévouement monastique et pastoral",
+      "summary": "Saint Claude fut un archevêque et abbé influent du haut Moyen Âge, connu pour sa profonde spiritualité et son dévouement à la vie monastique. Il joua un rôle important dans la formation du clergé et fut reconnu pour ses sermons puissants qui suscitaient une transformation morale. Son héritage inclut un engagement envers la prière, l'humilité et le soin apporté à une communauté fervente, qui continua de prospérer longtemps après sa mort.",
+      "image": "/images/saint_claude.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Claude_of_Besan%C3%A7on"
+    },
+    {
+      "name": "Robert de Newminster",
+      "feast_day": "7 juin",
+      "era": "12e siècle",
+      "patronage": null,
+      "legacy": "Fondateur de l'abbaye de Fountains et réformateur monastique",
+      "summary": "Robert de Newminster était un abbé anglais et une figure clé de la réforme de l'ordre bénédictin au 12e siècle. Il fonda le monastère de l'abbaye de Fountains, puis devint abbé de Newminster, guidant sa communauté vers la sainteté et une stricte observance de la vie monastique. Son héritage se caractérise par son profond engagement envers l'ascèse et la croissance spirituelle de ses frères, ce qui favorisa la fondation de plusieurs nouvelles communautés monastiques.",
+      "image": "/images/saint_robert_of_newminster.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_of_Newminster"
+    }
+  ]
+}

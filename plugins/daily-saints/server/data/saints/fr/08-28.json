@@ -1,0 +1,21 @@
+{
+  "date": "08-28",
+  "feast_day": "28 août",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Augustin",
+      "feast_day": "28 août",
+      "era": "Église primitive",
+      "patronage": [
+        "théologiens",
+        "imprimeurs",
+        "brasseurs"
+      ],
+      "legacy": "Père de la chrétienté et de la philosophie occidentales",
+      "summary": "Saint Augustin fut un théologien et philosophe éminent qui joua un rôle déterminant dans le développement du christianisme occidental. Né en 354 en Afrique du Nord, il mena une jeunesse tumultueuse avant de connaître une profonde conversion au christianisme à l'âge de 32 ans. Devenu évêque d'Hippone, il devint une figure clé de la lutte contre l'hérésie et laissa un riche héritage d'écrits qui continue d'influencer la pensée chrétienne aujourd'hui.",
+      "image": "/images/saint_augustine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+    }
+  ]
+}

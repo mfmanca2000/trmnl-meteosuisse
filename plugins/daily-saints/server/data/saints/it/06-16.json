@@ -1,0 +1,34 @@
+{
+  "date": "06-16",
+  "feast_day": "16 giugno",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Giovanni Francesco Regis",
+      "feast_day": "16 giugno",
+      "era": "XVII secolo",
+      "patronage": [
+        "malati",
+        "operatori sociali",
+        "prigionieri"
+      ],
+      "legacy": "Un missionario devoto e taumaturgo",
+      "summary": "Giovanni Francesco Regis fu un missionario gesuita noto per il suo servizio dedicato ai poveri e la sua fervente predicazione in Francia nel XVII secolo. Lavorò instancabilmente per convertire gli eretici e aiutare i bisognosi, affrontando spesso grandi pericoli e difficoltà personali. Il suo lascito di taumaturgo e modello di carità continua a ispirare devozione e pellegrinaggio al luogo della sua sepoltura.",
+      "image": "/images/saint_john_francis_regis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Francis_Regis"
+    },
+    {
+      "name": "Giulitta",
+      "feast_day": "16 giugno",
+      "era": "IV secolo",
+      "patronage": [
+        "madri",
+        "martiri"
+      ],
+      "legacy": "Un simbolo di devozione materna e fede",
+      "summary": "Santa Giulitta fu una ricca martire cristiana che, insieme al suo giovane figlio Ciriaco, subì la persecuzione durante il regno dell'imperatore Diocleziano. Furono arrestati per la loro fede e, nonostante le crudeli torture inflitte loro, entrambi rimasero saldi nella loro fede in Cristo. Il coraggio e la fede incrollabile di Giulitta di fronte alla morte ne hanno fatto un simbolo di devozione materna e martirio nella tradizione cristiana.",
+      "image": "/images/saint_julitta_and_saint_cyricus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julitta"
+    }
+  ]
+}

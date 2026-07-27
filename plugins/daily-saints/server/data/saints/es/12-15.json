@@ -1,0 +1,27 @@
+{
+  "date": "12-15",
+  "feast_day": "15 de diciembre",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Juan el Descalzo",
+      "feast_day": "15 de diciembre",
+      "era": "Siglo XIV",
+      "patronage": null,
+      "legacy": "Una vida de humildad y servicio",
+      "summary": "El beato Juan el Descalzo era un fraile franciscano conocido por su estilo de vida austero y su dedicación al servicio de los pobres y enfermos. Pasó muchos años como párroco, caminando descalzo para visitar a sus feligreses y llevando una vida de extrema mortificación. Se le recuerda por sus dones proféticos y su compasivo servicio durante las épocas de peste, muriendo finalmente a causa del mismo azote que buscaba aliviar.",
+      "image": "/images/blessed_john_the_discalced.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    },
+    {
+      "name": "Maximino de Verdún",
+      "feast_day": "15 de diciembre",
+      "era": "Alta Edad Media",
+      "patronage": null,
+      "legacy": "Taumaturgo y líder monástico",
+      "summary": "San Maximino de Verdún fue un abad y una figura destacada del monacato altomedieval. Era conocido por sus obras milagrosas, entre ellas la de proveer a los necesitados durante una hambruna y sanar a los ciegos. Su liderazgo atrajo a muchos jóvenes a la vida religiosa, y se le recuerda por su piedad y su dedicación a Dios.",
+      "image": "/images/saint_maximin_or_mesmin_of_verdun.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mesmin"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-15",
+  "feast_day": "15 luglio",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Enrico II",
+      "feast_day": "15 luglio",
+      "era": "Medievale",
+      "patronage": [
+        "Germania",
+        "le persone senza figli",
+        "matrimoni difficili"
+      ],
+      "legacy": "Un modello di pietà e guida",
+      "summary": "Enrico II, noto anche come sant'Enrico, fu re di Germania e imperatore del Sacro Romano Impero. È ricordato per la sua pietà, umiltà e devozione alla fede cristiana, oltre che per i suoi sforzi nel diffondere il cristianesimo nell'Europa orientale. Il suo regno fu segnato da vittorie militari e dalla fondazione di numerose chiese e monasteri, a testimonianza del suo impegno al servizio di Dio.",
+      "image": "/images/saint_henry.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "08-17",
+  "feast_day": "17 août",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hyacinthe",
+      "feast_day": "17 août",
+      "era": "XIIIe siècle",
+      "patronage": [
+        "missionnaires",
+        "Pologne",
+        "marchands"
+      ],
+      "legacy": "Apôtre du Nord et faiseur de miracles",
+      "summary": "Saint Hyacinthe était un missionnaire polonais et l'un des premiers membres de l'Ordre des Prêcheurs, fondé par saint Dominique. Il parcourut l'Europe et l'Asie, évangélisant et convertissant un grand nombre de personnes au christianisme, et on lui attribue le baptême de plus de 120 000 individus. Connu pour sa profonde dévotion à la Vierge Marie, il accomplit de nombreux miracles et reste célèbre pour sa foi inébranlable et son dévouement à la diffusion de l'Évangile.",
+      "image": "/images/saint_hyacinth.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hyacinth_of_Poland"
+    },
+    {
+      "name": "Libérat",
+      "feast_day": "17 août",
+      "era": "Ve siècle",
+      "patronage": null,
+      "legacy": "Martyre pour la foi et l'unité dans le Christ.",
+      "summary": "Saint Libérat était un martyr chrétien qui vécut sous le règne du roi vandale arien Hunéric, en Afrique. Avec six compagnons, il fut emprisonné et torturé pour sa foi inébranlable en la Trinité et le Baptême. Ils furent finalement exécutés en étant brûlés en mer, mais leur héritage de courage et de foi continue d'inspirer les chrétiens aujourd'hui.",
+      "image": "/images/saint_liberatus_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberatus_of_Carthage"
+    }
+  ]
+}
