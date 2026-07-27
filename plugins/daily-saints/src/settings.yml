@@ -9,9 +9,21 @@ polling_headers: ""
 id: 50002
 custom_fields:
   - keyname: "language"
-    field_type: string
+    field_type: select
+    options: 
+    - "en"
+    - "fr"
+    - "it"
+    - "es"
+    default: "en"
     name: "Language"
     description: "The language for the daily saints information."
     placeholder: "choose one: en, fr, it, es"
+  - keyname: doesnt_matter
+    name: About This Plugin
+    category: life,personal
+    field_type: author_bio
+    description: Saint of the day is built upon the work of Alessio Coci. His project is available at https://github.com/ACoci86/daily-saints. I've added the translations in 3 other languages.
+    email_address: mfmanca2000@hotmail.com
 name: "Saint of the Day"
 refresh_interval: 60

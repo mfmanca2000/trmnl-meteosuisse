@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#ffffff"/>
+
+  <!-- bored face -->
+  <circle cx="256" cy="276" r="200" fill="none" stroke="#000000" stroke-width="20"/>
+
+  <!-- half-lidded eyes -->
+  <path d="M148 250 L206 250" fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round"/>
+  <path d="M306 250 L364 250" fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- flat, unimpressed mouth -->
+  <path d="M176 356 L336 356" fill="none" stroke="#000000" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- "zzz" boredom marks -->
+  <text x="392" y="120" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#000000">Z</text>
+  <text x="358" y="86" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#000000">z</text>
+</svg>
