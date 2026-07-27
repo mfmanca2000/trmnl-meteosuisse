@@ -11,15 +11,20 @@
     </div>
     {% elsif count == 1 %}
     <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="title title--small lg:title--base text--center" data-clamp="1">{{ services[0].name }}</div>
+      <div class="title title--small lg:title--base text--center">{{ services[0].name }}</div>
+      {% if services[0].logoUrl %}
+      <img class="image image--cover image-dither rounded w--16 h--16" src="{{ services[0].logoUrl }}">
+      {% endif %}
       <img class="image image--contain image-dither w--32 h--32 lg:w--36 lg:h--36" src="{{ services[0].iconUrl }}">
+      {% if services[0].updatedAtLabel %}
       <div class="label label--small text--center label--gray">Updated {{ services[0].updatedAtLabel }}</div>
+      {% endif %}
     </div>
     {% elsif count == 2 %}
-    <div class="columns gap--medium flex--center-y grow">
+    <div class="flex flex--row flex--center-x flex--center-y gap--medium grow w--full">
       {% for service in services %}
-      <div class="column flex flex--col flex--center-x flex--center-y gap--xsmall">
-        <div class="label label--small text--center" data-clamp="1">{{ service.name }}</div>
+      <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
+        <div class="label label--small text--center">{{ service.name }}</div>
         <img class="image image--contain image-dither w--14 h--14" src="{{ service.iconUrl }}">
       </div>
       {% endfor %}
@@ -27,19 +32,19 @@
     {% elsif count == 3 %}
     {% assign row1 = services | slice: 0, 2 %}
     {% assign row2 = services | slice: 2, 1 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="columns gap--medium">
+    <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
+      <div class="flex flex--row flex--center-x flex--center-y gap--medium w--full">
         {% for service in row1 %}
-        <div class="column flex flex--col flex--center-x flex--center-y gap--xsmall">
-          <div class="label label--small text--center" data-clamp="1">{{ service.name }}</div>
+        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
+          <div class="label label--small text--center">{{ service.name }}</div>
           <img class="image image--contain image-dither w--12 h--12" src="{{ service.iconUrl }}">
         </div>
         {% endfor %}
       </div>
-      <div class="flex flex--row flex--center-x">
+      <div class="flex flex--row flex--center-x flex--center-y">
         {% for service in row2 %}
         <div class="flex flex--col flex--center-x flex--center-y gap--xsmall">
-          <div class="label label--small text--center" data-clamp="1">{{ service.name }}</div>
+          <div class="label label--small text--center">{{ service.name }}</div>
           <img class="image image--contain image-dither w--12 h--12" src="{{ service.iconUrl }}">
         </div>
         {% endfor %}
@@ -48,19 +53,19 @@
     {% else %}
     {% assign row1 = services | slice: 0, 2 %}
     {% assign row2 = services | slice: 2, 2 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="columns gap--medium">
+    <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
+      <div class="flex flex--row flex--center-x flex--center-y gap--medium w--full">
         {% for service in row1 %}
-        <div class="column flex flex--col flex--center-x flex--center-y gap--xsmall">
-          <div class="label label--small text--center" data-clamp="1">{{ service.name }}</div>
+        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
+          <div class="label label--small text--center">{{ service.name }}</div>
           <img class="image image--contain image-dither w--10 h--10" src="{{ service.iconUrl }}">
         </div>
         {% endfor %}
       </div>
-      <div class="columns gap--medium">
+      <div class="flex flex--row flex--center-x flex--center-y gap--medium w--full">
         {% for service in row2 %}
-        <div class="column flex flex--col flex--center-x flex--center-y gap--xsmall">
-          <div class="label label--small text--center" data-clamp="1">{{ service.name }}</div>
+        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
+          <div class="label label--small text--center">{{ service.name }}</div>
           <img class="image image--contain image-dither w--10 h--10" src="{{ service.iconUrl }}">
         </div>
         {% endfor %}

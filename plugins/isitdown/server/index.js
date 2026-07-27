@@ -43,6 +43,7 @@ async function fetchServiceStatus(slug) {
       slug: body.data.slug,
       name: body.data.name,
       status: body.data.status,
+      logoUrl: body.data.logo_url || null,
       updatedAtLabel: body.data.updated_at ? timeFormatter.format(new Date(body.data.updated_at)) : null,
     }
   } catch (err) {

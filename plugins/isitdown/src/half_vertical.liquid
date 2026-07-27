@@ -11,16 +11,29 @@
     </div>
     {% elsif count == 1 %}
     <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="title title--base lg:title--large text--center" data-clamp="1">{{ services[0].name }}</div>
+      <div class="title title--base lg:title--large text--center">{{ services[0].name }}</div>
+      {% if services[0].logoUrl %}
+      <img class="image image--cover image-dither rounded w--20 h--20" src="{{ services[0].logoUrl }}">
+      {% endif %}
       <img class="image image--contain image-dither w--48 h--48 lg:w--56 lg:h--56" src="{{ services[0].iconUrl }}">
+      {% if services[0].updatedAtLabel %}
       <div class="label label--small text--center label--gray">Updated {{ services[0].updatedAtLabel }}</div>
+      {% endif %}
     </div>
     {% else %}
     <div class="flex flex--col flex--center-x flex--center-y gap--medium grow w--full">
       {% for service in services %}
-      <div class="flex flex--row flex--center-y gap--medium w--full">
-        <img class="image image--contain image-dither w--16 h--16 lg:w--20 lg:h--20 shrink-0" src="{{ service.iconUrl }}">
-        <div class="label label--base grow" data-clamp="1">{{ service.name }}</div>
+      <div class="flex flex--col gap--xsmall w--full">
+        <div class="flex flex--row flex--center-y gap--small w--full">
+          {% if service.logoUrl %}
+          <img class="image image--cover image-dither rounded w--14 h--14 lg:w--16 lg:h--16 shrink-0" src="{{ service.logoUrl }}">
+          {% endif %}
+          <div class="label label--base grow" data-clamp="1">{{ service.name }}</div>
+          <img class="image image--contain image-dither w--14 h--14 lg:w--16 lg:h--16 shrink-0" src="{{ service.iconUrl }}">
+        </div>
+        {% if service.updatedAtLabel %}
+        <div class="label label--small label--gray">Updated {{ service.updatedAtLabel }}</div>
+        {% endif %}
       </div>
       {% endfor %}
     </div>
