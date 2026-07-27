@@ -3,20 +3,20 @@
   beneath the activity name.
 {% endcomment %}
 <div class="layout">
-  <div class="flex flex--col h--full" style="width: 100%;">
+  <div class="flex flex--col h--full w--full">
     {% if activity %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small text--center" style="flex: 1;">
+    <div class="flex flex--col flex--center-x flex--center-y gap--small text--center grow">
       <div class="value value--medium">{{ activity.activity }}</div>
 
-      <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap; justify-content: center;">
+      <div class="flex flex--row gap--xsmall flex--wrap flex--center-x">
         {% if activity.type %}
-        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ activity.type | capitalize }}</span>
+        <span class="label label--small label--outline">{{ activity.type | capitalize }}</span>
         {% endif %}
-        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ activity.participants }} participant{% if activity.participants != 1 %}s{% endif %}</span>
+        <span class="label label--small label--outline">{{ activity.participants }} participant{% if activity.participants != 1 %}s{% endif %}</span>
       </div>
-      <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap; justify-content: center;">
-        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ activity.duration | capitalize }}</span>
-        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{% if activity.price == 0 %}Free{% else %}Costs money{% endif %}</span>
+      <div class="flex flex--row gap--xsmall flex--wrap flex--center-x">
+        <span class="label label--small label--outline">{{ activity.duration | capitalize }}</span>
+        <span class="label label--small label--outline">{% if activity.price == 0 %}Free{% else %}Costs money{% endif %}</span>
       </div>
 
       {% if activity.accessibility %}
@@ -24,13 +24,13 @@
       {% endif %}
     </div>
     {% else %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small" style="flex: 1;">
+    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
       <div class="value value--medium">&#129300;</div>
       <div class="description text--center">No matching activity</div>
     </div>
     {% endif %}
 
-    <div class="label label--small text--center" style="opacity: 0.5;">Copyright &copy; The App Brewery</div>
+    <div class="label label--small text--center text--gray-50">Copyright &copy; The App Brewery</div>
   </div>
 </div>
 

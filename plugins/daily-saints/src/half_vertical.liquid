@@ -4,11 +4,11 @@
 {% endcomment %}
 {% assign saint = saints[0] %}
 <div class="layout">
-  <div class="flex flex--col h--full" style="width: 100%;">
+  <div class="flex flex--col h--full w--full">
     {% if saint %}
-    <div class="flex flex--col flex--center-x gap--small" style="flex: 1;">
+    <div class="flex flex--col flex--center-x gap--small grow">
       {% if saint.image %}
-      <img class="image" src="{{ saint.image }}" style="width: 160px; height: 190px; object-fit: cover; border-radius: 8px;">
+      <img class="image image--cover" src="{{ saint.image }}" style="width: 110px; height: 130px; border-radius: 8px;">
       {% endif %}
 
       <div class="text--center">
@@ -23,25 +23,25 @@
       <div class="divider"></div>
 
       {% if saint.summary %}
-      <div class="description text--center" style="display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden;">{{ saint.summary }}</div>
+      <div class="description text--center" data-clamp="5">{{ saint.summary }}</div>
       {% endif %}
 
       {% if saint.patronage and saint.patronage.size > 0 %}
-      <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap; justify-content: center;">
+      <div class="flex flex--row gap--xsmall flex--wrap flex--center-x">
         {% for p in saint.patronage limit: 3 %}
-        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ p }}</span>
+        <span class="label label--small label--outline">{{ p }}</span>
         {% endfor %}
       </div>
       {% endif %}
     </div>
     {% else %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small" style="flex: 1;">
+    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
       <div class="value value--medium">&#128330;</div>
       <div class="description text--center">No saint data</div>
     </div>
     {% endif %}
 
-    <div class="label label--small text--center" style="opacity: 0.5;">github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
+    <div class="label label--small text--center text--gray-50">github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
   </div>
 </div>
 
