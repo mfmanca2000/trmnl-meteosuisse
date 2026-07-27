@@ -1,0 +1,34 @@
+{
+  "date": "10-12",
+  "feast_day": "October 12",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jeanne Leber",
+      "feast_day": "October 12",
+      "era": "17th century",
+      "patronage": [
+        "recluses",
+        "contemplatives"
+      ],
+      "legacy": "A model of contemplative prayer and service.",
+      "summary": "Blessed Jeanne Leber was a Canadian recluse known for her deep contemplative life and dedication to prayer. She lived a life of strict poverty and service, creating vestments and altar decorations for the churches of Montreal. Jeanne's commitment to her faith and her role as a spiritual guide left a lasting legacy in the Canadian Catholic community.",
+      "image": "/images/blessed_jeanne_leber.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jeanne_Le_Ber"
+    },
+    {
+      "name": "Wilfrid",
+      "feast_day": "October 12",
+      "era": "7th century",
+      "patronage": [
+        "York",
+        "spiritual leaders",
+        "monks"
+      ],
+      "legacy": "Champion of Roman Catholicism in England",
+      "summary": "Wilfrid was an influential Archbishop of York who played a key role in aligning the English Church with Roman practices. He founded several monasteries and was known for his strong advocacy of Roman Catholic discipline and doctrine. Despite facing exile and imprisonment, he remained steadfast in his mission to reform the Church in England until his death in 709.",
+      "image": "/images/saint_wilfrid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wilfrid_of_York"
+    }
+  ]
+}

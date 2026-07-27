@@ -1,0 +1,27 @@
+{
+  "date": "03-02",
+  "feast_day": "March 2",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Henry Suzo",
+      "feast_day": "March 2",
+      "era": "14th century",
+      "patronage": null,
+      "legacy": "Mystic and writer of profound spirituality",
+      "summary": "Henry Suso was a German Dominican friar and mystic, known for his deep spiritual writings and devotion to the Passion of Christ. He played a significant role in the development of German mysticism during the 14th century. His works, particularly 'The Exemplar', emphasize the importance of love and union with God.",
+      "image": "/images/blessed_henry_suzo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_Suso"
+    },
+    {
+      "name": "Simplicius",
+      "feast_day": "March 2",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Guided the Church through turbulent times",
+      "summary": "Simplicius served as Pope from 468 to 483 during a tumultuous period marked by the fall of the Western Roman Empire. He worked tirelessly to comfort the afflicted and spread the Catholic faith among the barbarian tribes. His leadership helped guide the Church through significant challenges, including heretical movements and political instability.",
+      "image": "/images/saint_simplicius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Simplicius"
+    }
+  ]
+}

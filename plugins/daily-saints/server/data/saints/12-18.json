@@ -1,0 +1,17 @@
+{
+  "date": "12-18",
+  "feast_day": "December 18",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gatian",
+      "feast_day": "December 18",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "Apostle of the Gauls and bishop",
+      "summary": "Saint Gatian was the first bishop of Tours and a disciple of the Apostles. He dedicated his life to preaching the Gospel and converting the pagan Gauls, enduring persecution and hardships in the process. His efforts led to the establishment of Christian communities and the abandonment of pagan worship in the region.",
+      "image": "/images/saint_gatian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gatianus_of_Tours"
+    }
+  ]
+}

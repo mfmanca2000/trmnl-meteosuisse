@@ -1,0 +1,21 @@
+{
+  "date": "06-05",
+  "feast_day": "June 5",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Boniface",
+      "feast_day": "June 5",
+      "era": "8th century",
+      "patronage": [
+        "Germany",
+        "missionaries",
+        "brewers"
+      ],
+      "legacy": "A pioneer of Christianity in Germany",
+      "summary": "Saint Boniface was an English missionary and bishop who played a crucial role in the Christianization of Germany during the 8th century. He faced numerous challenges, including violence and poverty, yet remained steadfast in his mission to convert pagan tribes. Ultimately, he was martyred while administering Confirmation, exemplifying his dedication to his faith and his flock.",
+      "image": "/images/saint_boniface.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Boniface"
+    }
+  ]
+}

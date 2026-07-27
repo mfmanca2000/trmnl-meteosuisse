@@ -1,0 +1,31 @@
+{
+  "date": "09-03",
+  "feast_day": "September 3",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pius X",
+      "feast_day": "September 3",
+      "era": "20th century",
+      "patronage": [
+        "clergy",
+        "sick people",
+        "sick children"
+      ],
+      "legacy": "Pope of Frequent Communion and Eucharistic devotion.",
+      "summary": "Pius X was a Pope known for his strong advocacy for frequent Communion and his efforts to combat modernism within the Church. Born Joseph Sarto in 1836, he rose through the ranks of the clergy, becoming a beloved bishop and later the Patriarch of Venice before his papacy. He was canonized in 1954, remembered for his piety, charity, and dedication to the Eucharist.",
+      "image": "/images/saint_pius_x.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_X"
+    },
+    {
+      "name": "Seraphia",
+      "feast_day": "September 3",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "Martyrdom for unwavering faith in Christ",
+      "summary": "Saint Seraphia was a virgin and martyr from Antioch who dedicated her life to God after the death of her parents. She became a servant to Saint Sabina, a Roman noblewoman, and was eventually martyred for her Christian faith. Despite being subjected to torture, her unwavering faith led to her beheading, and she was buried with great respect by her mistress.",
+      "image": "/images/saint_seraphia_and_saint_sabina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Serapia"
+    }
+  ]
+}

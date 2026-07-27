@@ -1,0 +1,30 @@
+{
+  "date": "03-20",
+  "feast_day": "March 20",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Brother André",
+      "feast_day": "March 20",
+      "era": "20th century",
+      "patronage": null,
+      "legacy": "Lay Brother, Miracle-Worker",
+      "summary": "Little Alfred Bessette, born at St. Grégoire, Quebec on August 9, 1845, had his roots in our own soil. The future Saint Brother Andrew of Mount Royal was a son of this land and of the French Canadian family.",
+      "image": "/images/saint_brother_andrew_ODM.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Wulfran",
+      "feast_day": "March 20",
+      "era": "Medieval",
+      "patronage": [
+        "missionaries",
+        "Friesland"
+      ],
+      "legacy": "A compassionate missionary and miracle worker.",
+      "summary": "Saint Wulfran was an Archbishop of Sens who renounced worldly greatness to serve God and the Church. He became a missionary in Friesland, where he baptized many and performed miracles, including saving a boy from sacrifice. His efforts helped to establish Christianity in a pagan land, and he is remembered for his compassion and dedication to the faith.",
+      "image": "/images/saint_wulfran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wulfram_of_Sens"
+    }
+  ]
+}

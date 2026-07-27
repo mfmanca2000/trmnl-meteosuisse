@@ -1,0 +1,21 @@
+{
+  "date": "05-09",
+  "feast_day": "May 9",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregory Nazianzen",
+      "feast_day": "May 9",
+      "era": "4th century",
+      "patronage": [
+        "theologians",
+        "students",
+        "orators"
+      ],
+      "legacy": "Champion of Christian orthodoxy and eloquence.",
+      "summary": "Gregory Nazianzen was an influential early Christian theologian and Archbishop of Constantinople. Known for his eloquent sermons and writings, he played a crucial role in the development of Christian doctrine during the Arian controversy. His legacy as a Doctor of the Church and a champion of orthodoxy continues to be celebrated in the Christian tradition.",
+      "image": "/images/saint_gregory_nazianzen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Nazianzen"
+    }
+  ]
+}

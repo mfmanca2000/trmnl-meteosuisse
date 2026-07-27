@@ -1,0 +1,31 @@
+{
+  "date": "08-22",
+  "feast_day": "August 22",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "August 22",
+      "era": "Modern",
+      "patronage": [
+        "mothers",
+        "families",
+        "the sick"
+      ],
+      "legacy": "Symbol of maternal love and intercession",
+      "summary": "The Immaculate Heart of Mary represents the pure love and compassion of the Virgin Mary for her Son, Jesus Christ, and for all humanity. This devotion emphasizes the importance of Mary's maternal role in the spiritual life of believers and her intercessory power. The message of Fatima in 1917 highlighted the call for devotion to her Immaculate Heart as a means to attain peace and salvation.",
+      "image": "/images/the_immaculate_heart_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Immaculate_Heart_of_Mary"
+    },
+    {
+      "name": "Symphorian",
+      "feast_day": "August 22",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "A symbol of steadfast Christian faith",
+      "summary": "Saint Symphorian was a young Christian martyr from Autun, France, who refused to worship pagan idols during a public procession in honor of the goddess Ceres around the year 180. He boldly declared his faith before the magistrate and faced severe torture, ultimately being executed by the sword. His mother, witnessing his martyrdom, encouraged him to remain faithful to God, and both are remembered for their unwavering commitment to Christ.",
+      "image": "/images/saint_symphorian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Symphorian_and_Timotheus"
+    }
+  ]
+}

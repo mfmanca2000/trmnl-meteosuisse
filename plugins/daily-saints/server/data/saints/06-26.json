@@ -1,0 +1,20 @@
+{
+  "date": "06-26",
+  "feast_day": "June 26",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John and Paul",
+      "feast_day": "June 26",
+      "era": "4th century",
+      "patronage": [
+        "martyrs",
+        "soldiers"
+      ],
+      "legacy": "Martyrs of steadfast faith and charity",
+      "summary": "Saints John and Paul were brothers and Roman army officers who served during the reign of Constantine the Great. They became martyrs after refusing to renounce their Christian faith under the rule of Julian the Apostate. Their legacy is marked by their steadfastness in faith and their charitable works, which led to their eventual martyrdom in the 4th century.",
+      "image": "/images/saints_john_and_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_and_Paul"
+    }
+  ]
+}

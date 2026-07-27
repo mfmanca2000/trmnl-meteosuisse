@@ -1,0 +1,35 @@
+{
+  "date": "08-03",
+  "feast_day": "August 3",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter Julian Eymard",
+      "feast_day": "August 3",
+      "era": "19th century",
+      "patronage": [
+        "Eucharistic adoration",
+        "clergy",
+        "the Blessed Sacrament"
+      ],
+      "legacy": "Champion of Eucharistic devotion and spirituality.",
+      "summary": "Peter Julian Eymard was a French priest and the founder of the Congregation of the Blessed Sacrament. He dedicated his life to promoting devotion to the Eucharist and established communities to support this mission. Canonized in 1962, he is remembered for his deep spirituality and commitment to the sacramental life of the Church.",
+      "image": "/images/saint_peter-julian_eymard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Julian_Eymard"
+    },
+    {
+      "name": "Stephen",
+      "feast_day": "August 3",
+      "era": "1st century",
+      "patronage": [
+        "deacons",
+        "stonemasons",
+        "sudden death"
+      ],
+      "legacy": "First martyr and advocate of faith",
+      "summary": "Saint Stephen is recognized as the first Christian martyr, known for his unwavering faith and powerful preaching. He was stoned to death for his beliefs, as recounted in the Acts of the Apostles. His relics were discovered in 415 AD, leading to a significant festival in his honor and the healing of many afflicted individuals.",
+      "image": "/images/the_finding_of_saint_stephens_relics.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_the_Protomartyr"
+    }
+  ]
+}

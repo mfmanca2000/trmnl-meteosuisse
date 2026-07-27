@@ -1,0 +1,35 @@
+{
+  "date": "07-05",
+  "feast_day": "July 5",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Anthony Maria Zaccaria",
+      "feast_day": "July 5",
+      "era": "16th century",
+      "patronage": [
+        "physicians",
+        "sick",
+        "sick children"
+      ],
+      "legacy": "Renewed Christian life through education and service.",
+      "summary": "Anthony Maria Zaccaria was an Italian priest and founder of the Barnabite order, dedicated to the renewal of Christian life in the 16th century. He was known for his deep devotion to Saint Paul and his efforts to educate and care for the poor and abandoned children. Despite facing opposition, he established communities that emphasized prayer and service, leaving a lasting impact on the Church.",
+      "image": "/images/saint_anthony_maria_zaccaria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Maria_Zaccaria"
+    },
+    {
+      "name": "Peter of Luxembourg",
+      "feast_day": "July 5",
+      "era": "Medieval",
+      "patronage": [
+        "children",
+        "lost causes",
+        "diocesan priests"
+      ],
+      "legacy": "A model of youthful holiness and charity.",
+      "summary": "Peter of Luxembourg was a bishop and cardinal known for his deep piety and commitment to serving the Church. Appointed bishop of Metz at the young age of fifteen, he governed with remarkable zeal and charity, often giving away his own wealth. He died at just eighteen years old, leaving a legacy of holiness and miraculous intercession.",
+      "image": "/images/blessed_peter_of_luxemburg.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Luxembourg"
+    }
+  ]
+}

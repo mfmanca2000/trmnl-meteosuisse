@@ -1,0 +1,21 @@
+{
+  "date": "09-18",
+  "feast_day": "September 18",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Joseph of Cupertino",
+      "feast_day": "September 18",
+      "era": "17th century",
+      "patronage": [
+        "students",
+        "aviators",
+        "astronauts"
+      ],
+      "legacy": "Patron saint of students and aviators",
+      "summary": "Joseph of Cupertino was a Franciscan priest known for his deep spirituality and mystical experiences, often described as being in ecstasy. Despite facing numerous challenges, including a lack of formal education and ridicule from others, he became a beloved figure for his humility and devotion. He is particularly remembered for his miraculous levitations during prayer and his unwavering faith until his death in 1663.",
+      "image": "/images/saint_joseph_of_cupertino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Cupertino"
+    }
+  ]
+}

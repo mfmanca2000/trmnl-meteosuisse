@@ -1,0 +1,36 @@
+{
+  "date": "12-10",
+  "feast_day": "December 10",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Our Lady of Loreto",
+      "feast_day": "December 10",
+      "era": "Medieval",
+      "patronage": [
+        "air travelers",
+        "builders",
+        "families",
+        "homeowners"
+      ],
+      "legacy": "Symbol of faith and pilgrimage",
+      "summary": "Our Lady of Loreto is a title of the Virgin Mary associated with the Holy House of Loreto, believed to be the home of Mary in Nazareth. According to tradition, the house was miraculously transported to Loreto, Italy, in the late 13th century. This site has become a major pilgrimage destination, symbolizing the Incarnation and the role of Mary in salvation history.",
+      "image": "/images/translation_of_the_holy_house_of_loreto.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Loreto"
+    },
+    {
+      "name": "Eulalia",
+      "feast_day": "December 10",
+      "era": "Early 4th century",
+      "patronage": [
+        "Merida",
+        "young people",
+        "martyrs"
+      ],
+      "legacy": "Courageous martyr and patroness of Merida",
+      "summary": "Saint Eulalia was a young Christian martyr from Merida, Spain, who bravely faced persecution during the reign of Emperor Diocletian. At just twelve years old, she refused to renounce her faith, enduring horrific tortures before ultimately succumbing to her injuries. Her legacy as a symbol of courage and faith continues to inspire many, and she is venerated as the patroness of Merida.",
+      "image": "/images/saint_eulalia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulalia_of_M%C3%A9rida"
+    }
+  ]
+}

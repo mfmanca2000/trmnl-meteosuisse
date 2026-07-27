@@ -1,0 +1,22 @@
+{
+  "date": "12-06",
+  "feast_day": "December 6",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nicholas",
+      "feast_day": "December 6",
+      "era": "4th century",
+      "patronage": [
+        "children",
+        "sailors",
+        "travelers",
+        "prisoners"
+      ],
+      "legacy": "Protector of children and sailors",
+      "summary": "Saint Nicholas, the Archbishop of Myra, is renowned for his generosity and miraculous deeds. He dedicated his life to helping the poor and protecting the innocent, famously resurrecting three children from death. His legacy as a protector of children and sailors has made him a beloved figure in Christianity, celebrated for his compassion and kindness.",
+      "image": "/images/saint_nicholas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Myra"
+    }
+  ]
+}

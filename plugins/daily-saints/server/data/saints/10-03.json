@@ -1,0 +1,31 @@
+{
+  "date": "10-03",
+  "feast_day": "October 3",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Thérèse of Lisieux",
+      "feast_day": "October 3",
+      "era": "Modern",
+      "patronage": [
+        "missions",
+        "florists",
+        "sick people"
+      ],
+      "legacy": "A model of simplicity and love for God.",
+      "summary": "Thérèse of Lisieux, also known as the Little Flower, was a French Carmelite nun whose simple yet profound spirituality emphasized love and trust in God. She is best known for her autobiography, 'Story of a Soul,' which outlines her 'little way' of spiritual childhood and her desire to serve God through small acts of love. Canonized in 1925, she is now recognized as a Doctor of the Church and the patroness of missions.",
+      "image": "/images/saint_therese_of_the_child_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_of_Lisieux"
+    },
+    {
+      "name": "Gerard",
+      "feast_day": "October 3",
+      "era": "10th century",
+      "patronage": null,
+      "legacy": "Pioneer of Benedictine monasticism in Belgium",
+      "summary": "Gerard was born into a noble family in the county of Namur, Belgium, towards the end of the ninth century. After a period of military service, he dedicated himself to monastic life, founding the Abbey of Brogne and establishing strict monastic discipline in multiple abbeys. He is remembered for his piety, leadership, and commitment to the Benedictine way of life until his death in 959.",
+      "image": "/images/saint_gerard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gerard_of_Brogne"
+    }
+  ]
+}

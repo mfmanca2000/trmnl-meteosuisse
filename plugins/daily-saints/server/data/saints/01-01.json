@@ -1,0 +1,40 @@
+{
+  "date": "01-01",
+  "feast_day": "January 1",
+  "count": 3,
+  "saints": [
+    {
+      "name": "The Eternal Father",
+      "feast_day": "January 1",
+      "era": null,
+      "patronage": null,
+      "legacy": "The embodiment of divine fatherhood",
+      "summary": "The Eternal Father is a title used to refer to God the Father in Christian theology. He is recognized as the creator and sustainer of the universe, embodying love and authority. The concept emphasizes the relationship between the Father and the Son, particularly in the context of the Holy Trinity.",
+      "image": "/images/the_eternal_father.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/God_the_Father"
+    },
+    {
+      "name": "The Circumcision of Our Lord",
+      "feast_day": "January 1",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "Circumcision was a sacrament of the Old Law, and the first legal observance required of the descendants of Abraham by Almighty God. It was a sacrament of initiation in the service of God, and a promise, an engagement, to believe and act as He had revealed and directed. The law of circumcision continued in force until the death of Christ.",
+      "image": "/images/the_circumcision_of_our_lord.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Fulgentius",
+      "feast_day": "January 1",
+      "era": "6th century",
+      "patronage": [
+        "theologians",
+        "exiled clergy"
+      ],
+      "legacy": "Defender of faith and the exiled.",
+      "summary": "Fulgentius was a North African bishop and theologian known for his staunch defense of Catholic doctrine against Arianism and Pelagianism. After enduring persecution and exile, he returned to his diocese to restore order and discipline among the faithful. His writings continue to influence Christian thought, and he is remembered for his deep spirituality and commitment to the poor.",
+      "image": "/images/saint_fulgentius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fulgentius_of_Ruspe"
+    }
+  ]
+}

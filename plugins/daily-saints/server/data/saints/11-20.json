@@ -1,0 +1,21 @@
+{
+  "date": "11-20",
+  "feast_day": "November 20",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Felix of Valois",
+      "feast_day": "November 20",
+      "era": "Medieval",
+      "patronage": [
+        "captives",
+        "prisoners",
+        "the Trinitarian Order"
+      ],
+      "legacy": "Co-founder of the Trinitarian Order",
+      "summary": "Saint Felix of Valois was a co-founder of the Trinitarian Order, dedicated to the redemption of Christian captives. Born into nobility, he led a life of austerity and virtue, ultimately establishing a monastic community in France. His legacy is marked by the rapid growth of the Trinitarian Order, which became instrumental in the liberation of captives during the Middle Ages.",
+      "image": "/images/saint_felix_of_valois.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Valois"
+    }
+  ]
+}

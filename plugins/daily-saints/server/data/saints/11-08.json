@@ -1,0 +1,21 @@
+{
+  "date": "11-08",
+  "feast_day": "November 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Godfrey",
+      "feast_day": "November 8",
+      "era": "Medieval",
+      "patronage": [
+        "hospitals",
+        "the sick",
+        "pilgrims"
+      ],
+      "legacy": "Compassionate leader and miracle worker",
+      "summary": "Saint Godfrey was a bishop of Amiens known for his deep compassion for the poor and sick. He became the Abbot of Nogent at a young age and revitalized the monastery, demonstrating strong leadership and dedication to his community. His life was marked by miracles and a commitment to serving those in need, ultimately leading to his canonization after his death in 1115.",
+      "image": "/images/saint_godfrey_or_geoffroy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Godfrey_of_Amiens"
+    }
+  ]
+}

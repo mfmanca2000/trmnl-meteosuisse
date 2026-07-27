@@ -1,0 +1,35 @@
+{
+  "date": "02-04",
+  "feast_day": "February 4",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Andrew Corsini",
+      "feast_day": "February 4",
+      "era": "14th century",
+      "patronage": [
+        "Florence",
+        "Bishops",
+        "peacekeepers"
+      ],
+      "legacy": "Peacemaker and miracle worker of Florence",
+      "summary": "Andrew Corsini was born in Florence in 1301 and initially led a dissolute life before repenting and joining the Carmelite Order. He became known as a peacemaker and was consecrated Bishop of Fiesole, where he gained a reputation for his love of the poor and miraculous healings. Canonized in 1629, he is celebrated for his devotion and intervention in times of conflict.",
+      "image": "/images/saint_andrew_corsini.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Corsini"
+    },
+    {
+      "name": "Jane of Valois",
+      "feast_day": "February 4",
+      "era": "Renaissance",
+      "patronage": [
+        "women",
+        "difficult marriages",
+        "the sick"
+      ],
+      "legacy": "A devoted queen and founder of a religious order.",
+      "summary": "Jane of Valois was a French queen who faced significant personal trials, including neglect and betrayal by her husband, Louis XII. Despite her hardships, she dedicated her life to God and founded the Order of the Annunciation, aimed at honoring the virtues of the Virgin Mary. Her legacy includes her commitment to prayer and service, which inspired many during her lifetime and beyond.",
+      "image": "/images/saint_jane_of_valois.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jane_de_Valois"
+    }
+  ]
+}

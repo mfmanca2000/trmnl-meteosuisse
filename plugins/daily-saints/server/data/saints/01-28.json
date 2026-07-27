@@ -1,0 +1,21 @@
+{
+  "date": "01-28",
+  "feast_day": "January 28",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Peter Nolasco",
+      "feast_day": "January 28",
+      "era": "13th century",
+      "patronage": [
+        "captives",
+        "ransom",
+        "prisoners"
+      ],
+      "legacy": "Champion of Christian captives and freedom",
+      "summary": "Peter Nolasco was a 13th-century founder of the Order of Our Lady of Ransom, dedicated to the redemption of Christian captives held by the Moors. He devoted his life and fortune to rescuing enslaved Christians, often negotiating with their captors and even offering himself as a ransom. Canonized in 1628, his legacy continues through the ongoing work of his Order in preaching and humanitarian efforts.",
+      "image": "/images/saint_peter_nolasco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nolasco"
+    }
+  ]
+}

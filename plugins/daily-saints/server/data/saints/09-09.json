@@ -1,0 +1,31 @@
+{
+  "date": "09-09",
+  "feast_day": "September 9",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter Claver",
+      "feast_day": "September 9",
+      "era": "17th century",
+      "patronage": [
+        "Colombia",
+        "slaves",
+        "African missions"
+      ],
+      "legacy": "A champion of enslaved Africans' dignity",
+      "summary": "Peter Claver was a Spanish Jesuit missionary known for his dedicated service to enslaved Africans in Colombia during the 17th century. Over his 44 years of ministry, he baptized approximately 400,000 individuals and tirelessly worked to improve their spiritual and physical conditions. His life exemplified profound charity and commitment to the marginalized, earning him recognition as the patron saint of Colombia and enslaved people.",
+      "image": "/images/saint_peter_claver.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Claver"
+    },
+    {
+      "name": "Omer",
+      "feast_day": "September 9",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "Devoted bishop and missionary leader",
+      "summary": "Saint Omer was a 7th-century bishop known for his dedication to converting pagans in the region of Therouanne, France. He entered monastic life with his father and later became a prominent church leader, revitalizing the Christian community in his diocese. Despite becoming blind in his later years, he continued to serve his flock until his death in 670.",
+      "image": "/images/saint_omer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Omer_(saint)"
+    }
+  ]
+}

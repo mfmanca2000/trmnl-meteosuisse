@@ -1,0 +1,21 @@
+{
+  "date": "10-08",
+  "feast_day": "October 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bridget of Sweden",
+      "feast_day": "October 8",
+      "era": "14th century",
+      "patronage": [
+        "widows",
+        "difficult marriages",
+        "Europe"
+      ],
+      "legacy": "Founder of the Order of the Holy Saviour",
+      "summary": "Bridget of Sweden was born into a royal family in 1302 and became a prominent mystic and founder of the Order of the Holy Saviour. After the death of her husband, she dedicated her life to serving the poor and received numerous revelations, including the Fifteen Prayers of Saint Bridget. She is known for her deep devotion to the Passion of Christ and her significant contributions to the spiritual life of her time.",
+      "image": "/images/saint_bridget_of_sweden.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bridget_of_Sweden"
+    }
+  ]
+}

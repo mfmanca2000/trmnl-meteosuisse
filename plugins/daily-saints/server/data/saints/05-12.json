@@ -1,0 +1,31 @@
+{
+  "date": "05-12",
+  "feast_day": "May 12",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Imelda",
+      "feast_day": "May 12",
+      "era": "14th century",
+      "patronage": null,
+      "legacy": "Virgin",
+      "summary": "Saint Imelda was born at Bologna in Italy, in the early 14 th century. Still a child, she arranged a little oratory in her house, where she often would pray. She resolved to enter a monastery and make the vows of religion, and to give herself entirely to her Saviour.",
+      "image": "/images/saint_imelda.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Epiphanius",
+      "feast_day": "May 12",
+      "era": "4th century",
+      "patronage": [
+        "theologians",
+        "monks",
+        "Cyprus"
+      ],
+      "legacy": "Champion of monastic life and charity",
+      "summary": "Saint Epiphanius was born around 315 in Palestine and became a prominent Christian leader and theologian. He served as the Archbishop of Salamis in Cyprus and was known for his deep commitment to monastic life, charity, and the study of Scripture. His legacy includes a strong emphasis on the importance of labor in faith and a reputation for sanctity that protected him from persecution during his lifetime.",
+      "image": "/images/saint_epiphanius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Epiphanius_of_Salamis"
+    }
+  ]
+}

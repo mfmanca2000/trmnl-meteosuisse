@@ -1,0 +1,22 @@
+{
+  "date": "01-29",
+  "feast_day": "January 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francis de Sales",
+      "feast_day": "January 29",
+      "era": "17th century",
+      "patronage": [
+        "journalists",
+        "writers",
+        "the deaf",
+        "salespeople"
+      ],
+      "legacy": "Champion of gentleness and spiritual guidance",
+      "summary": "Saint Francis de Sales was a 17th-century bishop known for his gentle approach to spirituality and his efforts to convert Calvinists in the Chablais region. He co-founded the Order of the Visitation with Saint Jane Frances de Chantal and emphasized the importance of meekness and humility. His writings, particularly 'Introduction to the Devout Life,' have had a lasting impact on Catholic spirituality.",
+      "image": "/images/saint_francis_de_sales.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_de_Sales"
+    }
+  ]
+}

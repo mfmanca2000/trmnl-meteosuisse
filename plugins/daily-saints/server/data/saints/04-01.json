@@ -1,0 +1,21 @@
+{
+  "date": "04-01",
+  "feast_day": "April 1",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Hugh of Grenoble",
+      "feast_day": "April 1",
+      "era": "11th century",
+      "patronage": [
+        "clergy",
+        "poor",
+        "reformers"
+      ],
+      "legacy": "Champion of reform and charity in the Church.",
+      "summary": "Hugh of Grenoble was a 11th-century bishop known for his deep piety and commitment to reforming the Church. He initially resigned his bishopric to live a monastic life but was called back to serve his diocese, where he became renowned for his charitable works and powerful preaching. His legacy includes the founding of the Carthusian Order alongside Saint Bruno and his dedication to the poor.",
+      "image": "/images/saint_hugh_of_grenoble.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Grenoble"
+    }
+  ]
+}

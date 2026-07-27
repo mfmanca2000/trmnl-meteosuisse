@@ -1,0 +1,21 @@
+{
+  "date": "09-24",
+  "feast_day": "September 24",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Peter Nolasco",
+      "feast_day": "September 24",
+      "era": "Medieval",
+      "patronage": [
+        "captives",
+        "prisoners",
+        "those in need of redemption"
+      ],
+      "legacy": "Champion of captives and mercy",
+      "summary": "Peter Nolasco was a Spanish saint and the founder of the Order of Our Lady of Ransom, established to redeem Christian captives from Muslim captivity. He dedicated his life to charitable works and took a vow of chastity, committing his wealth to the Church. His efforts were recognized by King James I of Aragon, and he is remembered for his deep faith and commitment to the liberation of the oppressed.",
+      "image": "/images/our_lady_of_ransom_or_of_mercy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Nolasco"
+    }
+  ]
+}

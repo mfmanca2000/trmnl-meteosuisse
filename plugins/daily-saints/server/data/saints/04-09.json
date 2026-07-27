@@ -1,0 +1,34 @@
+{
+  "date": "04-09",
+  "feast_day": "April 9",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John the Almsgiver",
+      "feast_day": "April 9",
+      "era": "6th century",
+      "patronage": [
+        "almsgivers",
+        "the poor",
+        "charity"
+      ],
+      "legacy": "Champion of the poor and almsgiving",
+      "summary": "John the Almsgiver was a 6th-century Patriarch of Alexandria known for his extraordinary generosity and commitment to helping the poor. After losing his family, he dedicated his life to almsgiving, feeding thousands of needy individuals daily. His legacy includes the establishment of numerous churches and a reputation for unwavering faith and charity.",
+      "image": "/images/saint_john_the_almsgiver.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Almsgiver"
+    },
+    {
+      "name": "Mary of Egypt",
+      "feast_day": "April 9",
+      "era": "5th century",
+      "patronage": [
+        "penitents",
+        "converts"
+      ],
+      "legacy": "A symbol of repentance and redemption.",
+      "summary": "Mary of Egypt was a former prostitute who underwent a profound conversion after a pilgrimage to Jerusalem. After realizing her sinful life, she retreated to the wilderness where she lived in penance for the remainder of her life. Her story serves as a powerful testament to the possibility of redemption and the grace of God.",
+      "image": "/images/saint_mary_of_egypt.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_of_Egypt"
+    }
+  ]
+}

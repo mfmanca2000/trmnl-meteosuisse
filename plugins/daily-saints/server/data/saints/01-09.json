@@ -1,0 +1,21 @@
+{
+  "date": "01-09",
+  "feast_day": "January 9",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Julian",
+      "feast_day": "January 9",
+      "era": "4th century",
+      "patronage": [
+        "hospitals",
+        "the sick",
+        "martyrs"
+      ],
+      "legacy": "Patron of hospitals and the sick",
+      "summary": "Saint Julian, known as the Hospitaler, was a martyr who lived in Egypt during the early 4th century. Together with his wife, Basilissa, he dedicated his life to charity, converting their home into a hospital for the poor and sick. After enduring persecution for his faith, Julian was ultimately martyred in 313, and his tomb became a site of numerous miracles.",
+      "image": "/images/saint_julian_martyr_and_saint_basilissa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julian_the_Hospitaller"
+    }
+  ]
+}

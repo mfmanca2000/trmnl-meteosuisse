@@ -1,0 +1,21 @@
+{
+  "date": "02-10",
+  "feast_day": "February 10",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Scholastica",
+      "feast_day": "February 10",
+      "era": "6th century",
+      "patronage": [
+        "nuns",
+        "convulsive children",
+        "storms"
+      ],
+      "legacy": "Model of monastic devotion and sisterly love.",
+      "summary": "Saint Scholastica was an abbess and the sister of Saint Benedict, the founder of Western monasticism. She established a convent near Monte Cassino and devoted her life to prayer and the spiritual formation of her community. Known for her deep faith and connection to her brother, her life exemplifies the importance of spiritual companionship and devotion to God.",
+      "image": "/images/saint_scholastica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Scholastica"
+    }
+  ]
+}

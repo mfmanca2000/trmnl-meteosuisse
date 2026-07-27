@@ -1,0 +1,27 @@
+{
+  "date": "11-05",
+  "feast_day": "November 5",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Holy Relics",
+      "feast_day": "November 5",
+      "era": null,
+      "patronage": null,
+      "legacy": "Veneration of saints through their relics",
+      "summary": "Holy relics are the physical remains or personal effects of saints, venerated in the Catholic Church. The cult of relics has been a longstanding tradition, believed to connect the faithful with the divine through the intercession of the saints. This practice is rooted in the belief that honoring relics can lead to spiritual benefits and miracles.",
+      "image": "/images/feast_of_the_holy_relics.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_relics"
+    },
+    {
+      "name": "Bertilla",
+      "feast_day": "November 5",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "Exemplary leader and devoted abbess",
+      "summary": "Saint Bertilla was a 7th-century abbess known for her deep commitment to monastic life and her exemplary leadership at the Abbey of Chelles. She was initially encouraged in her vocation by Saint Owen and became known for her humility, charity, and administrative skills. Bertilla governed her community for forty-six years, attracting many to her spiritual guidance until her death in 692.",
+      "image": "/images/saint_bertilla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Bertille"
+    }
+  ]
+}

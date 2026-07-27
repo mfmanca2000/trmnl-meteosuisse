@@ -1,0 +1,35 @@
+{
+  "date": "02-11",
+  "feast_day": "February 11",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Our Lady of Lourdes",
+      "feast_day": "February 11",
+      "era": "Modern",
+      "patronage": [
+        "sick",
+        "hospital workers",
+        "bodily ills"
+      ],
+      "legacy": "A symbol of healing and hope",
+      "summary": "Our Lady of Lourdes refers to the apparitions of the Blessed Virgin Mary to Bernadette Soubirous in 1858 in Lourdes, France. During these apparitions, Mary identified herself as the Immaculate Conception, affirming the dogma proclaimed by Pope Pius IX in 1854. The site has since become a major pilgrimage destination, known for miraculous healings and a deep devotion to Mary as the Mother of God.",
+      "image": "/images/our_lady_of_lourdes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Lourdes"
+    },
+    {
+      "name": "Severinus",
+      "feast_day": "February 11",
+      "era": "Early 6th century",
+      "patronage": [
+        "healers",
+        "the sick",
+        "monks"
+      ],
+      "legacy": "Miracle worker and holy abbot",
+      "summary": "Saint Severinus was an abbot from Burgundy who dedicated his life to God in the monastery of Agaunum. He became known for his miraculous healings, including curing King Clovis of France. After his death in 507, he was venerated as a saint, and his legacy continues through the Abbey of Saint Severinus.",
+      "image": "/images/saint_severinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Severinus"
+    }
+  ]
+}

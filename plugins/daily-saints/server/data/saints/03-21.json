@@ -1,0 +1,22 @@
+{
+  "date": "03-21",
+  "feast_day": "March 21",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Benedict",
+      "feast_day": "March 21",
+      "era": "6th century",
+      "patronage": [
+        "monks",
+        "Europe",
+        "students",
+        "farmers"
+      ],
+      "legacy": "Father of Western Monasticism",
+      "summary": "Saint Benedict is known as the Father of Western Monasticism, having established the Rule of Saint Benedict, which became the foundation for monastic life in the Western Church. He fled to the desert to escape the moral decay of Rome and lived as a hermit before founding several monasteries. His life was marked by miracles and a deep commitment to prayer and community life, influencing countless monks and the development of monasticism in Europe.",
+      "image": "/images/saint_benedict.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_of_Nursia"
+    }
+  ]
+}

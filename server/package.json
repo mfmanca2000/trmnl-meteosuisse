@@ -14,6 +14,7 @@
   "dependencies": {
     "@trmnl-plugins/meteosuisse": "*",
     "@trmnl-plugins/homeassistant-energy": "*",
+    "@trmnl-plugins/daily-saints": "*",
     "express": "^5.2.1"
   }
 }

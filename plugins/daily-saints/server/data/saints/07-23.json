@@ -1,0 +1,21 @@
+{
+  "date": "07-23",
+  "feast_day": "July 23",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Apollinaris of Ravenna",
+      "feast_day": "July 23",
+      "era": "1st century",
+      "patronage": [
+        "Ravenna",
+        "martyrs",
+        "sick"
+      ],
+      "legacy": "First bishop and martyr of Ravenna",
+      "summary": "Apollinaris of Ravenna was the first bishop of Ravenna and a martyr who dedicated his life to spreading Christianity. He performed numerous miracles, including healing the blind son of a soldier and curing a military tribune's wife, which helped establish a Christian community in Ravenna. Despite facing severe persecution, including torture and exile, he remained steadfast in his faith until his death in 79 AD.",
+      "image": "/images/saint_apollinaris_of_ravenna.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apollinaris_of_Ravenna"
+    }
+  ]
+}

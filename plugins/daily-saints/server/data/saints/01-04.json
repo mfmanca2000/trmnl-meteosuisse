@@ -1,0 +1,31 @@
+{
+  "date": "01-04",
+  "feast_day": "January 4",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Angela of Foligno",
+      "feast_day": "January 4",
+      "era": "Medieval",
+      "patronage": [
+        "penitents",
+        "the sick",
+        "mystics"
+      ],
+      "legacy": "Inspiration for penitents and mystics",
+      "summary": "Angela of Foligno was a 13th-century mystic who experienced a profound conversion after leading a life of sin. Inspired by the ideals of Saint Francis of Assisi, she became a Franciscan tertiary and lived a life of penance and charity. Her visions and deep communion with God made her a significant figure in the Franciscan tradition, offering hope and inspiration to sinners seeking redemption.",
+      "image": "/images/saint_angela_of_foligno.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Angela_of_Foligno"
+    },
+    {
+      "name": "Gregory of Langres",
+      "feast_day": "January 4",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "A model of humility and pastoral care.",
+      "summary": "Gregory of Langres was a Christian administrator and bishop known for his virtuous life and dedication to his pastoral duties. After resigning from his position as Count of Autun, he became a bishop and was noted for his humility, prayer, and efforts in converting many to Christianity. He served as bishop for thirty-three years, founding monasteries and leaving a lasting impact on his diocese before his death in 539.",
+      "image": "/images/saint_gregory_of_langres.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_of_Langres"
+    }
+  ]
+}

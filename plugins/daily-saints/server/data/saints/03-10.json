@@ -1,0 +1,17 @@
+{
+  "date": "03-10",
+  "feast_day": "March 10",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Forty Martyrs of Sebaste",
+      "feast_day": "March 10",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Martyrdom and unwavering faith in Christ",
+      "summary": "The Forty Martyrs of Sebaste were soldiers who refused to renounce their Christian faith during the early 4th century. They endured a brutal execution by being left to freeze on a pond, steadfast in their belief and filled with joy at the prospect of martyrdom. Their unwavering commitment inspired others, including a guard who joined them in their faith just before their deaths.",
+      "image": "/images/the_forty_martyrs_of_sebaste.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste"
+    }
+  ]
+}

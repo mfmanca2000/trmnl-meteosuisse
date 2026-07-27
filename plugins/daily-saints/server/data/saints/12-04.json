@@ -1,0 +1,22 @@
+{
+  "date": "12-04",
+  "feast_day": "December 4",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Barbara",
+      "feast_day": "December 4",
+      "era": "3rd century",
+      "patronage": [
+        "artillery",
+        "miners",
+        "firefighters",
+        "against sudden death"
+      ],
+      "legacy": "Protector against sudden and unprovided death",
+      "summary": "Saint Barbara was a Christian martyr who lived during the early 3rd century. She was imprisoned and tortured by her father, Dioscorus, for her faith and ultimately beheaded. She is venerated as a protector against sudden death and is especially revered in Spanish-speaking countries and the region of Metz in France.",
+      "image": "/images/saint_barbara.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbara_of_Nicomedia"
+    }
+  ]
+}

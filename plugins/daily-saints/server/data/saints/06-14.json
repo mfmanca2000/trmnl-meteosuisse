@@ -1,0 +1,21 @@
+{
+  "date": "06-14",
+  "feast_day": "June 14",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Basil the Great",
+      "feast_day": "June 14",
+      "era": "4th century",
+      "patronage": [
+        "hospital workers",
+        "monks",
+        "brewers"
+      ],
+      "legacy": "Father of monasticism in the East",
+      "summary": "Basil the Great was a prominent bishop and theologian in the early Christian Church, known for his role in combating Arianism and promoting monasticism. He founded several monasteries and a vast hospital in Caesarea, establishing a model for Christian charity and community life. His writings and teachings have had a lasting impact on Christian spirituality and liturgy, earning him the title of Doctor of the Church.",
+      "image": "/images/saint_basil_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Basil_of_Caesarea"
+    }
+  ]
+}

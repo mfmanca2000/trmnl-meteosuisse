@@ -1,0 +1,17 @@
+{
+  "date": "03-13",
+  "feast_day": "March 13",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Euphrasia",
+      "feast_day": "March 13",
+      "era": "Early 5th century",
+      "patronage": null,
+      "legacy": "Model of humility and charity",
+      "summary": "Saint Euphrasia was a virgin and nun born in Constantinople, known for her deep commitment to a life of prayer and charity. After refusing an arranged marriage, she dedicated her wealth to the poor and became a model of humility and obedience. She was recognized for her miraculous healings and her power over demons, leaving a legacy of faith and devotion.",
+      "image": "/images/saint_euphrasia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Euphrasia_of_Constantinople"
+    }
+  ]
+}

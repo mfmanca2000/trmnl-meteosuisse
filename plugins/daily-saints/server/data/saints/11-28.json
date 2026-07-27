@@ -1,0 +1,34 @@
+{
+  "date": "11-28",
+  "feast_day": "November 28",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catherine Labouré",
+      "feast_day": "November 28",
+      "era": "19th century",
+      "patronage": [
+        "the sick",
+        "medals",
+        "miracles"
+      ],
+      "legacy": "Visionary of the Miraculous Medal",
+      "summary": "Catherine Labouré was a French nun and visionary known for her apparitions of the Virgin Mary. In 1830, she received a vision that led to the creation of the Miraculous Medal, which has since become a symbol of faith and devotion. Her life was dedicated to serving the poor and elderly, and she is remembered for her deep spirituality and commitment to her religious community.",
+      "image": "/images/saint_catherine_laboure.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+    },
+    {
+      "name": "James of the March of Ancona",
+      "feast_day": "November 28",
+      "era": "15th century",
+      "patronage": [
+        "sick people",
+        "preachers"
+      ],
+      "legacy": "A devoted preacher and miracle worker.",
+      "summary": "James of the March of Ancona was a Franciscan priest known for his deep spirituality and commitment to prayer. He dedicated his life to preaching and performed numerous miracles, converting many hearts to God throughout Europe. Despite facing persecution and illness, he remained steadfast in his faith until his death in 1476.",
+      "image": "/images/saint_james_of_the_march_of_ancona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_of_the_Marches"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "10-17",
+  "feast_day": "October 17",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Margaret Mary Alacoque",
+      "feast_day": "October 17",
+      "era": "17th century",
+      "patronage": [
+        "devotion to the Sacred Heart",
+        "loss of parents",
+        "sick people"
+      ],
+      "legacy": "Apostle of the Sacred Heart of Jesus",
+      "summary": "Saint Margaret Mary Alacoque was a French nun and mystic known for her visions of the Sacred Heart of Jesus. She played a pivotal role in promoting the devotion to the Sacred Heart, which emphasizes God's love for humanity. Canonized in 1920, her legacy continues to inspire devotion and faith among Catholics worldwide.",
+      "image": "/images/saint_margaret_mary_alacoque.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque"
+    }
+  ]
+}

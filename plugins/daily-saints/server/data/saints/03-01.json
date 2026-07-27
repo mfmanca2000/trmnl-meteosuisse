@@ -1,0 +1,35 @@
+{
+  "date": "03-01",
+  "feast_day": "March 1",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Albinus",
+      "feast_day": "March 1",
+      "era": "6th century",
+      "patronage": [
+        "bishops",
+        "monks",
+        "the enslaved"
+      ],
+      "legacy": "A model of virtue and charity",
+      "summary": "Saint Albinus was a bishop and abbot known for his deep piety and commitment to the monastic life. He dedicated his life to the spiritual nourishment of his community and worked tirelessly for the redemption of enslaved Christians during barbarian invasions. His legacy includes numerous miracles and a strong influence on ecclesiastical discipline in his region.",
+      "image": "/images/saint_albinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albinus_of_Angers"
+    },
+    {
+      "name": "David",
+      "feast_day": "March 1",
+      "era": "6th century",
+      "patronage": [
+        "Wales",
+        "vegetarians",
+        "dairy workers"
+      ],
+      "legacy": "Patron saint of Wales and monastic life",
+      "summary": "Saint David was an influential archbishop and the patron saint of Wales, known for his piety and dedication to God. He founded several monasteries, including the principal one at Glyn Rhosyn (now St Davids), where he led a strict monastic life. His teachings and miracles helped combat heresy in Britain during the early sixth century, and he is celebrated for his humility and spiritual leadership.",
+      "image": "/images/saint_david_of_wales.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/David_of_Wales"
+    }
+  ]
+}

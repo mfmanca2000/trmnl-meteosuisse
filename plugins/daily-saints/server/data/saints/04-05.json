@@ -1,0 +1,22 @@
+{
+  "date": "04-05",
+  "feast_day": "April 5",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincent Ferrer",
+      "feast_day": "April 5",
+      "era": "Medieval",
+      "patronage": [
+        "builders",
+        "plumbers",
+        "the sick",
+        "against dying unprepared"
+      ],
+      "legacy": "Apostle of conversion and miraculous preacher",
+      "summary": "Vincent Ferrer was a Spanish Dominican missionary known for his powerful preaching and miraculous works. He dedicated his life to converting sinners and bringing the light of Christ to various communities across Europe during a time of great schism in the Church. His legacy includes the establishment of numerous religious institutions and a profound impact on the spiritual lives of thousands.",
+      "image": "/images/saint_vincent_ferrer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Ferrer"
+    }
+  ]
+}

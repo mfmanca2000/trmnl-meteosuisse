@@ -1,0 +1,21 @@
+{
+  "date": "02-03",
+  "feast_day": "February 3",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Blaise",
+      "feast_day": "February 3",
+      "era": "4th century",
+      "patronage": [
+        "throat diseases",
+        "physicians",
+        "animals"
+      ],
+      "legacy": "Protector against throat ailments and diseases.",
+      "summary": "Saint Blaise was a bishop and martyr known for his healing abilities and deep spirituality. After becoming a bishop in Sebaste, Armenia, he dedicated his life to serving God and helping those in need, often performing miracles. He was ultimately martyred during a persecution, and is especially invoked for protection against throat ailments.",
+      "image": "/images/saint_blaise.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Blaise_of_Sebaste"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "05-18",
+  "feast_day": "May 18",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Felix of Cantalice",
+      "feast_day": "May 18",
+      "era": "16th century",
+      "patronage": [
+        "poor",
+        "beggars",
+        "Capuchin friars"
+      ],
+      "legacy": "A model of humility and devotion",
+      "summary": "Saint Felix of Cantalice was a Capuchin friar known for his deep devotion to prayer and service to the poor in Rome. He spent over forty years begging for his community and was renowned for his gentleness and kindness, often mediating conflicts among others. Canonized in 1712, he is remembered for his unwavering faith and love for the Virgin Mary.",
+      "image": "/images/saint_felix_of_cantalice.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Cantalice"
+    },
+    {
+      "name": "Venantius of Camerino",
+      "feast_day": "May 18",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyr",
+      "summary": "Saint Venantius, born at Camerino in Italy, during the persecution of Decius was taken into custody at the age of fifteen years as a Christian who was preaching Christ to others. His history is one of the most miraculous in the annals of the early martyrs. Having learned that he was about to be arrested, he presented himself to the governor of Camerino, Antiochus, at the city gates, and said to him that the lives of the gods were filled with every kind of crime, that there was only one God, whose unique Son had become a man to deliver his fellow humans from the tyranny of sin.",
+      "image": "/images/saint_venantius_of_camerino.jpg",
+      "wikipedia": null
+    }
+  ]
+}

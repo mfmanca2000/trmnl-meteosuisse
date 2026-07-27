@@ -1,0 +1,22 @@
+{
+  "date": "08-10",
+  "feast_day": "August 10",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lawrence",
+      "feast_day": "August 10",
+      "era": "3rd century",
+      "patronage": [
+        "deacons",
+        "poor",
+        "cooks",
+        "firefighters"
+      ],
+      "legacy": "Patron of the poor and deacons",
+      "summary": "Saint Lawrence was a deacon in Rome and is known for his unwavering faith and charity towards the poor. He was martyred in 258 AD during the persecution of Christians under Emperor Valerian, famously enduring torture with humor. His legacy as a patron of the poor and a symbol of charity continues to inspire many in the Catholic faith.",
+      "image": "/images/saint_lawrence.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_of_Rome"
+    }
+  ]
+}

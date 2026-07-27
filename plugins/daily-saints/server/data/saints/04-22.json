@@ -1,0 +1,27 @@
+{
+  "date": "04-22",
+  "feast_day": "April 22",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Soter and Caius",
+      "feast_day": "April 22",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Popes, Martyrs",
+      "summary": "Saint Soter was raised to the papacy upon the death of Saint Anicetus in 161. By the sweetness of his discourses he comforted all afflicted persons with the tenderness of a father, and assisted the indigent with liberal alms, especially those who suffered for the Faith. He liberally extended his charities, according to the custom of his predecessors, to remote churches.",
+      "image": "/images/saint_soter_and_saint_caius.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Leonides",
+      "feast_day": "April 22",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Father of Origen and early martyr",
+      "summary": "Leonides was a Christian martyr and the father of the theologian Origen. He was executed during the persecution of Christians under Emperor Severus in 202 AD. His legacy is marked by his dedication to faith and the profound influence he had on his son, who became one of the most significant early Christian scholars.",
+      "image": "/images/saint_leonides.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leonides_of_Alexandria"
+    }
+  ]
+}

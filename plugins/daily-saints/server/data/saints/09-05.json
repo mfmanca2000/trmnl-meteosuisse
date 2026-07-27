@@ -1,0 +1,21 @@
+{
+  "date": "09-05",
+  "feast_day": "September 5",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lawrence Justinian",
+      "feast_day": "September 5",
+      "era": "15th century",
+      "patronage": [
+        "patrons of Venice",
+        "clergy",
+        "spiritual leaders"
+      ],
+      "legacy": "First Patriarch of Venice and reformer",
+      "summary": "Lawrence Justinian was the first Patriarch of Venice, known for his deep spirituality and commitment to reforming the Church. He founded numerous monasteries and churches, emphasizing humility and the importance of frequent Communion. His legacy is marked by his dedication to the poor and his exemplary life of mortification and prayer.",
+      "image": "/images/saint_lawrence_justinian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Justinian"
+    }
+  ]
+}

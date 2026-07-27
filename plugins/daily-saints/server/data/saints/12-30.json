@@ -1,0 +1,17 @@
+{
+  "date": "12-30",
+  "feast_day": "December 30",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Sabinus",
+      "feast_day": "December 30",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Martyrdom and miracles in faith",
+      "summary": "Saint Sabinus was a Bishop of Spoleto and a martyr who lived during the early 4th century. He was imprisoned for refusing to worship idols and performed miracles, including healing a blind man, which led to the conversion of many. Ultimately, he was martyred for his faith on December 7, 303, and is remembered for his steadfastness in the face of persecution.",
+      "image": "/images/saint_sabinus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sabinus_of_Spoleto"
+    }
+  ]
+}

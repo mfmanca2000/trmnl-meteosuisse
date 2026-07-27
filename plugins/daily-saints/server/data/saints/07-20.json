@@ -1,0 +1,35 @@
+{
+  "date": "07-20",
+  "feast_day": "July 20",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jerome Emiliani",
+      "feast_day": "July 20",
+      "era": "Renaissance",
+      "patronage": [
+        "orphaned children",
+        "sick",
+        "hospital workers"
+      ],
+      "legacy": "Champion of orphans and the sick",
+      "summary": "Jerome Emiliani was a Venetian soldier who transformed his life after being imprisoned, dedicating himself to the service of orphans and the sick. He founded the Congregation of Regular Clerics, known as the Somascans, to care for abandoned children and promote Christian education. His legacy is marked by his deep compassion and commitment to charity, particularly during times of famine and epidemic.",
+      "image": "/images/saint_jerome_emiliani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerome_Emiliani"
+    },
+    {
+      "name": "Margaret of Antioch",
+      "feast_day": "July 20",
+      "era": "3rd century",
+      "patronage": [
+        "pregnant women",
+        "childbirth",
+        "falsely accused"
+      ],
+      "legacy": "Courageous martyr and defender of faith",
+      "summary": "Saint Margaret of Antioch was a Christian virgin and martyr born in the third century in Antioch of Pisidia. She faced persecution for her faith, refusing the advances of a Roman prefect and enduring severe tortures, including imprisonment and beheading. Her steadfastness in faith and her eloquent defense of Christianity inspired many, leading to her martyrdom and veneration as a saint.",
+      "image": "/images/saint_margaret_of_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Antioch"
+    }
+  ]
+}

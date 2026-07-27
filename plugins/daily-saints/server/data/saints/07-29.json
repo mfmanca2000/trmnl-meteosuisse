@@ -1,0 +1,21 @@
+{
+  "date": "07-29",
+  "feast_day": "July 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Martha",
+      "feast_day": "July 29",
+      "era": "1st century",
+      "patronage": [
+        "cooks",
+        "servants",
+        "hospitality"
+      ],
+      "legacy": "Model of service and faith in Christ",
+      "summary": "Martha of Bethany is known for her role in the New Testament as the sister of Mary and Lazarus, and she is depicted as a devoted servant of Jesus. She is celebrated for her strong faith, particularly in the story of Lazarus's resurrection, where she expresses her belief in Jesus's power. Tradition holds that after the death of Jesus, she traveled to France, where she lived a life of austerity and holiness.",
+      "image": "/images/saint_martha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martha_of_Bethany"
+    }
+  ]
+}

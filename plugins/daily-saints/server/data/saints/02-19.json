@@ -1,0 +1,30 @@
+{
+  "date": "02-19",
+  "feast_day": "February 19",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Conrad of Piacenza",
+      "feast_day": "February 19",
+      "era": "14th century",
+      "patronage": [
+        "hernias",
+        "penitents"
+      ],
+      "legacy": "A life of penance and repentance",
+      "summary": "Saint Conrad of Piacenza was a nobleman who transformed his life after a tragic incident caused by his hunting activities. Stricken with remorse for the wrongful condemnation of an innocent man, he sold all his possessions to repay those affected and dedicated himself to a life of penance. He became a hermit, living in strict austerity and was known for his prophetic gifts and miracles until his death in 1351.",
+      "image": "/images/saint_conrad_of_piacenza.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Conrad_of_Piacenza"
+    },
+    {
+      "name": "Barbatus",
+      "feast_day": "February 19",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "Champion against idolatry and superstition",
+      "summary": "Saint Barbatus was a bishop of Benevento in Italy during the 7th century. Known for his piety and dedication, he worked tirelessly to eradicate idolatry and superstitions among his parishioners. His leadership and prophetic insights during a siege of the city solidified his legacy as a revered saint in the Catholic Church.",
+      "image": "/images/saint_barbatus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barbatus_of_Benevento"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "05-11",
+  "feast_day": "May 11",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Philip",
+      "feast_day": "May 11",
+      "era": "1st century",
+      "patronage": [
+        "hatmakers",
+        "lovers",
+        "deaconry"
+      ],
+      "legacy": "Apostle known for his evangelistic zeal",
+      "summary": "Philip was one of the first disciples chosen by Jesus Christ, known for his enthusiastic invitation to Nathaniel to meet the Messiah. He is remembered for his deep thirst for God, famously asking Jesus to show him the Father. Tradition holds that Philip was martyred in Hierapolis, and his relics were later moved to Rome.",
+      "image": "/images/saint_philip.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_the_Apostle"
+    },
+    {
+      "name": "Mammertus",
+      "feast_day": "May 11",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Archbishop of Vienne",
+      "summary": "Saint Mammertus, Archbishop of Vienne in Dauphiné during the 5 th century, was a prelate renowned for his sanctity, learning, and miracles. He instituted in his diocese the fasts and supplications called the Rogations , during the three days before the Ascension, to remedy the neglect of religion which brought down on ancient Gaul many chastisements. Almighty God, to punish the sins of the people, had visited them with wars and other public calamities and awakened the city of Vienne in particular from spiritual lethargy by the terrors of earthquakes, fires, and ravenous wild beasts, which were sometimes seen in the very market place.",
+      "image": "/images/saint_mammertus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

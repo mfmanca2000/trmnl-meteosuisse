@@ -1,0 +1,49 @@
+{
+  "date": "07-21",
+  "feast_day": "July 21",
+  "count": 3,
+  "saints": [
+    {
+      "name": "François de Laval",
+      "feast_day": "July 21",
+      "era": "17th century",
+      "patronage": [
+        "Canada",
+        "clergy",
+        "evangelization"
+      ],
+      "legacy": "Pioneer of the Church in Canada",
+      "summary": "François de Laval was the first Bishop of Quebec and played a crucial role in the establishment of the Catholic Church in Canada. He was known for his charity, piety, and dedication to the formation of clergy, founding the Seminary of Quebec to support this mission. Despite facing significant challenges, including opposition from secular authorities and the struggle against the liquor trade, he remained steadfast in his commitment to evangelization and the welfare of his community.",
+      "image": "/images/blessed_francois_de_montmorency-laval.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_Laval"
+    },
+    {
+      "name": "Victor of Marseille",
+      "feast_day": "July 21",
+      "era": "3rd century",
+      "patronage": [
+        "martyrs",
+        "soldiers",
+        "prisoners"
+      ],
+      "legacy": "Courageous martyr and defender of faith",
+      "summary": "Victor of Marseille was a Christian officer in the Roman army who became a martyr for his faith during the reign of Emperor Maximian around the year 290. He courageously defied the emperor's orders to worship pagan gods, enduring severe torture and ultimately death for his beliefs. His legacy includes numerous miracles attributed to his intercession, particularly at his burial site, where many faithful sought his aid.",
+      "image": "/images/saint_victor_of_marseille.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Victor_of_Marseilles"
+    },
+    {
+      "name": "Praxedes",
+      "feast_day": "July 21",
+      "era": "2nd century",
+      "patronage": [
+        "virgins",
+        "the poor",
+        "prisoners"
+      ],
+      "legacy": "Compassionate servant of the persecuted faithful",
+      "summary": "Saint Praxedes was a Roman virgin and daughter of a senator, known for her deep compassion and dedication to the Christian faith during a time of persecution. She devoted her life to prayer, fasting, and aiding the poor, particularly those suffering for their beliefs. Praxedes is remembered for her acts of charity, including caring for imprisoned Christians and providing them with comfort and support.",
+      "image": "/images/saint_praxedes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Praxedes"
+    }
+  ]
+}

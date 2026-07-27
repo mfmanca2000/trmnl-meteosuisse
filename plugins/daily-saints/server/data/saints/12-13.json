@@ -1,0 +1,22 @@
+{
+  "date": "12-13",
+  "feast_day": "December 13",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lucy of Syracuse",
+      "feast_day": "December 13",
+      "era": "4th century",
+      "patronage": [
+        "blindness",
+        "martyrs",
+        "writers",
+        "throat diseases"
+      ],
+      "legacy": "Patroness of the blind and martyrs",
+      "summary": "Saint Lucy of Syracuse was a young Christian martyr who lived in the early 4th century. She is known for her unwavering faith and miraculous healing of her mother, which led her to dedicate her life to God and serve the poor. Ultimately, she was martyred for her beliefs during the persecution of Diocletian, becoming a symbol of purity and resilience in the face of adversity.",
+      "image": "/images/saint_lucy_of_syracuse.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lucy_of_Syracuse"
+    }
+  ]
+}

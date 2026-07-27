@@ -1,0 +1,22 @@
+{
+  "date": "12-27",
+  "feast_day": "December 27",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John",
+      "feast_day": "December 27",
+      "era": "1st century",
+      "patronage": [
+        "authors",
+        "theologians",
+        "love",
+        "friendship"
+      ],
+      "legacy": "Beloved disciple and author of Revelation",
+      "summary": "John, the brother of James, was one of the twelve apostles and is often referred to as the beloved disciple of Jesus. He is traditionally credited with writing the Gospel of John, three Epistles, and the Book of Revelation. After the crucifixion, he became a key figure in the early Church, evangelizing in Asia Minor and serving as the first Archbishop of Ephesus.",
+      "image": "/images/saint_john.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Apostle"
+    }
+  ]
+}

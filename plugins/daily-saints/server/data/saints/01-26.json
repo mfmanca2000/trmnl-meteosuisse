@@ -1,0 +1,20 @@
+{
+  "date": "01-26",
+  "feast_day": "January 26",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Polycarp",
+      "feast_day": "January 26",
+      "era": "2nd century",
+      "patronage": [
+        "martyrs",
+        "persecuted Christians"
+      ],
+      "legacy": "A model of faith and perseverance",
+      "summary": "Saint Polycarp was a 2nd-century bishop of Smyrna and a disciple of Saint John the Apostle. He is known for his steadfast faith and refusal to renounce Christ during persecution, ultimately leading to his martyrdom. His writings and teachings emphasized love for God and the Church, as well as a strong opposition to heresy.",
+      "image": "/images/saint_polycarp.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Polycarp_of_Smyrna"
+    }
+  ]
+}

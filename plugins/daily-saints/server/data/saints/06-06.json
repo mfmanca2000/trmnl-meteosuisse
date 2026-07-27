@@ -1,0 +1,22 @@
+{
+  "date": "06-06",
+  "feast_day": "June 6",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Norbert",
+      "feast_day": "June 6",
+      "era": "11th century",
+      "patronage": [
+        "sick people",
+        "sacramental devotion",
+        "peace",
+        "the clergy"
+      ],
+      "legacy": "Reviver of Eucharistic devotion and reform",
+      "summary": "Saint Norbert was a nobleman who underwent a profound conversion after a life of luxury and dissipation. He founded the Premonstratensian Order, which combined the active ministry with monastic life, emphasizing the importance of the Eucharist and reforming the clergy. As Bishop of Magdeburg, he dedicated his life to preaching, reform, and combating heresy until his death at the age of fifty-three.",
+      "image": "/images/saint_norbert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Norbert_of_Xanten"
+    }
+  ]
+}

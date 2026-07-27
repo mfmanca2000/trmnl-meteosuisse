@@ -1,0 +1,31 @@
+{
+  "date": "04-17",
+  "feast_day": "April 17",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Kateri Tekakwitha",
+      "feast_day": "April 17",
+      "era": "17th century",
+      "patronage": [
+        "environmentalists",
+        "Native Americans",
+        "people in exile"
+      ],
+      "legacy": "First Native American saint in the U.S.",
+      "summary": "Kateri Tekakwitha, known as the Lily of the Mohawk, was born in 1656 to an Algonquin mother and an Iroquois chieftain. After experiencing personal tragedy and a strong spiritual calling, she dedicated her life to God and became a symbol of faith among Native Americans. She was canonized in 1991 and is recognized for her deep devotion and commitment to her Christian faith.",
+      "image": "/images/saint_kateri_tekakwitha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Kateri_Tekakwitha"
+    },
+    {
+      "name": "Anicetus",
+      "feast_day": "April 17",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Defender of faith against heresy",
+      "summary": "Saint Anicetus was the eleventh pope and martyr, serving during a time of significant theological challenges, particularly from Gnosticism. He is known for his friendship with Saint Polycarp and for addressing the differences in the celebration of Easter between the Eastern and Western churches. Anicetus established the tonsure for clergy and is honored for his steadfastness in faith, ultimately receiving martyrdom for his beliefs.",
+      "image": "/images/saint_anicetus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Anicetus"
+    }
+  ]
+}

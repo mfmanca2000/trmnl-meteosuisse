@@ -1,0 +1,21 @@
+{
+  "date": "08-23",
+  "feast_day": "August 23",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Philip Benizi",
+      "feast_day": "August 23",
+      "era": "Medieval",
+      "patronage": [
+        "sick people",
+        "medical professionals",
+        "Servites"
+      ],
+      "legacy": "A model of humility and service",
+      "summary": "Philip Benizi was a Servite priest born in Florence in 1233. He dedicated his life to serving God and helping others, known for his humility and dedication to peace during a time of civil strife in Italy. His legacy includes his commitment to prayer and penance, as well as his role in the founding and leadership of the Servite Order.",
+      "image": "/images/saint_philip_benizi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_Benizi_de_Damiani"
+    }
+  ]
+}

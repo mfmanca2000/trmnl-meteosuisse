@@ -1,0 +1,21 @@
+{
+  "date": "06-30",
+  "feast_day": "June 30",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paul",
+      "feast_day": "June 30",
+      "era": "1st century",
+      "patronage": [
+        "theologians",
+        "missionaries",
+        "gentlemen"
+      ],
+      "legacy": "Apostle to the Gentiles and theologian",
+      "summary": "Paul, originally known as Saul of Tarsus, was a pivotal figure in early Christianity, known for his conversion from a persecutor of Christians to an Apostle of Christ. He traveled extensively, spreading the Gospel and establishing churches, and is credited with writing fourteen Epistles that form a significant part of the New Testament. His teachings and writings have profoundly influenced Christian doctrine and spirituality throughout the centuries.",
+      "image": "/images/the_commemoration_of_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_Tarsus"
+    }
+  ]
+}

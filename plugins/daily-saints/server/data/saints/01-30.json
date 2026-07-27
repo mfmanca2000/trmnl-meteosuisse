@@ -1,0 +1,45 @@
+{
+  "date": "01-30",
+  "feast_day": "January 30",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Martina",
+      "feast_day": "January 30",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrdom and unwavering faith in Christ",
+      "summary": "Saint Martina was a Roman virgin and martyr who lived during the early 3rd century. After losing her parents at a young age, she dedicated her life to Christ and the poor, ultimately facing persecution under Emperor Alexander Severus. Despite enduring severe torture and miraculous events, she remained steadfast in her faith and was ultimately beheaded for refusing to renounce her beliefs.",
+      "image": "/images/saint_martina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martina"
+    },
+    {
+      "name": "Bathilde",
+      "feast_day": "January 30",
+      "era": "7th century",
+      "patronage": [
+        "slaves",
+        "the poor",
+        "hospital workers"
+      ],
+      "legacy": "A queen turned servant of the poor",
+      "summary": "Bathilde was an Englishwoman who became Queen of France after being sold into slavery. Known for her humility and virtue, she used her royal position to care for the poor and promote the Church. After her husband's death, she entered a convent, dedicating her life to prayer and service until her passing in 680.",
+      "image": "/images/saint_bathildes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Bathilde"
+    },
+    {
+      "name": "Hyacintha of Mariscotti",
+      "feast_day": "January 30",
+      "era": "17th century",
+      "patronage": [
+        "sick",
+        "nurses",
+        "the poor"
+      ],
+      "legacy": "From luxury to a life of service",
+      "summary": "Hyacintha of Mariscotti was a 17th-century Italian religious figure known for her profound transformation from a life of luxury to one of deep piety and service. After experiencing a spiritual awakening, she dedicated herself to nursing the sick and established confraternities to aid the poor and elderly. Her life was marked by miracles and a strong devotion to the Blessed Virgin Mary, leading to her canonization in 1807.",
+      "image": "/images/saint_hyacintha_of_mariscotti.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hyacintha_of_Mariscotti"
+    }
+  ]
+}

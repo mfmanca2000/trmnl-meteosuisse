@@ -1,0 +1,21 @@
+{
+  "date": "06-21",
+  "feast_day": "June 21",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Aloysius Gonzaga",
+      "feast_day": "June 21",
+      "era": "16th century",
+      "patronage": [
+        "youth",
+        "students",
+        " AIDS patients"
+      ],
+      "legacy": "Patron saint of youth and students",
+      "summary": "Saint Aloysius Gonzaga was a Jesuit seminarian known for his deep commitment to purity and penance. He dedicated his life to serving the sick during a fever outbreak in Rome, ultimately succumbing to the illness himself at a young age. His legacy is one of unwavering faith and dedication to God, inspiring many to pursue a life of holiness.",
+      "image": "/images/saint_aloysius_gonzaga.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aloysius_Gonzaga"
+    }
+  ]
+}

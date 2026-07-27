@@ -1,0 +1,27 @@
+{
+  "date": "04-19",
+  "feast_day": "April 19",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Elphege",
+      "feast_day": "April 19",
+      "era": "11th century",
+      "patronage": null,
+      "legacy": "Archbishop of Canterbury",
+      "summary": "Saint Elphege was born in the year 954, of a noble Saxon family. He became a monk in the monastery of Deerhurst, near Tewkesbury, England, and afterwards lived as a hermit near Bath, where he founded a community under the rule of Saint Benedict and became its first abbot. At thirty years of age he was chosen Bishop of Winchester, and twenty-two years later became Archbishop of Canterbury.",
+      "image": "/images/saint_elphege.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Leo IX",
+      "feast_day": "April 19",
+      "era": "Medieval",
+      "patronage": null,
+      "legacy": "Reformer and defender of Church doctrine",
+      "summary": "Leo IX was Pope from 1049 to 1054 and is known for his significant reforms within the Church. He condemned simony and worked to enforce ecclesiastical discipline while also opposing the doctrines of Berengarius regarding Transubstantiation. His papacy marked the beginning of the schism between the Roman Catholic and Eastern Orthodox Churches.",
+      "image": "/images/saint_leo_ix.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leo_IX"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "11-23",
+  "feast_day": "November 23",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Clement of Rome",
+      "feast_day": "November 23",
+      "era": "1st century",
+      "patronage": [
+        "mariners",
+        "sick children",
+        "falsely accused"
+      ],
+      "legacy": "Early Church leader and martyr",
+      "summary": "Clement of Rome was a prominent early Christian leader and the fourth pope, succeeding Saint Linus. He is known for his efforts to restore peace and order within the Church, particularly through his influential Epistle to the Corinthians. His leadership during a time of persecution and internal strife solidified his legacy as a martyr and a key figure in the early Church.",
+      "image": "/images/saint_clement_i_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clement_of_Rome"
+    }
+  ]
+}

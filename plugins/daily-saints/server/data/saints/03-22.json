@@ -1,0 +1,21 @@
+{
+  "date": "03-22",
+  "feast_day": "March 22",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catherine of Sweden",
+      "feast_day": "March 22",
+      "era": "14th century",
+      "patronage": [
+        "widows",
+        "pilgrims",
+        "against temptations"
+      ],
+      "legacy": "Devoted life of pilgrimage and penance",
+      "summary": "Catherine of Sweden was the daughter of Saint Bridget and a devoted religious figure known for her piety and commitment to God. After the death of her husband, she dedicated her life to pilgrimage, charity, and severe penance, often visiting the tombs of martyrs. She entered a monastery and lived a life of devotion until her death in 1381.",
+      "image": "/images/saint_catherine_of_sweden.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Sweden,_Saint"
+    }
+  ]
+}

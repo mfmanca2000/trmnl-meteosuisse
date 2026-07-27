@@ -1,0 +1,21 @@
+{
+  "date": "11-24",
+  "feast_day": "November 24",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John of the Cross",
+      "feast_day": "November 24",
+      "era": "16th century",
+      "patronage": [
+        "mystics",
+        "poets",
+        "Spanish poets"
+      ],
+      "legacy": "A guide to mystical union with God.",
+      "summary": "John of the Cross was a Spanish mystic and a major figure of the Counter-Reformation. He co-founded the Discalced Carmelites with Saint Teresa of Ávila and is known for his profound spiritual writings, which explore the soul's journey toward God. He was declared a Doctor of the Church in 1926 for his contributions to mystical theology.",
+      "image": "/images/saint_john_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    }
+  ]
+}

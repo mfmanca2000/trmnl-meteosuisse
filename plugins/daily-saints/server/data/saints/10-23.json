@@ -1,0 +1,41 @@
+{
+  "date": "10-23",
+  "feast_day": "October 23",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Jesus Christ",
+      "feast_day": "October 23",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "Redeemer of humanity through His sacrifice",
+      "summary": "Jesus Christ is the central figure of Christianity, believed by Christians to be the Son of God and the awaited Messiah (Christ) prophesied in the Old Testament. His teachings, crucifixion, and resurrection form the foundation of Christian faith, emphasizing themes of redemption, love, and forgiveness. Through His sacrifice, He offers salvation to humanity, liberating them from sin and death.",
+      "image": "/images/feast_of_the_holy_redeemer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jesus"
+    },
+    {
+      "name": "Anthony Mary Claret",
+      "feast_day": "October 23",
+      "era": "19th century",
+      "patronage": [
+        "weavers",
+        "missionaries",
+        "the Catholic press"
+      ],
+      "legacy": "A champion of evangelization and education.",
+      "summary": "Anthony Mary Claret was a Spanish priest and founder of the Claretian Fathers, dedicated to evangelization and the promotion of the Catholic faith. He served as the Archbishop of Santiago in Cuba, where he established educational institutions and worked tirelessly for the spiritual and social welfare of his community. His legacy includes a profound commitment to missionary work and the written word, as he authored numerous texts aimed at inspiring others in their faith.",
+      "image": "/images/saint_anthony-mary_claret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Mary_Claret"
+    },
+    {
+      "name": "Theodoret",
+      "feast_day": "October 23",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Martyrdom for faith and conviction",
+      "summary": "Saint Theodoret was a Christian martyr who lived during the reign of Emperor Julian the Apostate. He was known for his steadfast faith and was tortured for his beliefs before being executed by the sword. His courage in the face of persecution serves as an inspiration to Christians facing trials for their faith.",
+      "image": "/images/saint_theodoret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodoret_(martyr)"
+    }
+  ]
+}

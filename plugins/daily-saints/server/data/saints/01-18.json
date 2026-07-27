@@ -1,0 +1,32 @@
+{
+  "date": "01-18",
+  "feast_day": "January 18",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter",
+      "feast_day": "January 18",
+      "era": "1st century",
+      "patronage": [
+        "fishermen",
+        "net makers",
+        "shipbuilders",
+        "popes"
+      ],
+      "legacy": "First Pope and leader of the apostles",
+      "summary": "Saint Peter, one of Jesus' twelve apostles, is recognized as the first Pope and a foundational figure in Christianity. He is known for his leadership in the early Church and his martyrdom in Rome under Emperor Nero. His legacy includes the establishment of the Church in Rome, which remains a central point of Catholic faith and communion.",
+      "image": "/images/saint_peters_chair_at_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Prisca",
+      "feast_day": "January 18",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrdom and faith in early Christianity",
+      "summary": "Saint Prisca was a noble Roman virgin and martyr who suffered for her faith around the year 275. She is remembered for her steadfastness in the face of persecution and is honored in the church that bears her name in Rome. Her relics are preserved there, and she is often associated with the early Christian figures Aquila and Priscilla.",
+      "image": "/images/saint_prisca.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Prisca"
+    }
+  ]
+}

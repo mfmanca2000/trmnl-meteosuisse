@@ -1,0 +1,22 @@
+{
+  "date": "05-04",
+  "feast_day": "May 4",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Monica",
+      "feast_day": "May 4",
+      "era": "4th century",
+      "patronage": [
+        "mothers",
+        "wives",
+        "conversions",
+        "abused women"
+      ],
+      "legacy": "A model of maternal devotion and faith",
+      "summary": "Saint Monica was the mother of Saint Augustine, known for her deep faith and perseverance in prayer. Born in 332 in North Africa, she devoted her life to the conversion of her husband and son, enduring many trials with patience and love. Her unwavering prayers were instrumental in Augustine's eventual conversion to Christianity, making her a model of maternal devotion and faith.",
+      "image": "/images/saint_monica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Monica_of_Hippo"
+    }
+  ]
+}

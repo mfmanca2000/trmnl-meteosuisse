@@ -1,0 +1,21 @@
+{
+  "date": "07-19",
+  "feast_day": "July 19",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincent de Paul",
+      "feast_day": "July 19",
+      "era": "17th century",
+      "patronage": [
+        "charity",
+        "volunteers",
+        "hospital workers"
+      ],
+      "legacy": "Champion of the poor and marginalized",
+      "summary": "Vincent de Paul was a French priest known for his deep commitment to serving the poor and marginalized. He founded the Congregation of the Mission and the Daughters of Charity, which continue to serve those in need today. His life exemplified the Christian call to charity and humility, making him a beloved figure in Catholicism.",
+      "image": "/images/saint_vincent_de_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_de_Paul"
+    }
+  ]
+}

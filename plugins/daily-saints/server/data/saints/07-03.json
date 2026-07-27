@@ -1,0 +1,27 @@
+{
+  "date": "07-03",
+  "feast_day": "July 3",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Leo II",
+      "feast_day": "July 3",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "A Pope of music and charity",
+      "summary": "Leo II was a Pope in the 7th century known for his brief but impactful pontificate. He addressed significant issues between the Holy See and the emperors of Constantinople, ensuring that bishops of Ravenna were consecrated in Rome. His contributions to music and charity, along with his efforts to uphold Church doctrine, left a lasting legacy.",
+      "image": "/images/saint_leo_ii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Leo_II"
+    },
+    {
+      "name": "Heliodorus",
+      "feast_day": "July 3",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Defender of the Catholic faith and piety",
+      "summary": "Saint Heliodorus was a bishop of Altino known for his piety and dedication to the Catholic faith. He was a disciple of Saint Jerome and played a significant role in combating the Arian heresy during his time. His life exemplified a balance between active ministry and contemplative spirituality until his death around the year 390.",
+      "image": "/images/saint_heliodorus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Heliodorus_of_Altino"
+    }
+  ]
+}

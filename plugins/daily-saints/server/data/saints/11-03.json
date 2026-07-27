@@ -1,0 +1,37 @@
+{
+  "date": "11-03",
+  "feast_day": "November 3",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Martin de Porres",
+      "feast_day": "November 3",
+      "era": "17th century",
+      "patronage": [
+        "social justice",
+        "mixed-race people",
+        "innocent victims",
+        "the poor"
+      ],
+      "legacy": "Compassionate healer and advocate for the poor",
+      "summary": "Martin de Porres was a Dominican lay brother born in Lima, Peru, in 1579. Known for his deep humility and extraordinary compassion, he dedicated his life to serving the poor and sick, often performing miracles of healing. Canonized in 1962, he is remembered as a powerful intercessor for those in need.",
+      "image": "/images/saint_martin_de_porres.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_de_Porres"
+    },
+    {
+      "name": "Hubert",
+      "feast_day": "November 3",
+      "era": "Early Medieval",
+      "patronage": [
+        "hunters",
+        "dogs",
+        "forest workers",
+        "mathematicians"
+      ],
+      "legacy": "Patron saint of hunters and the forest.",
+      "summary": "Saint Hubert was a bishop known for his deep faith and commitment to the Christian life after a transformative encounter during a hunting expedition. He became a zealous apostle, dedicating his life to serving the poor and spreading the Gospel. His legacy includes the establishment of the diocese of Liège and a reputation for performing miracles.",
+      "image": "/images/saint_hubert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Hubert_of_Liege"
+    }
+  ]
+}

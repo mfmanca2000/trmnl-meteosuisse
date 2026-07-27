@@ -1,0 +1,30 @@
+{
+  "date": "09-06",
+  "feast_day": "September 6",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Rosalia",
+      "feast_day": "September 6",
+      "era": "12th century",
+      "patronage": [
+        "Sicily",
+        "plague victims"
+      ],
+      "legacy": "Patroness of Palermo and Sicily",
+      "summary": "Saint Rosalia was a 12th-century virgin and hermit from Palermo, Sicily. She is known for her deep devotion to God, having chosen a life of solitude and penance over worldly pursuits. Her intercession is credited with saving the city of Palermo from a plague in the 17th century, leading to her veneration as a patron saint of the city.",
+      "image": "/images/saint_rosalia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rosalia_of_Palermo"
+    },
+    {
+      "name": "Eleutherius",
+      "feast_day": "September 6",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "A model of humility and prayer",
+      "summary": "Saint Eleutherius was a sixth-century abbot known for his simplicity and deep spirit of compunction. He presided over Saint Mark's monastery near Spoleto and was favored with the gift of miracles, including the healing of a child from demonic possession. After resigning his abbacy, he died in Rome, leaving a legacy of humility and devotion to God.",
+      "image": "/images/saint_eleutherius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eleutherius"
+    }
+  ]
+}

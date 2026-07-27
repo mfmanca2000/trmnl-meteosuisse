@@ -1,0 +1,22 @@
+{
+  "date": "11-25",
+  "feast_day": "November 25",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catherine of Alexandria",
+      "feast_day": "November 25",
+      "era": "4th century",
+      "patronage": [
+        "students",
+        "young girls",
+        "philosophers",
+        "apologists"
+      ],
+      "legacy": "Patroness of students and young girls",
+      "summary": "Catherine of Alexandria was a noble virgin and martyr from the fourth century who is celebrated for her intelligence and eloquence in defending the Christian faith against pagan philosophers. She famously debated the emperor Maximinus II and converted many of his followers before enduring torture and execution for her steadfastness. Her legacy endures as a symbol of faith and courage, and she is venerated as the patroness of students and young girls.",
+      "image": "/images/saint_catherine_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+    }
+  ]
+}

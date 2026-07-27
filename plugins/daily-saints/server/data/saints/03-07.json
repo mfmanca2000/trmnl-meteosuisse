@@ -1,0 +1,21 @@
+{
+  "date": "03-07",
+  "feast_day": "March 7",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Thomas Aquinas",
+      "feast_day": "March 7",
+      "era": "Medieval",
+      "patronage": [
+        "students",
+        "universities",
+        "philosophers"
+      ],
+      "legacy": "Father of Scholasticism and Angelic Doctor",
+      "summary": "Thomas Aquinas was a 13th-century Dominican friar and theologian, renowned for his influential works in philosophy and theology. He is best known for his synthesis of Aristotelian philosophy with Christian doctrine, particularly in his seminal work, the 'Summa Theologica'. Recognized as a Doctor of the Church, he is celebrated for his profound insights into faith and reason, and his writings continue to shape Catholic thought today.",
+      "image": "/images/saint_thomas_aquinas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+    }
+  ]
+}

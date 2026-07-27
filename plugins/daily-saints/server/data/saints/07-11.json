@@ -1,0 +1,31 @@
+{
+  "date": "07-11",
+  "feast_day": "July 11",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Pius I",
+      "feast_day": "July 11",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Defender of faith against heresy",
+      "summary": "Pius I was the ninth pope of the Catholic Church, serving from 142 to 157 AD. He is known for his efforts to combat heresy and for establishing the celebration of Easter on a Sunday. Pius I was martyred for his faith, becoming a symbol of steadfastness in the early Church.",
+      "image": "/images/saint_pius_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_I"
+    },
+    {
+      "name": "James of Nisibis",
+      "feast_day": "July 11",
+      "era": "4th century",
+      "patronage": [
+        "Nisibis",
+        "prophecy",
+        "miracles"
+      ],
+      "legacy": "Protector of Nisibis and miracle worker",
+      "summary": "James of Nisibis was a prominent bishop and doctor of the Syrian Church known for his deep spirituality and commitment to prayer. He is celebrated for his miraculous interventions, including protecting his city from a Persian siege through divine prayer. His legacy endures as a symbol of faith and resilience in the face of adversity.",
+      "image": "/images/saint_james_of_nisibis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_of_Nisibis"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "11-30",
+  "feast_day": "November 30",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Andrew",
+      "feast_day": "November 30",
+      "era": "1st century",
+      "patronage": [
+        "fishermen",
+        "scotland",
+        "greece"
+      ],
+      "legacy": "First-called disciple of Jesus Christ",
+      "summary": "Andrew was one of the first disciples of Jesus and the brother of Saint Peter. He is known for bringing Peter to Christ and for his missionary work in Scythia and Greece. Andrew was martyred on a diagonal cross, which he embraced with joy, preaching to those around him until his death.",
+      "image": "/images/saint_andrew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_the_Apostle"
+    }
+  ]
+}

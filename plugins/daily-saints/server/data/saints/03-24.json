@@ -1,0 +1,27 @@
+{
+  "date": "03-24",
+  "feast_day": "March 24",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gabriel the Archangel",
+      "feast_day": "March 24",
+      "era": null,
+      "patronage": null,
+      "legacy": "Archangel",
+      "summary": "The day before the great feast of the Annunciation, the Church celebrates the feast of the Archangel who brought to earth the glad tidings that Mary was chosen to be the Mother of the Incarnate God. This angelic Messenger appears several times in the history of God's chosen people. He came to Daniel the prophet after he had a vision of the future Persian and Greek empires, to explain the vision to him, as Daniel narrates in the eighth chapter of his book.",
+      "image": "/images/saint_gabriel_archangel.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Simon",
+      "feast_day": "March 24",
+      "era": "15th century",
+      "patronage": null,
+      "legacy": "Infant Martyr",
+      "summary": "Hail, flowers of the martyrs! the Church sings in her Office of the Holy Innocents, who were the first to die for Christ; and in every age mere children and infants have gloriously confessed His name. The Jews of the city of Trent, assuredly possessed at that moment by the demons of hell, determined in 1472 to vent their hatred for the Crucified by slaying a Christian child at the coming Passover.",
+      "image": "/images/saint_simon_infant_martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

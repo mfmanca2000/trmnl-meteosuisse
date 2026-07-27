@@ -1,0 +1,21 @@
+{
+  "date": "11-04",
+  "feast_day": "November 4",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Charles Borromeo",
+      "feast_day": "November 4",
+      "era": "16th century",
+      "patronage": [
+        "catechists",
+        "spiritual leaders",
+        "seminarians"
+      ],
+      "legacy": "Champion of church reform and education",
+      "summary": "Saint Charles Borromeo was an influential Archbishop of Milan during the Counter-Reformation, known for his commitment to church reform and education. He played a significant role in the Council of Trent and worked tirelessly to implement its decrees, establishing numerous schools and seminaries. His dedication to his flock during times of plague and personal sacrifice exemplified his deep pastoral care and holiness.",
+      "image": "/images/saint_charles_borromeo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Borromeo"
+    }
+  ]
+}

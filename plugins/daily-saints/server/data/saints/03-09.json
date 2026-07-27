@@ -1,0 +1,21 @@
+{
+  "date": "03-09",
+  "feast_day": "March 9",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Frances of Rome",
+      "feast_day": "March 9",
+      "era": "15th century",
+      "patronage": [
+        "widows",
+        "domestic workers",
+        "against temptations"
+      ],
+      "legacy": "A model of faith in domestic life",
+      "summary": "Frances of Rome was a noblewoman born in Rome in 1384 who, despite her parents' wishes, married Lorenzo Ponziano and dedicated her life to God through her domestic duties and prayer. After enduring personal tragedies, including the loss of two children, she founded a community of Benedictine Oblate nuns following her husband's death. Known for her deep spirituality and visions, she is remembered for her unwavering faith and commitment to serving God in both her family and religious life.",
+      "image": "/images/saint_frances_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frances_of_Rome"
+    }
+  ]
+}

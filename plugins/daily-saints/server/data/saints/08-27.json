@@ -1,0 +1,21 @@
+{
+  "date": "08-27",
+  "feast_day": "August 27",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Joseph Calasanctius",
+      "feast_day": "August 27",
+      "era": "17th century",
+      "patronage": [
+        "teachers",
+        "students",
+        "the poor"
+      ],
+      "legacy": "Pioneer of free education for the poor",
+      "summary": "Joseph Calasanctius was a Spanish priest and the founder of the Piarists, an order dedicated to the education of poor children. He established schools in Rome that provided free education, emphasizing religious instruction alongside basic academics. Despite facing opposition and challenges, he remained committed to his mission until his death in 1648.",
+      "image": "/images/saint_joseph_calasanctius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Calasanctius"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "03-06",
+  "feast_day": "March 6",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Colette",
+      "feast_day": "March 6",
+      "era": "15th century",
+      "patronage": [
+        "poor people",
+        "women",
+        "sick children"
+      ],
+      "legacy": "Reformer of the Poor Clares and mystic",
+      "summary": "Saint Colette was a 15th-century virgin and reformer of the Poor Clares, known for her austere lifestyle and dedication to prayer. After receiving a vision from Saint Francis, she established a significant reform of her order, founding seventeen convents across Europe. Colette played a crucial role in healing the schism within the Church and was known for her intense spiritual battles against demonic forces.",
+      "image": "/images/saint_colette.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Colette_of_Corbie"
+    },
+    {
+      "name": "Felicitas and Perpetua",
+      "feast_day": "March 6",
+      "era": "Early Christian",
+      "patronage": [
+        "mothers",
+        "expectant mothers",
+        "martyrs"
+      ],
+      "legacy": "Symbols of faith and courage in martyrdom",
+      "summary": "Saints Perpetua and Felicitas were early Christian martyrs who were executed in Carthage around 203 AD. Their story is famously recounted in Perpetua's diary, which provides a vivid account of their faith and courage in the face of persecution. They are celebrated for their unwavering commitment to Christianity and are considered symbols of strength and fidelity in the faith.",
+      "image": "/images/saints_felicitas_perpetua_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Perpetua_and_Felicity"
+    }
+  ]
+}

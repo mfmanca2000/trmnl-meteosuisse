@@ -1,0 +1,20 @@
+{
+  "date": "10-28",
+  "feast_day": "October 28",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Simon",
+      "feast_day": "October 28",
+      "era": "1st century",
+      "patronage": [
+        "curriers",
+        "zealots"
+      ],
+      "legacy": "Apostle known for his fervent faith",
+      "summary": "Simon the Zealot was one of the twelve apostles of Jesus and is traditionally regarded as a brother of Jesus. He preached the Gospel in various regions, including Egypt and Persia, where he ultimately met his martyrdom alongside Saint Jude. Known for his zeal in spreading Christianity, Simon is remembered for his unwavering faith and dedication to God, even in the face of persecution.",
+      "image": "/images/saint_simon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simon_the_Zealot"
+    }
+  ]
+}

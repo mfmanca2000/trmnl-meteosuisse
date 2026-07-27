@@ -1,0 +1,17 @@
+{
+  "date": "03-14",
+  "feast_day": "March 14",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mathilda",
+      "feast_day": "March 14",
+      "era": "10th century",
+      "patronage": null,
+      "legacy": "Empress",
+      "summary": "This princess, the greatest glory of her noble family, was the daughter of Theodoric, a powerful Saxon count, and Reinhilde, a princess of Denmark. Her parents placed her very young in the monastery of Erfort, of which her grandmother Maude had become the Abbess. The young girl became in that house an accomplished model of all virtues and domestic arts.",
+      "image": "/images/saint_mathilda.jpg",
+      "wikipedia": null
+    }
+  ]
+}

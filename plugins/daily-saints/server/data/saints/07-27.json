@@ -1,0 +1,20 @@
+{
+  "date": "07-27",
+  "feast_day": "July 27",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pantaleon",
+      "feast_day": "July 27",
+      "era": "Early 4th century",
+      "patronage": [
+        "physicians",
+        "healers"
+      ],
+      "legacy": "Compassionate healer and martyr",
+      "summary": "Saint Pantaleon was a physician and martyr from Nicomedia, known for his miraculous healing abilities. After converting to Christianity, he dedicated his life to serving the poor and healing the sick, ultimately facing persecution for his faith. He was martyred during the reign of Emperor Galerius Maximianus, and his relics are venerated in various locations, including Constantinople and France.",
+      "image": "/images/saint_pantaleon_of_nicomedia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pantaleon_of_Nicomedia"
+    }
+  ]
+}

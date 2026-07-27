@@ -1,0 +1,20 @@
+{
+  "date": "07-12",
+  "feast_day": "July 12",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John Gualbert",
+      "feast_day": "July 12",
+      "era": "11th century",
+      "patronage": [
+        "against simony",
+        "parish priests"
+      ],
+      "legacy": "A champion of forgiveness and monastic life.",
+      "summary": "John Gualbert was a 11th-century Italian saint who founded the Vallombrosan Order of Benedictine monks. After a profound personal conversion marked by the forgiveness of his brother's murderer, he dedicated his life to prayer, penance, and the promotion of the Faith. His legacy includes a strong emphasis on mercy and the fight against simony within the Church.",
+      "image": "/images/saint_john_gualbert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Gualbert"
+    }
+  ]
+}

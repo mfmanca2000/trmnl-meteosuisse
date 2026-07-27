@@ -1,0 +1,34 @@
+{
+  "date": "02-16",
+  "feast_day": "February 16",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Onesimus",
+      "feast_day": "February 16",
+      "era": "1st century",
+      "patronage": [
+        "slaves",
+        "prisoners",
+        "bishops"
+      ],
+      "legacy": "From slave to bishop and martyr",
+      "summary": "Onesimus was a Phrygian slave who fled from his master, Philemon, and sought refuge with Saint Paul in Rome. After being baptized by Paul, he returned to Philemon, who granted him freedom and allowed him to serve as a bishop. Onesimus later became a martyr for his faith, enduring severe torture before his death around the year 95 under Emperor Domitian.",
+      "image": "/images/saint_onesimus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Onesimus"
+    },
+    {
+      "name": "John de Britto",
+      "feast_day": "February 16",
+      "era": "17th century",
+      "patronage": [
+        "missionaries",
+        "India"
+      ],
+      "legacy": "A martyr and apostle of India.",
+      "summary": "John de Britto was a Portuguese Jesuit missionary who dedicated his life to spreading Christianity in India, particularly in the region of Madura. Despite facing severe opposition, including torture and eventual martyrdom, he remained steadfast in his mission to convert and aid the local population. He was canonized in 1947, recognized for his unwavering faith and commitment to serving others.",
+      "image": "/images/saint_john_de_britto.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_de_Britto"
+    }
+  ]
+}

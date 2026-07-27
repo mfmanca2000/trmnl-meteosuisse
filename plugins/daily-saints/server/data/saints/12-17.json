@@ -1,0 +1,21 @@
+{
+  "date": "12-17",
+  "feast_day": "December 17",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Olympia of Constantinople",
+      "feast_day": "December 17",
+      "era": "Early Christian",
+      "patronage": [
+        "widows",
+        "deaconesses",
+        "the poor"
+      ],
+      "legacy": "Model of charity and steadfast faith",
+      "summary": "Saint Olympia of Constantinople was a noble widow and deaconess known for her deep commitment to prayer, penance, and charity. After the death of her husband, she dedicated her life to serving the poor and supporting the Church, notably assisting Saint John Chrysostom in his charitable works. Despite facing persecution and exile, she remained steadfast in her faith and good deeds until her death in 410.",
+      "image": "/images/saint_olympia_of_constantinople.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+    }
+  ]
+}

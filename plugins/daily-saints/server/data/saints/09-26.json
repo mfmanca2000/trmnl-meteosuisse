@@ -1,0 +1,36 @@
+{
+  "date": "09-26",
+  "feast_day": "September 26",
+  "count": 2,
+  "saints": [
+    {
+      "name": "North American Martyrs",
+      "feast_day": "September 26",
+      "era": "17th century",
+      "patronage": [
+        "Canada",
+        "Indigenous peoples",
+        "missionaries"
+      ],
+      "legacy": "Martyrs of faith and dedication",
+      "summary": "The North American Martyrs are eight Jesuit missionaries who were martyred in the 17th century while evangelizing among Indigenous peoples in North America. They faced extreme hardships and violence, particularly from the Iroquois, as they sought to spread Christianity. Their dedication and sacrifice have made them revered figures in the Catholic Church, symbolizing the commitment to faith in the face of adversity.",
+      "image": "/images/the_holy_north_american_martyrs.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/North_American_Martyrs"
+    },
+    {
+      "name": "Cyprian",
+      "feast_day": "September 26",
+      "era": "3rd century",
+      "patronage": [
+        "magicians",
+        "sorcerers",
+        "conversion",
+        "protection against evil"
+      ],
+      "legacy": "Transformation from darkness to faith",
+      "summary": "Saint Cyprian was a third-century bishop of Carthage who initially practiced paganism and black magic before converting to Christianity. His conversion was sparked by his encounter with a young Christian woman named Justina, whom he attempted to seduce using his dark arts. Both he and Justina were martyred during the persecution under Emperor Diocletian, exemplifying the transformative power of faith and grace.",
+      "image": "/images/saint_cyprian_and_saint_justina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyprian_of_Carthage"
+    }
+  ]
+}

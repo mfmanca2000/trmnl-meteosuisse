@@ -1,0 +1,21 @@
+{
+  "date": "03-08",
+  "feast_day": "March 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John of God",
+      "feast_day": "March 8",
+      "era": "16th century",
+      "patronage": [
+        "hospitals",
+        "the sick",
+        "firefighters"
+      ],
+      "legacy": "Patron of hospitals and the sick",
+      "summary": "John of God was a Portuguese saint known for his deep compassion and dedication to the sick and poor. After a tumultuous early life, he founded the Brothers Hospitallers, an order devoted to caring for the needy. His legacy endures through his commitment to charity and the care of the marginalized, inspiring many in the field of healthcare and social service.",
+      "image": "/images/saint_john_of_god.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_God"
+    }
+  ]
+}

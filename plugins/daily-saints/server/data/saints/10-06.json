@@ -1,0 +1,21 @@
+{
+  "date": "10-06",
+  "feast_day": "October 6",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bruno",
+      "feast_day": "October 6",
+      "era": "Medieval",
+      "patronage": [
+        "monks",
+        "students",
+        "the Carthusian Order"
+      ],
+      "legacy": "Founder of the Carthusian Order",
+      "summary": "Saint Bruno was the founder of the Carthusian Order, known for his commitment to a life of contemplation and solitude. Born in Cologne around 1030, he became a canon and resisted the corruption of the Church before retreating to the wilderness with companions to pursue a monastic life. He died in Calabria in 1101, leaving a legacy of deep spiritual devotion and the establishment of a unique monastic community.",
+      "image": "/images/saint_bruno.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+    }
+  ]
+}

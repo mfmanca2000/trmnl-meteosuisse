@@ -1,0 +1,22 @@
+{
+  "date": "08-05",
+  "feast_day": "August 5",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mary of the Snows",
+      "feast_day": "August 5",
+      "era": "4th century",
+      "patronage": [
+        "mothers",
+        "childbirth",
+        "snow",
+        "builders"
+      ],
+      "legacy": "Miraculous foundation of a major basilica",
+      "summary": "Mary of the Snows, also known as Our Lady of the Snows, commemorates the miraculous event in which the Virgin Mary indicated the site for a church in Rome by covering it with snow. This event led to the construction of the Basilica of Saint Mary Major, one of the oldest and most significant churches dedicated to Mary. The feast is celebrated on August 5, marking the dedication of the basilica and honoring Mary's role as the Mother of God.",
+      "image": "/images/the_dedication_of_saint_mary_of_the_snows.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Snows"
+    }
+  ]
+}

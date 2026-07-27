@@ -1,0 +1,30 @@
+{
+  "date": "06-25",
+  "feast_day": "June 25",
+  "count": 2,
+  "saints": [
+    {
+      "name": "William of Vercelli",
+      "feast_day": "June 25",
+      "era": "12th century",
+      "patronage": [
+        "monks",
+        "pilgrims"
+      ],
+      "legacy": "Founder of the Congregation of Monte Vergine",
+      "summary": "William of Vercelli was an Italian abbot and the founder of the Congregation of Monte Vergine. After a life of pilgrimage and contemplation, he established a monastic community dedicated to austere living and devotion to the Virgin Mary. His legacy includes the continued veneration of a portrait of the Virgin at the monastery, which attracts many pilgrims.",
+      "image": "/images/saint_william_of_vercelli.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_of_Vercelli"
+    },
+    {
+      "name": "Prosper of Aquitaine",
+      "feast_day": "June 25",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Defender of Augustine's teachings and orthodoxy",
+      "summary": "Prosper of Aquitaine was a prominent theologian and Doctor of the Church in the 5th century, known for his writings and defense against the semi-Pelagian heresy. He collaborated closely with Saint Augustine, contributing to the theological debates of his time and helping to clarify Augustine's teachings. His legacy includes a significant role in the Church's efforts to combat heresy and promote sound doctrine.",
+      "image": "/images/saint_prosper_of_aquitaine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine"
+    }
+  ]
+}

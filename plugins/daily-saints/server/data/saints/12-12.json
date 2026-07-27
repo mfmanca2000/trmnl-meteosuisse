@@ -1,0 +1,46 @@
+{
+  "date": "12-12",
+  "feast_day": "December 12",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Our Lady of Guadalupe",
+      "feast_day": "December 12",
+      "era": "16th century",
+      "patronage": [
+        "Latin America",
+        "the unborn",
+        "pregnant women",
+        "environment"
+      ],
+      "legacy": "Patroness of the Americas and the unborn",
+      "summary": "Our Lady of Guadalupe is a celebrated apparition of the Virgin Mary that occurred in 1531 in Mexico. She appeared to Juan Diego, a humble indigenous man, and requested the construction of a church in her honor. Her image, miraculously imprinted on Juan Diego's tilma, remains a symbol of faith and cultural identity for millions in Latin America.",
+      "image": "/images/our_lady_of_guadalupe.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe"
+    },
+    {
+      "name": "Finnian",
+      "feast_day": "December 12",
+      "era": "6th century",
+      "patronage": [
+        "educators",
+        "students",
+        "Ireland"
+      ],
+      "legacy": "Father of Irish monastic education",
+      "summary": "Saint Finnian was a prominent bishop and teacher in early Ireland, known for his role in establishing monastic schools. He founded the famous monastery of Clonard, which became a center of learning and produced many notable Irish saints. His dedication to his flock and commitment to spiritual education greatly influenced the development of Christianity in Ireland.",
+      "image": "/images/saint_finnian_or_finan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Finnian_of_Clonard"
+    },
+    {
+      "name": "Valery",
+      "feast_day": "December 12",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "Miracle worker and monastic founder",
+      "summary": "Saint Valery was a 6th-century monk and abbot known for his piety and miraculous works. He initially studied under a teacher and later joined the monastery of Saint Anthony before moving to Luxeuil to live under Saint Columban. Valery eventually established a monastic community in the wilderness of Leuconaus, where he performed miracles and became renowned for his sanctity before his death in 619.",
+      "image": "/images/saint_valery.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Valery"
+    }
+  ]
+}

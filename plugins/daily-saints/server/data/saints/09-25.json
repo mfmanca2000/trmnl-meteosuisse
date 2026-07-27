@@ -1,0 +1,48 @@
+{
+  "date": "09-25",
+  "feast_day": "September 25",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Vincent Strambi",
+      "feast_day": "September 25",
+      "era": "18th century",
+      "patronage": [
+        "clergy",
+        "spiritual formation",
+        "the poor"
+      ],
+      "legacy": "A life of prayer and service.",
+      "summary": "Vincent Strambi was a Passionist priest and bishop known for his deep commitment to prayer and service to the poor. He dedicated his life to preaching and pastoral care, emphasizing the importance of tailored instruction for different professions. Canonized in 1950, he is remembered for his humility, simplicity, and dedication to the spiritual formation of his followers.",
+      "image": "/images/saint_vincent_strambi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Strambi"
+    },
+    {
+      "name": "Firmin",
+      "feast_day": "September 25",
+      "era": "2nd century",
+      "patronage": [
+        "Amiens",
+        "diocesan clergy"
+      ],
+      "legacy": "First Bishop of Amiens and martyr",
+      "summary": "Saint Firmin was the first Bishop of Amiens and a martyr in the early second century. He is known for his missionary work in Gaul, where he preached the Gospel and converted many pagans to Christianity. Ultimately, he was martyred for his faith, fulfilling his desire for martyrdom and leaving a lasting legacy in the city of Amiens.",
+      "image": "/images/saint_firmin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Firmin_of_Amiens"
+    },
+    {
+      "name": "Finbarr",
+      "feast_day": "September 25",
+      "era": "6th century",
+      "patronage": [
+        "Cork",
+        "students",
+        "education"
+      ],
+      "legacy": "Founder of Cork and its cathedral",
+      "summary": "Finbarr was a sixth-century bishop and the founder of the city of Cork in Ireland. He established a monastery at Lough Eire, attracting many disciples and transforming the area into a thriving community. His legacy continues through the cathedral and church that bear his name, where his relics are kept.",
+      "image": "/images/saint_finbarr.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Finbar_of_Cork"
+    }
+  ]
+}

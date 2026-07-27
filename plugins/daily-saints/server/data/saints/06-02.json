@@ -1,0 +1,31 @@
+{
+  "date": "06-02",
+  "feast_day": "June 2",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary of the Incarnation",
+      "feast_day": "June 2",
+      "era": "17th century",
+      "patronage": [
+        "Canada",
+        "missionaries",
+        "widows"
+      ],
+      "legacy": "Pioneer of the Church in New France",
+      "summary": "Mary of the Incarnation was a French widow and Ursuline nun who became one of the first nuns to travel to Canada for missionary work. She dedicated her life to teaching Indigenous girls and authored dictionaries to aid in communication and catechesis. Her legacy as a pioneer of the Church in New France and a model of holiness continues to inspire many.",
+      "image": "/images/saint_mary_of_the_incarnation.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_of_the_Incarnation_(Ursuline)"
+    },
+    {
+      "name": "Pothinus",
+      "feast_day": "June 2",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Martyrdom and faith in early Christianity",
+      "summary": "Saint Pothinus was the Bishop of Lyons during the early Christian persecutions in the Roman Empire. He was martyred around 177 AD, enduring severe torture due to his faith and age. His steadfastness and zeal for Christ inspired many, including his successor, Saint Irenaeus.",
+      "image": "/images/sts_pothinus_blandina_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Pothinus"
+    }
+  ]
+}

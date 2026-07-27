@@ -1,0 +1,48 @@
+{% comment %}
+  Half horizontal layout (800x240). Same data as full.liquid, trimmed for
+  half the height: portrait, name/era, and a two-line summary clamp.
+{% endcomment %}
+{% assign saint = saints[0] %}
+<div class="layout">
+  {% if saint %}
+  <div class="flex flex--row gap--medium h--full">
+    {% if saint.image %}
+    <div class="flex flex--col flex--center-y" style="flex: 0 0 140px;">
+      <img class="image" src="{{ saint.image }}" style="width: 140px; height: 180px; object-fit: cover; border-radius: 8px;">
+    </div>
+    {% endif %}
+    <div class="flex flex--col gap--xsmall" style="flex: 1; min-width: 0;">
+      <div>
+        <div class="title title--medium">{{ saint.name }}</div>
+        <div class="label">{{ feastDay }}{% if saint.era %} &middot; {{ saint.era }}{% endif %}</div>
+      </div>
+
+      {% if saint.legacy %}
+      <div class="description" style="font-style: italic;">&ldquo;{{ saint.legacy }}&rdquo;</div>
+      {% endif %}
+
+      {% if saint.summary %}
+      <div class="description" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">{{ saint.summary }}</div>
+      {% endif %}
+
+      {% if saint.patronage and saint.patronage.size > 0 %}
+      <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap;">
+        {% for p in saint.patronage limit: 4 %}
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ p }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--small h--full">
+    <div class="value value--medium">&#128330;</div>
+    <div class="description text--center">No saint data</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Saint of the Day</span>
+  <span class="instance">{% if count > 1 %}+{{ count | minus: 1 }} more today{% endif %}</span>
+</div>

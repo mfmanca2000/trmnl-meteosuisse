@@ -1,0 +1,35 @@
+{
+  "date": "03-28",
+  "feast_day": "March 28",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Capistran",
+      "feast_day": "March 28",
+      "era": "15th century",
+      "patronage": [
+        "military chaplains",
+        "prisoners",
+        "the sick"
+      ],
+      "legacy": "Defender of the faith and reformer",
+      "summary": "John Capistran was an Italian Franciscan friar known for his powerful preaching and dedication to reforming the Church. He played a significant role in the defense of Christian territories during the Ottoman threat, notably leading a successful crusade at Belgrade in 1456. Canonized in 1690, he is remembered for his humility, perseverance, and the numerous miracles attributed to him after his death.",
+      "image": "/images/saint_john_capistran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Capistran"
+    },
+    {
+      "name": "Gontran",
+      "feast_day": "March 28",
+      "era": "6th century",
+      "patronage": [
+        "kings",
+        "the sick",
+        "peace"
+      ],
+      "legacy": "A compassionate king and protector of peace.",
+      "summary": "Saint Gontran was the King of Burgundy and Orleans, known for his piety and dedication to his subjects. He ruled during a time of division among his brothers and sought to maintain peace and justice in his realm. His legacy includes the establishment of churches and monasteries, as well as a reputation for mercy and compassion towards the oppressed.",
+      "image": "/images/saint_gontran.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gontran"
+    }
+  ]
+}

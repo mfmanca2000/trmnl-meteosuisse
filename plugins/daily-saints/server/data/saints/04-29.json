@@ -1,0 +1,49 @@
+{
+  "date": "04-29",
+  "feast_day": "April 29",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Joseph Benedict Cottolengo",
+      "feast_day": "April 29",
+      "era": "19th century",
+      "patronage": [
+        "the sick",
+        "the poor",
+        "orphaned children"
+      ],
+      "legacy": "Compassionate care for the marginalized",
+      "summary": "Joseph Benedict Cottolengo was an Italian priest known for his deep compassion for the sick and poor. He founded the Piccola Casa della Divina Provvidenza, a community dedicated to caring for those in need, which grew into a city of over 7,000 individuals. His legacy includes the establishment of fourteen religious communities focused on both corporal and spiritual works of mercy.",
+      "image": "/images/saint_joseph_benedict_cottolengo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giuseppe_Benedetto_Cottolengo"
+    },
+    {
+      "name": "Peter of Verona",
+      "feast_day": "April 29",
+      "era": "Medieval",
+      "patronage": [
+        "martyrs",
+        "preachers",
+        "heretics"
+      ],
+      "legacy": "Courageous martyr and defender of faith",
+      "summary": "Peter of Verona was a Dominican priest and martyr born in 1206. He dedicated his life to preaching against heresy and converting many to the Catholic faith, often facing severe opposition. He was ultimately martyred in 1252, leaving a legacy of courage and unwavering faith.",
+      "image": "/images/saint_peter_of_verona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Verona"
+    },
+    {
+      "name": "Hugh of Cluny",
+      "feast_day": "April 29",
+      "era": "Medieval",
+      "patronage": [
+        "monks",
+        "abandoned children",
+        "hospitals"
+      ],
+      "legacy": "Promoter of monastic reform and spirituality",
+      "summary": "Hugh of Cluny was a prominent abbot who led the Cluniac reform movement in the 11th century. He became the abbot of Cluny at a young age and was instrumental in expanding the influence of the abbey, which became a center of monastic life and spirituality. His legacy includes the establishment of numerous monasteries and the promotion of a renewed commitment to monastic discipline and prayer.",
+      "image": "/images/saint_hugh_of_cluny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hugh_of_Cluny"
+    }
+  ]
+}

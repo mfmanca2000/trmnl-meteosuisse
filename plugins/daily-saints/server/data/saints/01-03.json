@@ -1,0 +1,21 @@
+{
+  "date": "01-03",
+  "feast_day": "January 3",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Genevieve",
+      "feast_day": "January 3",
+      "era": "5th century",
+      "patronage": [
+        "Paris",
+        "difficult marriages",
+        "sick children"
+      ],
+      "legacy": "Patroness of Paris and protector of the faithful.",
+      "summary": "Saint Genevieve was a 5th-century virgin and the patroness of Paris. Known for her piety and miraculous interventions, she played a crucial role in protecting the city during sieges, particularly against Attila the Hun. Her legacy endures as a symbol of faith and resilience in the face of adversity.",
+      "image": "/images/saint_genevieve.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Genevieve_of_Paris"
+    }
+  ]
+}

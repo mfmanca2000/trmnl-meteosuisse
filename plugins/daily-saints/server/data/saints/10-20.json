@@ -1,0 +1,22 @@
+{
+  "date": "10-20",
+  "feast_day": "October 20",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John Cantius",
+      "feast_day": "October 20",
+      "era": "15th century",
+      "patronage": [
+        "Poland",
+        "Lithuania",
+        "students",
+        "the poor"
+      ],
+      "legacy": "A model of charity and piety",
+      "summary": "John Cantius was a Polish priest and theologian known for his deep piety and commitment to the poor. He served as a professor at the University of Cracow and was renowned for his charitable acts, including providing for the needy and advocating for the marginalized. Canonized in 1767, he is remembered for his dedication to education, prayer, and service to others.",
+      "image": "/images/saint_john_cantius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Cantius"
+    }
+  ]
+}

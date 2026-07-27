@@ -1,0 +1,17 @@
+{
+  "date": "11-01",
+  "feast_day": "November 1",
+  "count": 1,
+  "saints": [
+    {
+      "name": "All Saints",
+      "feast_day": "November 1",
+      "era": null,
+      "patronage": null,
+      "legacy": "Celebration of all holy men and women",
+      "summary": "All Saints' Day is a Christian feast day celebrated in honor of all the saints, known and unknown. It serves as a reminder of the communion of saints and the importance of intercession in the Christian faith. The day is observed on November 1st and is a holy day of obligation for Catholics.",
+      "image": "/images/all_saints_day.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/All_Saints%27_Day"
+    }
+  ]
+}

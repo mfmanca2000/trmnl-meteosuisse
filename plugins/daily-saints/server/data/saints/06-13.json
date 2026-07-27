@@ -1,0 +1,21 @@
+{
+  "date": "06-13",
+  "feast_day": "June 13",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anthony of Padua",
+      "feast_day": "June 13",
+      "era": "Medieval",
+      "patronage": [
+        "lost items",
+        "travelers",
+        "the poor"
+      ],
+      "legacy": "Miracle-worker and beloved preacher",
+      "summary": "Anthony of Padua was a Portuguese Franciscan friar and preacher known for his powerful sermons and miracles. He became a Doctor of the Church and is often depicted holding the Child Jesus, a symbol of his deep faith and devotion. His life was marked by a commitment to teaching and helping the poor, and he is widely venerated as a patron saint of lost items and seekers.",
+      "image": "/images/saint_anthony_of_padua.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Padua"
+    }
+  ]
+}

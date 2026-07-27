@@ -1,0 +1,58 @@
+{
+  "date": "01-12",
+  "feast_day": "January 12",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Margaret Bourgeoys",
+      "feast_day": "January 12",
+      "era": "17th century",
+      "patronage": [
+        "teachers",
+        "Canada",
+        "education"
+      ],
+      "legacy": "Pioneer of education in Canada",
+      "summary": "Margaret Bourgeoys was a French nun and the founder of the Congregation of Notre Dame, dedicated to the education of children in Canada. She arrived in New France in 1653 and established the first school in Montreal, significantly contributing to the education and social welfare of the community. Her legacy includes the establishment of numerous schools and her dedication to the spiritual and practical guidance of young women and families.",
+      "image": "/images/saint_margaret_bourgeoys.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_Bourgeoys"
+    },
+    {
+      "name": "Aelred",
+      "feast_day": "January 12",
+      "era": "Medieval",
+      "patronage": [
+        "friendship",
+        "spirituality"
+      ],
+      "legacy": "Champion of love and spiritual friendship",
+      "summary": "Saint Aelred was a Cistercian abbot known for his profound teachings on love and friendship. He dedicated his life to monasticism, leading a community of monks and writing influential works on spirituality. His legacy emphasizes the importance of divine love and the transformative power of friendship in the pursuit of God.",
+      "image": "/images/saint_aelred_or_alfred.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Aelred_of_Rievaulx"
+    },
+    {
+      "name": "Arcadius",
+      "feast_day": "January 12",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Courageous martyr of the early Church",
+      "summary": "Saint Arcadius was a Christian martyr from Africa who suffered during a fierce persecution in the 3rd century. He courageously refused to sacrifice to pagan gods, enduring brutal torture instead. His steadfast faith and ultimate sacrifice inspired many Christians to remain faithful to God in the face of adversity.",
+      "image": "/images/saint_arcadius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Arcadius"
+    },
+    {
+      "name": "Benedict Biscop",
+      "feast_day": "January 12",
+      "era": "7th century",
+      "patronage": [
+        "libraries",
+        "artists",
+        "monks"
+      ],
+      "legacy": "Pioneer of English monastic education and art",
+      "summary": "Benedict Biscop was an Anglo-Saxon abbot and a key figure in the establishment of monasticism in England during the 7th century. He made several pilgrimages to Rome, bringing back books, art, and architectural knowledge that greatly influenced English monastic life. His dedication to education and the arts helped lay the foundation for future monastic communities in Northumbria.",
+      "image": "/images/saint_benedict_biscop.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Biscop"
+    }
+  ]
+}

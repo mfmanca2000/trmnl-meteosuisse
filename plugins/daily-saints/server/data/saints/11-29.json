@@ -1,0 +1,21 @@
+{
+  "date": "11-29",
+  "feast_day": "November 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Saturninus",
+      "feast_day": "November 29",
+      "era": "1st century",
+      "patronage": [
+        "Toulouse",
+        "France",
+        "farmers"
+      ],
+      "legacy": "Martyr and early Christian evangelizer",
+      "summary": "Saint Saturninus was a bishop and martyr who played a crucial role in the early spread of Christianity in southern France. He was known for his miracles and his steadfastness in the face of persecution, ultimately leading to his martyrdom. His legacy is celebrated in the Christian tradition, particularly in Toulouse, where he is venerated as a patron saint.",
+      "image": "/images/saint_saturninus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saturninus_of_Toulouse"
+    }
+  ]
+}

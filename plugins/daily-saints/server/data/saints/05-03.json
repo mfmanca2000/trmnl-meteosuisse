@@ -1,0 +1,17 @@
+{
+  "date": "05-03",
+  "feast_day": "May 3",
+  "count": 1,
+  "saints": [
+    {
+      "name": "The Finding of the Holy Cross",
+      "feast_day": "May 3",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": null,
+      "summary": "When God restored peace to His Church by exalting Constantine the Great to the imperial throne, that pious prince, who had triumphed over his enemies by the miraculous power of the Cross of Christ, was very desirous of expressing his veneration for the holy places which had been honored and sanctified by the presence and sufferings of our blessed Redeemer on earth. He accordingly resolved to build a magnificent church in the city of Jerusalem. Saint Helen, the Emperor's mother, desiring to visit the holy places there, made a journey into Palestine in 326, though she was at that time near eighty years of age.",
+      "image": "/images/the_finding_of_the_holy_cross.jpg",
+      "wikipedia": null
+    }
+  ]
+}

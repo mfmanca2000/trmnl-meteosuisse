@@ -1,0 +1,34 @@
+{
+  "date": "05-28",
+  "feast_day": "May 28",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Germanus of Paris",
+      "feast_day": "May 28",
+      "era": "6th century",
+      "patronage": [
+        "Paris",
+        "the poor",
+        "prisoners"
+      ],
+      "legacy": "Champion of the poor and the afflicted",
+      "summary": "Saint Germanus of Paris was a sixth-century bishop known for his fervent devotion and miraculous gifts. He dedicated his life to the poor and the afflicted, often sharing his resources and advocating for the imprisoned. His influence led to the conversion of King Childebert and the eradication of idolatry in France.",
+      "image": "/images/saint_germanus_of_paris.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germanus_of_Paris"
+    },
+    {
+      "name": "Augustine of Canterbury",
+      "feast_day": "May 28",
+      "era": "6th century",
+      "patronage": [
+        "England",
+        "missionaries"
+      ],
+      "legacy": "Apostle of England and missionary pioneer.",
+      "summary": "Augustine of Canterbury was a Benedictine monk who played a pivotal role in the Christianization of England. Appointed by Pope Gregory the Great, he led a mission to convert the Anglo-Saxons and established the Church in England. His efforts laid the foundation for the English Church, which became known for its learning and devotion to the papacy.",
+      "image": "/images/saint_augustine_of_canterbury.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Canterbury"
+    }
+  ]
+}

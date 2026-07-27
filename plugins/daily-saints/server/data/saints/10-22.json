@@ -1,0 +1,31 @@
+{
+  "date": "10-22",
+  "feast_day": "October 22",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hilarion",
+      "feast_day": "October 22",
+      "era": "4th century",
+      "patronage": [
+        "monks",
+        "healers",
+        "the sick"
+      ],
+      "legacy": "Founder of monastic life in Palestine",
+      "summary": "Saint Hilarion was a prominent early Christian monk and the founder of monastic life in Palestine. Known for his severe asceticism and miraculous works, he attracted many followers and was revered for his healing abilities. He died in 372, leaving a legacy of devotion and monasticism that influenced the Christian community.",
+      "image": "/images/saint_hilarion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilarion"
+    },
+    {
+      "name": "Mello of Cardiff",
+      "feast_day": "October 22",
+      "era": "Early 4th century",
+      "patronage": null,
+      "legacy": "Apostle of Rouen and miracle worker",
+      "summary": "Saint Mello of Cardiff was an early Christian bishop who played a significant role in spreading the Gospel in Neustria, now Normandy. After converting from idolatry, he was ordained by Pope Saint Steven and performed numerous miracles, including healings and even a resurrection. He is remembered for his long episcopate in Rouen, where he established a church and baptized many converts, leaving a lasting legacy in the region.",
+      "image": "/images/saint_mello_of_cardiff.jpg",
+      "wikipedia": null
+    }
+  ]
+}

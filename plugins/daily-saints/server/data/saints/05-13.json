@@ -1,0 +1,45 @@
+{
+  "date": "05-13",
+  "feast_day": "May 13",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Our Lady of Fatima",
+      "feast_day": "May 13",
+      "era": "20th century",
+      "patronage": [
+        "peace",
+        "families",
+        "travelers"
+      ],
+      "legacy": "A call to prayer and conversion",
+      "summary": "Our Lady of Fatima refers to the apparitions of the Blessed Virgin Mary that occurred in 1917 in Fatima, Portugal. She appeared to three shepherd children, delivering messages of prayer, penance, and a warning about the spread of Communism. The final apparition on October 13, 1917, included the Miracle of the Sun, witnessed by thousands, affirming her messages and the importance of faith.",
+      "image": "/images/our_lady_of_fatima.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima"
+    },
+    {
+      "name": "Robert Bellarmine",
+      "feast_day": "May 13",
+      "era": "16th-17th century",
+      "patronage": [
+        "theologians",
+        "catechists",
+        "apologetics"
+      ],
+      "legacy": "Defender of Catholic doctrine and faith",
+      "summary": "Saint Robert Bellarmine was a prominent Jesuit theologian and cardinal known for his defense of Catholic doctrine during the Counter-Reformation. He authored significant works, including his Course of Controversy and a Commentary on the Psalms, which contributed to the Church's intellectual tradition. Canonized in 1930 and declared a Doctor of the Church, he is remembered for his deep commitment to faith and scholarship.",
+      "image": "/images/saint_robert_bellarmine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_Bellarmine"
+    },
+    {
+      "name": "John the Silent",
+      "feast_day": "May 13",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "A model of silence and prayer",
+      "summary": "John the Silent was a bishop and monk known for his deep commitment to silence and prayer. Born in Armenia, he founded a monastery and lived a life of austerity, often retreating into the wilderness. He guided many souls towards God through his example and teachings until his death around the year 558.",
+      "image": "/images/saint_john_the_silent.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Silent"
+    }
+  ]
+}

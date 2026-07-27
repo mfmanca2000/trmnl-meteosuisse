@@ -1,0 +1,31 @@
+{
+  "date": "01-05",
+  "feast_day": "January 5",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Simeon Stylites",
+      "feast_day": "January 5",
+      "era": "5th century",
+      "patronage": [
+        "ascetics",
+        "hermits",
+        "those seeking solitude"
+      ],
+      "legacy": "Pioneer of pillar asceticism and prayer",
+      "summary": "Simeon Stylites was a Christian ascetic known for his extreme form of monasticism, spending 37 years atop a pillar in Syria. He practiced severe austerities, including fasting and self-discipline, which drew many followers and admirers. His life of prayer and dedication to God inspired countless individuals and led to numerous miracles attributed to his intercession.",
+      "image": "/images/saint_simeon_stylites.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simeon_Stylites"
+    },
+    {
+      "name": "Telesphorus",
+      "feast_day": "January 5",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Defender of the faith and liturgical reformer",
+      "summary": "Telesphorus was a Greek Pope and martyr who served as the Bishop of Rome during the early second century. He is known for his efforts to combat heresy and for instituting certain liturgical practices, including the celebration of Mass on Christmas Eve. Telesphorus was martyred under Emperor Antoninus Pius and is commemorated on January 5.",
+      "image": "/images/saint_telesphorus_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Telesphorus"
+    }
+  ]
+}

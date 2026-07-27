@@ -1,0 +1,21 @@
+{
+  "date": "10-13",
+  "feast_day": "October 13",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Edward the Confessor",
+      "feast_day": "October 13",
+      "era": "11th century",
+      "patronage": [
+        "difficult marriages",
+        "peace",
+        "England"
+      ],
+      "legacy": "A holy king known for peace and charity.",
+      "summary": "Edward the Confessor was King of England from 1042 until his death in 1066. Known for his piety and commitment to the Church, he ruled with a focus on peace and charity, earning the affection of his subjects. His reign is marked by the rebuilding of churches, including Westminster Abbey, and he was canonized in 1161 due to the miracles attributed to him after his death.",
+      "image": "/images/saint_edward_iii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "09-12",
+  "feast_day": "September 12",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Holy Name of Mary",
+      "feast_day": "September 12",
+      "era": "Modern",
+      "patronage": null,
+      "legacy": "Celebration of Mary's intercessory power",
+      "summary": "The Feast of the Holy Name of Mary is celebrated on September 12, commemorating the intercession of the Blessed Virgin Mary during the siege of Vienna in 1683. This feast was established by Pope Innocent XI to give thanks for the deliverance of the city from Turkish invaders. It highlights the importance of Mary's role in the protection of the Church and the faithful.",
+      "image": "/images/feast_of_the_holy_name_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Name_of_Mary"
+    },
+    {
+      "name": "Guy of Anderlecht",
+      "feast_day": "September 12",
+      "era": "10th century",
+      "patronage": [
+        "pilgrims",
+        "the poor"
+      ],
+      "legacy": "Devotion to prayer and service to the poor",
+      "summary": "Saint Guy of Anderlecht was a 10th-century hermit and pilgrim known for his deep devotion to prayer and service to the poor. After a brief period of inconstancy in his life, he dedicated himself to a life of penance and pilgrimage, visiting significant religious sites. He is remembered for his humility and commitment to the Church, ultimately passing away in 1012, with a light reportedly shining around him at his death.",
+      "image": "/images/saint_guy_of_anderlecht.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guy_of_Anderlecht"
+    }
+  ]
+}

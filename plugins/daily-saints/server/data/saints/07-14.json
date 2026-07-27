@@ -1,0 +1,21 @@
+{
+  "date": "07-14",
+  "feast_day": "July 14",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bonaventure",
+      "feast_day": "July 14",
+      "era": "Medieval",
+      "patronage": [
+        "Franciscans",
+        "Bonaventure University",
+        "theologians"
+      ],
+      "legacy": "A profound theologian and spiritual leader.",
+      "summary": "Bonaventure was a 13th-century Franciscan theologian and Cardinal-Bishop, known for his deep spirituality and scholarly contributions to the Church. He served as the General of the Franciscan Order and played a significant role in the Council of Lyons, advocating for the union of the Greek and Roman Churches. His writings reflect a fervent love for God, earning him the title of the Seraphic Doctor.",
+      "image": "/images/saint_bonaventure.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bonaventure"
+    }
+  ]
+}

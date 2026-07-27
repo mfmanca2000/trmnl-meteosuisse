@@ -1,0 +1,35 @@
+{
+  "date": "02-22",
+  "feast_day": "February 22",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter",
+      "feast_day": "February 22",
+      "era": "1st century",
+      "patronage": [
+        "fishermen",
+        "netmakers",
+        "shipbuilders"
+      ],
+      "legacy": "Foundation of the Church and apostolic leadership",
+      "summary": "Saint Peter is one of the twelve apostles of Jesus and is regarded as the first Pope of the Roman Catholic Church. He is known for his leadership in the early Christian community and is traditionally believed to have been martyred in Rome. His role as the 'Prince of the Apostles' highlights his significance in the establishment of the Church.",
+      "image": "/images/saint_peters_chair_at_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Margaret of Cortona",
+      "feast_day": "February 22",
+      "era": "Medieval",
+      "patronage": [
+        "penitents",
+        "the homeless",
+        "single mothers"
+      ],
+      "legacy": "A beacon of hope for sinners",
+      "summary": "Margaret of Cortona was a 13th-century Franciscan tertiary who transformed her life from one of sin to one of profound holiness after the murder of her lover. She dedicated herself to serving the poor and founded a hospital and a congregation to assist those in need. Known for her visions and miraculous intercessions, she became a beloved figure in Tuscany, often referred to as the 'lily of the valley.'",
+      "image": "/images/saint_margaret_of_cortona.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Cortona"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "01-14",
+  "feast_day": "January 14",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hilary of Poitiers",
+      "feast_day": "January 14",
+      "era": "4th century",
+      "patronage": [
+        "theologians",
+        "exiled people"
+      ],
+      "legacy": "Defender of orthodoxy against Arianism",
+      "summary": "Hilary of Poitiers was a bishop and Doctor of the Church known for his staunch defense of orthodox Christianity against Arianism. After converting to Christianity in middle age, he became a prominent theologian and wrote extensively on the Trinity. His efforts in promoting the faith led to his exile, during which he continued to compose influential works and ultimately returned to his diocese to continue his ministry until his death.",
+      "image": "/images/saint_hilary_of_poitiers.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+    },
+    {
+      "name": "Felix of Nola",
+      "feast_day": "January 14",
+      "era": "3rd century",
+      "patronage": [
+        "nuns",
+        "orators",
+        "those seeking to overcome adversity"
+      ],
+      "legacy": "A model of faith and charity",
+      "summary": "Saint Felix of Nola was a priest known for his deep faith and dedication to serving others during a time of persecution in the early Church. He endured imprisonment and torture but remained steadfast in his pastoral duties, ultimately aiding his bishop, Maximus, during a time of great distress. After the persecution ended, he lived a life of poverty and charity, becoming a beloved figure in his community.",
+      "image": "/images/saint_felix_of_nola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Felix_of_Nola"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "date": "06-08",
+  "feast_day": "June 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Medard",
+      "feast_day": "June 8",
+      "era": "6th century",
+      "patronage": [
+        "farmers",
+        "weather",
+        "poor",
+        "against bad weather"
+      ],
+      "legacy": "Compassionate bishop and miracle worker",
+      "summary": "Saint Medard was a bishop of Noyon and Tournai in the 6th century, known for his deep compassion for the poor and his miraculous deeds. He played a significant role in the conversion of the Franks and was instrumental in the establishment of Christianity in his region. His legacy is marked by his dedication to charity and his unwavering commitment to his pastoral duties despite facing numerous challenges.",
+      "image": "/images/saint_medard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Medard"
+    }
+  ]
+}

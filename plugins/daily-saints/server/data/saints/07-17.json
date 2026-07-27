@@ -1,0 +1,21 @@
+{
+  "date": "07-17",
+  "feast_day": "July 17",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Alexius of Rome",
+      "feast_day": "July 17",
+      "era": "4th century",
+      "patronage": [
+        "the poor",
+        "married couples",
+        "abandoned spouses"
+      ],
+      "legacy": "A model of humility and devotion",
+      "summary": "Saint Alexius of Rome was a nobleman who renounced his wealth and family ties to live a life of poverty and devotion to God. After marrying a noblewoman, he left on their wedding night to seek solitude and serve the poor, eventually living at the gate of a church in Edessa. His life of humility and sacrifice remained unknown to his family until after his death, when they discovered his true identity and the miracles surrounding him.",
+      "image": "/images/saint_alexius_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alexius_of_Rome"
+    }
+  ]
+}

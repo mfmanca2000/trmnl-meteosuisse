@@ -1,0 +1,27 @@
+{
+  "date": "12-19",
+  "feast_day": "December 19",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Urban V",
+      "feast_day": "December 19",
+      "era": "Medieval",
+      "patronage": null,
+      "legacy": "Pope dedicated to reform and humility",
+      "summary": "Urban V was a Pope known for his efforts to return the Papacy from Avignon to Rome. He was dedicated to reforming morals and spreading the Catholic faith. His life exemplified humility and devotion, as he lived simply and directed all glory to God.",
+      "image": "/images/blessed_urban_v.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Urban_V"
+    },
+    {
+      "name": "Nemesion of Alexandria",
+      "feast_day": "December 19",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Courageous martyr of early Christianity",
+      "summary": "Nemesion of Alexandria was a Christian martyr who lived during the persecution of Decius in the 3rd century. He was accused of being a Christian and, despite clearing himself of a theft charge, was subjected to torture and ultimately sentenced to death by burning. Along with him, several companions also faced martyrdom, demonstrating remarkable courage and faith in the face of persecution.",
+      "image": "/images/saint_nemesion_of_alexandria_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nemesius_of_Alexandria"
+    }
+  ]
+}

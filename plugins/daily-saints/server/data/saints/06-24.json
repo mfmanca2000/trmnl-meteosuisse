@@ -1,0 +1,22 @@
+{
+  "date": "06-24",
+  "feast_day": "June 24",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John the Baptist",
+      "feast_day": "June 24",
+      "era": "1st century",
+      "patronage": [
+        "baptism",
+        "conversions",
+        "painters",
+        "printers"
+      ],
+      "legacy": "Forerunner of Christ and martyr",
+      "summary": "John the Baptist is a significant figure in Christianity, known for his role as the forerunner to Jesus Christ. He preached repentance and baptized Jesus in the Jordan River, marking the beginning of Christ's public ministry. His life was characterized by asceticism and a deep commitment to God, ultimately leading to his martyrdom at the hands of Herod Antipas.",
+      "image": "/images/saint_john_the_baptist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Baptist"
+    }
+  ]
+}

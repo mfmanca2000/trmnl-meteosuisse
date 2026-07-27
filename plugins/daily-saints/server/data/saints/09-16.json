@@ -1,0 +1,35 @@
+{
+  "date": "09-16",
+  "feast_day": "September 16",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cyprian",
+      "feast_day": "September 16",
+      "era": "3rd century",
+      "patronage": [
+        "North Africa",
+        "clergy",
+        "martyrs"
+      ],
+      "legacy": "A pillar of faith and martyrdom.",
+      "summary": "Saint Cyprian was a prominent Bishop of Carthage and a martyr who lived during the 3rd century. He was initially a pagan but converted to Christianity and became a significant leader during a time of persecution. His steadfastness in faith and leadership during crises, including a plague and the Decian persecution, left a lasting impact on the early Church.",
+      "image": "/images/saint_cyprian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyprian_of_Carthage"
+    },
+    {
+      "name": "Andrew Kim",
+      "feast_day": "September 16",
+      "era": "19th century",
+      "patronage": [
+        "Korea",
+        "Catholic priests",
+        "martyrs"
+      ],
+      "legacy": "First Korean priest and martyr",
+      "summary": "Andrew Kim was the first Korean priest and a martyr who played a crucial role in introducing Christianity to Korea. He faced immense dangers and persecution while working to bring missionaries to his homeland, ultimately sacrificing his life for his faith. His legacy inspires many in Korea and beyond, symbolizing courage and dedication to the Christian mission.",
+      "image": "/images/saint_andrew_kim.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Kim_Taegon"
+    }
+  ]
+}

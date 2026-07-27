@@ -1,0 +1,27 @@
+{
+  "date": "04-20",
+  "feast_day": "April 20",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Agnes of Monte Pulciano",
+      "feast_day": "April 20",
+      "era": "14th century",
+      "patronage": null,
+      "legacy": "Virgin",
+      "summary": "Saint Agnes was born in Italy in 1274, a gentle future glory of the Order of Saint Dominic. Her father was an eminent Christian who dwelt in the village of Gracciano Vecchio, near the Lake of Perugia in central Italy. On the very day of her birth a first miracle announced to those present that this was a predestined child: mysterious burning torches appeared, shining brilliantly near her crib.",
+      "image": "/images/saint_agnes_of_monte_pulciano.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Marcellinus",
+      "feast_day": "April 20",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Bishop of Embrun",
+      "summary": "Saint Marcellinus was born in Africa of a noble family; with two other Christians desiring to evangelize Gaul, Vincent and Domninus, he went to Pope Saint Damasus. The young men were sent to Eusebius, bishop of Verceil, who encouraged them for their mission and announced to them that they would have much to suffer. The three were ordained, and Marcellinus was consecrated bishop of Embrun by Eusebius and the bishop of Valencia.",
+      "image": "/images/saint_marcellinus_of_embrun.jpg",
+      "wikipedia": null
+    }
+  ]
+}

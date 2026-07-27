@@ -1,0 +1,35 @@
+{
+  "date": "04-11",
+  "feast_day": "April 11",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gemma Galgani",
+      "feast_day": "April 11",
+      "era": "Modern",
+      "patronage": [
+        "students",
+        "sick people",
+        "loss of parents"
+      ],
+      "legacy": "A model of suffering and devotion",
+      "summary": "Saint Gemma Galgani was an Italian virgin known for her deep spirituality and extraordinary mystical experiences. Despite a life filled with suffering and physical ailments, she remained devoted to Christ and sought to glorify Him through her trials. She is remembered for her stigmata and her profound love for Jesus, which inspired many during her life and continues to do so today.",
+      "image": "/images/saint_gemma_galgani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gemma_Galgani"
+    },
+    {
+      "name": "Leo the Great",
+      "feast_day": "April 11",
+      "era": "5th century",
+      "patronage": [
+        "popes",
+        "theologians",
+        "Rome"
+      ],
+      "legacy": "Defender of the faith and Church unity",
+      "summary": "Leo the Great was a Pope who played a crucial role in defining the doctrine of the Incarnation and combating heresies during a tumultuous time for the Church. He is best known for his theological writings and for successfully negotiating with Attila the Hun to spare Rome from destruction. His leadership and teachings have left a lasting impact on the Catholic Church and its understanding of Christ's nature.",
+      "image": "/images/saint_leo_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leo_the_Great"
+    }
+  ]
+}

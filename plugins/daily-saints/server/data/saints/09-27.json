@@ -1,0 +1,22 @@
+{
+  "date": "09-27",
+  "feast_day": "September 27",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cosmas and Damian",
+      "feast_day": "September 27",
+      "era": "3rd century",
+      "patronage": [
+        "physicians",
+        "surgeons",
+        "barbers",
+        "against plague"
+      ],
+      "legacy": "Patrons of physicians and medical workers",
+      "summary": "Saints Cosmas and Damian were twin brothers and physicians who lived in the 3rd century. They are known for their unwavering Christian faith and their practice of medicine without accepting payment, earning them great respect among the people. They were martyred during the persecution of Diocletian for their refusal to renounce their faith and for continuing to heal in the name of Christ.",
+      "image": "/images/saint_cosmas_and_saint_damian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cosmas_and_Damian"
+    }
+  ]
+}

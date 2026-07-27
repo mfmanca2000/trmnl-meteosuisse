@@ -1,0 +1,33 @@
+{
+  "date": "08-30",
+  "feast_day": "August 30",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Rose of Lima",
+      "feast_day": "August 30",
+      "era": "17th century",
+      "patronage": [
+        "Peru",
+        "gardening",
+        "the indigenous peoples of Latin America"
+      ],
+      "legacy": "First saint of the Americas",
+      "summary": "Rose of Lima was the first canonized saint of the Americas, born in Lima, Peru, in 1586. Known for her extreme penance and devotion to God, she dedicated her life to prayer and service, often suffering for the conversion of sinners. She died at a young age in 1617, leaving a legacy of humility and deep faith.",
+      "image": "/images/saint_rose_of_lima.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rose_of_Lima"
+    },
+    {
+      "name": "Fiaker",
+      "feast_day": "August 30",
+      "era": "7th century",
+      "patronage": [
+        "gardeners"
+      ],
+      "legacy": "Patron saint of gardeners and solitude",
+      "summary": "Saint Fiaker was a Scottish prince who renounced his royal heritage to live a life of solitude and prayer in France. He was known for his austere lifestyle, cultivating a garden and building an oratory in honor of the Blessed Virgin. Fiaker became a spiritual guide for many and is remembered as the patron saint of gardeners.",
+      "image": "/images/saint_fiaker.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Fiacre"
+    }
+  ]
+}

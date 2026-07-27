@@ -1,0 +1,31 @@
+{
+  "date": "09-20",
+  "feast_day": "September 20",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maximin Giraud",
+      "feast_day": "September 20",
+      "era": "19th century",
+      "patronage": null,
+      "legacy": "Visionary of the La Salette apparition",
+      "summary": "Maximin Giraud was a French shepherd who, along with Melanie Calvat, witnessed the apparition of the Virgin Mary at La Salette in 1846. The apparition conveyed a message of repentance and warned of impending chastisements if the people did not return to faith. Giraud dedicated his life to sharing the message of La Salette and remained steadfast in his faith despite facing skepticism and hardship.",
+      "image": "/images/blessed_maximin_giraud.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maximin_Giraud"
+    },
+    {
+      "name": "Eustace",
+      "feast_day": "September 20",
+      "era": "2nd century",
+      "patronage": [
+        "hunters",
+        "against hesitancy",
+        "family"
+      ],
+      "legacy": "A symbol of faith and family unity",
+      "summary": "Saint Eustace, originally named Placidus, was a Roman officer who converted to Christianity after a miraculous vision involving a deer and a cross. He endured significant trials, including the loss of his family and possessions, yet remained steadfast in his faith. Ultimately, he and his family were martyred for refusing to sacrifice to pagan gods, and their story inspired many to believe in Christ.",
+      "image": "/images/saint_eustachius_and_his_family.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eustace"
+    }
+  ]
+}

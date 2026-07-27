@@ -1,0 +1,22 @@
+{
+  "date": "05-08",
+  "feast_day": "May 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Michael",
+      "feast_day": "May 8",
+      "era": "Early Christian",
+      "patronage": [
+        "military",
+        "police",
+        "sick",
+        "who is like God?"
+      ],
+      "legacy": "Protector of the Church and faithful souls",
+      "summary": "Saint Michael is one of the principal archangels in Christian tradition, known for his role as a protector and leader of the heavenly armies. He is often depicted as a warrior who defends the faithful against the forces of evil, particularly during the final battle against Satan. His apparitions and the establishment of shrines in his honor, such as Mont-Saint-Michel, highlight his significance in the Church's history and devotion.",
+      "image": "/images/apparition_of_saint_michael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_the_Archangel"
+    }
+  ]
+}

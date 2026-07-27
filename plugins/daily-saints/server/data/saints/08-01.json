@@ -1,0 +1,22 @@
+{
+  "date": "08-01",
+  "feast_day": "August 1",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Peter",
+      "feast_day": "August 1",
+      "era": "1st century",
+      "patronage": [
+        "fishermen",
+        "net makers",
+        "shipbuilders",
+        "popes"
+      ],
+      "legacy": "First Pope and leader of the apostles.",
+      "summary": "Peter, one of Jesus' twelve apostles, is recognized as the first Pope and a foundational figure in Christianity. He is known for his leadership in the early Church and his role in spreading the Gospel. His miraculous escape from prison, as described in the Acts of the Apostles, exemplifies his faith and the power of prayer.",
+      "image": "/images/saint_peters_chains.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    }
+  ]
+}

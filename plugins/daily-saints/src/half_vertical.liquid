@@ -1,0 +1,47 @@
+{% comment %}
+  Half vertical layout (400x480). Narrow column, so the portrait sits on top
+  and the text stacks centered below it instead of side-by-side.
+{% endcomment %}
+{% assign saint = saints[0] %}
+<div class="layout">
+  {% if saint %}
+  <div class="flex flex--col flex--center-x gap--small h--full">
+    {% if saint.image %}
+    <img class="image" src="{{ saint.image }}" style="width: 160px; height: 190px; object-fit: cover; border-radius: 8px;">
+    {% endif %}
+
+    <div class="text--center">
+      <div class="title title--medium">{{ saint.name }}</div>
+      <div class="label">{{ feastDay }}{% if saint.era %} &middot; {{ saint.era }}{% endif %}</div>
+    </div>
+
+    {% if saint.legacy %}
+    <div class="description text--center" style="font-style: italic;">&ldquo;{{ saint.legacy }}&rdquo;</div>
+    {% endif %}
+
+    <div class="divider"></div>
+
+    {% if saint.summary %}
+    <div class="description text--center" style="display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden;">{{ saint.summary }}</div>
+    {% endif %}
+
+    {% if saint.patronage and saint.patronage.size > 0 %}
+    <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap; justify-content: center;">
+      {% for p in saint.patronage limit: 3 %}
+      <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ p }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--small h--full">
+    <div class="value value--medium">&#128330;</div>
+    <div class="description text--center">No saint data</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Saint of the Day</span>
+  <span class="instance">{% if count > 1 %}+{{ count | minus: 1 }} more{% endif %}</span>
+</div>

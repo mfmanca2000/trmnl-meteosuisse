@@ -1,0 +1,30 @@
+{
+  "date": "10-30",
+  "feast_day": "October 30",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Alphonsus Rodriguez",
+      "feast_day": "October 30",
+      "era": "16th century",
+      "patronage": [
+        "spirituality",
+        "Jesuits"
+      ],
+      "legacy": "A model of humility and service",
+      "summary": "Saint Alphonsus Rodriguez was a Spanish Jesuit known for his deep spirituality and commitment to humility and service. After experiencing personal tragedies, he dedicated his life to God and became a porter at a Jesuit college in Majorca, where he lived a life of penance and devotion. He is remembered for his profound love for Christ and his influence on fellow Jesuits, including Saint Peter Claver.",
+      "image": "/images/saint_alphonsus_rodriguez.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alphonsus_Rodriguez"
+    },
+    {
+      "name": "Marcellus",
+      "feast_day": "October 30",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrdom for faith and family",
+      "summary": "Saint Marcellus was a Roman centurion who converted to Christianity along with his family. He refused to participate in pagan sacrifices, declaring himself a soldier of Christ, which led to his martyrdom. His children also followed his example, suffering martyrdom for their faith, and their mother ensured their burial in a church dedicated to them in León.",
+      "image": "/images/saint_marcellus_the_centurion_and_his_children.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcellus_the_Centurion"
+    }
+  ]
+}

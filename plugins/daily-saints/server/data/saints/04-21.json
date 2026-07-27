@@ -1,0 +1,21 @@
+{
+  "date": "04-21",
+  "feast_day": "April 21",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anselm",
+      "feast_day": "April 21",
+      "era": "Medieval",
+      "patronage": [
+        "theologians",
+        "students",
+        "parish priests"
+      ],
+      "legacy": "Father of scholastic theology and devotion",
+      "summary": "Anselm of Canterbury was an Italian Benedictine monk who became the Archbishop of Canterbury in the late 11th century. He is renowned for his contributions to scholastic theology and for his defense of the Church's independence from secular authority. Anselm is also credited with establishing the Feast of the Immaculate Conception in the West and is considered a Doctor of the Church.",
+      "image": "/images/saint_anselm.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+    }
+  ]
+}

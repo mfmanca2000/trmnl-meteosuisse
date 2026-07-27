@@ -1,0 +1,21 @@
+{
+  "date": "08-12",
+  "feast_day": "August 12",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Clare of Assisi",
+      "feast_day": "August 12",
+      "era": "13th century",
+      "patronage": [
+        "television",
+        "eye disease",
+        "goldsmiths"
+      ],
+      "legacy": "Pioneer of female monastic life",
+      "summary": "Clare of Assisi was a 13th-century Italian saint and the founder of the Order of Poor Ladies, known today as the Poor Clares. Inspired by Saint Francis, she dedicated her life to poverty and prayer, establishing a monastic community that emphasized simplicity and devotion to God. Despite her frail health, she is remembered for her miraculous defense of her convent against an invading army through her faith and the Blessed Sacrament.",
+      "image": "/images/saint_clare_of_assisi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clare_of_Assisi"
+    }
+  ]
+}

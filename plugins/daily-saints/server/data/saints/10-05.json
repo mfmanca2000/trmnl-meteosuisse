@@ -1,0 +1,20 @@
+{
+  "date": "10-05",
+  "feast_day": "October 5",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Placid",
+      "feast_day": "October 5",
+      "era": "6th century",
+      "patronage": [
+        "monks",
+        "Sicily"
+      ],
+      "legacy": "First Benedictine martyr and founder",
+      "summary": "Saint Placid was a Benedictine monk born in Rome around 515. He founded a monastery in Messina, Sicily, where he was known for his humility and miraculous healings. He was martyred by Saracen pirates in 541, becoming the first Benedictine martyr.",
+      "image": "/images/saint_placid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Placidus"
+    }
+  ]
+}

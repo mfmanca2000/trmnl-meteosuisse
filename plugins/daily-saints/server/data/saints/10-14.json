@@ -1,0 +1,20 @@
+{
+  "date": "10-14",
+  "feast_day": "October 14",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Callistus I",
+      "feast_day": "October 14",
+      "era": "3rd century",
+      "patronage": [
+        "cemeteries",
+        "martyrs"
+      ],
+      "legacy": "Pope, martyr, and protector of the faithful",
+      "summary": "Callistus I was a Pope and martyr in the early third century who played a significant role in the administration of the Church and the care of Christian cemeteries in Rome. He is known for instituting the Ember Days fast and overseeing the construction of churches during a time of persecution. His leadership led to many conversions, but he ultimately faced martyrdom himself, being killed for his faith.",
+      "image": "/images/saint_callistus_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Callistus_I"
+    }
+  ]
+}

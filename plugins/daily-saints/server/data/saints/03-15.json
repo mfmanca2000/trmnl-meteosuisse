@@ -1,0 +1,31 @@
+{
+  "date": "03-15",
+  "feast_day": "March 15",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Clement Mary Hofbauer",
+      "feast_day": "March 15",
+      "era": "18th century",
+      "patronage": [
+        "Vienna",
+        "bakers",
+        "the Redemptorists"
+      ],
+      "legacy": "Champion of education and pastoral care",
+      "summary": "Clement Mary Hofbauer was a Redemptorist priest known for his dedication to education and pastoral care in Austria and Poland. He founded an orphanage and a school for boys in Warsaw, significantly contributing to the spiritual and educational landscape of the region. His efforts in promoting the Catholic faith and supporting the youth earned him recognition as a key figure in the Church during his time.",
+      "image": "/images/saint_clement_mary_hofbauer.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clement_Mary_Hofbauer"
+    },
+    {
+      "name": "Zachary",
+      "feast_day": "March 15",
+      "era": "8th century",
+      "patronage": null,
+      "legacy": "Pope",
+      "summary": "Saint Zachary, a native of Syria, was a Benedictine monk before being created a Cardinal-priest by Saint Gregory II. He succeeded to Pope Gregory III in 741, and was a man of singular meekness and goodness. He was elected at a time of troubles besetting all of Italy, during an invasion of Rome under the military conduct of the Lombardian king Luitprand.",
+      "image": "/images/saint_zachary.jpg",
+      "wikipedia": null
+    }
+  ]
+}

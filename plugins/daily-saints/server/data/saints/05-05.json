@@ -1,0 +1,21 @@
+{
+  "date": "05-05",
+  "feast_day": "May 5",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Pius V",
+      "feast_day": "May 5",
+      "era": "16th century",
+      "patronage": [
+        "papal states",
+        "liturgical reform",
+        "the Council of Trent"
+      ],
+      "legacy": "Champion of Church reform and liturgy",
+      "summary": "Pius V was a Pope known for his strong commitment to reforming the Catholic Church and enforcing the decrees of the Council of Trent. He is recognized for his role in the victory at the Battle of Lepanto, which was attributed to his prayers and leadership. His papacy was marked by a dedication to ecclesiastical discipline and the promotion of the Roman Missal.",
+      "image": "/images/saint_pius_v.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pius_V"
+    }
+  ]
+}

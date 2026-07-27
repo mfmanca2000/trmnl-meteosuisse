@@ -1,0 +1,46 @@
+{
+  "date": "05-16",
+  "feast_day": "May 16",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Simon Stock",
+      "feast_day": "May 16",
+      "era": "Medieval",
+      "patronage": [
+        "Carmelites",
+        "breast cancer patients",
+        "those seeking a good death"
+      ],
+      "legacy": "Promoter of the Carmelite Order's growth",
+      "summary": "Simon Stock was an English Carmelite friar and the Superior General of the Carmelite Order in the 13th century. He is best known for his deep devotion to the Virgin Mary and for receiving the Brown Scapular, a significant symbol of the Carmelite Order. His leadership helped the Order flourish in Europe, particularly during times of persecution and conflict.",
+      "image": "/images/saint_simon_stock.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simon_Stock"
+    },
+    {
+      "name": "Brendan",
+      "feast_day": "May 16",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "Abbot of Clonfert",
+      "summary": "Saint Brendan was born in County Kerry, Ireland, in the year 484. His education was confided to Saint Ita, called the Bridget of Munster , and later to Saint Erc; the latter ordained him a priest in 512. Between the years 512 and 530 he built monastic cells at Ardfert and Shanakeel, at the foot of Brandon Hill.",
+      "image": "/images/saint_brendan_the_navigator.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "John Nepomucene",
+      "feast_day": "May 16",
+      "era": "14th century",
+      "patronage": [
+        "confessors",
+        "bridges",
+        "water",
+        "silence"
+      ],
+      "legacy": "Martyr of silence and fidelity to God",
+      "summary": "John Nepomucene was a priest and martyr born in Bohemia in 1330. He is known for his unwavering silence in the face of torture and death, refusing to betray the confessions of the empress. After being thrown into the Moldau River, his body was found incorrupt, and he became a symbol of fidelity and the sanctity of the sacrament of confession.",
+      "image": "/images/saint_john_nepomucene.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Nepomucene"
+    }
+  ]
+}

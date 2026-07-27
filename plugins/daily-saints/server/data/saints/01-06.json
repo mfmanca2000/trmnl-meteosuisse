@@ -1,0 +1,17 @@
+{
+  "date": "01-06",
+  "feast_day": "January 6",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Epiphany",
+      "feast_day": "January 6",
+      "era": null,
+      "patronage": null,
+      "legacy": "Celebration of Christ's divine manifestations",
+      "summary": "Epiphany, also known as Theophany, is a Christian feast day that celebrates the revelation of God incarnate as Jesus Christ. It commemorates the visit of the Magi to the infant Jesus, His baptism in the Jordan River, and His first miracle at the wedding at Cana. This feast highlights the manifestation of Christ to the world and the recognition of His divine nature by both the Gentiles and the faithful.",
+      "image": "/images/the_epiphany_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Epiphany_(holiday)"
+    }
+  ]
+}

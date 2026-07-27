@@ -1,0 +1,21 @@
+{
+  "date": "03-03",
+  "feast_day": "March 3",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cunegundes",
+      "feast_day": "March 3",
+      "era": "10th century",
+      "patronage": [
+        "difficult marriages",
+        "widows",
+        "the poor"
+      ],
+      "legacy": "Symbol of faith and devotion in marriage",
+      "summary": "Saint Cunegund was a 10th-century princess and the wife of Holy Roman Emperor Henry II. She is known for her piety and dedication to the Church, often engaging in charitable works and supporting the poor. Cunegund was canonized in 1200, and her legacy continues as a symbol of faith and devotion.",
+      "image": "/images/saint_cunegundes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cunigunde_of_Luxembourg"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-16",
+  "feast_day": "July 16",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Our Lady of Mount Carmel",
+      "feast_day": "July 16",
+      "era": "Medieval",
+      "patronage": [
+        "Carmelites",
+        "those seeking protection",
+        "seafarers"
+      ],
+      "legacy": "Patroness of the Carmelite Order",
+      "summary": "Our Lady of Mount Carmel is a title given to the Blessed Virgin Mary in her role as the patroness of the Carmelite Order. According to tradition, she appeared to Saint Simon Stock in 1251, presenting him with the brown scapular as a sign of her protection. This devotion has since spread widely, symbolizing Mary's intercession and care for her followers.",
+      "image": "/images/our_lady_of_mount_carmel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Mount_Carmel"
+    }
+  ]
+}

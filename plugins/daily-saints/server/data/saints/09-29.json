@@ -1,0 +1,22 @@
+{
+  "date": "09-29",
+  "feast_day": "September 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Michael the Archangel",
+      "feast_day": "September 29",
+      "era": "Biblical",
+      "patronage": [
+        "military personnel",
+        "police officers",
+        "paramedics",
+        "sick people"
+      ],
+      "legacy": "Protector and leader of heavenly hosts",
+      "summary": "Michael the Archangel is revered as the leader of the heavenly armies and a protector of the faithful. He is known for his role in spiritual warfare, notably defeating Lucifer and defending God's people throughout history. The Church honors him as a guardian and intercessor, especially in times of conflict and during the final judgment.",
+      "image": "/images/saint_michael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_the_Archangel"
+    }
+  ]
+}

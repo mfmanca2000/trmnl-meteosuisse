@@ -1,0 +1,35 @@
+{
+  "date": "11-13",
+  "feast_day": "November 13",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Stanislaw Kostka",
+      "feast_day": "November 13",
+      "era": "16th century",
+      "patronage": [
+        "youth",
+        "students",
+        "Jesuits"
+      ],
+      "legacy": "Patron of youth and students",
+      "summary": "Saint Stanislaus Kostka was a Polish Jesuit known for his deep spirituality and commitment to God from a young age. He entered the Society of Jesus at the age of 17 and is remembered for his piety, devotion to the Virgin Mary, and miraculous experiences during his illness. He died at the young age of 18, and his incorrupt body has become a site of veneration, leading to his canonization in 1726.",
+      "image": "/images/saint_stanislaus_kostka.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stanislaus_Kostka"
+    },
+    {
+      "name": "Didacus",
+      "feast_day": "November 13",
+      "era": "15th century",
+      "patronage": [
+        "hospitals",
+        "the sick",
+        "Canary Islands"
+      ],
+      "legacy": "A model of humility and service",
+      "summary": "Saint Didacus, born in Andalusia in the early 15th century, was a Franciscan confessor known for his deep spirituality and commitment to serving others. He dedicated his life to prayer, fasting, and caring for the sick, often performing miracles through his intercession. He died in 1463, and his incorrupt body became a source of veneration, leading to his canonization in 1588.",
+      "image": "/images/saint_didacus_or_diego.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Didacus"
+    }
+  ]
+}

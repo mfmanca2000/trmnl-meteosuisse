@@ -1,0 +1,12 @@
+---
+strategy: polling
+no_screen_padding: "no"
+dark_mode: "no"
+static_data: ""
+polling_verb: get
+polling_url: "https://trmnl-plugins-mfmanca-server.vercel.app/api/daily-saints/today"
+polling_headers: ""
+id: 50002
+custom_fields: []
+name: "Saint of the Day"
+refresh_interval: 60

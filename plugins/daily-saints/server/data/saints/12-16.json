@@ -1,0 +1,17 @@
+{
+  "date": "12-16",
+  "feast_day": "December 16",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eusebius of Vercelli",
+      "feast_day": "December 16",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Defender of the Nicene faith and clergy",
+      "summary": "Eusebius of Vercelli was a bishop known for his staunch opposition to Arianism and his efforts to promote a zealous clergy. He was exiled multiple times for his beliefs but continued to advocate for the Nicene Creed and the teachings of the Gospel. His legacy includes the integration of monastic life with clerical duties, influencing the structure of the Church in the West.",
+      "image": "/images/saint_eusebius_of_vercelli.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eusebius_of_Vercelli"
+    }
+  ]
+}

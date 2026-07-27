@@ -1,0 +1,22 @@
+{
+  "date": "10-18",
+  "feast_day": "October 18",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Luke",
+      "feast_day": "October 18",
+      "era": "1st century",
+      "patronage": [
+        "physicians",
+        "artists",
+        "butchers",
+        "bakers"
+      ],
+      "legacy": "Evangelist and companion of Saint Paul",
+      "summary": "Luke is recognized as the author of the Gospel of Luke and the Acts of the Apostles, providing a detailed account of the life of Jesus and the early Church. A physician by profession, he was a companion of Saint Paul and played a significant role in the spread of Christianity. His artistic depictions of the Virgin Mary and his meticulous writings have made him a revered figure in Christian tradition.",
+      "image": "/images/saint_luke.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luke_the_Evangelist"
+    }
+  ]
+}

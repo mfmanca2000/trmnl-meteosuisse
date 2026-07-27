@@ -1,0 +1,21 @@
+{
+  "date": "01-24",
+  "feast_day": "January 24",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Timothy",
+      "feast_day": "January 24",
+      "era": "1st century",
+      "patronage": [
+        "brewers",
+        "sick persons",
+        "students"
+      ],
+      "legacy": "A devoted disciple and early church leader.",
+      "summary": "Timothy was a companion and disciple of Saint Paul, who became the first Bishop of Ephesus. He is known for his dedication to spreading Christianity and for his role in guiding early Christian communities. Timothy ultimately became a martyr, killed while trying to calm a riot in honor of the goddess Diana in Ephesus.",
+      "image": "/images/saint_timothy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Timothy"
+    }
+  ]
+}

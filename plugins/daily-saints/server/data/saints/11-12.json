@@ -1,0 +1,17 @@
+{
+  "date": "11-12",
+  "feast_day": "November 12",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Martin I",
+      "feast_day": "November 12",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "Defender of the true faith",
+      "summary": "Martin I served as Pope from 649 to 655 and is remembered for his staunch defense of the true faith against heresies, particularly the Monothelite heresy. He was exiled and suffered greatly for his beliefs, enduring imprisonment and starvation, yet he remained steadfast in his faith. His legacy is one of courage and commitment to the teachings of Christ, exemplifying the trials faced by early Church leaders.",
+      "image": "/images/saint_martin_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Martin_I"
+    }
+  ]
+}

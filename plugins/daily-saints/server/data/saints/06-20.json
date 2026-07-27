@@ -1,0 +1,17 @@
+{
+  "date": "06-20",
+  "feast_day": "June 20",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Silverius",
+      "feast_day": "June 20",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "Martyrdom for the integrity of faith",
+      "summary": "Silverius was the Pope and martyr who served during a tumultuous period in the Church's history. Elected Pope in 536, he faced opposition from the Empress Theodora and was ultimately deposed through treachery. He died in exile on the island of Palmeria, enduring great suffering for his steadfastness to the Catholic faith.",
+      "image": "/images/saint_silverius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Silverius"
+    }
+  ]
+}

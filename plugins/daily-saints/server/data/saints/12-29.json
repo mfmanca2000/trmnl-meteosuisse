@@ -1,0 +1,21 @@
+{
+  "date": "12-29",
+  "feast_day": "December 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Thomas Becket",
+      "feast_day": "December 29",
+      "era": "12th century",
+      "patronage": [
+        "archbishops",
+        "martyrs",
+        "England"
+      ],
+      "legacy": "Defender of Church rights and martyr",
+      "summary": "Thomas Becket was the Archbishop of Canterbury and a martyr who stood against King Henry II's attempts to exert control over the Church. His unwavering commitment to ecclesiastical rights led to his assassination in 1170, making him a symbol of the struggle for religious freedom. He was canonized by Pope Alexander III in 1173, just a few years after his death, and is remembered for his defense of the Church's authority.",
+      "image": "/images/saint_thomas_becket.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Becket"
+    }
+  ]
+}

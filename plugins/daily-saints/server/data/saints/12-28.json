@@ -1,0 +1,21 @@
+{
+  "date": "12-28",
+  "feast_day": "December 28",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Holy Innocents",
+      "feast_day": "December 28",
+      "era": "1st century",
+      "patronage": [
+        "children",
+        "innocence",
+        "victims of violence"
+      ],
+      "legacy": "Martyrs of innocence and faith",
+      "summary": "The Holy Innocents are the children who were martyred by King Herod in his attempt to kill the newborn Jesus. They are recognized as the first martyrs of Christianity, having died for their faith without ever knowing it. Their feast day is celebrated in honor of their sacrifice and innocence.",
+      "image": "/images/the_holy_innocents.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Innocents"
+    }
+  ]
+}

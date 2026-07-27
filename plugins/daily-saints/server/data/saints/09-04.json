@@ -1,0 +1,20 @@
+{
+  "date": "09-04",
+  "feast_day": "September 4",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Rose of Viterbo",
+      "feast_day": "September 4",
+      "era": "13th century",
+      "patronage": [
+        "illness",
+        "people ridiculed for their faith"
+      ],
+      "legacy": "A young saint known for her fervent faith.",
+      "summary": "Saint Rose of Viterbo was a young Italian virgin and mystic who dedicated her life to God from a very early age. Known for her fervent devotion and austere lifestyle, she became a prominent figure in defending the Church during a time of political turmoil. Despite her short life, she left a lasting impact through her preaching and miracles, ultimately being recognized as a saint shortly after her death at the age of eighteen.",
+      "image": "/images/saint_rose_of_viterbo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rose_of_Viterbo"
+    }
+  ]
+}

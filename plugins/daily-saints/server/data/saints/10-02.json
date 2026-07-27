@@ -1,0 +1,21 @@
+{
+  "date": "10-02",
+  "feast_day": "October 2",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Guardian Angels",
+      "feast_day": "October 2",
+      "era": null,
+      "patronage": [
+        "children",
+        "travelers",
+        "the sick"
+      ],
+      "legacy": "Divine protectors of every individual",
+      "summary": "Guardian Angels are believed to be celestial beings assigned to protect and guide individuals throughout their lives. According to Christian doctrine, every person is assigned a Guardian Angel at birth, who watches over them and intercedes on their behalf. The existence of Guardian Angels is a dogma of the Christian faith, emphasizing their role in safeguarding the faithful.",
+      "image": "/images/the_holy_guardian_angels.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Guardian_angel"
+    }
+  ]
+}

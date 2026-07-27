@@ -1,0 +1,30 @@
+{
+  "date": "11-26",
+  "feast_day": "November 26",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Berchmans",
+      "feast_day": "November 26",
+      "era": "17th century",
+      "patronage": [
+        "students",
+        "Jesuit novices"
+      ],
+      "legacy": "A model of piety and dedication",
+      "summary": "John Berchmans was a Belgian Jesuit seminarian known for his deep piety and dedication to education. He excelled in his studies and was beloved by children for his engaging catechism lessons. His life was marked by humility and charity, and he died at a young age, leaving a legacy of sanctity and devotion.",
+      "image": "/images/saint_john_berchmans.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Berchmans"
+    },
+    {
+      "name": "Peter of Alexandria",
+      "feast_day": "November 26",
+      "era": "Early 4th century",
+      "patronage": null,
+      "legacy": "Defender of faith during persecution",
+      "summary": "Peter of Alexandria was a Patriarch and martyr who led the Church of Alexandria during the severe persecutions under Emperor Diocletian. He is known for his firm stance against heresy and his pastoral care for imprisoned Christians, encouraging them to remain steadfast in their faith. Ultimately, he was martyred by beheading on November 26, 310, after a life dedicated to the service of God and the Church.",
+      "image": "/images/saint_peter_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Alexandria"
+    }
+  ]
+}

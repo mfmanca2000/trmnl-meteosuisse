@@ -1,0 +1,31 @@
+{
+  "date": "06-23",
+  "feast_day": "June 23",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary of Oignies",
+      "feast_day": "June 23",
+      "era": "Medieval",
+      "patronage": null,
+      "legacy": "A model of mystical devotion and charity.",
+      "summary": "Mary of Oignies was a Belgian recluse born in 1167 who dedicated her life to prayer and contemplation. Despite being married, she and her husband chose to live in continence and devoted themselves to the poor and spiritual works. Known for her deep spirituality and mystical experiences, she became a respected figure for her intercessory prayers and was venerated after her death in 1213.",
+      "image": "/images/saint_mary_of_oignies.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_of_Oignies"
+    },
+    {
+      "name": "Etheldreda",
+      "feast_day": "June 23",
+      "era": "7th century",
+      "patronage": [
+        "difficult marriages",
+        "abbesses",
+        "Ely"
+      ],
+      "legacy": "A model of devotion and perseverance",
+      "summary": "Saint Etheldreda, also known as Audrey, was a 7th-century queen and abbess who dedicated her life to God. After enduring two marriages against her will, she founded a double monastery at Ely, where she served as its first abbess. Her life was marked by asceticism and devotion, and she is remembered for her incorrupt relics and the miracles attributed to her after death.",
+      "image": "/images/saint_etheldreda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Etheldreda"
+    }
+  ]
+}

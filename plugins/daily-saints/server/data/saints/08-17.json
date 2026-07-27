@@ -1,0 +1,31 @@
+{
+  "date": "08-17",
+  "feast_day": "August 17",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Hyacinth",
+      "feast_day": "August 17",
+      "era": "13th century",
+      "patronage": [
+        "missionaries",
+        "Poland",
+        "merchants"
+      ],
+      "legacy": "Apostle of the North and miracle worker",
+      "summary": "Saint Hyacinth was a Polish missionary and one of the first members of the Order of Preachers, founded by Saint Dominic. He traveled extensively across Europe and Asia, evangelizing and converting many to Christianity, and is credited with baptizing over 120,000 individuals. Known for his deep devotion to the Virgin Mary, he performed numerous miracles and is remembered for his unwavering faith and dedication to spreading the Gospel.",
+      "image": "/images/saint_hyacinth.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hyacinth_of_Poland"
+    },
+    {
+      "name": "Liberatus",
+      "feast_day": "August 17",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Martyrdom for faith and unity in Christ.",
+      "summary": "Saint Liberatus was a Christian martyr who lived during the reign of the Arian Vandal king Huneric in Africa. He, along with six companions, was imprisoned and tortured for their steadfast faith in the Trinity and Baptism. Ultimately, they were executed by being burned at sea, but their legacy of courage and faith continues to inspire Christians today.",
+      "image": "/images/saint_liberatus_and_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Liberatus_of_Carthage"
+    }
+  ]
+}

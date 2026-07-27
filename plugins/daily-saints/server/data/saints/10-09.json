@@ -1,0 +1,34 @@
+{
+  "date": "10-09",
+  "feast_day": "October 9",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Louis Bertrand",
+      "feast_day": "October 9",
+      "era": "16th century",
+      "patronage": [
+        "missionaries",
+        "indigenous peoples"
+      ],
+      "legacy": "Champion of indigenous rights and faith",
+      "summary": "Louis Bertrand was a Spanish Dominican missionary known for his dedicated work in converting indigenous peoples in the Americas during the 16th century. He exhibited remarkable gentleness and compassion, even in the face of adversity, and was blessed with the gift of prophecy and miracles. His legacy includes the baptism of thousands and a commitment to advocating for the rights of the oppressed indigenous communities.",
+      "image": "/images/saint_louis_bertrand.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_Bertrand_(saint)"
+    },
+    {
+      "name": "Dionysius the Areopagite",
+      "feast_day": "October 9",
+      "era": "1st century",
+      "patronage": [
+        "France",
+        "philosophers",
+        "theologians"
+      ],
+      "legacy": "Pioneer of Christianity in Gaul",
+      "summary": "Dionysius the Areopagite was a prominent early Christian missionary and the first bishop of Athens, converted by Saint Paul. He played a significant role in spreading Christianity in Gaul, particularly in Paris, where he established several churches. He is remembered as a martyr, having been executed for his faith around the year 117.",
+      "image": "/images/saint_dionysius_the_areopagite.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dionysius_the_Areopagite"
+    }
+  ]
+}

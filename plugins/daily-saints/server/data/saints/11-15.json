@@ -1,0 +1,21 @@
+{
+  "date": "11-15",
+  "feast_day": "November 15",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Albert the Great",
+      "feast_day": "November 15",
+      "era": "Medieval",
+      "patronage": [
+        "scientists",
+        "philosophers",
+        "students"
+      ],
+      "legacy": "Pioneer of science and theology integration",
+      "summary": "Albert the Great was a renowned theologian and philosopher of the 13th century, known for his extensive writings on natural sciences, philosophy, and theology. He was a mentor to Saint Thomas Aquinas and played a significant role in the development of scholasticism. Canonized in 1931 and declared a Doctor of the Church, he is celebrated for his contributions to both faith and reason.",
+      "image": "/images/saint_albert_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albert_the_Great"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "02-27",
+  "feast_day": "February 27",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Gabriel of Our Lady of Sorrows",
+      "feast_day": "February 27",
+      "era": "19th century",
+      "patronage": [
+        "youth",
+        "young religious"
+      ],
+      "legacy": "A model of youthful devotion and piety.",
+      "summary": "Saint Gabriel of Our Lady of Sorrows was a Passionist priest known for his deep devotion to the Virgin Mary and the Passion of Christ. He lived a life of contemplation and self-denial, dedicating himself to prayer and union with God. Despite his short life, he was canonized for his heroic sanctity and is recognized as a patron of youth and young religious.",
+      "image": "/images/saint_gabriel_of_our_lady_of_sorrows.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_of_Our_Lady_of_Sorrows"
+    },
+    {
+      "name": "Leander",
+      "feast_day": "February 27",
+      "era": "6th century",
+      "patronage": [
+        "Spain",
+        "the Visigoths",
+        "conversions"
+      ],
+      "legacy": "Champion of faith and unity in Spain",
+      "summary": "Saint Leander was an influential Archbishop of Seville in the 6th century, known for his role in converting the Visigoths from Arianism to Catholicism. He was instrumental in the conversion of his nephew, Saint Hermenegild, and later helped King Recared embrace the Catholic faith, leading to the unification of the Suevi and Visigoths under Catholicism. His legacy includes the introduction of the Nicene Creed into the liturgy of Spain, which eventually spread throughout the Church.",
+      "image": "/images/saint_leander.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leander_of_Seville"
+    },
+    {
+      "name": "Mary of Jesus Deluil-Martiny",
+      "feast_day": "February 27",
+      "era": "19th century",
+      "patronage": null,
+      "legacy": "Foundress of the Daughters of the Heart of Jesus",
+      "summary": "Mary of Jesus Deluil-Martiny was a French nun and the foundress of the Daughters of the Heart of Jesus, a religious congregation dedicated to the adoration of the Sacred Heart of Jesus. Born in Marseille in 1841, she displayed remarkable spiritual depth and leadership from a young age, leading her to establish her congregation in 1873. Her life was marked by personal trials and a deep commitment to prayer and sacrifice for the glory of God and the sanctification of priests.",
+      "image": "/images/saint_mary_of_jesus_deluil-martiny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_Deluil-Martiny"
+    }
+  ]
+}

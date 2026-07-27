@@ -1,0 +1,37 @@
+{
+  "date": "04-07",
+  "feast_day": "April 7",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Juliana of Mt. Cornillon",
+      "feast_day": "April 7",
+      "era": "13th century",
+      "patronage": null,
+      "legacy": "Virgin",
+      "summary": "Saint Juliana was born near Liege, Belgium in 1193. At the age of five she lost her parents and was placed in the convent of Mt. She made rapid progress in virtue, and read with pleasure the writings of Saint Augustine and Saint Bernard.",
+      "image": "/images/saint_juliana_of_mont_cornillon.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Herman Joseph of Steinfeld",
+      "feast_day": "April 7",
+      "era": "13th century",
+      "patronage": null,
+      "legacy": "Priest",
+      "summary": "Blessed Herman from his earliest years, was a devoted client of the Mother of God. As a little child he used to spend all his playtime in the church at Cologne before a statue of Mary, where he received many favors. One bitter winter day, as little Herman was coming barefooted into church, his heavenly Mother, appearing to him, asked him lovingly why his feet were bare in such cold weather.",
+      "image": "/images/blessed_herman_joseph_of_steinfeld.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Hegesippus",
+      "feast_day": "April 7",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Early Church historian and defender of tradition",
+      "summary": "Saint Hegesippus was a Jewish convert to Christianity and an early Church historian. He is known for his work 'Memoirs', which documented the history of the Church from the Passion of Christ to his time, emphasizing the importance of apostolic tradition. His writings were highly regarded by early Church Fathers such as Saint Jerome and Eusebius, although most of his work has unfortunately been lost.",
+      "image": "/images/saint_hegesippus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Hegesippus"
+    }
+  ]
+}

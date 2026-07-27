@@ -1,0 +1,48 @@
+{
+  "date": "12-09",
+  "feast_day": "December 9",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Peter Fourier",
+      "feast_day": "December 9",
+      "era": "17th century",
+      "patronage": [
+        "educators",
+        "schoolchildren",
+        "women's education"
+      ],
+      "legacy": "Pioneer of women's education in France.",
+      "summary": "Peter Fourier was a French priest and reformer known for his dedication to education and the spiritual formation of young women. He founded the Canonesses of Notre Dame, an order focused on teaching and nurturing virtue among girls. His efforts revitalized the religious fervor in his parish and established a model for Catholic education that influenced future generations.",
+      "image": "/images/saint_peter_fourier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Fourier"
+    },
+    {
+      "name": "Leocadia",
+      "feast_day": "December 9",
+      "era": "4th century",
+      "patronage": [
+        "Toledo",
+        "virgins",
+        "martyrs"
+      ],
+      "legacy": "Patroness of Toledo and Christian martyrs",
+      "summary": "Saint Leocadia of Toledo was a Christian virgin and martyr who lived during the early 4th century. She was arrested and tortured for her faith under the Roman governor Dacian, ultimately dying in prison. Her legacy endures as she is venerated as the principal patroness of Toledo, where her relics are honored.",
+      "image": "/images/saint_leocadia_of_toledo.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leocadia_of_Toledo"
+    },
+    {
+      "name": "Juan Diego",
+      "feast_day": "December 9",
+      "era": "16th century",
+      "patronage": [
+        "indigenous peoples",
+        "Mexico"
+      ],
+      "legacy": "Symbol of faith for indigenous peoples",
+      "summary": "Juan Diego is the first native-born saint of the Americas, canonized in 2002. He is best known for his visions of the Virgin Mary, who appeared to him in 1531 and requested that a church be built in her honor at Tepeyac Hill, Mexico. His tilma, which bore the image of the Virgin of Guadalupe, became a symbol of faith and devotion for millions.",
+      "image": "/images/saint_juan_diego.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Juan_Diego"
+    }
+  ]
+}

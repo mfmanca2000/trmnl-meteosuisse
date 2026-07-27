@@ -1,0 +1,36 @@
+{
+  "date": "11-21",
+  "feast_day": "November 21",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "November 21",
+      "era": "1st century",
+      "patronage": [
+        "mothers",
+        "virgins",
+        "the poor",
+        "all humanity"
+      ],
+      "legacy": "Model of faith and purity",
+      "summary": "Mary, the mother of Jesus, is venerated in Christianity as the Mother of God and a model of virtue. According to tradition, she was presented in the Temple at a young age, where she dedicated her life to prayer and service. Her unique sanctity and role in salvation history make her a central figure in Christian devotion and theology.",
+      "image": "/images/the_presentation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Columban",
+      "feast_day": "November 21",
+      "era": "6th century",
+      "patronage": [
+        "monks",
+        "missionaries",
+        "motorcyclists"
+      ],
+      "legacy": "Pioneer of monasticism in Europe",
+      "summary": "Columban was an Irish abbot and missionary who played a significant role in spreading Christianity across Europe during the early Middle Ages. He founded several monasteries, most notably Luxeuil in France and Bobbio in Italy, which became centers of learning and spirituality. Known for his strong defense of the Faith and moral integrity, he faced opposition from powerful nobles but remained steadfast in his mission until his death in 615.",
+      "image": "/images/saint_columbanus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Columbanus"
+    }
+  ]
+}

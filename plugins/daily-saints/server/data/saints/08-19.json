@@ -1,0 +1,35 @@
+{
+  "date": "08-19",
+  "feast_day": "August 19",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Eudes",
+      "feast_day": "August 19",
+      "era": "17th century",
+      "patronage": [
+        "clergy",
+        "parish priests",
+        "spiritual directors"
+      ],
+      "legacy": "Pioneer of devotion to the Sacred Heart",
+      "summary": "John Eudes was a French priest and the founder of the Congregation of Jesus and Mary and the Sisters of Our Lady of Charity. He is known for his devotion to the Sacred Heart of Jesus and the Immaculate Heart of Mary, as well as for his efforts in establishing seminaries and evangelizing the poor. Eudes was canonized in 1925 and is recognized for his significant contributions to the Catholic Church during the 17th century.",
+      "image": "/images/saint_john_eudes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Eudes"
+    },
+    {
+      "name": "Louis of Toulouse",
+      "feast_day": "August 19",
+      "era": "Medieval",
+      "patronage": [
+        "poor",
+        "students",
+        "Franciscans"
+      ],
+      "legacy": "A life of humility and service",
+      "summary": "Louis of Toulouse was a bishop known for his deep piety and commitment to serving God from a young age. Despite being born into nobility, he chose a life of humility and service, dedicating himself to the care of the poor and the sick. He became the Archbishop of Toulouse and is remembered for his austere lifestyle and devotion until his early death at the age of twenty-three.",
+      "image": "/images/saint_louis_of_toulouse.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_of_Toulouse"
+    }
+  ]
+}

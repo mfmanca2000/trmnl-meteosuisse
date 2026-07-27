@@ -1,0 +1,27 @@
+{
+  "date": "12-15",
+  "feast_day": "December 15",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John the Discalced",
+      "feast_day": "December 15",
+      "era": "14th century",
+      "patronage": null,
+      "legacy": "A life of humility and service",
+      "summary": "Blessed John the Discalced was a Franciscan friar known for his austere lifestyle and dedication to serving the poor and sick. He spent many years as a parish priest, walking barefoot to visit his parishioners and living a life of extreme mortification. He is remembered for his prophetic gifts and his compassionate service during times of plague, ultimately dying from the very scourge he sought to alleviate.",
+      "image": "/images/blessed_john_the_discalced.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross"
+    },
+    {
+      "name": "Maximin of Verdun",
+      "feast_day": "December 15",
+      "era": "Early Medieval",
+      "patronage": null,
+      "legacy": "Miracle worker and monastic leader",
+      "summary": "Saint Maximin of Verdun was an abbot and a prominent figure in early medieval monasticism. He was known for his miraculous works, including providing for the needy during a famine and healing the blind. His leadership attracted many young men to the religious life, and he is remembered for his piety and dedication to God.",
+      "image": "/images/saint_maximin_or_mesmin_of_verdun.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mesmin"
+    }
+  ]
+}

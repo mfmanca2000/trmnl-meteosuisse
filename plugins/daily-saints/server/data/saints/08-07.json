@@ -1,0 +1,21 @@
+{
+  "date": "08-07",
+  "feast_day": "August 7",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cajetan of Thiena",
+      "feast_day": "August 7",
+      "era": "Renaissance",
+      "patronage": [
+        "job seekers",
+        "the unemployed",
+        "divine providence"
+      ],
+      "legacy": "Founder of the Theatine Order and reformer",
+      "summary": "Saint Cajetan of Thiena was an Italian priest and the founder of the Theatines, a religious order dedicated to reforming the clergy and promoting the sacraments. He is known for his deep devotion to the Blessed Virgin Mary and for introducing the practice of Forty Hours' Adoration of the Blessed Sacrament. Cajetan dedicated his life to serving the poor and the sick, leaving a lasting legacy of charity and spiritual renewal in the Church.",
+      "image": "/images/saint_cajetan_of_thiena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cajetan_of_Thiene"
+    }
+  ]
+}

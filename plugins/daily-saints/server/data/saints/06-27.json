@@ -1,0 +1,36 @@
+{
+  "date": "06-27",
+  "feast_day": "June 27",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Our Lady of Perpetual Help",
+      "feast_day": "June 27",
+      "era": "Medieval",
+      "patronage": [
+        "mothers",
+        "the sick",
+        "travelers"
+      ],
+      "legacy": "A symbol of hope and intercession",
+      "summary": "Our Lady of Perpetual Help is a revered icon of the Virgin Mary and the Child Jesus, known for its Byzantine style. The image has been a source of devotion and miracles since its arrival in Rome from Crete in the 15th century. It is celebrated for its role in providing comfort and assistance to the faithful in times of need.",
+      "image": "/images/our_lady_of_perpetual_help.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Perpetual_Help"
+    },
+    {
+      "name": "Ladislas I",
+      "feast_day": "June 27",
+      "era": "Medieval",
+      "patronage": [
+        "Hungary",
+        "soldiers",
+        "peace",
+        "children"
+      ],
+      "legacy": "A pious king and defender of faith",
+      "summary": "Ladislas I was the King of Hungary from 1077 until his death in 1095, known for his piety, charity, and military prowess. He was a strong defender of the Christian faith and worked to restore the laws established by his predecessor, Saint Stephen. Canonized in 1199, he is remembered for his virtuous life and the miracles attributed to him after his death.",
+      "image": "/images/saint_ladislas_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ladislaus_I_of_Hungary"
+    }
+  ]
+}

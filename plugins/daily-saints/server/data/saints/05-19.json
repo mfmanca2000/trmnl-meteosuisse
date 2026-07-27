@@ -1,0 +1,30 @@
+{
+  "date": "05-19",
+  "feast_day": "May 19",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter Celestine",
+      "feast_day": "May 19",
+      "era": "13th century",
+      "patronage": [
+        "celibacy",
+        "papal elections"
+      ],
+      "legacy": "Pope and founder of the Celestines",
+      "summary": "Peter Celestine was a 13th-century Pope who founded the Celestine Order, a branch of the Benedictines. Known for his deep spirituality and desire for solitude, he resigned the papacy after just five months, feeling unfit for the role. He spent the remainder of his life in seclusion, performing miracles and fostering a close relationship with God and the angels.",
+      "image": "/images/saint_peter_celestine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Celestine"
+    },
+    {
+      "name": "Yves",
+      "feast_day": "May 19",
+      "era": "14th century",
+      "patronage": null,
+      "legacy": "Confessor",
+      "summary": "Saint Yves Helori, descended from a noble and virtuous family near Treguier in Brittany, was born in 1253. At fourteen years of age he went to Paris, and afterwards to Orleans to pursue his studies. His mother was accustomed to say to him often that he ought to live in such a way as became a Saint, to which his answer always was that he indeed hoped to be one.",
+      "image": "/images/saint_yves.jpg",
+      "wikipedia": null
+    }
+  ]
+}

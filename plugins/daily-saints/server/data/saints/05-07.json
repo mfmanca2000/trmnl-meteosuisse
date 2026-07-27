@@ -1,0 +1,21 @@
+{
+  "date": "05-07",
+  "feast_day": "May 7",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Stanislav",
+      "feast_day": "May 7",
+      "era": "11th century",
+      "patronage": [
+        "Poland",
+        "bishops",
+        "martyrs"
+      ],
+      "legacy": "Defender of the faith and the poor",
+      "summary": "Saint Stanislaus was a Bishop of Cracow and a martyr who courageously opposed King Boleslaus II for his immoral actions. He is known for his deep piety, commitment to the poor, and miraculous acts, including raising the dead to testify on his behalf. His steadfastness in faith ultimately led to his martyrdom at the altar during Mass in 1079.",
+      "image": "/images/saint_stanislaus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stanislaus"
+    }
+  ]
+}

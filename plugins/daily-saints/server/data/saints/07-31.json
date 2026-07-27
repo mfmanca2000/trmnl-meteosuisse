@@ -1,0 +1,21 @@
+{
+  "date": "07-31",
+  "feast_day": "July 31",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ignatius of Loyola",
+      "feast_day": "July 31",
+      "era": "16th century",
+      "patronage": [
+        "soldiers",
+        "spiritual retreats",
+        "education"
+      ],
+      "legacy": "Founder of the Jesuits and spiritual guide",
+      "summary": "Saint Ignatius of Loyola was a Spanish priest and theologian who founded the Society of Jesus, also known as the Jesuits. After a profound spiritual conversion following a severe injury, he dedicated his life to serving God and helping others through education and spiritual exercises. His legacy includes the Spiritual Exercises, a guide for spiritual growth that has influenced countless individuals and communities.",
+      "image": "/images/saint_ignatius_of_loyola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
+    }
+  ]
+}

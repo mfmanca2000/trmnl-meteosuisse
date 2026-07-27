@@ -1,0 +1,21 @@
+{
+  "date": "12-31",
+  "feast_day": "December 31",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Sylvester",
+      "feast_day": "December 31",
+      "era": "4th century",
+      "patronage": [
+        "pope",
+        "disease",
+        "baptism"
+      ],
+      "legacy": "Pope during the rise of Christianity",
+      "summary": "Saint Sylvester was a Pope and confessor who served during a tumultuous time for Christians in the early 4th century. He is best known for his long pontificate, which included the Council of Nicaea and the baptism of Emperor Constantine. His leadership helped solidify the Church's position in the Roman Empire and marked a significant turning point in Christian history.",
+      "image": "/images/saint_sylvester.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_I_of_Rome"
+    }
+  ]
+}

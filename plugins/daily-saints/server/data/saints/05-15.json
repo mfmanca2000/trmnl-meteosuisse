@@ -1,0 +1,27 @@
+{
+  "date": "05-15",
+  "feast_day": "May 15",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Baptist de LaSalle",
+      "feast_day": "May 15",
+      "era": "18th century",
+      "patronage": null,
+      "legacy": "Founder",
+      "summary": "Complete dedication to what he saw as God's will for him, dominates the life of John Baptist de LaSalle. Founder of the Brothers of the Christian Schools, or Christian Brothers, he was canonized in 1900. In 1950 Pope Pius XII named him patron of schoolteachers.",
+      "image": "/images/saint_john_baptist_de_lasalle.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Peter, Andrew, Paul and Dionysia",
+      "feast_day": "May 15",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrs",
+      "summary": "In the Decian persecution of the year 250 the blood of the Christians flowed at Lampsacus, a city of Asia Minor. A young Christian named Peter was the first to be led before the proconsul; he was told to sacrifice to the goddess Venus. His energetic condemnation of impurity and his defense of his God, the king of all ages, caused him to be condemned to die for the name of Christ, and he went joyfully to his torments.",
+      "image": "/images/saints_peter_andrew_paul_dionysia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

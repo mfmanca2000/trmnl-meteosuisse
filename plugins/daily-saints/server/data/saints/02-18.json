@@ -1,0 +1,34 @@
+{
+  "date": "02-18",
+  "feast_day": "February 18",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Bernadette Soubirous",
+      "feast_day": "February 18",
+      "era": "19th century",
+      "patronage": [
+        "sick people",
+        "poor",
+        "bodily ills"
+      ],
+      "legacy": "Visionary of Lourdes and healer of the sick",
+      "summary": "Bernadette Soubirous was a French virgin and mystic known for her visions of the Blessed Virgin Mary in Lourdes. At the age of fourteen, she experienced eighteen apparitions, during which she was instructed to reveal the healing powers of a spring that emerged at the site. She later joined the Sisters of Charity and lived a life of humility and suffering until her death at the age of 36.",
+      "image": "/images/saint_bernadette_soubirous.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernadette_Soubirous"
+    },
+    {
+      "name": "Simeon",
+      "feast_day": "February 18",
+      "era": "1st century",
+      "patronage": [
+        "martyrs",
+        "Jerusalem"
+      ],
+      "legacy": "Martyr and leader of the Jerusalem Church",
+      "summary": "Saint Simeon was the second bishop of Jerusalem and a martyr who led the Christian community during a tumultuous period. He was a relative of Jesus Christ, being the son of Cleophas and the cousin of the Savior. After enduring persecution and ultimately being crucified around the year 107, he is remembered for his steadfast faith and leadership.",
+      "image": "/images/saint_simeon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Simeon_of_Jerusalem"
+    }
+  ]
+}

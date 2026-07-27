@@ -1,0 +1,31 @@
+{
+  "date": "03-27",
+  "feast_day": "March 27",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Damascene",
+      "feast_day": "March 27",
+      "era": "8th century",
+      "patronage": [
+        "theologians",
+        "icon painters",
+        "musicians"
+      ],
+      "legacy": "Defender of icons and theological thought",
+      "summary": "John Damascene was a prominent theologian and Doctor of the Church in the 8th century, known for his defense of the veneration of icons during the Iconoclast controversy. He served as a minister in the court of the Caliph of Damascus before retiring to a monastery, where he dedicated his life to writing and prayer. His works significantly influenced Christian theology, particularly in the areas of apologetics and the relationship between faith and reason.",
+      "image": "/images/saint_john_damascene.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Damascus"
+    },
+    {
+      "name": "John of Egypt",
+      "feast_day": "March 27",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "A model of solitude and obedience",
+      "summary": "John of Egypt was a solitary monk known for his deep commitment to prayer and obedience. After leaving his life as a carpenter, he retreated to the desert where he developed a reputation for his spiritual gifts, including healing and prophecy. He is remembered for his teachings on humility and the dangers of vanity, as well as his unwavering faith in God until his death in 394.",
+      "image": "/images/saint_john_of_egypt.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Egypt"
+    }
+  ]
+}

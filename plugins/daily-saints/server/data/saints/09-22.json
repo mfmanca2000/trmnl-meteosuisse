@@ -1,0 +1,34 @@
+{
+  "date": "09-22",
+  "feast_day": "September 22",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Thomas of Villanova",
+      "feast_day": "September 22",
+      "era": "16th century",
+      "patronage": [
+        "orphans",
+        "the poor",
+        "hospitals"
+      ],
+      "legacy": "Champion of the poor and social reformer",
+      "summary": "Thomas of Villanova was a Spanish bishop known for his deep compassion for the poor and his commitment to social justice. He transformed his home into a hospital and dedicated his wealth to charitable works, feeding hundreds of needy individuals daily. His legacy as a reformer and a humble servant of God continues to inspire many in the Catholic Church.",
+      "image": "/images/saint_thomas_of_villanova.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_of_Villanova"
+    },
+    {
+      "name": "Maurice",
+      "feast_day": "September 22",
+      "era": "3rd century",
+      "patronage": [
+        "soldiers",
+        "martyrs"
+      ],
+      "legacy": "Martyrdom for faith and loyalty",
+      "summary": "Saint Maurice was the leader of the Theban Legion, a group of Christian soldiers who refused to sacrifice to pagan gods. In 286 AD, under the orders of the emperor, Maurice and his legion were martyred for their steadfast faith. Their courageous stand against persecution has made them symbols of loyalty and sacrifice in the Christian tradition.",
+      "image": "/images/saint_maurice_and_the_theban_legion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Maurice"
+    }
+  ]
+}

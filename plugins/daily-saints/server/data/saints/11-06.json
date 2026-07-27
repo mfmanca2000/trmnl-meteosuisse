@@ -1,0 +1,20 @@
+{
+  "date": "11-06",
+  "feast_day": "November 6",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Leonard",
+      "feast_day": "November 6",
+      "era": "6th century",
+      "patronage": [
+        "prisoners",
+        "women in childbirth"
+      ],
+      "legacy": "Patron saint of prisoners and freedom",
+      "summary": "Saint Leonard was a hermit and the patron saint of prisoners, known for his deep compassion and dedication to helping those in need. He gained a reputation for performing miracles, particularly in freeing prisoners from their chains through prayer. His legacy continues to inspire devotion, especially in France, where many churches and monasteries are dedicated to him.",
+      "image": "/images/saint_leonard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Leonard_of_Noblac"
+    }
+  ]
+}

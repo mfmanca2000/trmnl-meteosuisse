@@ -1,0 +1,21 @@
+{
+  "date": "08-21",
+  "feast_day": "August 21",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jane Frances de Chantal",
+      "feast_day": "August 21",
+      "era": "17th century",
+      "patronage": [
+        "widows",
+        "difficult marriages",
+        "the loss of parents"
+      ],
+      "legacy": "Foundress of the Visitation Order",
+      "summary": "Jane Frances de Chantal was a French noblewoman who founded the Order of the Visitation of the Blessed Virgin Mary. After enduring personal tragedies, including the loss of her husband and children, she dedicated her life to God and the service of others. Her legacy includes the establishment of numerous convents that welcomed widows and women of fragile health.",
+      "image": "/images/saint_jane_frances_de_chantal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal"
+    }
+  ]
+}

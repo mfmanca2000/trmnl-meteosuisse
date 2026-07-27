@@ -1,0 +1,36 @@
+{
+  "date": "09-15",
+  "feast_day": "September 15",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "September 15",
+      "era": "1st century",
+      "patronage": [
+        "mothers",
+        "sorrows",
+        "loss",
+        "family"
+      ],
+      "legacy": "Mother of God and model of faith",
+      "summary": "Mary is revered as the Mother of Jesus Christ and holds a central role in Christianity. She is often depicted as a figure of compassion and sorrow, particularly in relation to the Passion of Christ. Her life exemplifies profound faith and maternal devotion, making her a model for believers.",
+      "image": "/images/the_seven_sorrows_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Catherine of Genoa",
+      "feast_day": "September 15",
+      "era": "Renaissance",
+      "patronage": [
+        "sick people",
+        "hospital workers",
+        "the dying"
+      ],
+      "legacy": "Devotion to the suffering souls in purgatory",
+      "summary": "Catherine of Genoa was a noblewoman who dedicated her life to God after enduring a difficult marriage. She is known for her deep spirituality, particularly her devotion to the souls in purgatory, and her rigorous penance, which included living on Holy Communion alone for many years. Catherine also served the sick and poor in her community, eventually managing a large hospital in Genoa.",
+      "image": "/images/saint_catherine_of_genoa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Genoa"
+    }
+  ]
+}

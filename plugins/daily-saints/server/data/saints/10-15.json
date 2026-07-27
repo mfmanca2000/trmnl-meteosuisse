@@ -1,0 +1,22 @@
+{
+  "date": "10-15",
+  "feast_day": "October 15",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Teresa of Avila",
+      "feast_day": "October 15",
+      "era": "16th century",
+      "patronage": [
+        "sick",
+        "loss of parents",
+        "writers",
+        "Spain"
+      ],
+      "legacy": "Pioneer of contemplative prayer and reform",
+      "summary": "Teresa of Avila was a Spanish mystic and reformer of the Carmelite Order, known for her profound spiritual writings and her role in the reform of her religious community. She founded numerous convents and was dedicated to a life of prayer and service, emphasizing the importance of a personal relationship with God. Canonized in 1622, she is recognized as a Doctor of the Church for her contributions to Christian spirituality.",
+      "image": "/images/saint_teresa_of_avila.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
+    }
+  ]
+}

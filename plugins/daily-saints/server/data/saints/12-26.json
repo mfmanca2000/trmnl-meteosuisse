@@ -1,0 +1,21 @@
+{
+  "date": "12-26",
+  "feast_day": "December 26",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Stephen",
+      "feast_day": "December 26",
+      "era": "1st century",
+      "patronage": [
+        "deacons",
+        "stonemasons",
+        "hat makers"
+      ],
+      "legacy": "First martyr and deacon of the Church",
+      "summary": "Saint Stephen is recognized as the first Christian martyr, known for his unwavering faith and eloquent defense of Jesus Christ. He was one of the seven deacons appointed by the Apostles to assist in charitable works and was filled with the Holy Spirit. His bold proclamation of the Gospel led to his martyrdom by stoning, making him a significant figure in early Christianity.",
+      "image": "/images/saint_stephen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "date": "05-17",
+  "feast_day": "May 17",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paschal Baylon",
+      "feast_day": "May 17",
+      "era": "16th century",
+      "patronage": [
+        "Eucharistic congresses",
+        "confraternities"
+      ],
+      "legacy": "Devotion to the Eucharist and humility",
+      "summary": "Saint Paschal Baylon was a Franciscan lay brother known for his deep devotion to the Blessed Sacrament. He dedicated his life to serving God and evangelizing others, despite being unlettered and humble in his tasks. Canonized in 1690, he is recognized as the patron of Eucharistic congresses and confraternities.",
+      "image": "/images/saint_paschal_baylon.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paschal_Bayl%C3%B3n"
+    }
+  ]
+}

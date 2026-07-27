@@ -1,0 +1,27 @@
+{
+  "date": "04-12",
+  "feast_day": "April 12",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catherine of St. Augustine",
+      "feast_day": "April 12",
+      "era": "17th century",
+      "patronage": null,
+      "legacy": "Virgin",
+      "summary": "A young future missionary to New France, Catherine de Longpré, in religion Sister Marie-Catherine of Saint Augustine, was a nursing nun in the community of the Hospitaler Sisters of Saint Augustine in Evreux. Born in France in 1632, she went to Quebec at the age of sixteen. Having offered her life for the sick and the sanctification of souls, she found in Quebec City a newly-established and very poor hospital, where she would labor for twenty years with unfailing devotion and courage.",
+      "image": "/images/blessed_catherine_of_st_augustine.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Julius I",
+      "feast_day": "April 12",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Defender of Nicene Christianity",
+      "summary": "Julius I was a Roman Pope who served from 337 to 352 AD. He is known for his defense of the Nicene faith against Arianism and for welcoming exiled bishops to Rome. His papacy was marked by significant ecclesiastical reforms and the construction of basilicas and cemeteries in the city.",
+      "image": "/images/saint_julius_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julius_I"
+    }
+  ]
+}

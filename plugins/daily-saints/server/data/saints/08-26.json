@@ -1,0 +1,17 @@
+{
+  "date": "08-26",
+  "feast_day": "August 26",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Zephyrinus",
+      "feast_day": "August 26",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Defender of Christ's divinity and faith",
+      "summary": "Saint Zephyrinus was a Pope and martyr who led the Church during a time of severe persecution under Emperor Septimus Severus. He is remembered for his steadfast defense of the faith against heresies and for his compassionate leadership of his flock. Zephyrinus governed the Church for nineteen years before dying as a martyr around the year 217.",
+      "image": "/images/saint_zephyrinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zephyrinus"
+    }
+  ]
+}

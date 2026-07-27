@@ -1,0 +1,21 @@
+{
+  "date": "01-19",
+  "feast_day": "January 19",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Canute",
+      "feast_day": "January 19",
+      "era": "11th century",
+      "patronage": [
+        "Denmark",
+        "rulers",
+        "mariners"
+      ],
+      "legacy": "A martyr king devoted to justice and faith.",
+      "summary": "Canute, King of Denmark, was a pious and just ruler who reigned in the 11th century. He is known for his military successes and efforts to spread Christianity in his kingdom. Ultimately, he was martyred during a rebellion, demonstrating his unwavering faith and commitment to his people.",
+      "image": "/images/saint_canutus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Canute_the_Great"
+    }
+  ]
+}

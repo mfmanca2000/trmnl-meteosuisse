@@ -8,6 +8,7 @@ app.set('trust proxy', true)
 
 app.use('/api/meteosuisse', require('@trmnl-plugins/meteosuisse'))
 app.use('/api/homeassistant-energy', require('@trmnl-plugins/homeassistant-energy'))
+app.use('/api/daily-saints', require('@trmnl-plugins/daily-saints'))
 // Add future plugins here, e.g.:
 // app.use('/api/<name>', require('@trmnl-plugins/<name>'))
 

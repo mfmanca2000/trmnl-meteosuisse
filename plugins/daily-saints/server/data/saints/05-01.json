@@ -1,0 +1,22 @@
+{
+  "date": "05-01",
+  "feast_day": "May 1",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Joseph",
+      "feast_day": "May 1",
+      "era": "1st century",
+      "patronage": [
+        "workers",
+        "fathers",
+        "carpenters",
+        "families"
+      ],
+      "legacy": "Patron of workers and families",
+      "summary": "Saint Joseph is recognized as the earthly father of Jesus Christ and the husband of the Virgin Mary. He is celebrated for his humility, obedience, and dedication to his family, embodying the virtues of faith and righteousness. His feast day, established by Pope Pius XII, honors his role as the patron saint of workers and families.",
+      "image": "/images/saint_joseph_the_worker.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Nazareth"
+    }
+  ]
+}

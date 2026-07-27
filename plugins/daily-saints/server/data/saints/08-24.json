@@ -1,0 +1,36 @@
+{
+  "date": "08-24",
+  "feast_day": "August 24",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Bartholomew",
+      "feast_day": "August 24",
+      "era": "1st century",
+      "patronage": [
+        "butchers",
+        "tanners",
+        "painters",
+        "geographers"
+      ],
+      "legacy": "Apostle known for his missionary zeal",
+      "summary": "Bartholomew, also known as Nathanael, was one of the twelve Apostles chosen by Jesus Christ. He is celebrated for his missionary work in various regions, including India and Armenia, where he ultimately faced martyrdom. His legacy is marked by his unwavering faith and dedication to spreading the Gospel, often depicted as a symbol of innocence and sincerity.",
+      "image": "/images/saint_bartholomew.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bartholomew_the_Apostle"
+    },
+    {
+      "name": "Emily de Vialar",
+      "feast_day": "August 24",
+      "era": "19th century",
+      "patronage": [
+        "sick",
+        "educators",
+        "women"
+      ],
+      "legacy": "Pioneer of charity and education for all.",
+      "summary": "Emily de Vialar was a French foundress who established the Congregation of the Sisters of Saint Joseph of the Apparition in the 19th century. She dedicated her life to the education of children and the care of the sick, particularly in response to the devastation caused by the French Revolution. Canonized in 1951, her legacy includes numerous foundations of her order across the globe, emphasizing charity and service.",
+      "image": "/images/saint_emily_de_vialar.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Emily_de_Vialar"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "08-18",
+  "feast_day": "August 18",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Helen",
+      "feast_day": "August 18",
+      "era": "4th century",
+      "patronage": [
+        "converts",
+        "archaeologists",
+        "difficult marriages"
+      ],
+      "legacy": "Discoverer of the True Cross",
+      "summary": "Saint Helen was a British princess and the mother of Constantine the Great, the first Christian emperor. She is renowned for her pilgrimage to Jerusalem, where she discovered the True Cross and built churches at significant Christian sites. Her influence on her son and her contributions to Christianity are celebrated, particularly her role in promoting the faith during the early years of the Church.",
+      "image": "/images/saint_helen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Helen_of_Constantinople"
+    },
+    {
+      "name": "Agapetus",
+      "feast_day": "August 18",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Courageous martyr and converter of pagans",
+      "summary": "Saint Agapetus was a young martyr who suffered greatly for his faith during the reign of Emperor Aurelian. His steadfastness under torture led to the conversion of many pagans, who were subsequently executed for their newfound beliefs. Ultimately, Agapetus was beheaded for refusing to sacrifice to Apollo, and he is remembered for his extraordinary courage and faith.",
+      "image": "/images/saint_agapet.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agapetus"
+    },
+    {
+      "name": "Clare of Montefalco",
+      "feast_day": "August 18",
+      "era": "Medieval",
+      "patronage": [
+        "heart disease",
+        "the sick",
+        "nuns"
+      ],
+      "legacy": "A model of devotion and compassion",
+      "summary": "Clare of Montefalco was an Italian virgin and abbess known for her deep spirituality and dedication to the Passion of Christ. She led a community of nuns and was recognized for her wisdom, miraculous healings, and prophetic gifts. Her heart was said to bear the image of the Crucified Savior, symbolizing her profound connection to Christ's suffering.",
+      "image": "/images/saint_clare_of_montefalco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clare_of_Montefalco"
+    }
+  ]
+}

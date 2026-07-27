@@ -1,0 +1,54 @@
+{
+  "date": "04-28",
+  "feast_day": "April 28",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Louis Mary de Montfort",
+      "feast_day": "April 28",
+      "era": "18th century",
+      "patronage": null,
+      "legacy": "Doctor of Mary",
+      "summary": "One of the great Saints whose mission appears verified and on the increase as the years pass and as we find ourselves amid the latter times, Saint Louis Mary de Montfort can now be recognized as a prophet and an oracle of God for the sanctification of the Church which must resist the foretold evils of this period. Author of a Prophetic Prayer Requesting the Apostles of the Latter Times, he is also the ardent apostle of True Devotion to the Blessed Virgin and the Saint of love for the Cross of the Lord, as we see from his Letter to the Friends of the Cross and his entire life of missionary activity. Born at Montfort-la-Cane near Saint-Malo in 1673, he was the oldest of eight children.",
+      "image": "/images/saint_louis_mary_de_montfort.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Paul of the Cross",
+      "feast_day": "April 28",
+      "era": "18th century",
+      "patronage": [
+        "spiritual desolation",
+        "the Passionists"
+      ],
+      "legacy": "Founder of the Passionist Order",
+      "summary": "Paul of the Cross was the founder of the Passionist Order, dedicated to the meditation on the Passion of Jesus Christ. Throughout his life, he endured significant physical and spiritual suffering, which he embraced as a means of deepening his faith and commitment to God. He is remembered for his profound spirituality and the establishment of a religious community focused on the Passion of Christ.",
+      "image": "/images/saint_paul_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_the_Cross"
+    },
+    {
+      "name": "Luchesio",
+      "feast_day": "April 28",
+      "era": "13th century",
+      "patronage": [
+        "merchants",
+        "the poor",
+        "third order of Saint Francis"
+      ],
+      "legacy": "First member of the Franciscan Third Order",
+      "summary": "Luchesio was a wealthy merchant from Poggibonzi, Italy, who underwent a profound conversion after hearing Saint Francis of Assisi preach. He became the first member of the Third Order of Saint Francis, dedicating his life to charity and the service of the poor. Alongside his wife, Bona Dona, he established a community that provided for the needy and became known for their acts of mercy.",
+      "image": "/images/blessed_luchesio.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Luchesius_Modestini"
+    },
+    {
+      "name": "Vitalis of Ravenna",
+      "feast_day": "April 28",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Martyr",
+      "summary": "Saint Vitalis was a first century Christian citizen of Milan and the father of the twin brothers and future martyrs, Saints Gervasius and Protasius. He is the principal patron of Ravenna, where he was martyred. Divine providence had conducted him to that city, where he saw come before the tribunal there a Christian physician named Ursicinus, who had been tortured and who then was condemned to lose his head for his faith.",
+      "image": "/images/saint_vitalis_of_ravenna.jpg",
+      "wikipedia": null
+    }
+  ]
+}

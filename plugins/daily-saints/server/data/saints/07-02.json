@@ -1,0 +1,22 @@
+{
+  "date": "07-02",
+  "feast_day": "July 2",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "July 2",
+      "era": "1st century",
+      "patronage": [
+        "mothers",
+        "pregnant women",
+        "family",
+        "travelers"
+      ],
+      "legacy": "Model of faith and motherhood",
+      "summary": "Mary is revered as the mother of Jesus Christ and holds a central role in Christianity. The Visitation, celebrated on July 2, commemorates her visit to her cousin Elizabeth, during which Elizabeth recognized Mary as the mother of her Lord. This event highlights Mary's humility and her role as an intercessor, as she brings divine grace to those around her.",
+      "image": "/images/the_visitation_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

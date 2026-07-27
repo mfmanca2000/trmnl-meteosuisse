@@ -1,0 +1,34 @@
+{
+  "date": "06-16",
+  "feast_day": "June 16",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Francis Regis",
+      "feast_day": "June 16",
+      "era": "17th century",
+      "patronage": [
+        "sick people",
+        "social workers",
+        "prisoners"
+      ],
+      "legacy": "A devoted missionary and miracle worker",
+      "summary": "John Francis Regis was a Jesuit missionary known for his dedicated service to the poor and his fervent preaching in France during the 17th century. He worked tirelessly to convert heretics and assist those in need, often facing great personal danger and hardship. His legacy as a miracle worker and a model of charity continues to inspire devotion and pilgrimage to his burial site.",
+      "image": "/images/saint_john_francis_regis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Francis_Regis"
+    },
+    {
+      "name": "Julitta",
+      "feast_day": "June 16",
+      "era": "4th century",
+      "patronage": [
+        "mothers",
+        "martyrs"
+      ],
+      "legacy": "A symbol of maternal devotion and faith",
+      "summary": "Saint Julitta was a wealthy Christian martyr who, along with her young son Cyricus, suffered persecution during the reign of Emperor Diocletian. They were arrested for their faith, and despite the cruel tortures inflicted upon them, both remained steadfast in their belief in Christ. Julitta's courage and unwavering faith in the face of death have made her a symbol of maternal devotion and martyrdom in Christian tradition.",
+      "image": "/images/saint_julitta_and_saint_cyricus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Julitta"
+    }
+  ]
+}

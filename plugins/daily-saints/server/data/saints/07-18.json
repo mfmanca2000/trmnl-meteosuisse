@@ -1,0 +1,21 @@
+{
+  "date": "07-18",
+  "feast_day": "July 18",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Camillus of Lellis",
+      "feast_day": "July 18",
+      "era": "16th century",
+      "patronage": [
+        "sick",
+        "nurses",
+        "hospital workers"
+      ],
+      "legacy": "Compassionate servant of the sick",
+      "summary": "Saint Camillus of Lellis was the founder of the Servants of the Sick, a religious order dedicated to caring for the ill and needy. After a tumultuous youth marked by gambling and military service, he experienced a profound conversion that led him to dedicate his life to serving the sick. He is remembered for his compassion and tireless efforts in hospitals, especially during times of famine and plague.",
+      "image": "/images/saint_camillus_of_lellis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Camillus_de_Lellis"
+    }
+  ]
+}

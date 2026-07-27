@@ -1,0 +1,17 @@
+{
+  "date": "10-29",
+  "feast_day": "October 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Narcissus",
+      "feast_day": "October 29",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "A devoted bishop and miracle worker",
+      "summary": "Saint Narcissus was a Bishop of Jerusalem known for his deep commitment to both religious and human disciplines. He presided over a significant council regarding the celebration of Easter and is remembered for performing miracles, including turning water into oil for church lamps. Despite facing false accusations and enemies, he remained dedicated to his flock and returned to his duties until his death in extreme old age.",
+      "image": "/images/saint_narcissus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Narcissus_of_Jerusalem"
+    }
+  ]
+}

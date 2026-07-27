@@ -1,0 +1,48 @@
+{
+  "date": "07-06",
+  "feast_day": "July 6",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Thomas More",
+      "feast_day": "July 6",
+      "era": "Renaissance",
+      "patronage": [
+        "politicians",
+        "civil servants",
+        " lawyers",
+        "martyrs"
+      ],
+      "legacy": "Defender of faith and conscience.",
+      "summary": "Thomas More was an English lawyer, philosopher, and author, best known for his book 'Utopia'. He served as Lord Chancellor of England but resigned in opposition to King Henry VIII's separation from the Catholic Church. More was executed for refusing to acknowledge the king's supremacy over the Church, and he is celebrated as a martyr and saint in the Catholic Church.",
+      "image": "/images/saint_thomas_more.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More"
+    },
+    {
+      "name": "Palladius",
+      "feast_day": "July 6",
+      "era": "5th century",
+      "patronage": [
+        "Scotland",
+        "missionaries"
+      ],
+      "legacy": "First bishop and apostle of the Scots",
+      "summary": "Saint Palladius was the first bishop and apostle of the Scots, sent by Pope Celestine in 429 to preach Christianity in North Britain. He is recognized for his efforts to combat heresy and establish the Catholic faith among the Scots and in parts of Ireland. Palladius is often regarded as a precursor to Saint Patrick in the evangelization of Ireland.",
+      "image": "/images/saint_palladius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Palladius_(bishop_of_Ireland)"
+    },
+    {
+      "name": "Goar",
+      "feast_day": "July 6",
+      "era": "6th century",
+      "patronage": [
+        "hospitality",
+        "travelers"
+      ],
+      "legacy": "Patron of hospitality and travelers",
+      "summary": "Saint Goar was a priest and hermit known for his piety and fervent preaching in the 6th century. He dedicated his life to serving God in solitude, while also converting many through his example and miracles. Renowned for his hospitality, he became a revered figure in the region near Trier, Germany, where he established a hermitage and church.",
+      "image": "/images/saint_goar.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Goar_of_Aquitaine"
+    }
+  ]
+}

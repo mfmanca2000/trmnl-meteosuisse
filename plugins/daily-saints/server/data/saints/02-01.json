@@ -1,0 +1,37 @@
+{
+  "date": "02-01",
+  "feast_day": "February 1",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ignatius of Antioch",
+      "feast_day": "February 1",
+      "era": "1st century",
+      "patronage": [
+        "church leaders",
+        "martyrs",
+        "the sick"
+      ],
+      "legacy": "A champion of Christian unity and faith",
+      "summary": "Ignatius of Antioch was an early Christian bishop and martyr who played a significant role in the development of the Church. He is known for his letters, which emphasized the importance of unity and the Eucharist, and for his steadfastness in the face of persecution. Ignatius was martyred in Rome around the year 107, famously expressing his desire to be 'the wheat of Christ' ground by the teeth of wild beasts.",
+      "image": "/images/saint_ignatius_of_antioch.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch"
+    },
+    {
+      "name": "Brigid of Ireland",
+      "feast_day": "February 1",
+      "era": "5th century",
+      "patronage": [
+        "Ireland",
+        "brewers",
+        "poets",
+        "children",
+        "farmers"
+      ],
+      "legacy": "Patroness of Ireland and charity",
+      "summary": "Brigid of Ireland, also known as Brigid of Kildare, was a 5th-century abbess and founder of several monasteries in Ireland. She is revered for her deep spirituality, acts of charity, and the establishment of the first convent in Ireland at Kildare. Her legacy continues to inspire many as a symbol of compassion and dedication to God.",
+      "image": "/images/saint_bridgid.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Brigid_of_Kildare"
+    }
+  ]
+}

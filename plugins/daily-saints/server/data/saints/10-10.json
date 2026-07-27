@@ -1,0 +1,21 @@
+{
+  "date": "10-10",
+  "feast_day": "October 10",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francis Borgia",
+      "feast_day": "October 10",
+      "era": "16th century",
+      "patronage": [
+        "Jesuits",
+        "noblemen",
+        "the dying"
+      ],
+      "legacy": "A nobleman turned servant of God",
+      "summary": "Francis Borgia was a Spanish nobleman who became a Jesuit and served as the General of the Society of Jesus. After witnessing the death of Empress Isabella, he renounced his worldly ambitions and dedicated his life to serving God and the poor. He was instrumental in establishing Jesuit colleges and houses across Spain and Portugal, and he died in service to the Church in 1572.",
+      "image": "/images/saint_francis_borgia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Borgia"
+    }
+  ]
+}

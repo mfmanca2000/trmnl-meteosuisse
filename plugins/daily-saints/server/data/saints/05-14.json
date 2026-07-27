@@ -1,0 +1,30 @@
+{
+  "date": "05-14",
+  "feast_day": "May 14",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Michael Garicoits",
+      "feast_day": "May 14",
+      "era": "19th century",
+      "patronage": null,
+      "legacy": "Founder of the Priests of the Sacred Heart",
+      "summary": "Michael Garicoits was a French priest and founder of the Priests of the Sacred Heart of Betharram. He dedicated his life to fostering devotion to the Sacred Heart and establishing a religious community focused on poverty and the interior life. His legacy continues through the spread of his congregation in various countries and their commitment to education and spiritual growth.",
+      "image": "/images/saint_michael_garicoits.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michel_Garico%C3%AFts"
+    },
+    {
+      "name": "Pachomius",
+      "feast_day": "May 14",
+      "era": "4th century",
+      "patronage": [
+        "monks",
+        "Christian monasticism"
+      ],
+      "legacy": "Founder of Christian monastic community life",
+      "summary": "Saint Pachomius was a Christian monk and the founder of cenobitic monasticism, which emphasizes communal living among monks. After converting from paganism, he established a monastery in Tabenna, Egypt, where he created a rule of life that balanced spiritual discipline with accessibility for new monks. His teachings and practices laid the foundation for many future monastic communities in Christianity.",
+      "image": "/images/saint_pachomius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pachomius_the_Great"
+    }
+  ]
+}

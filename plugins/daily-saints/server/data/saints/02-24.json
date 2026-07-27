@@ -1,0 +1,34 @@
+{
+  "date": "02-24",
+  "feast_day": "February 24",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Matthias",
+      "feast_day": "February 24",
+      "era": "1st century",
+      "patronage": [
+        "persecuted Christians",
+        "tailors"
+      ],
+      "legacy": "Apostle chosen to replace Judas",
+      "summary": "Matthias was chosen by the apostles to replace Judas Iscariot after the Ascension of Jesus. He is known for his dedication and perseverance in preaching the Gospel, particularly in Judea, where he faced persecution. Matthias is traditionally believed to have died by stoning around the year 63 AD.",
+      "image": "/images/saint_matthias.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Matthias"
+    },
+    {
+      "name": "Robert of Arbrissel",
+      "feast_day": "February 24",
+      "era": "11th century",
+      "patronage": [
+        "hermits",
+        "monks",
+        "reformers"
+      ],
+      "legacy": "Champion of poverty and reform in the Church",
+      "summary": "Robert of Arbrissel was a prominent 11th-century abbot known for his reforming zeal and dedication to the ideals of poverty and charity. He founded the famous monastery of Fontevrault, which became a center for both men and women living in separate communities dedicated to the Gospel. His legacy includes a commitment to healing feuds and promoting spiritual growth among his followers throughout western France.",
+      "image": "/images/blessed_robert_of_arbrissel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_of_Arbrissel"
+    }
+  ]
+}

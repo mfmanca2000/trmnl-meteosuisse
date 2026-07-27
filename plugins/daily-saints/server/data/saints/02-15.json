@@ -1,0 +1,20 @@
+{
+  "date": "02-15",
+  "feast_day": "February 15",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Faustinus and Jovita",
+      "feast_day": "February 15",
+      "era": "2nd century",
+      "patronage": [
+        "Brescia",
+        "martyrs"
+      ],
+      "legacy": "Courageous martyrs of the Christian faith",
+      "summary": "Faustinus and Jovita were brothers and martyrs from Brescia, Italy, who boldly preached Christianity during the persecution under Emperor Adrian. They faced severe trials, including being thrown to lions and enduring flames, yet remained unharmed through divine intervention. Ultimately, they were decapitated for their faith, and their legacy endures as the patrons of Brescia.",
+      "image": "/images/saints_faustinus_and_jovita.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Faustinus_and_Jovita"
+    }
+  ]
+}

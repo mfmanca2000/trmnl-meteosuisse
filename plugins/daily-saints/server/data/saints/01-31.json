@@ -1,0 +1,36 @@
+{
+  "date": "01-31",
+  "feast_day": "January 31",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Bosco",
+      "feast_day": "January 31",
+      "era": "19th century",
+      "patronage": [
+        "youth",
+        "students",
+        "apprentices",
+        "magicians"
+      ],
+      "legacy": "Champion of youth and education",
+      "summary": "John Bosco was an Italian priest and educator who dedicated his life to the welfare of disadvantaged youth. He founded the Salesian Society, which focuses on the education and spiritual development of young people. His legacy continues through the numerous Salesian institutions around the world that uphold his mission of love and education.",
+      "image": "/images/saint_john_bosco.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Bosco"
+    },
+    {
+      "name": "Marcella",
+      "feast_day": "January 31",
+      "era": "Early 5th century",
+      "patronage": [
+        "widows",
+        "noble women",
+        "spiritual growth"
+      ],
+      "legacy": "Model of Christian widowhood and piety",
+      "summary": "Marcella was a noble widow in Rome who dedicated her life to asceticism and the study of Scripture under the guidance of Saint Jerome. She became a leader among Christian women, gathering them for spiritual growth and support. Marcella died during the Gothic siege of Rome in 410, having lived a life of piety and service to the poor.",
+      "image": "/images/saint_marcella.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Marcella"
+    }
+  ]
+}

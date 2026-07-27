@@ -1,0 +1,17 @@
+{
+  "date": "02-28",
+  "feast_day": "February 28",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Romanus",
+      "feast_day": "February 28",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Founder of monastic communities in Jura",
+      "summary": "Saint Romanus was a 5th-century monk and abbot who, along with his brother Lupicinus, founded several monasteries in the region of Jura. He was known for his gentle leadership and patience, often welcoming back monks who had strayed from their community. Romanus dedicated his life to prayer, study, and the cultivation of a monastic life, leaving a lasting legacy of faith and community.",
+      "image": "/images/saints_romanus_and_lupicinus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romanus_of_Condat"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "02-05",
+  "feast_day": "February 5",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Agatha",
+      "feast_day": "February 5",
+      "era": "3rd century",
+      "patronage": [
+        "breast cancer patients",
+        "nurses",
+        "firefighters",
+        "cooks"
+      ],
+      "legacy": "Patroness of purity and protection",
+      "summary": "Saint Agatha was a Christian martyr from Sicily who is celebrated for her unwavering faith and commitment to chastity. She endured severe torture, including mutilation, for refusing to renounce her faith and remained devoted to Christ until her death. Her legacy continues as she is venerated for her purity and is invoked for protection against natural disasters, particularly in her hometown of Catania.",
+      "image": "/images/saint_agatha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agatha_of_Sicily"
+    },
+    {
+      "name": "Holy Martyrs of Japan",
+      "feast_day": "February 5",
+      "era": "16th century",
+      "patronage": [
+        "Japan",
+        "missionaries",
+        "martyrs"
+      ],
+      "legacy": "Courageous witnesses of faith and sacrifice.",
+      "summary": "The Holy Martyrs of Japan were a group of 26 Christians, including six Franciscans, three Jesuits, and seventeen laypeople, who were martyred in 1597 during a period of intense persecution. Their steadfast faith and willingness to die for Christ inspired many and contributed to the growth of Christianity in Japan. Canonized by Pope Pius IX in 1862, they are remembered for their courage and devotion to their beliefs.",
+      "image": "/images/the_holy_martyrs_of_japan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Holy_Martyrs_of_Jasenovac"
+    },
+    {
+      "name": "Philip of Jesus",
+      "feast_day": "February 5",
+      "era": "16th century",
+      "patronage": [
+        "Mexico",
+        "Franciscans",
+        "martyrs"
+      ],
+      "legacy": "First martyr of Japan's Christian mission",
+      "summary": "Philip of Jesus was a Franciscan friar and martyr who was born in Mexico and later traveled to Japan as a missionary. He was arrested and executed for his faith during a period of intense persecution against Christians in Japan. His legacy is honored as one of the first martyrs of Japan, and he is remembered for his unwavering commitment to his faith even unto death.",
+      "image": "/images/saint_philip_of_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_of_Jesus"
+    }
+  ]
+}

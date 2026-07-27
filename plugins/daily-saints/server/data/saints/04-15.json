@@ -1,0 +1,27 @@
+{
+  "date": "04-15",
+  "feast_day": "April 15",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter Gonzales",
+      "feast_day": "April 15",
+      "era": "13th century",
+      "patronage": null,
+      "legacy": "Dominican Priest",
+      "summary": "Saint Peter Gonzales was born in Spain in 1190, of parents both rich and noble. He was brought up by his maternal uncle, a bishop in the region of Astorga, and while still young was named a canon of his cathedral. Soon he was chosen to be head of the cathedral chapter; but when he came to take possession of that office, mounted on a finely arrayed horse, the animal by a false step threw him into the mud.",
+      "image": "/images/saint_peter_gonzales.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Paternus",
+      "feast_day": "April 15",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "Evangelizer and founder of monasteries",
+      "summary": "Saint Paternus was a bishop of Avranches and a prominent figure in the early Christian evangelization of France. Born in Poitiers around 482, he embraced monastic life and later became known for his austere anchoritic lifestyle and missionary work alongside Saint Scubilion. He was consecrated bishop in his later years and is remembered for his miracles and the establishment of several monasteries.",
+      "image": "/images/saint_paternus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paternus"
+    }
+  ]
+}

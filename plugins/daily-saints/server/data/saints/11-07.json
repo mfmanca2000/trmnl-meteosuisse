@@ -1,0 +1,47 @@
+{
+  "date": "11-07",
+  "feast_day": "November 7",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Willibrord",
+      "feast_day": "November 7",
+      "era": "7th century",
+      "patronage": [
+        "Friesland",
+        "missionaries",
+        "educators"
+      ],
+      "legacy": "Apostle of the Frisians and educator",
+      "summary": "Saint Willibrord was an English missionary who became the first Archbishop of Utrecht and played a crucial role in spreading Christianity among the Frisians in the Low Countries. He founded several churches and schools, and was known for his miracles and prophetic gifts. His dedication to the faith and tireless efforts in evangelization earned him a revered place in the history of the Church.",
+      "image": "/images/saint_willibrord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Willibrord"
+    },
+    {
+      "name": "Hyacinth Castañeda",
+      "feast_day": "November 7",
+      "era": "18th century",
+      "patronage": [
+        "missionaries",
+        "martyrs"
+      ],
+      "legacy": "A martyr for faith in Asia.",
+      "summary": "Hyacinth Castañeda was a Dominican priest and missionary born in Spain who dedicated his life to spreading Christianity in Asia. He faced severe persecution during his missions in China and Vietnam, ultimately being martyred for his faith. He was canonized in 1988, recognized for his unwavering commitment to his mission and the sacrifices he made for the Gospel.",
+      "image": "/images/saint_hyacinth_castaneda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hyacinth_Casteneda"
+    },
+    {
+      "name": "Vincent Liem de la Paz",
+      "feast_day": "November 7",
+      "era": "18th century",
+      "patronage": [
+        "Vietnam",
+        "martyrs"
+      ],
+      "legacy": "Martyrdom for faith in Vietnam",
+      "summary": "Vincent Liem de la Paz was a Dominican priest and martyr from Vietnam, born in 1732. After completing his studies in the Philippines, he returned to Vietnam to preach the Catholic faith. He was arrested and executed for his beliefs on November 7, 1773, and is venerated as a saint in the Catholic Church.",
+      "image": "/images/saint_vincent_liem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_Liem"
+    }
+  ]
+}

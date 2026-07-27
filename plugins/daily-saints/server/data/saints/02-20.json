@@ -1,0 +1,17 @@
+{
+  "date": "02-20",
+  "feast_day": "February 20",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eucherius",
+      "feast_day": "February 20",
+      "era": "8th century",
+      "patronage": null,
+      "legacy": "Defender of the Church's rights",
+      "summary": "Eucherius was a Bishop of Orleans known for his deep commitment to God and his virtuous life. After spending years in a monastery, he was reluctantly elected to lead the diocese, where he became a staunch defender of the Church's rights against secular encroachments. His legacy is marked by his dedication to prayer and contemplation, even in the face of adversity.",
+      "image": "/images/saint_eucherius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eucherius_of_Orl%C3%A9ans"
+    }
+  ]
+}

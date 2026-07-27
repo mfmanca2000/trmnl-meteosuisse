@@ -1,0 +1,35 @@
+{
+  "date": "11-18",
+  "feast_day": "November 18",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter",
+      "feast_day": "November 18",
+      "era": "1st century",
+      "patronage": [
+        "fishermen",
+        "net makers",
+        "shipbuilders"
+      ],
+      "legacy": "First Pope and leader of apostles",
+      "summary": "Peter, one of Jesus Christ's twelve apostles, is regarded as the first Pope and a foundational figure in Christianity. He is known for his leadership among the apostles and his role in spreading the teachings of Jesus. Peter was martyred in Rome, and his tomb is located beneath St. Peter's Basilica in Vatican City.",
+      "image": "/images/dedication_of_the_basilicas_of_saint_peter_and_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    },
+    {
+      "name": "Odon of Cluny",
+      "feast_day": "November 18",
+      "era": "10th century",
+      "patronage": [
+        "monks",
+        "educators",
+        "children"
+      ],
+      "legacy": "Pioneer of monastic reform and education",
+      "summary": "Odon of Cluny was a Benedictine abbot who played a pivotal role in the reform and organization of monastic life in the 10th century. He founded the Abbey of Cluny, which became a center of spiritual and educational excellence, attracting many vocations and promoting the Rule of Saint Benedict. His legacy includes a commitment to charity and the education of children, as well as the establishment of a federation of monasteries under Cluny's guidance.",
+      "image": "/images/saint_odon_or_eudes_of_cluny.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odo_of_Cluny"
+    }
+  ]
+}

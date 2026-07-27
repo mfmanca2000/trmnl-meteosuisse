@@ -1,0 +1,32 @@
+{
+  "date": "03-31",
+  "feast_day": "March 31",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Nicholas of Flue",
+      "feast_day": "March 31",
+      "era": "15th century",
+      "patronage": [
+        "Switzerland",
+        "hermits",
+        "peace",
+        "spirituality"
+      ],
+      "legacy": "A beacon of peace and spirituality",
+      "summary": "Nicholas of Flue was a Swiss hermit and mystic who left his family and possessions to dedicate his life to God. He became known for his deep spirituality and wisdom, attracting many visitors seeking his counsel. His efforts helped to prevent civil war in Switzerland, and he is revered for his role in promoting peace and unity.",
+      "image": "/images/saint_nicholas_of_flue.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Fl%C3%BCe"
+    },
+    {
+      "name": "Benjamin",
+      "feast_day": "March 31",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Martyrdom for faith and courage",
+      "summary": "Saint Benjamin was a deacon and martyr who lived during the early 5th century in Persia. He courageously preached the Christian faith despite severe persecution under King Isdegerdes, who sought to eradicate Christianity in his kingdom. After enduring brutal torture for his unwavering commitment to Christ, he ultimately died for his faith around the year 424.",
+      "image": "/images/saint_benjamin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_the_Deacon_and_Martyr"
+    }
+  ]
+}

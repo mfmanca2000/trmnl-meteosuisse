@@ -1,0 +1,21 @@
+{
+  "date": "01-22",
+  "feast_day": "January 22",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Vincent of Saragossa",
+      "feast_day": "January 22",
+      "era": "4th century",
+      "patronage": [
+        "vine growers",
+        "winemakers",
+        "st. Vincent de Paul Society"
+      ],
+      "legacy": "Martyrdom and unwavering faith in Christ",
+      "summary": "Saint Vincent of Saragossa was a deacon and martyr who served in the early Church during the persecution of Diocletian. He was known for his unwavering faith and courage in the face of brutal torture, ultimately dying for his beliefs. His relics are preserved in Lisbon, and he is venerated as a protector of the faithful.",
+      "image": "/images/saint_vincent_of_saragossa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_of_Saragossa"
+    }
+  ]
+}

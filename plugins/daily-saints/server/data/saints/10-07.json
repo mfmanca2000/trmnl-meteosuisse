@@ -1,0 +1,21 @@
+{
+  "date": "10-07",
+  "feast_day": "October 7",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Our Lady of the Rosary",
+      "feast_day": "October 7",
+      "era": "Modern",
+      "patronage": [
+        "prayers",
+        "victory in battle",
+        "the Catholic Church"
+      ],
+      "legacy": "Promoter of the Rosary devotion",
+      "summary": "Our Lady of the Rosary is a title of the Blessed Virgin Mary associated with the prayer of the Rosary. This devotion emphasizes the importance of meditation on the mysteries of Christ's life through the recitation of prayers. The feast of Our Lady of the Rosary was established to commemorate the victory at the Battle of Lepanto and to promote the Rosary as a powerful tool for prayer and reflection.",
+      "image": "/images/our_lady_of_the_rosary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary"
+    }
+  ]
+}

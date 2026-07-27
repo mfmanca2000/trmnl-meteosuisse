@@ -1,0 +1,35 @@
+{
+  "date": "04-27",
+  "feast_day": "April 27",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter Canisius",
+      "feast_day": "April 27",
+      "era": "16th century",
+      "patronage": [
+        "Germany",
+        "catechists",
+        "students"
+      ],
+      "legacy": "Champion of the Catholic Counter-Reformation",
+      "summary": "Peter Canisius was a Dutch Jesuit priest and theologian who played a crucial role in the Catholic Counter-Reformation. He was instrumental in the establishment of Jesuit colleges and the development of catechetical materials, notably his famous catechism. Canonized in 1621 and declared a Doctor of the Church in 1927, he is remembered for his dedication to the renewal of the Catholic faith in Germany and beyond.",
+      "image": "/images/saint_peter_canisius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Canisius"
+    },
+    {
+      "name": "Zita",
+      "feast_day": "April 27",
+      "era": "Medieval",
+      "patronage": [
+        "servants",
+        "household workers",
+        "lost causes"
+      ],
+      "legacy": "Patroness of servants and workers",
+      "summary": "Saint Zita was a 13th-century virgin and servant from Lucca, Italy, known for her unwavering faith and dedication to prayer. Despite facing mistreatment from her employers and fellow servants, she remained patient and kind, ultimately gaining their respect and admiration. Her life exemplifies the virtues of hard work and devotion, leading to her recognition as a saint after her death in 1278.",
+      "image": "/images/saint_zita.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Zita_of_Lucca"
+    }
+  ]
+}

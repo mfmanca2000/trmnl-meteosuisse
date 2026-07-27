@@ -1,0 +1,31 @@
+{
+  "date": "11-27",
+  "feast_day": "November 27",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catherine Labouré",
+      "feast_day": "November 27",
+      "era": "19th century",
+      "patronage": [
+        "the Miraculous Medal",
+        "sick people",
+        "sisters of charity"
+      ],
+      "legacy": "Visionary of the Miraculous Medal",
+      "summary": "Catherine Labouré was a French nun of the Daughters of Charity, known for her visions of the Virgin Mary. In 1830, she received a vision that inspired the creation of the Miraculous Medal, which has since become a powerful symbol of faith and devotion. Her life and work emphasize the importance of prayer and the intercession of Mary in the lives of the faithful.",
+      "image": "/images/the_miraculous_medal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_Labour%C3%A9"
+    },
+    {
+      "name": "Maximus",
+      "feast_day": "November 27",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "A model of humility and virtue",
+      "summary": "Saint Maximus was a bishop of Riez in the 5th century, known for his deep piety and commitment to virtue. He initially resisted becoming a bishop, preferring a life of humility and service in his monastery. His leadership was marked by gentleness and kindness, earning him the affection of his clergy and the people he served until his death in 460.",
+      "image": "/images/saint_maximus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

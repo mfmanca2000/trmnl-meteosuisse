@@ -1,0 +1,20 @@
+{
+  "date": "03-11",
+  "feast_day": "March 11",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eulogius of Cordoba",
+      "feast_day": "March 11",
+      "era": "9th century",
+      "patronage": [
+        "martyrs",
+        "Christian converts"
+      ],
+      "legacy": "Defender of faith and Christian martyr",
+      "summary": "Eulogius of Cordoba was a 9th-century Christian martyr and priest known for his staunch defense of the faith during the period of Muslim rule in Spain. He was executed for his outspoken criticism of Islam and his efforts to convert Muslims to Christianity. His writings and martyrdom have made him a significant figure in the history of Christian resistance in the Iberian Peninsula.",
+      "image": "/images/saint_eulogius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "08-04",
+  "feast_day": "August 4",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Dominic",
+      "feast_day": "August 4",
+      "era": "Medieval",
+      "patronage": [
+        "astronomers",
+        "the Dominican Republic",
+        "philosophers"
+      ],
+      "legacy": "Founder of the Dominican Order and the Rosary",
+      "summary": "Saint Dominic de Guzman was a Spanish priest and the founder of the Order of Preachers, commonly known as the Dominicans. He dedicated his life to combating heresy and promoting the Catholic faith, famously receiving the Rosary from the Virgin Mary. His legacy includes the establishment of a religious order that emphasized preaching, education, and the importance of prayer.",
+      "image": "/images/saint_dominic_de_guzman.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_de_Guzman"
+    },
+    {
+      "name": "Frederick Janssoone",
+      "feast_day": "August 4",
+      "era": "Modern",
+      "patronage": [
+        "pilgrims",
+        "missionaries",
+        "the sick"
+      ],
+      "legacy": "A devoted missionary and miracle worker",
+      "summary": "Frederick Janssoone was a Franciscan missionary known for his dedication to serving in the Holy Land and Canada. He founded numerous fraternities of the Third Order of Saint Francis and was recognized for his humility and charity, which fostered harmony among diverse groups in Jerusalem. His legacy includes the establishment of pilgrimage sites and the veneration of relics that were believed to perform miracles.",
+      "image": "/images/blessed_father_frederick_janssoone_of_ghyvelde.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Janssoone"
+    }
+  ]
+}

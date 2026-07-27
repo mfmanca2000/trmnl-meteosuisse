@@ -1,0 +1,21 @@
+{
+  "date": "07-15",
+  "feast_day": "July 15",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Henry",
+      "feast_day": "July 15",
+      "era": "Medieval",
+      "patronage": [
+        "Germany",
+        "the childless",
+        "difficult marriages"
+      ],
+      "legacy": "A model of piety and leadership",
+      "summary": "Henry II, also known as Saint Henry, was the King of Germany and Emperor of the Holy Roman Empire. He is remembered for his piety, humility, and dedication to the Christian faith, as well as for his efforts to spread Christianity in Eastern Europe. His reign was marked by military victories and the establishment of numerous churches and monasteries, reflecting his commitment to the service of God.",
+      "image": "/images/saint_henry.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+    }
+  ]
+}

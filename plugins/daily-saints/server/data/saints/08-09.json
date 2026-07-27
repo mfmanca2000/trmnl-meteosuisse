@@ -1,0 +1,31 @@
+{
+  "date": "08-09",
+  "feast_day": "August 9",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Vianney",
+      "feast_day": "August 9",
+      "era": "19th century",
+      "patronage": [
+        "priests",
+        "sick people",
+        "sacramental confession"
+      ],
+      "legacy": "Model of pastoral care and holiness",
+      "summary": "John Vianney, known as the Curé of Ars, was a humble priest renowned for his extraordinary pastoral care and dedication to the sacrament of confession. He transformed the parish of Ars, France, into a vibrant Christian community through his piety, preaching, and charitable works. His life of penance and devotion has made him a model for priests and a beloved saint in the Catholic Church.",
+      "image": "/images/saint_john_vianney.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Vianney"
+    },
+    {
+      "name": "Romanus",
+      "feast_day": "August 9",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "A martyr inspired by steadfast faith",
+      "summary": "Saint Romanus was a soldier in the Roman legion under Emperor Valerian who converted to Christianity after witnessing the steadfastness of Saint Lawrence during his martyrdom. Moved by the grace he observed, Romanus embraced the faith and was subsequently imprisoned for his beliefs. He was condemned and beheaded for his faith on August 9, 258, and his remains are venerated in Lucca, Italy.",
+      "image": "/images/saint_romanus_statue.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romanus_of_Rome"
+    }
+  ]
+}

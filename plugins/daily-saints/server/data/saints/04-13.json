@@ -1,0 +1,20 @@
+{
+  "date": "04-13",
+  "feast_day": "April 13",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Hermenegild",
+      "feast_day": "April 13",
+      "era": "6th century",
+      "patronage": [
+        "martyrs",
+        "conversions"
+      ],
+      "legacy": "Martyrdom inspiring faith and conversion",
+      "summary": "Saint Hermenegild was a Visigothic prince and martyr who was executed by his father, King Leovigild, for converting to Christianity. Despite facing severe torture and temptation to renounce his faith, he remained steadfast and chose to die rather than betray his beliefs. His martyrdom inspired many, including his brother Recared, who later converted the Visigoths to Christianity.",
+      "image": "/images/saint_hermenegild.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hermenegild"
+    }
+  ]
+}

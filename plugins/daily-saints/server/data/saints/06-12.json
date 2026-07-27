@@ -1,0 +1,21 @@
+{
+  "date": "06-12",
+  "feast_day": "June 12",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John of Sahagun",
+      "feast_day": "June 12",
+      "era": "15th century",
+      "patronage": [
+        "preachers",
+        "theologians",
+        "those suffering from poison"
+      ],
+      "legacy": "A model of holiness and reform",
+      "summary": "John of Sahagun was a Spanish Augustinian confessor known for his powerful preaching and moral reform in Salamanca during the 15th century. He dedicated his life to the poor and was recognized for his deep devotion to the Holy Mass, which often led him to spend extended time in prayer. His courageous denouncement of vice ultimately led to his martyr-like death, and he was canonized in 1690 due to the miracles attributed to him after his passing.",
+      "image": "/images/saint_john_of_sahagun_or_st_fagondez.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Sahag%C3%BAn"
+    }
+  ]
+}

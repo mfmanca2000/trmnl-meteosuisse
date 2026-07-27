@@ -1,0 +1,22 @@
+{
+  "date": "04-30",
+  "feast_day": "April 30",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Catherine of Siena",
+      "feast_day": "April 30",
+      "era": "14th century",
+      "patronage": [
+        "Italy",
+        "nurses",
+        "against fire",
+        "people ridiculed for their faith"
+      ],
+      "legacy": "Mystic and reformer of the Church",
+      "summary": "Catherine of Siena was a 14th-century mystic and a prominent figure in the Catholic Church, known for her deep spirituality and commitment to reforming the Church. She played a crucial role in bringing Pope Gregory XI back to Rome from Avignon and was a counselor to several popes during a tumultuous period in Church history. Her life was marked by intense prayer, visions, and a dedication to serving God and the Church, ultimately leading to her canonization and recognition as a Doctor of the Church.",
+      "image": "/images/saint_catherine_of_siena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Siena"
+    }
+  ]
+}

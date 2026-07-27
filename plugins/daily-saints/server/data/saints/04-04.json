@@ -1,0 +1,27 @@
+{
+  "date": "04-04",
+  "feast_day": "April 4",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Isidore",
+      "feast_day": "April 4",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "Doctor of the Church",
+      "summary": "despaired over his poor success in study, and ran away from school. Resting in his flight at a roadside spring, he observed a stone, which had been hollowed out by the slow but constant dripping of water. This lesson decided him to return, and then, by determined application, he succeeded.",
+      "image": "/images/saint_isidore.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Benedict of Palermo",
+      "feast_day": "April 4",
+      "era": "16th century",
+      "patronage": null,
+      "legacy": "Lay Brother",
+      "summary": "Saint Benedict the Moor, born in Sicily around 1526, belonged to the African race. His parents were Christians, living in an ancient town of Sicily today named San Fratello (Holy Little Brother), in memory of our Saint. By their virtues they possessed the liberty which belongs to all the true children of God, in whatever condition they may be.",
+      "image": "/images/saint_benedict_of_palermo.jpg",
+      "wikipedia": null
+    }
+  ]
+}

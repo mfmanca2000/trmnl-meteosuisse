@@ -1,0 +1,31 @@
+{
+  "date": "06-01",
+  "feast_day": "June 1",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Angela Merici",
+      "feast_day": "June 1",
+      "era": "Renaissance",
+      "patronage": [
+        "education",
+        "young girls",
+        "orphans"
+      ],
+      "legacy": "Pioneer of women's education and spirituality",
+      "summary": "Angela Merici was an Italian virgin and foundress born in 1474, known for her deep piety and commitment to educating young girls in the Christian faith. After experiencing a vision, she established the Ursuline Order in 1535, which focused on the education and spiritual formation of women. She was canonized in 1807 and is celebrated for her contributions to the Church and the empowerment of women through education.",
+      "image": "/images/saint_angela_merici.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Angela_Merici"
+    },
+    {
+      "name": "Pamphilus",
+      "feast_day": "June 1",
+      "era": "Early 4th century",
+      "patronage": null,
+      "legacy": "Scholarship and martyrdom in faith",
+      "summary": "Saint Pamphilus was a scholar and martyr from Berytus, known for his dedication to the study of Holy Scripture and the establishment of a school of sacred literature in Caesarea. He collected a vast library for the church and was renowned for his humility and austere lifestyle. Pamphilus was arrested during the persecution of Christians under Maximius Daia and ultimately martyred for his faith, leaving a legacy of steadfastness and devotion.",
+      "image": "/images/saint_pamphilus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pamphilus_of_Caesarea"
+    }
+  ]
+}

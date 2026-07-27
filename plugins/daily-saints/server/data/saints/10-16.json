@@ -1,0 +1,49 @@
+{
+  "date": "10-16",
+  "feast_day": "October 16",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Gerard Majella",
+      "feast_day": "October 16",
+      "era": "18th century",
+      "patronage": [
+        "expectant mothers",
+        "children",
+        "the falsely accused"
+      ],
+      "legacy": "Miracle worker and devoted Redemptorist",
+      "summary": "Gerard Majella was an Italian Redemptorist brother known for his miraculous works and deep devotion to God. He exhibited extraordinary virtues and was renowned for his gift of bilocation, often seen assisting the sick during a plague. He was canonized in 1904 and is celebrated for his profound charity and commitment to his religious life.",
+      "image": "/images/saint_gerard_majella.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Majella"
+    },
+    {
+      "name": "Gall",
+      "feast_day": "October 16",
+      "era": "7th century",
+      "patronage": [
+        "Switzerland",
+        "monks",
+        "students"
+      ],
+      "legacy": "Pioneer of Christianity in Switzerland",
+      "summary": "Saint Gall was an Irish abbot and missionary who played a significant role in the spread of Christianity in Switzerland. He accompanied Saint Columban to France and later settled near Lake Constance, where he founded a monastery that became a center for Christian teaching. Known for his humility and dedication, he converted many idolaters and is remembered for his miraculous deeds and peaceful coexistence with nature.",
+      "image": "/images/saint_gall.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Gall"
+    },
+    {
+      "name": "Hedwig",
+      "feast_day": "October 16",
+      "era": "Medieval",
+      "patronage": [
+        "Silesia",
+        "widows",
+        "the poor"
+      ],
+      "legacy": "A model of charity and devotion",
+      "summary": "Saint Hedwig was a Polish duchess known for her piety and charitable works. After the death of her husband, she dedicated her life to the Cistercian convent of Trebnitz, where she served under her daughter, the abbess. She is remembered for her devotion to the Blessed Sacrament and her care for the poor and marginalized.",
+      "image": "/images/saint_hedwig.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hedwig_of_Silesia"
+    }
+  ]
+}

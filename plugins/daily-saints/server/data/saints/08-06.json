@@ -1,0 +1,17 @@
+{
+  "date": "08-06",
+  "feast_day": "August 6",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Transfiguration of Our Lord",
+      "feast_day": "August 6",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "A glimpse of divine glory revealed",
+      "summary": "The Transfiguration of Our Lord is a significant event in the New Testament where Jesus reveals His divine glory to three of His apostles: Peter, James, and John. This event occurs on a high mountain, traditionally identified as Mount Tabor, where Jesus' appearance changes, and He converses with Moses and Elijah. The voice of God affirms Jesus as His beloved Son, emphasizing His authority and the importance of listening to Him.",
+      "image": "/images/the_transfiguration_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Transfiguration_of_Jesus"
+    }
+  ]
+}

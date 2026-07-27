@@ -1,0 +1,58 @@
+{
+  "date": "11-09",
+  "feast_day": "November 9",
+  "count": 4,
+  "saints": [
+    {
+      "name": "Sylvester",
+      "feast_day": "November 9",
+      "era": "Early Christian",
+      "patronage": [
+        "churches",
+        "baptism"
+      ],
+      "legacy": "Pioneer of church consecration and unity",
+      "summary": "Pope Sylvester I served as the Bishop of Rome from 314 to 335 AD, during a pivotal time in the early Church. He is best known for his role in the establishment of the Lateran Basilica, the first church built in Rome, which became a significant center of Christian worship. His papacy coincided with the Edict of Milan, which granted religious freedom to Christians in the Roman Empire.",
+      "image": "/images/dedication_of_the_lateran_basilica.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_I"
+    },
+    {
+      "name": "Maturinus",
+      "feast_day": "November 9",
+      "era": "4th century",
+      "patronage": [
+        "mental illness",
+        "demon possession",
+        "pottery makers"
+      ],
+      "legacy": "Patron of mental health and exorcism",
+      "summary": "Maturinus was a priest and confessor who lived in the late 4th century and is known for his miraculous abilities and dedication to the Christian faith. He converted his family from paganism and became a prominent figure in the early Church, preaching and performing miracles, particularly in Rome. His legacy includes being a patron of those suffering from mental illness and demon possession, with a significant following in Larchant, France, where his relics were venerated.",
+      "image": "/images/saint_mathurin_of_larchant.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maturinus"
+    },
+    {
+      "name": "Theodore Tyro",
+      "feast_day": "November 9",
+      "era": "4th century",
+      "patronage": [
+        "soldiers",
+        "martyrs",
+        "firefighters"
+      ],
+      "legacy": "A symbol of unwavering faith and courage.",
+      "summary": "Saint Theodore Tyro was a Christian martyr from Asia Minor who lived during the early 4th century. He was a soldier who refused to renounce his faith in the face of persecution and torture, ultimately being executed for his beliefs. His steadfastness and courage in the face of death made him a celebrated figure among early Christians and a symbol of faithfulness to God.",
+      "image": "/images/saint_theodore_tyro.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodore_of_Amasea"
+    },
+    {
+      "name": "Benen",
+      "feast_day": "November 9",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Patrick's beloved disciple and singer",
+      "summary": "Saint Benen, also known as Benignus, was a close disciple of Saint Patrick and played a significant role in the early Christian church in Ireland. He is celebrated for his sweet singing voice, which he used to attract many to Christianity. After serving as coadjutor bishop of Armagh, he continued to evangelize and contribute to the church until his death in 467.",
+      "image": "/images/saint_benen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Benen"
+    }
+  ]
+}

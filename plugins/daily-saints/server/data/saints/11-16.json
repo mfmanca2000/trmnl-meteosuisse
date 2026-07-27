@@ -1,0 +1,35 @@
+{
+  "date": "11-16",
+  "feast_day": "November 16",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Gertrude",
+      "feast_day": "November 16",
+      "era": "Medieval",
+      "patronage": [
+        "souls in purgatory",
+        "the sick",
+        "the mentally ill"
+      ],
+      "legacy": "Mystic and advocate for souls",
+      "summary": "Saint Gertrude of Eisleben, also known as Gertrude the Great, was a 14th-century mystic and abbess known for her deep spiritual insights and devotion to the Passion of Christ. Born into a noble family, she dedicated her life to prayer and contemplation, receiving numerous mystical experiences and revelations. Her writings, particularly the book of her Revelations, continue to inspire devotion and reflection on the love of God and the salvation of souls.",
+      "image": "/images/saint_gertrude.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gertrude"
+    },
+    {
+      "name": "Edmund",
+      "feast_day": "November 16",
+      "era": "Medieval",
+      "patronage": [
+        "archbishops",
+        "teachers",
+        "students"
+      ],
+      "legacy": "Defender of Church rights and charity",
+      "summary": "Saint Edmund of Canterbury was an English archbishop known for his piety and dedication to the Church. He defended the rights of the Church against the greed of King Henry III and faced persecution for his steadfastness. Canonized shortly after his death, he is remembered for his miracles and his commitment to a life of prayer and charity.",
+      "image": "/images/saint_edmund.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Edmund_of_East_Anglia"
+    }
+  ]
+}

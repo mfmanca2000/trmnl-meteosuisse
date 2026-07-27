@@ -1,0 +1,22 @@
+{
+  "date": "12-07",
+  "feast_day": "December 7",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ambrose",
+      "feast_day": "December 7",
+      "era": "4th century",
+      "patronage": [
+        "beekeepers",
+        "candle makers",
+        "learning",
+        "the city of Milan"
+      ],
+      "legacy": "Defender of the faith and Church doctor",
+      "summary": "Ambrose was the Bishop of Milan and a Doctor of the Church, known for his theological insights and pastoral care. He played a crucial role in the conversion of Saint Augustine and was a staunch defender of the faith against heresy. His legacy includes his eloquent preaching, liturgical contributions, and his influence on the development of Christian doctrine.",
+      "image": "/images/saint_ambrose.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ambrose_of_Milan"
+    }
+  ]
+}

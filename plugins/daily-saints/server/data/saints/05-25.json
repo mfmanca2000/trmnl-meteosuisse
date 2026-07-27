@@ -1,0 +1,17 @@
+{
+  "date": "05-25",
+  "feast_day": "May 25",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregory VII",
+      "feast_day": "May 25",
+      "era": "11th century",
+      "patronage": null,
+      "legacy": "Champion of Church reform and independence",
+      "summary": "Gregory VII, originally named Hildebrand, was a pivotal Pope known for his reformative efforts within the Catholic Church during the 11th century. He staunchly opposed simony and the interference of secular rulers in ecclesiastical matters, famously excommunicating Emperor Henry IV. His papacy was marked by significant struggles for the independence of the Church, ultimately leading to his exile and death in 1085.",
+      "image": "/images/saint_gregory_vii.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+    }
+  ]
+}

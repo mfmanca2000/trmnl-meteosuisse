@@ -1,0 +1,34 @@
+{
+  "date": "01-15",
+  "feast_day": "January 15",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Paul the Hermit",
+      "feast_day": "January 15",
+      "era": "3rd century",
+      "patronage": [
+        "hermits",
+        "desert dwellers"
+      ],
+      "legacy": "The first hermit and model of solitude",
+      "summary": "Saint Paul the Hermit is recognized as the first hermit and is known for his life of solitude in the Egyptian desert. After fleeing persecution, he lived for nearly ninety years in prayer and penance, relying solely on God's providence for sustenance. His legacy is closely tied to Saint Anthony, who discovered him and shared in his spiritual life before Paul's death.",
+      "image": "/images/saint_paul_hermit.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_of_Thebes"
+    },
+    {
+      "name": "Maurus",
+      "feast_day": "January 15",
+      "era": "6th century",
+      "patronage": [
+        "monks",
+        "abbots",
+        "France"
+      ],
+      "legacy": "Model of humility and monastic dedication",
+      "summary": "Saint Maurus was a Benedictine abbot known for his deep humility and miraculous abilities. He was a disciple of Saint Benedict and played a significant role in the establishment of monastic life in France, founding the abbey of Glanfeuil. His legacy includes a strong devotion among the faithful and a lasting influence on monastic practices in the region.",
+      "image": "/images/saint_maurus_abbot.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Maurus"
+    }
+  ]
+}

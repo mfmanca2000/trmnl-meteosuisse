@@ -1,0 +1,40 @@
+{
+  "date": "01-16",
+  "feast_day": "January 16",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Marcellus",
+      "feast_day": "January 16",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Papal leadership during early Christian persecution",
+      "summary": "Saint Marcellus was the Pope during a tumultuous time for the early Church, facing severe persecution under Emperor Diocletian. He reorganized the Church's structure, establishing parishes to better serve the faithful and address the needs of the growing Christian community. Ultimately, he was martyred for his steadfast leadership and commitment to maintaining Church discipline amidst the challenges of apostasy.",
+      "image": "/images/saint_marcellus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcellus_I"
+    },
+    {
+      "name": "Stephanie Quinzani",
+      "feast_day": "January 16",
+      "era": "15th century",
+      "patronage": null,
+      "legacy": "A life of suffering and service",
+      "summary": "Blessed Stephanie Quinzani was born in 1457 in Italy and dedicated her life to God from a young age. She became a member of the Third Order of Saint Dominic, enduring great physical and spiritual suffering throughout her life. Known for her mystical experiences and works of mercy, she founded a monastery in Soncino and was beatified in 1740 due to the miracles attributed to her intercession.",
+      "image": "/images/blessed_stephanie_quinzani.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_Quinzani"
+    },
+    {
+      "name": "Honoratus",
+      "feast_day": "January 16",
+      "era": "5th century",
+      "patronage": [
+        "monks",
+        "hermits"
+      ],
+      "legacy": "Founder of the monastery of Lerins",
+      "summary": "Saint Honoratus was a prominent figure in early Christianity, known for founding the famous monastery of Lerins around the year 400. He initially lived as a hermit before being compelled to serve as Archbishop of Arles in 426. His life was marked by austerity, devotion, and a commitment to leading others in the Christian faith.",
+      "image": "/images/saint_honoratus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Honoratus_of_Arles"
+    }
+  ]
+}

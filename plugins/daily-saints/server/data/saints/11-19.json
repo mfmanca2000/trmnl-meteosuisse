@@ -1,0 +1,22 @@
+{
+  "date": "11-19",
+  "feast_day": "November 19",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Elizabeth of Hungary",
+      "feast_day": "November 19",
+      "era": "Medieval",
+      "patronage": [
+        "poor",
+        "hospital workers",
+        "nursing",
+        "bakers"
+      ],
+      "legacy": "A model of charity and humility",
+      "summary": "Elizabeth of Hungary was a princess known for her deep compassion and dedication to the poor. Despite her royal status, she chose a life of service, building hospitals and caring for the sick. After the death of her husband, she faced great adversity but continued to live a life of humility and charity until her death at a young age.",
+      "image": "/images/saint_elizabeth_of_hungary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary"
+    }
+  ]
+}

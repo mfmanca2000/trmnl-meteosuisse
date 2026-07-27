@@ -1,0 +1,21 @@
+{
+  "date": "07-09",
+  "feast_day": "July 9",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Maria Goretti",
+      "feast_day": "July 9",
+      "era": "20th century",
+      "patronage": [
+        "young women",
+        "purity",
+        "victims of rape"
+      ],
+      "legacy": "Patroness of purity and forgiveness",
+      "summary": "Saint Maria Goretti was an Italian virgin and martyr who died at the age of eleven after refusing to submit to an assault. Her forgiveness of her attacker before her death and her subsequent canonization highlight her profound faith and purity. She is celebrated as a symbol of chastity and forgiveness in the Catholic Church.",
+      "image": "/images/saint_maria_goretti.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maria_Goretti"
+    }
+  ]
+}

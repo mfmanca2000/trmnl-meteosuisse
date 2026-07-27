@@ -1,0 +1,27 @@
+{
+  "date": "03-05",
+  "feast_day": "March 5",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Joseph of the Cross",
+      "feast_day": "March 5",
+      "era": "18th century",
+      "patronage": null,
+      "legacy": "Model of humility and monastic fervor",
+      "summary": "John Joseph of the Cross was a Franciscan priest and confessor known for his deep spirituality and commitment to monastic life. He founded several monasteries in Italy and was recognized for his humility, discipline, and supernatural gifts, including prophecy and miracles. Canonized in 1839, he is remembered for his dedication to the principles of contemplation and penance within the Franciscan Order.",
+      "image": "/images/saint_john_joseph_of_the_cross.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Joseph_of_the_Cross"
+    },
+    {
+      "name": "Adrian and Eubulus",
+      "feast_day": "March 5",
+      "era": "Early 4th century",
+      "patronage": null,
+      "legacy": "Martyrs of steadfast faith and courage",
+      "summary": "Saints Adrian and Eubulus were martyrs who suffered during the persecution of Christians under Emperor Diocletian. They were tortured and ultimately killed for refusing to renounce their faith and sacrifice to idols. Their steadfastness in the face of persecution exemplifies the Christian call to bear one's cross and remain faithful to Christ.",
+      "image": "/images/saints_adrian_and_eubulus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Adrian_of_Batanea"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "02-29",
+  "feast_day": "February 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Oswald",
+      "feast_day": "February 29",
+      "era": "10th century",
+      "patronage": [
+        "England",
+        "archbishops",
+        "healers"
+      ],
+      "legacy": "Reviver of monastic life in England",
+      "summary": "Oswald was an influential Archbishop of York in the 10th century, known for his commitment to reforming the clergy and promoting monastic life. He founded seven religious houses and worked tirelessly to restore discipline among the secular canons. His legacy includes a significant monastic revival in England and a reputation for piety, culminating in his death while serving the poor.",
+      "image": "/images/saint_oswald.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Oswald_of_Worcester"
+    }
+  ]
+}

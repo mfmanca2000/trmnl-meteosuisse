@@ -1,0 +1,31 @@
+{
+  "date": "12-20",
+  "feast_day": "December 20",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Dominic of Silos",
+      "feast_day": "December 20",
+      "era": "11th century",
+      "patronage": [
+        "prisoners",
+        "captives",
+        "the Order of Our Lady of Ransom"
+      ],
+      "legacy": "Restorer of the monastic life",
+      "summary": "Saint Dominic of Silos was an 11th-century Benedictine abbot known for his deep spirituality and commitment to restoring his monastery. He was renowned for his miraculous healings and charitable acts, particularly towards those suffering and the captives held by the Moors. His legacy includes the inspiration for the Order of Our Lady of Ransom, which was founded to aid Christians in captivity.",
+      "image": "/images/saint_dominic_of_silos.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_of_Silos"
+    },
+    {
+      "name": "Philogonius",
+      "feast_day": "December 20",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Defender of the faith and integrity",
+      "summary": "Saint Philogonius was a Bishop of Antioch in the early 4th century, known for his eloquence and integrity. He played a significant role in defending the Catholic faith during the Council of Nicaea against the Arian heresy. His steadfastness in the face of persecution earned him the title of Confessor, and he is remembered for his deep commitment to the Church and its teachings.",
+      "image": "/images/saint_philogonius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philogonius_of_Antioch"
+    }
+  ]
+}

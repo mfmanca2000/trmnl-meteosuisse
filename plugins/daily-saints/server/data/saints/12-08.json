@@ -1,0 +1,22 @@
+{
+  "date": "12-08",
+  "feast_day": "December 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "December 8",
+      "era": "Ancient",
+      "patronage": [
+        "Catholic Church",
+        "pregnant women",
+        "children",
+        "the United States"
+      ],
+      "legacy": "Mother of God and model of purity",
+      "summary": "The Immaculate Conception refers to the belief that Mary, the mother of Jesus, was conceived without original sin. This dogma was formally declared by Pope Pius IX in 1854, affirming her purity and special role in salvation history. The feast day is celebrated on December 8, honoring her as a model of holiness and grace.",
+      "image": "/images/the_immaculate_conception.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Immaculate_Conception"
+    }
+  ]
+}

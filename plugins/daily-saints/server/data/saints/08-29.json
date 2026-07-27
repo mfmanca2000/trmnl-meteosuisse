@@ -1,0 +1,21 @@
+{
+  "date": "08-29",
+  "feast_day": "August 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John the Baptist",
+      "feast_day": "August 29",
+      "era": "1st century",
+      "patronage": [
+        "baptism",
+        "conversions",
+        "painters"
+      ],
+      "legacy": "Forerunner of Christ and martyr",
+      "summary": "John the Baptist is recognized as the precursor to Jesus Christ, heralding His coming and calling for repentance. He led an austere life in the wilderness, emphasizing the need for spiritual purification through baptism. His bold condemnation of Herod's immoral actions ultimately led to his martyrdom by beheading.",
+      "image": "/images/the_beheading_of_saint_john_the_baptist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Baptist"
+    }
+  ]
+}

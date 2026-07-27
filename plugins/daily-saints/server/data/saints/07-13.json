@@ -1,0 +1,27 @@
+{
+  "date": "07-13",
+  "feast_day": "July 13",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Anacletus",
+      "feast_day": "July 13",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "Early Church leader and martyr",
+      "summary": "Saint Anacletus was the second pope and martyr, succeeding Saint Cletus around the year 83. He played a crucial role in the early Church by consecrating six bishops and establishing important ordinances for the consecration of bishops. Anacletus was known for his dedication to the faithful during a time of intense persecution under Emperor Domitian and was buried in the Vatican after his death on July 13, 96.",
+      "image": "/images/saint_anacletus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anacletus"
+    },
+    {
+      "name": "Eugenius",
+      "feast_day": "July 13",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "A steadfast leader during persecution",
+      "summary": "Eugenius was a bishop of Carthage who served during a time of intense persecution against Catholics under the Vandal kings. He was known for his piety, learning, and commitment to the poor, often sacrificing his own comforts to aid those in need. After enduring exile and hardship, he died in a monastery in France, where many miracles were reported at his tomb.",
+      "image": "/images/saint_eugenius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eugenius_of_Carthage"
+    }
+  ]
+}

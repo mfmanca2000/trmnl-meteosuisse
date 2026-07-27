@@ -1,0 +1,41 @@
+{
+  "date": "12-24",
+  "feast_day": "December 24",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Charbel Makhlouf",
+      "feast_day": "December 24",
+      "era": "19th century",
+      "patronage": [
+        "healers",
+        "the sick",
+        "Lebanon"
+      ],
+      "legacy": "A model of prayer and healing",
+      "summary": "Charbel Makhlouf was a Maronite priest and hermit from Lebanon known for his deep spirituality and miraculous healings. He lived a life of extreme asceticism, dedicating himself to prayer and solitude in a hermitage for over two decades. After his death, numerous miracles attributed to him have drawn many pilgrims to his tomb, solidifying his legacy as a powerful intercessor.",
+      "image": "/images/saint_charbel_makhlouf.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charbel_Makhlouf"
+    },
+    {
+      "name": "Tarsilla and Emiliana",
+      "feast_day": "December 24",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "Models of virginity and spiritual perseverance",
+      "summary": "Tarsilla and Emiliana were two sisters and aunts of Saint Gregory the Great who dedicated their lives to God through virginity. They lived together in a spiritual community, encouraging each other in virtue while mourning their sister Gordiana's return to worldly ways. Their lives exemplify the importance of perseverance in faith and the call to a deeper spiritual life.",
+      "image": "/images/saints_tarsilla_and_emiliana.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Trasilla_and_Emiliana"
+    },
+    {
+      "name": "Delphinus",
+      "feast_day": "December 24",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Defender of truth and orthodoxy",
+      "summary": "Saint Delphinus was a Bishop of Bordeaux known for his strong defense of orthodox Christian teachings during the early Church. He played a significant role in condemning heretical movements, particularly at the Council of Saragossa in 380. His influence extended to notable figures such as Saint Paulinus, whom he baptized and inspired towards a life of holiness.",
+      "image": "/images/saint_delphinus.jpg",
+      "wikipedia": null
+    }
+  ]
+}

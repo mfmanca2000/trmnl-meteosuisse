@@ -1,0 +1,31 @@
+{
+  "date": "01-13",
+  "feast_day": "January 13",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Jesus",
+      "feast_day": "January 13",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "Initiation of Christ's public ministry",
+      "summary": "The Baptism of Jesus by John the Baptist marks the beginning of His public ministry and is a significant event in Christian theology. During this event, Jesus is anointed by the Holy Spirit, symbolizing His divine mission as the Messiah. This act represents the vicarious nature of His sacrifice, as He takes on the sins of the world and opens the path to salvation for humanity.",
+      "image": "/images/the_baptism_of_our_lord.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Baptism_of_Jesus"
+    },
+    {
+      "name": "Veronica of Milan",
+      "feast_day": "January 13",
+      "era": "15th century",
+      "patronage": [
+        "the sick",
+        "painters",
+        "spirituality"
+      ],
+      "legacy": "A model of humility and devotion",
+      "summary": "Saint Veronica of Milan was a devoted virgin and lay-sister known for her deep spirituality and commitment to her religious duties. Despite her physical sufferings, she dedicated her life to serving her community and praying for others. Her life was marked by visions and ecstasies, reflecting her profound connection to the Passion of Christ.",
+      "image": "/images/saint_veronica_of_milan.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Veronica_of_Milan"
+    }
+  ]
+}

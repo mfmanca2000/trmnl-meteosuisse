@@ -1,0 +1,31 @@
+{
+  "date": "01-20",
+  "feast_day": "January 20",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Sebastian",
+      "feast_day": "January 20",
+      "era": "3rd century",
+      "patronage": [
+        "soldiers",
+        "athletes",
+        "plague victims"
+      ],
+      "legacy": "Champion of faith and martyrdom",
+      "summary": "Saint Sebastian was a Roman officer and martyr who is revered for his unwavering faith in Christ. He encouraged fellow Christians during a time of persecution and was known for performing miracles, including healing the sick. Ultimately, he was martyred twice, first by arrows and then by being beaten to death, solidifying his legacy as a champion of the faith.",
+      "image": "/images/saint_sebastian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sebastian"
+    },
+    {
+      "name": "Fabian",
+      "feast_day": "January 20",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrdom and leadership in the early Church",
+      "summary": "Saint Fabian was a Pope and martyr who led the Church during a tumultuous period in the 3rd century. He was elected pope in 236 AD, reportedly chosen by a miraculous sign when a dove landed on his head. Fabian died a martyr during the persecution of Christians under Emperor Decius in 250 AD, remembered for his holiness and leadership.",
+      "image": "/images/saint_fabian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Fabian"
+    }
+  ]
+}

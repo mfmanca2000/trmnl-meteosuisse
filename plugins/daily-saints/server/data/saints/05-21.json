@@ -1,0 +1,31 @@
+{
+  "date": "05-21",
+  "feast_day": "May 21",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Andrew Bobola",
+      "feast_day": "May 21",
+      "era": "17th century",
+      "patronage": [
+        "Poland",
+        "Jesuits",
+        "victims of religious persecution"
+      ],
+      "legacy": "Martyrdom for faith and evangelization",
+      "summary": "Andrew Bobola was a Polish Jesuit priest and martyr known for his dedicated missionary work in Lithuania during a time of great turmoil. He faced brutal persecution for his faith, ultimately leading to his martyrdom in 1657. His legacy is celebrated for his unwavering commitment to evangelization and his compassion for the suffering.",
+      "image": "/images/saint_andrew_bobola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bobola"
+    },
+    {
+      "name": "Hospitius",
+      "feast_day": "May 21",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "A model of asceticism and prophecy",
+      "summary": "Saint Hospitius was a recluse who lived in a tower near Nice in Provence during the 6th century. He practiced extreme asceticism, surviving on minimal food and dedicating his life to prayer and prophecy. Known for his miraculous gifts, he foretold the invasion of the Lombards and converted a soldier who attempted to harm him.",
+      "image": "/images/saint_hospitius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Hospitius"
+    }
+  ]
+}

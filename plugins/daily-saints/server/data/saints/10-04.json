@@ -1,0 +1,22 @@
+{
+  "date": "10-04",
+  "feast_day": "October 4",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francis of Assisi",
+      "feast_day": "October 4",
+      "era": "Medieval",
+      "patronage": [
+        "animals",
+        "environment",
+        "merchants",
+        "ecology"
+      ],
+      "legacy": "Patron saint of animals and ecology.",
+      "summary": "Francis of Assisi was a 13th-century Italian saint known for his profound love of nature and commitment to poverty. He founded the Franciscan Order, emphasizing a life of simplicity and service to the poor. His legacy includes the promotion of peace and the care for creation, making him a beloved figure in Christianity and beyond.",
+      "image": "/images/saint_francis_of_assisi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    }
+  ]
+}

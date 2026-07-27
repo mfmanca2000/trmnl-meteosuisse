@@ -1,0 +1,22 @@
+{
+  "date": "02-14",
+  "feast_day": "February 14",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Valentine",
+      "feast_day": "February 14",
+      "era": "3rd century",
+      "patronage": [
+        "lovers",
+        "beekeepers",
+        "epileptics",
+        "greeting card manufacturers"
+      ],
+      "legacy": "Patron saint of love and affection",
+      "summary": "Valentine was a priest in Rome who became a martyr during the persecution under Emperor Claudius II around the year 268. Known for his courage, he openly preached the Christian faith and performed miracles, including restoring sight to a blind girl. His legacy as a symbol of love and devotion has led to his celebration on February 14, which is now widely recognized as Valentine's Day.",
+      "image": "/images/saint_valentine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Valentine_of_Rome"
+    }
+  ]
+}

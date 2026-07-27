@@ -1,0 +1,22 @@
+{
+  "date": "11-22",
+  "feast_day": "November 22",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cecilia",
+      "feast_day": "November 22",
+      "era": "2nd century",
+      "patronage": [
+        "musicians",
+        "poets",
+        "church music",
+        "composers"
+      ],
+      "legacy": "Patroness of musicians and martyrs.",
+      "summary": "Saint Cecilia is revered as a virgin martyr who lived during the early Christian era. She is known for her unwavering faith and commitment to her vow of virginity, even in the face of persecution. Her legacy endures as the patroness of musicians, reflecting her association with music and the arts.",
+      "image": "/images/saint_cecilia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cecilia"
+    }
+  ]
+}

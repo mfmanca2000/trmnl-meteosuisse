@@ -1,0 +1,17 @@
+{
+  "date": "09-14",
+  "feast_day": "September 14",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Exaltation of the Holy Cross",
+      "feast_day": "September 14",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "Celebration of the triumph of the Cross",
+      "summary": "The Exaltation of the Holy Cross commemorates the recovery of the True Cross by Emperor Heraclius in 628 AD after it had been taken by the Persians. This event symbolizes the triumph of Christianity over paganism and the importance of the Cross in the faith. The feast serves as a reminder of the significance of the Cross in the lives of believers and the miracles associated with it.",
+      "image": "/images/the_exaltation_of_the_holy_cross_of_our_lord_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Exaltation_of_the_Holy_Cross"
+    }
+  ]
+}

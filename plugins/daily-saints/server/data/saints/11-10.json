@@ -1,0 +1,20 @@
+{
+  "date": "11-10",
+  "feast_day": "November 10",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Andrew Avellino",
+      "feast_day": "November 10",
+      "era": "16th century",
+      "patronage": [
+        "protection from sudden death",
+        "lawyers"
+      ],
+      "legacy": "Protector against sudden and unprovided death",
+      "summary": "Andrew Avellino was a Theatine priest known for his dedication to reforming a community of nuns in Naples. Despite facing violent opposition, he remained committed to his mission and was recognized for his holiness and humility. He is remembered for his deep spirituality and his ability to inspire others, particularly through his friendship with Saint Charles Borromeo.",
+      "image": "/images/saint_andrew_avellino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Avellino"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "04-14",
+  "feast_day": "April 14",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Lydwina of Schiedam",
+      "feast_day": "April 14",
+      "era": "15th century",
+      "patronage": null,
+      "legacy": "Virgin",
+      "summary": "Saint Lydwina was born in Holland of virtuous but poor parents, the only daughter among nine children. Her name means suffer in plenitude , and indeed her entire life was nothing but a continuous suffering. Even in the cradle a grievous illness afflicted her.",
+      "image": "/images/saint_lydwina_of_schiedam.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Benezet",
+      "feast_day": "April 14",
+      "era": "12th century",
+      "patronage": [
+        "bridge builders",
+        "travelers"
+      ],
+      "legacy": "Patron of bridge builders and travelers",
+      "summary": "Saint Benezet was a young boy who, inspired by God, undertook the monumental task of building a bridge over the Rhone River at Avignon to prevent drowning deaths. He began the construction in 1177 and directed the work until his death in 1184, during which many miracles were reported. His body was buried on the bridge, which became a site of veneration and miracles for centuries.",
+      "image": "/images/saint_benezet.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9zet"
+    },
+    {
+      "name": "Justin of Naplouse",
+      "feast_day": "April 14",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Martyr",
+      "summary": "Saint Justin was born in about the year 103 of pagan parents at Neapolis or Sichem in Samaria, site of Jacob's well. He was well educated and applied himself in particular to the study of philosophy, always with one object — that he might come to know God. He sought this knowledge among the contending schools of philosophy, but in vain; and finally God appeased the thirst He Himself had created.",
+      "image": "/images/saint_justin_martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

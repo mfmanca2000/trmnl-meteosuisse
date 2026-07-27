@@ -1,0 +1,32 @@
+{
+  "date": "12-25",
+  "feast_day": "December 25",
+  "count": 2,
+  "saints": [
+    {
+      "name": "The Nativity of Our Lord Jesus Christ",
+      "feast_day": "December 25",
+      "era": null,
+      "patronage": null,
+      "legacy": null,
+      "summary": "The Nativity of Our Lord O. pinxit The Nativity of Our Lord Noel! This was the cry of our fathers when the Faith prevailed, ardent and lively in the bosom of families, institutions, and all of society.",
+      "image": "/images/the_nativity_of_our_lord.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Francis of Assisi",
+      "feast_day": "December 25",
+      "era": "Medieval",
+      "patronage": [
+        "animals",
+        "environment",
+        "merchants",
+        "peace"
+      ],
+      "legacy": "Patron saint of animals and ecology",
+      "summary": "Francis of Assisi was a 13th-century Italian friar and founder of the Franciscan Order, known for his deep love of nature and commitment to poverty. He is celebrated for creating the first live nativity scene in Greccio, which emphasized the humility of Christ's birth. His teachings and example continue to inspire millions to live a life of peace, compassion, and service to others.",
+      "image": "/images/christmas-of-saint-francis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "01-25",
+  "feast_day": "January 25",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paul",
+      "feast_day": "January 25",
+      "era": "1st century",
+      "patronage": [
+        "missionaries",
+        "theologians",
+        "gentlemen"
+      ],
+      "legacy": "Apostle to the Gentiles and theologian",
+      "summary": "Paul, originally known as Saul of Tarsus, was a fervent persecutor of early Christians before experiencing a profound conversion on the road to Damascus. After this transformative encounter with Jesus, he became one of the most influential apostles, spreading the message of Christianity throughout the Roman Empire. His letters to various Christian communities form a significant part of the New Testament, shaping Christian theology and practice.",
+      "image": "/images/the_conversion_of_saint_paul.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paul_the_Apostle"
+    }
+  ]
+}

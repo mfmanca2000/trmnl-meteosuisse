@@ -1,0 +1,21 @@
+{
+  "date": "05-20",
+  "feast_day": "May 20",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bernardine of Siena",
+      "feast_day": "May 20",
+      "era": "15th century",
+      "patronage": [
+        "advertisers",
+        "public relations",
+        "hospitality"
+      ],
+      "legacy": "A champion of the Holy Name of Jesus",
+      "summary": "Saint Bernardine of Siena was a Franciscan missionary and preacher known for his powerful oratory and devotion to the Holy Name of Jesus. Despite facing challenges, including a speech defect and accusations of heresy, he successfully reformed much of Italy through his sermons and miraculous works. He was canonized in 1450, and his legacy continues through the Feast of the Holy Name of Jesus, which he promoted.",
+      "image": "/images/saint_bernardine_of_siena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernardino_of_Siena"
+    }
+  ]
+}

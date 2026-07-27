@@ -1,0 +1,21 @@
+{
+  "date": "10-31",
+  "feast_day": "October 31",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Quentin",
+      "feast_day": "October 31",
+      "era": "3rd century",
+      "patronage": [
+        "brewers",
+        "plumbers",
+        "painters"
+      ],
+      "legacy": "Martyrdom and miracles in Gaul",
+      "summary": "Saint Quentin was a Roman martyr who evangelized in Gaul during the 3rd century. He was known for his miraculous healings and steadfast faith, which ultimately led to his brutal martyrdom under the Roman prosecutor Rictiovarus. His legacy endures in France, where many churches and places are dedicated to him, and he is venerated as a protector of the faithful.",
+      "image": "/images/saint_quentin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Quentin"
+    }
+  ]
+}

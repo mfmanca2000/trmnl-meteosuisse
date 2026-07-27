@@ -1,0 +1,21 @@
+{
+  "date": "06-29",
+  "feast_day": "June 29",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Peter",
+      "feast_day": "June 29",
+      "era": "1st century",
+      "patronage": [
+        "fishermen",
+        "net makers",
+        "shipbuilders"
+      ],
+      "legacy": "First Pope and leader of the apostles",
+      "summary": "Saint Peter, one of the twelve apostles, is recognized as the first Pope and the 'Rock' upon which Christ built His Church. He played a pivotal role in the early Christian community, preaching the Gospel and establishing the Church in Rome. His martyrdom by crucifixion under Emperor Nero solidified his legacy as a foundational figure in Christianity.",
+      "image": "/images/saint_peter_apostle.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_the_Apostle"
+    }
+  ]
+}

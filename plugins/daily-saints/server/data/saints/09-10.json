@@ -1,0 +1,21 @@
+{
+  "date": "09-10",
+  "feast_day": "September 10",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nicholas of Tolentino",
+      "feast_day": "September 10",
+      "era": "Medieval",
+      "patronage": [
+        "Universal Church",
+        "souls in purgatory",
+        "the dying"
+      ],
+      "legacy": "Patron of the Universal Church and souls",
+      "summary": "Nicholas of Tolentino was a 13th-century confessor known for his deep spirituality and dedication to the service of God. He was renowned for his miracles, including resurrecting children and his profound charity towards the souls in purgatory. Canonized in 1446, he is recognized as a Patron of the Universal Church and continues to inspire devotion among the faithful.",
+      "image": "/images/saint_nicholas_of_tolentino.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_of_Tolentino"
+    }
+  ]
+}

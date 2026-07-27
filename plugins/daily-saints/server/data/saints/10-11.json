@@ -1,0 +1,32 @@
+{
+  "date": "10-11",
+  "feast_day": "October 11",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "October 11",
+      "era": "1st century",
+      "patronage": [
+        "mothers",
+        "pregnant women",
+        "the sick",
+        "lost causes"
+      ],
+      "legacy": "Mother of God and intercessor for all",
+      "summary": "Mary, the Mother of Jesus, is revered in Christianity as the Theotokos, or God-bearer, due to her role in the Incarnation. Her acceptance of God's will and her unique grace make her a central figure in the faith, symbolizing purity and maternal love. Mary is often invoked as an intercessor and is seen as a model for all believers in their relationship with God.",
+      "image": "/images/the_divine_maternity_of_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    },
+    {
+      "name": "Tarachus",
+      "feast_day": "October 11",
+      "era": "Early 4th century",
+      "patronage": null,
+      "legacy": "Courageous martyrs of the early Church",
+      "summary": "Saint Tarachus was a martyr who, along with his companions Probus and Andronicus, suffered persecution during the reign of Emperor Diocletian in the year 304. They were known for their unwavering faith and courage in the face of brutal torture and execution. Their acts of martyrdom are recorded as significant contributions to early Christian history, showcasing their steadfast commitment to God despite immense suffering.",
+      "image": "/images/saint_tarachus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tarachus,_Probus,_and_Andronicus"
+    }
+  ]
+}

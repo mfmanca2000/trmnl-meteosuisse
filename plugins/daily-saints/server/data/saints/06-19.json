@@ -1,0 +1,20 @@
+{
+  "date": "06-19",
+  "feast_day": "June 19",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Juliana Falconieri",
+      "feast_day": "June 19",
+      "era": "Medieval",
+      "patronage": [
+        "sick people",
+        "those suffering from stomach ailments"
+      ],
+      "legacy": "Devotion and charity in service to others.",
+      "summary": "Juliana Falconieri was a 14th-century virgin and the foundress of the Mantellate, a branch of the Servite Order. Known for her deep devotion and modesty, she dedicated her life to serving others and leading a life of apostolic charity. Her death was marked by a miraculous sign, with the form of the Blessed Sacrament appearing on her heart.",
+      "image": "/images/saint_juliana_falconieri.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Juliana_Falconieri"
+    }
+  ]
+}

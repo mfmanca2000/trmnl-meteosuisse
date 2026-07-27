@@ -1,0 +1,31 @@
+{
+  "date": "12-22",
+  "feast_day": "December 22",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Frances Xavier Cabrini",
+      "feast_day": "December 22",
+      "era": "Modern",
+      "patronage": [
+        "immigrants",
+        "hospitality",
+        "orphanages"
+      ],
+      "legacy": "Champion of immigrants and education",
+      "summary": "Frances Xavier Cabrini was an Italian-American nun and the founder of the Missionary Sisters of the Sacred Heart. She dedicated her life to serving immigrants in the United States and established numerous schools, hospitals, and charitable institutions. Canonized in 1946, she is recognized as the first naturalized citizen of the United States to be canonized as a saint.",
+      "image": "/images/saint_frances_xavier_cabrini.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini"
+    },
+    {
+      "name": "Ischyrion",
+      "feast_day": "December 22",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrdom for unwavering faith",
+      "summary": "Saint Ischyrion was a martyr in Alexandria who refused to sacrifice to idols under the command of his magistrate. His steadfastness in faith led to his brutal execution by being impaled. He is remembered for his patient constancy and commitment to Christian virtue despite facing severe persecution.",
+      "image": "/images/saint_ischyrion.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Ischyrion"
+    }
+  ]
+}

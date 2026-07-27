@@ -1,0 +1,22 @@
+{
+  "date": "09-08",
+  "feast_day": "September 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "September 8",
+      "era": "1st century",
+      "patronage": [
+        "mothers",
+        "pregnant women",
+        "loss of parents",
+        "the sick"
+      ],
+      "legacy": "Mother of God and intercessor for all",
+      "summary": "Mary is revered as the mother of Jesus Christ and holds a central place in Christian theology. She is celebrated for her purity and obedience to God's will, being conceived without original sin. The Nativity of the Blessed Virgin Mary is commemorated as a significant event in the Christian calendar, marking her birth and the beginning of the path to salvation.",
+      "image": "/images/the_nativity_of_the_blessed_virgin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

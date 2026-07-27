@@ -1,0 +1,31 @@
+{
+  "date": "09-23",
+  "feast_day": "September 23",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Linus",
+      "feast_day": "September 23",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "Second Pope and early Christian martyr",
+      "summary": "Saint Linus was a Pope and martyr who served as the second Pope of the Catholic Church after Saint Peter. Originally from Volterra in Tuscany, he was known for his zeal in preaching and converting idolaters, particularly in Gaul. He was martyred for his faith and is buried near Saint Peter in the Vatican.",
+      "image": "/images/saint_linus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Linus"
+    },
+    {
+      "name": "Thecla",
+      "feast_day": "September 23",
+      "era": "1st century",
+      "patronage": [
+        "virgins",
+        "theologians",
+        "protection against sexual temptation"
+      ],
+      "legacy": "Patroness of virgins and early martyrs",
+      "summary": "Saint Thecla is recognized as one of the earliest Christian martyrs and is celebrated for her unwavering commitment to virginity and faith. After hearing the teachings of Saint Paul, she rejected her earthly marriage and chose to follow him, enduring severe persecutions for her beliefs. Her legendary trials included surviving wild beasts and fire, ultimately leading to her martyrdom and recognition as a symbol of purity and devotion.",
+      "image": "/images/saint_thecla.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thecla"
+    }
+  ]
+}

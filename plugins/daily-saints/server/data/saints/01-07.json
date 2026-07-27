@@ -1,0 +1,17 @@
+{
+  "date": "01-07",
+  "feast_day": "January 7",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Lucian",
+      "feast_day": "January 7",
+      "era": "Early 4th century",
+      "patronage": null,
+      "legacy": "Defender of Scripture and Christian faith",
+      "summary": "Saint Lucian was a priest and martyr from Samosata in Syria, known for his dedication to studying and revising the Scriptures. He translated the Hebrew Bible into Greek, which greatly influenced later biblical translations, including the Vulgate by Saint Jerome. Lucian was imprisoned and tortured for his faith during the persecution of Maximin, ultimately dying as a martyr while affirming his Christian identity.",
+      "image": "/images/saint_lucian_the_syrian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lucian_of_Samosata"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "01-21",
+  "feast_day": "January 21",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Agnes",
+      "feast_day": "January 21",
+      "era": "4th century",
+      "patronage": [
+        "virgins",
+        "young girls",
+        "rape victims"
+      ],
+      "legacy": "Symbol of purity and steadfast faith",
+      "summary": "Saint Agnes was a young Christian martyr who lived in Rome during the early 4th century. At just twelve years old, she refused to renounce her faith in Christ, enduring torture and ultimately death rather than submit to pagan practices. Her unwavering faith and purity have made her a beloved figure in the Catholic Church, symbolizing innocence and courage in the face of persecution.",
+      "image": "/images/saint_agnes.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Agnes_of_Rome"
+    }
+  ]
+}

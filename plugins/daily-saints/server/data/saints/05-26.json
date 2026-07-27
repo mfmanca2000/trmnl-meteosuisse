@@ -1,0 +1,21 @@
+{
+  "date": "05-26",
+  "feast_day": "May 26",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Philip Neri",
+      "feast_day": "May 26",
+      "era": "16th century",
+      "patronage": [
+        "youth",
+        "joy",
+        "clergy"
+      ],
+      "legacy": "Apostle of Rome and patron of youth",
+      "summary": "Philip Neri was a 16th-century priest known for his joyful spirit and dedication to the youth of Rome. He founded the Oratory, a society of priests focused on spiritual education and pastoral care. Renowned for his piety and instances of bilocation, he became a beloved figure in the Catholic Church, emphasizing the importance of serving God with gladness.",
+      "image": "/images/saint_philip_neri.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philip_Neri"
+    }
+  ]
+}

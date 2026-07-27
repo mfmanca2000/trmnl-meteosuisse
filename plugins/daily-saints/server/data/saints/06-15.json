@@ -1,0 +1,37 @@
+{
+  "date": "06-15",
+  "feast_day": "June 15",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Germaine Cousin",
+      "feast_day": "June 15",
+      "era": "Early Modern",
+      "patronage": [
+        "sick people",
+        "shepherds",
+        "abused children"
+      ],
+      "legacy": "A symbol of faith and resilience",
+      "summary": "Germaine Cousin was a French virgin saint born in 1579, known for her deep faith despite enduring severe hardships and illness throughout her life. She worked as a shepherdess and was often mistreated by her stepmother, yet she remained devoted to God and inspired those around her with her kindness. After her death in 1601, her body was found incorrupt, leading to her canonization in 1867 and making her a beloved figure among pilgrims in Pibrac, France.",
+      "image": "/images/saint_germaine_cousin.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germaine_Cousin"
+    },
+    {
+      "name": "Vitus",
+      "feast_day": "June 15",
+      "era": "4th century",
+      "patronage": [
+        "dancers",
+        "actors",
+        "comedians",
+        "children",
+        "horses"
+      ],
+      "legacy": "Patron of dancers and actors",
+      "summary": "Saint Vitus was a young Christian martyr who lived during the early 4th century. He is known for his unwavering faith in the face of persecution, famously refusing to renounce his beliefs despite severe torture. Along with his companions Modestus and Crescentia, he is celebrated for his miraculous deeds and steadfast devotion to God.",
+      "image": "/images/saints_vitus_modestus_and_crescentia.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vitus"
+    }
+  ]
+}

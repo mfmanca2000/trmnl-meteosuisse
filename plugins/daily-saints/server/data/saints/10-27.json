@@ -1,0 +1,20 @@
+{
+  "date": "10-27",
+  "feast_day": "October 27",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Frumentius",
+      "feast_day": "October 27",
+      "era": "4th century",
+      "patronage": [
+        "Ethiopia",
+        "missionaries"
+      ],
+      "legacy": "Apostle of Ethiopia and early Christian leader",
+      "summary": "Saint Frumentius was a child taken to Ethiopia with his brother Edesius after their ship was attacked. He became a trusted advisor to the Ethiopian king and later was consecrated as the first bishop of Ethiopia by Saint Athanasius. Through his efforts, he successfully spread Christianity throughout the nation, fulfilling a prophecy from Isaiah.",
+      "image": "/images/saint_frumentius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Frumentius"
+    }
+  ]
+}

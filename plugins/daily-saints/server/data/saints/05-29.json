@@ -1,0 +1,27 @@
+{
+  "date": "05-29",
+  "feast_day": "May 29",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary Magdalene of Pazzi",
+      "feast_day": "May 29",
+      "era": "17th century",
+      "patronage": null,
+      "legacy": "Carmelite",
+      "summary": "Saint Mary Magdalene of Pazzi was the only daughter of the illustrious Camille de Pazzi, related to the Medicis of Florence. She was born in the year 1566, and was baptized with the name of Catherine. As a child she loved to go into solitary places to enter into prayer with God, who revealed Himself to her from her tender years without the aid of teachers, as her Creator, Redeemer and Sanctifier.",
+      "image": "/images/saint_mary_magdalene_of_pazzi.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Cyril",
+      "feast_day": "May 29",
+      "era": null,
+      "patronage": null,
+      "legacy": "Child Martyr",
+      "summary": "while still a boy at Caesarea in Cappadocia, suffered during the persecutions of the third century. He had been secretly instructed in Christianity and would repeat the name of Christ at all times, confessing that the mere utterance of this Name was beneficial. For this, his pagan father, plunged in the superstitions of paganism, made him suffer all kinds of bad treatment.",
+      "image": "/images/saint_cyril_boy-martyr.jpg",
+      "wikipedia": null
+    }
+  ]
+}

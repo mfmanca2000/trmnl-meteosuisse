@@ -1,0 +1,21 @@
+{
+  "date": "07-08",
+  "feast_day": "July 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Elizabeth of Portugal",
+      "feast_day": "July 8",
+      "era": "Medieval",
+      "patronage": [
+        "peace",
+        "charitable works",
+        "difficult marriages"
+      ],
+      "legacy": "A model of charity and peace-making",
+      "summary": "Elizabeth of Portugal was born in 1271 and became the queen consort of King Dennis of Portugal. Known for her deep faith and charitable works, she dedicated her life to serving the poor and mediating peace within her family. After her husband's death, she embraced a life of austerity and devotion, ultimately being recognized as a saint for her virtuous life.",
+      "image": "/images/saint_elizabeth_of_portugal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal"
+    }
+  ]
+}

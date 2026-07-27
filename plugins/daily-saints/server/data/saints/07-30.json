@@ -1,0 +1,31 @@
+{
+  "date": "07-30",
+  "feast_day": "July 30",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Abdon and Sennen",
+      "feast_day": "July 30",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrs of unwavering faith and courage",
+      "summary": "Saints Abdon and Sennen were Persian dignitaries who secretly embraced Christianity during the reign of Emperor Decius. They were martyred for their faith after refusing to sacrifice to pagan gods, demonstrating unwavering devotion to Christ. Their remains were later discovered and honored in the catacombs, symbolizing their enduring legacy as witnesses to the faith.",
+      "image": "/images/saints_abdon_and_sennen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Abdon_and_Sennen"
+    },
+    {
+      "name": "Germanus of Auxerre",
+      "feast_day": "July 30",
+      "era": "5th century",
+      "patronage": [
+        "England",
+        "against heresy",
+        "teachers"
+      ],
+      "legacy": "Defender of faith and educator in Britain",
+      "summary": "Germanus of Auxerre was a 5th-century bishop known for his strong opposition to the Pelagian heresy in Britain. After being consecrated bishop, he dedicated his life to penance and performing miracles, attracting many to seek his help. He also established schools in Britain, contributing significantly to the education and spiritual formation of the people.",
+      "image": "/images/saint_germanus_of_auxerre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Germanus_of_Auxerre"
+    }
+  ]
+}

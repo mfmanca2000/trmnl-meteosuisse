@@ -1,0 +1,35 @@
+{
+  "date": "08-08",
+  "feast_day": "August 8",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cyriacus",
+      "feast_day": "August 8",
+      "era": "Early 4th century",
+      "patronage": [
+        "exorcists",
+        "healers",
+        "the possessed"
+      ],
+      "legacy": "Patron of exorcists and healers",
+      "summary": "Saint Cyriacus was a deacon in Rome who dedicated his life to helping the poor and imprisoned Christians during the reign of Emperor Diocletian. He is known for performing miraculous healings, including exorcising demons from the emperor's daughter and the daughter of the king of Persia, leading to many conversions. Ultimately, he was martyred for his faith along with his companions, refusing to profit from the gifts of God he shared with others.",
+      "image": "/images/saint_cyriacus_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyriacus"
+    },
+    {
+      "name": "Peter Favre",
+      "feast_day": "August 8",
+      "era": "16th century",
+      "patronage": [
+        "students",
+        "teachers",
+        "Jesuits"
+      ],
+      "legacy": "Pioneer of Jesuit education and spirituality.",
+      "summary": "Peter Favre was a pioneering Jesuit priest and one of the first companions of Saint Ignatius Loyola. He played a significant role in the early Jesuit mission, particularly in Germany, where he worked to strengthen the Catholic faith amidst the challenges of the Reformation. Beatified by Pope Pius IX in 1872, he is remembered for his dedication to education and spiritual guidance.",
+      "image": "/images/blessed_peter_favre_of_villaret.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Favre"
+    }
+  ]
+}

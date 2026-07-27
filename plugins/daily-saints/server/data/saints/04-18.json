@@ -1,0 +1,27 @@
+{
+  "date": "04-18",
+  "feast_day": "April 18",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary of the Incarnation",
+      "feast_day": "April 18",
+      "era": "17th century",
+      "patronage": null,
+      "legacy": "Carmelite",
+      "summary": "Blessed Mary of the Incarnation was born in Paris in February 1565; both of her parents were members of the most ancient families of that great city. Before she was born, several other children had seen the light of day, but all died in their infancy. During the time her mother awaited this child, she vowed her to the Blessed Virgin and Saint Claude, promising to clothe her in white until the age of seven and to offer her in a church of the Blessed Virgin.",
+      "image": "/images/blessed_mary_of_the_incarnation_carmelite.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Apollonius",
+      "feast_day": "April 18",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Martyr",
+      "summary": "The Roman Emperor Marcus Aurelius had persecuted the Christians, but his son Commodus, who in 180 succeeded to the throne, was favorable to them, out of regard to his Empress Marcia, an admirer of the Faith. During this calm the number of the faithful greatly increased, and many persons of first rank, among them Apollonius, a Roman senator, enlisted themselves under the banner of the cross. He was already very well versed both in philosophy and Holy Scripture, as we learn from Saint Jerome, who had read and admired his discourse in the Senate of Rome on behalf of the Christian religion.",
+      "image": "/images/saint_apollonius.jpg",
+      "wikipedia": null
+    }
+  ]
+}

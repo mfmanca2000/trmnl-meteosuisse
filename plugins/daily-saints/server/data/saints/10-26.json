@@ -1,0 +1,17 @@
+{
+  "date": "10-26",
+  "feast_day": "October 26",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Evaristus",
+      "feast_day": "October 26",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "Pioneering leader of the early Church",
+      "summary": "Saint Evaristus was a Pope and martyr who served as the Bishop of Rome during the early years of the Christian Church. He is known for organizing the Church's structure by appointing seven deacons and promoting various clergy amidst the persecutions of the time. Evaristus ultimately gave his life for his faith, being martyred and buried near Saint Peter in the Vatican.",
+      "image": "/images/saint_evaristus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Evaristus"
+    }
+  ]
+}

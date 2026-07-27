@@ -1,0 +1,27 @@
+{
+  "date": "04-10",
+  "feast_day": "April 10",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Michael de los Santos",
+      "feast_day": "April 10",
+      "era": "17th century",
+      "patronage": null,
+      "legacy": "Devotion through asceticism and miracles",
+      "summary": "Michael de los Santos was a Spanish Trinitarian priest known for his deep piety and commitment to a life of chastity and mortification. He joined the Trinitarians at a young age and dedicated himself to the reform of the Order while practicing extreme asceticism. Canonized in 1862, he is remembered for his miracles and the devotion he inspired in others.",
+      "image": "/images/saint_michael_de_los_santos.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Michael_dos_Santos"
+    },
+    {
+      "name": "Bademus",
+      "feast_day": "April 10",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Martyrdom and unwavering faith in Christ",
+      "summary": "Bademus was a wealthy citizen of Bethlapeta in Persia who renounced his possessions to follow Christ and founded a monastery. He was martyred during the persecution of Christians under King Sapor, enduring severe torture with remarkable patience. His legacy is one of unwavering faith and charity, inspiring many through his example of suffering for the glory of God.",
+      "image": "/images/saint_bademus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bademus"
+    }
+  ]
+}

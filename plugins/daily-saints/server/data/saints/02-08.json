@@ -1,0 +1,21 @@
+{
+  "date": "02-08",
+  "feast_day": "February 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John of Matha",
+      "feast_day": "February 8",
+      "era": "Medieval",
+      "patronage": [
+        "captives",
+        "prisoners",
+        "trinitarians"
+      ],
+      "legacy": "Champion of captives and the poor",
+      "summary": "Saint John of Matha was a French priest and the founder of the Order of the Holy Trinity, dedicated to the redemption of Christian captives. He devoted his life to serving the poor and rescuing those enslaved during the Crusades. His work was recognized by Pope Innocent III, who approved the establishment of his order in 1198.",
+      "image": "/images/saint_john_of_matha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_of_Matha"
+    }
+  ]
+}

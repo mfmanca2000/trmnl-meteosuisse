@@ -1,0 +1,22 @@
+{
+  "date": "03-17",
+  "feast_day": "March 17",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Patrick",
+      "feast_day": "March 17",
+      "era": "5th century",
+      "patronage": [
+        "Ireland",
+        "engineers",
+        "parish clergy",
+        "snakes"
+      ],
+      "legacy": "Patron saint of Ireland and missionaries",
+      "summary": "Saint Patrick is known as the Apostle of Ireland, credited with converting the Irish to Christianity in the 5th century. Born in Scotland, he was kidnapped and taken to Ireland as a slave, where he later returned to spread the Gospel after escaping captivity. His missionary work led to the establishment of churches, schools, and monasteries throughout Ireland, making him a central figure in Irish Christianity.",
+      "image": "/images/saint_patrick.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Patrick_of_Ireland"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "date": "02-26",
+  "feast_day": "February 26",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mechtildis of Hackeborn",
+      "feast_day": "February 26",
+      "era": "Medieval",
+      "patronage": null,
+      "legacy": "Influential mystic and spiritual writer",
+      "summary": "Mechtildis of Hackeborn was a 13th-century abbess known for her deep spirituality and contributions to mystical theology. She was the younger sister of Saint Gertrude the Great and served as choir mistress in her monastery. Her writings, particularly 'The Book of Special Grace,' have had a lasting impact on Christian mysticism and literature.",
+      "image": "/images/saint_mechtildis_of_hackeborn.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mechthild_of_Hackeborn"
+    },
+    {
+      "name": "Porphyry",
+      "feast_day": "February 26",
+      "era": "Early 5th century",
+      "patronage": [
+        "Christian converts",
+        "the city of Gaza"
+      ],
+      "legacy": "Champion of Christian conversion in Gaza",
+      "summary": "Saint Porphyry was a bishop known for his zealous efforts to convert pagans in Gaza during the late 4th and early 5th centuries. After a life of asceticism and dedication to the Christian faith, he successfully dismantled pagan worship in his diocese and established a strong Christian community. His legacy includes the transformation of a prominent pagan temple into a church, symbolizing the triumph of Christianity over idolatry.",
+      "image": "/images/saint_porphyry.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Porphyry_of_Gaza"
+    }
+  ]
+}

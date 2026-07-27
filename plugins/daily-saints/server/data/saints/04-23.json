@@ -1,0 +1,37 @@
+{
+  "date": "04-23",
+  "feast_day": "April 23",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Peter Chanel",
+      "feast_day": "April 23",
+      "era": "19th century",
+      "patronage": [
+        "Oceania",
+        "missionaries",
+        "mariners"
+      ],
+      "legacy": "First martyr of Oceania",
+      "summary": "Peter Chanel was a French missionary and martyr who dedicated his life to spreading Christianity in Oceania. He faced persecution for his faith while working to convert the people of Futuna, where he was ultimately killed. Canonized in 1954, he is recognized as the first martyr of Oceania and is celebrated for his unwavering commitment to his mission.",
+      "image": "/images/saint_peter_chanel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_Chanel"
+    },
+    {
+      "name": "George",
+      "feast_day": "April 23",
+      "era": "3rd century",
+      "patronage": [
+        "soldiers",
+        "scouts",
+        "farmers",
+        "geese",
+        "England"
+      ],
+      "legacy": "Symbol of courage and Christian fortitude",
+      "summary": "Saint George was a Christian martyr and soldier born in Palestine towards the end of the third century. He famously defied the Roman Emperor Diocletian by openly rebuking him for the persecution of Christians, which ultimately led to his execution. His legacy as a symbol of courage and faith has made him a beloved patron saint across various cultures and regions.",
+      "image": "/images/saint_george.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/George_of_Lydda"
+    }
+  ]
+}

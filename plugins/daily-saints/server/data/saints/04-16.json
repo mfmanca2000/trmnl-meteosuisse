@@ -1,0 +1,30 @@
+{
+  "date": "04-16",
+  "feast_day": "April 16",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Benedict Joseph Labre",
+      "feast_day": "April 16",
+      "era": "18th century",
+      "patronage": [
+        "the homeless",
+        "pilgrims"
+      ],
+      "legacy": "A model of humility and pilgrimage",
+      "summary": "Benedict Joseph Labre was a French mendicant and pilgrim known for his deep piety and devotion to the Blessed Sacrament. After unsuccessful attempts to join various religious orders, he embraced a life of pilgrimage, visiting many Christian shrines across Europe while living in extreme poverty. He is remembered for his humility, dedication to prayer, and his service to the poor until his death in 1783.",
+      "image": "/images/saint_benedict_joseph_labre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Joseph_Labre"
+    },
+    {
+      "name": "Engratia and her Companions",
+      "feast_day": "April 16",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Martyrs",
+      "summary": "The church celebrates on this day the triumph of Saint Engratia, a virgin martyr who was a native of Portugal. Her father had promised her in marriage to a man of quality in Rousillon, Gaul, and to accompany her there, he sent as her escort for the marriage her uncle Lupercius and a brilliant suite of sixteen other noblemen, as well as a servant named Julie. When they arrived at Saragossa, she learned of the horrible massacre of Christians being carried on at that time, and of the torments they were enduring at the hand of Dacian, who governed that region in the name of the emperors Diocletian and Maximian.",
+      "image": "/images/saint_engratia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "04-24",
+  "feast_day": "April 24",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary Euphrasia Pelletier",
+      "feast_day": "April 24",
+      "era": "19th century",
+      "patronage": [
+        "women",
+        "girls",
+        "social workers"
+      ],
+      "legacy": "Champion of women and social justice",
+      "summary": "Mary Euphrasia Pelletier was a French nun and the foundress of the Congregation of Our Lady of Charity of the Good Shepherd. She dedicated her life to the care and rehabilitation of women and girls, establishing numerous homes for those in need. Canonized in 1940, she is remembered for her profound compassion and commitment to social justice.",
+      "image": "/images/saint_mary_euphrasia_pelletier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Euphrasia_Pelletier"
+    },
+    {
+      "name": "Fidelis of Sigmaringen",
+      "feast_day": "April 24",
+      "era": "17th century",
+      "patronage": [
+        "lawyers",
+        "the sick",
+        "martyrs"
+      ],
+      "legacy": "Martyr for the Catholic faith and the poor",
+      "summary": "Fidelis of Sigmaringen was a Capuchin friar and martyr known for his dedication to the poor and his fervent preaching against Calvinism. He was born in 1577 in Sigmaringen, Germany, and after a successful legal career, he embraced a life of austerity and service. Fidelis was martyred in Switzerland while defending the Catholic faith, becoming the first martyr of the Congregation of the Propaganda.",
+      "image": "/images/saint_fidelis_of_sigmaringen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Fidelis_of_Sigmaringen"
+    }
+  ]
+}

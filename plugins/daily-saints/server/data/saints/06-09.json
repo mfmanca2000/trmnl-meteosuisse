@@ -1,0 +1,45 @@
+{
+  "date": "06-09",
+  "feast_day": "June 9",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Anna Maria Taigi",
+      "feast_day": "June 9",
+      "era": "19th century",
+      "patronage": [
+        "household workers",
+        "mothers",
+        "sick people"
+      ],
+      "legacy": "A model of humility and family devotion",
+      "summary": "Anna Maria Taigi was a devoted wife and mother who became a Trinitarian Tertiary, known for her deep spirituality and extraordinary mystical experiences. Despite the challenges of her tumultuous family life, she maintained a peaceful and loving home, raising her children with virtue and compassion. Beatified by Pope Benedict XV in 1920, she is remembered for her selfless service to others and her profound connection to God.",
+      "image": "/images/blessed_anna_maria_taigi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anna_Maria_Taigi"
+    },
+    {
+      "name": "Primus and Felicianus",
+      "feast_day": "June 9",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrs of faith and charity",
+      "summary": "Saints Primus and Felicianus were brothers and martyrs who lived in Rome during the latter part of the 3rd century. They were converted to Christianity through the influence of Pope Felix I and dedicated their lives to serving the poor and encouraging fellow Christians during times of persecution. Ultimately, they were apprehended and executed for their faith, enduring severe tortures before being beheaded on June 9, 286.",
+      "image": "/images/saints_primus_and_felicianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Primus_and_Felician"
+    },
+    {
+      "name": "Columba",
+      "feast_day": "June 9",
+      "era": "6th century",
+      "patronage": [
+        "difficult births",
+        "poets",
+        "navigators"
+      ],
+      "legacy": "Apostle of the Picts and founder of Iona",
+      "summary": "Saint Columba, born in 521 in Ireland, is renowned as the apostle of the Picts in Scotland. He founded numerous monasteries, most notably on the island of Iona, where he established a significant center for Christian learning and missionary work. His life was marked by a deep commitment to prayer, charity, and the conversion of souls, earning him widespread veneration and respect.",
+      "image": "/images/saint_columba_or_columkille.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Columba"
+    }
+  ]
+}

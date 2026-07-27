@@ -1,0 +1,21 @@
+{
+  "date": "06-22",
+  "feast_day": "June 22",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Paulinus of Nola",
+      "feast_day": "June 22",
+      "era": "Early Christian",
+      "patronage": [
+        "poets",
+        "theologians",
+        "Nola"
+      ],
+      "legacy": "A model of humility and generosity",
+      "summary": "Paulinus of Nola was a Roman senator who became a bishop and a prominent figure in the early Church. After experiencing personal tragedy, he renounced his wealth and status to live a life of poverty and service, dedicating himself to the care of his community. He is remembered for his deep humility, generosity, and commitment to the Christian faith, particularly during times of crisis.",
+      "image": "/images/saint_paulinus_of_nola.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Paulinus_of_Nola"
+    }
+  ]
+}

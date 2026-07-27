@@ -1,0 +1,17 @@
+{
+  "date": "04-06",
+  "feast_day": "April 6",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Celestine",
+      "feast_day": "April 6",
+      "era": "Early 5th century",
+      "patronage": null,
+      "legacy": "Defender of faith and mercy",
+      "summary": "Saint Celestine I was a Pope from 422 to 432, known for his strong stance against heresy. He condemned the teachings of Nestorius and sent missionaries to Britain and Ireland to combat the spread of Pelagianism. His papacy emphasized the importance of repentance and the mercy of God towards sinners.",
+      "image": "/images/saint_celestine_i.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Celestine_I"
+    }
+  ]
+}

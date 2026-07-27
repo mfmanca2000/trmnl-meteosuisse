@@ -1,0 +1,20 @@
+{
+  "date": "05-02",
+  "feast_day": "May 2",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Athanasius",
+      "feast_day": "May 2",
+      "era": "4th century",
+      "patronage": [
+        "theologians",
+        "faithfulness"
+      ],
+      "legacy": "Defender of the divinity of Christ",
+      "summary": "Saint Athanasius was a prominent bishop of Alexandria and a key defender of the Christian faith against the Arian heresy, which denied the divinity of Christ. He faced significant opposition, including multiple exiles and confrontations with four Roman emperors, yet remained steadfast in his beliefs and pastoral duties. Recognized as a Doctor of the Church, his writings and teachings have had a lasting impact on Christian theology.",
+      "image": "/images/saint_athanasius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+    }
+  ]
+}

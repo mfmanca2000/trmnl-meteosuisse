@@ -1,0 +1,27 @@
+{
+  "date": "12-14",
+  "feast_day": "December 14",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Melanie Calvat",
+      "feast_day": "December 14",
+      "era": "19th century",
+      "patronage": null,
+      "legacy": "Visionary of Our Lady of La Salette",
+      "summary": "Melanie Calvat was a French visionary and seer known for her role in the apparition of Our Lady of La Salette in 1846. She faced significant challenges throughout her life, including exile and opposition from church authorities, yet remained devoted to her mission. Her revelations emphasized the call for prayer and repentance in a time of moral decline, and she is remembered for her deep faith and commitment to the message of the Virgin Mary.",
+      "image": "/images/blessed_melanie_calvat.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Melanie_Calvat"
+    },
+    {
+      "name": "Nicasius",
+      "feast_day": "December 14",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Martyrdom for faith and leadership",
+      "summary": "Saint Nicasius was the Archbishop of Rheims in the 5th century and is remembered for his courageous leadership during the invasion of the Vandals. He urged his flock to repent and remained steadfast in his faith, ultimately sacrificing his life while praying for his people. Alongside him, his deacon Florens, lector Jocond, and sister Eutropia were martyred, and their remains became a site of veneration and miracles.",
+      "image": "/images/saint_nicasius_and_his_companions.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nicasius_of_Rheims"
+    }
+  ]
+}

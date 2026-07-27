@@ -1,0 +1,21 @@
+{
+  "date": "09-28",
+  "feast_day": "September 28",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Wenceslas",
+      "feast_day": "September 28",
+      "era": "10th century",
+      "patronage": [
+        "Czech Republic",
+        "difficult marriages",
+        "peasants"
+      ],
+      "legacy": "Martyrdom and devotion in leadership",
+      "summary": "Wenceslas was a Christian Duke of Bohemia who became a martyr for his faith in the 10th century. Raised by his pious grandmother, he ruled with devotion and compassion, often serving the poor in secret. His reign ended tragically when he was murdered by his brother, but he is remembered as a symbol of Christian virtue and leadership.",
+      "image": "/images/saint_wenceslas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Wenceslas"
+    }
+  ]
+}

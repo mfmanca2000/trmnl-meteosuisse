@@ -1,0 +1,17 @@
+{
+  "date": "03-18",
+  "feast_day": "March 18",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Cyril of Jerusalem",
+      "feast_day": "March 18",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Defender of faith and catechesis",
+      "summary": "Cyril of Jerusalem was a prominent bishop and theologian in the early Church, known for his catechetical lectures that laid the groundwork for Christian instruction on the Creed and Sacraments. He faced persecution during his episcopate but remained steadfast in his faith, famously opposing the attempts to rebuild the Jewish temple under Emperor Julian. Cyril's legacy endures through his writings and his role in the defense of orthodoxy against heresy.",
+      "image": "/images/saint_cyril_of_jerusalem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+    }
+  ]
+}

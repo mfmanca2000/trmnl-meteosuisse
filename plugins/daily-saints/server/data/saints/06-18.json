@@ -1,0 +1,31 @@
+{
+  "date": "06-18",
+  "feast_day": "June 18",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Ephrem",
+      "feast_day": "June 18",
+      "era": "4th century",
+      "patronage": [
+        "deacons",
+        "spiritual directors",
+        "theology"
+      ],
+      "legacy": "A revered Doctor of the Church",
+      "summary": "Saint Ephrem was a prominent early Christian theologian and poet, known for his deep humility and profound spirituality. He served as a deacon in Edessa, where he preached and wrote extensively, earning the title 'Harp of the Holy Spirit' for his eloquent expressions of faith. Declared a Doctor of the Church, his works continue to inspire Christians with their insights into Scripture and the nature of God.",
+      "image": "/images/saint_ephrem.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+    },
+    {
+      "name": "Marcus and Marcellianus",
+      "feast_day": "June 18",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrs of steadfast faith and courage",
+      "summary": "Saints Marcus and Marcellianus were twin brothers and martyrs who lived in Rome during the reign of Emperor Diocletian. They were imprisoned and ultimately executed for refusing to renounce their Christian faith despite the pleas of their family. Their legacy is honored particularly in Spain, where they are credited with interceding for the city's safety.",
+      "image": "/images/saint_marcus_and_saint_marcellianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marcus_and_Marcellianus"
+    }
+  ]
+}

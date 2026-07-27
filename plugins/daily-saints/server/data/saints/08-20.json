@@ -1,0 +1,21 @@
+{
+  "date": "08-20",
+  "feast_day": "August 20",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bernard of Clairvaux",
+      "feast_day": "August 20",
+      "era": "12th century",
+      "patronage": [
+        "beekeepers",
+        "candlemakers",
+        "the Cistercian Order"
+      ],
+      "legacy": "Father of the Cistercian Order",
+      "summary": "Bernard of Clairvaux was a prominent 12th-century abbot and theologian who founded the Cistercian monastery at Clairvaux. Renowned for his eloquence and deep spirituality, he played a significant role in the promotion of the Second Crusade and was influential in the Church during his time. His writings and teachings earned him the title of Doctor of the Church and he is remembered as a key figure in medieval monasticism.",
+      "image": "/images/saint_bernard.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "09-13",
+  "feast_day": "September 13",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maurilius",
+      "feast_day": "September 13",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Bishop and miracle worker of Angers",
+      "summary": "Saint Maurilius was a bishop of Angers who played a significant role in the early history of the Church in France. He was known for his zeal in converting pagans and for his deep compassion, which led him to seek the resurrection of a child who had died during a Mass. His legacy includes the establishment of a church and monastery that became a center for Christian life in the region.",
+      "image": "/images/saint_maurilius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maurilius_of_Angers"
+    },
+    {
+      "name": "Eulogius of Alexandria",
+      "feast_day": "September 13",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "Defender of orthodoxy and faith",
+      "summary": "Saint Eulogius of Alexandria was a Syrian monk who became the Patriarch of Alexandria in the late 6th century. He was known for his commitment to orthodoxy and his efforts against heresies, particularly the Eutychian heresy that troubled the Church at the time. Eulogius maintained a close friendship with Saint Gregory the Great and composed many works defending the faith before his death in 606.",
+      "image": "/images/saint_eulogius_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eulogius_of_Alexandria"
+    }
+  ]
+}

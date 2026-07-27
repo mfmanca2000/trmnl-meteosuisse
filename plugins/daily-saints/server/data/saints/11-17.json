@@ -1,0 +1,21 @@
+{
+  "date": "11-17",
+  "feast_day": "November 17",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregory Thaumaturge",
+      "feast_day": "November 17",
+      "era": "3rd century",
+      "patronage": [
+        "theologians",
+        "students",
+        "converts"
+      ],
+      "legacy": "Miracle worker and defender of the faith",
+      "summary": "Saint Gregory Thaumaturge was a bishop and confessor known for his miraculous works and dedication to spreading Christianity in a predominantly pagan region. He was a student of Origen and became a pivotal figure in combating heresies, particularly Arianism, through his teachings and the formulation of a creed. His legacy includes a strong devotion to the Virgin Mary and a commitment to prayer and solitude, which inspired many to embrace the Christian faith.",
+      "image": "/images/saint_gregory_thaumaturge.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus"
+    }
+  ]
+}

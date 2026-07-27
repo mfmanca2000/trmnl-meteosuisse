@@ -21,6 +21,7 @@ plugins/
 | --- | --- | --- |
 | [meteosuisse](plugins/meteosuisse) | Hourly weather forecast for a Swiss NPA/PLZ, sourced from the MeteoSwiss API | `/api/meteosuisse/forecast` |
 | [homeassistant-energy](plugins/homeassistant-energy) | Solar/battery/grid energy snapshot, sourced from a Home Assistant instance | `/api/homeassistant-energy/status` |
+| [daily-saints](plugins/daily-saints) | Saint of the day, sourced from a local copy of the [daily-saints](https://github.com/ACoci86/daily-saints) data | `/api/daily-saints/today` |
 
 ## Setup
 
@@ -44,6 +45,8 @@ trmnlp serve
 | `HA_BASE_URL` | homeassistant-energy | Publicly reachable Home Assistant URL (e.g. a Nabu Casa or tunnel URL), no trailing slash |
 | `HA_TOKEN` | homeassistant-energy | Home Assistant long-lived access token, sent as `Authorization: Bearer` |
 | `HA_TIMEZONE` | homeassistant-energy | IANA timezone used to compute "today" energy totals (default `Europe/Zurich`) |
+| `SAINTS_TIMEZONE` | daily-saints | IANA timezone used to compute "today"'s date (default `Europe/Zurich`) |
+| `SAINTS_IMAGE_BASE_URL` | daily-saints | Host to prefix saint image paths with (default `https://acoci86.github.io/daily-saints`) |
 
 Set these in the Vercel project settings for production. For local testing, copy
 `server/.env.example` to `server/.env` and fill in real values — `npm run dev` and

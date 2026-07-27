@@ -1,0 +1,21 @@
+{
+  "date": "01-17",
+  "feast_day": "January 17",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Anthony of the Desert",
+      "feast_day": "January 17",
+      "era": "3rd century",
+      "patronage": [
+        "monks",
+        "gravediggers",
+        "animals"
+      ],
+      "legacy": "Father of Christian monasticism",
+      "summary": "Saint Anthony of the Desert, born in Upper Egypt around 251, is recognized as the father of monasticism. He renounced his wealth to live a life of solitude and prayer in the desert, where he faced numerous temptations and spiritual battles. His legacy includes the establishment of monastic communities and a profound influence on Christian asceticism.",
+      "image": "/images/saint_anthony_of_the_desert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Egypt"
+    }
+  ]
+}

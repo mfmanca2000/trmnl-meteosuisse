@@ -1,0 +1,30 @@
+{
+  "date": "09-11",
+  "feast_day": "September 11",
+  "count": 2,
+  "saints": [
+    {
+      "name": "John Gabriel Perboyre",
+      "feast_day": "September 11",
+      "era": "19th century",
+      "patronage": [
+        "missionaries",
+        "martyrs"
+      ],
+      "legacy": "A martyr for faith and devotion",
+      "summary": "John Gabriel Perboyre was a French Lazarist priest and martyr known for his deep devotion to the Blessed Sacrament. He dedicated his life to missionary work in China, where he faced severe persecution and ultimately gave his life for his faith. His unwavering commitment to God and his courageous response to torture have made him a revered figure in the Catholic Church.",
+      "image": "/images/saint_john_gabriel_perboyre.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Gabriel_Perboyre"
+    },
+    {
+      "name": "Paphnutius",
+      "feast_day": "September 11",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Defender of the Catholic Faith",
+      "summary": "Saint Paphnutius was an Egyptian bishop and confessor who lived during the second half of the Fourth Century. He was known for his staunch defense of the Catholic Faith against the Arian heresy and was a prominent figure at the Council of Nicea in 325. After enduring persecution and losing an eye for his beliefs, he returned to his diocese to lead his flock with great sanctity.",
+      "image": "/images/saint_paphnutius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Paphnutius_the_Bishop"
+    }
+  ]
+}

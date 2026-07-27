@@ -1,0 +1,21 @@
+{
+  "date": "09-30",
+  "feast_day": "September 30",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Jerome",
+      "feast_day": "September 30",
+      "era": "4th-5th century",
+      "patronage": [
+        "students",
+        "libraries",
+        "translators"
+      ],
+      "legacy": "Father of biblical scholarship and translation",
+      "summary": "Saint Jerome was a prominent early Christian scholar and translator, best known for his Latin translation of the Bible, known as the Vulgate. He spent many years in solitude, studying and writing in the deserts of Syria and later in Bethlehem, where he produced a wealth of theological works. His contributions to biblical scholarship and his defense against heresies have made him a Doctor of the Church and a significant figure in Christian history.",
+      "image": "/images/saint_jerome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Jerome"
+    }
+  ]
+}

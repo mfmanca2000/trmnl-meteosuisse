@@ -1,0 +1,17 @@
+{
+  "date": "01-02",
+  "feast_day": "January 2",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Macarius of Alexandria",
+      "feast_day": "January 2",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Exemplar of hermitic spirituality and prayer",
+      "summary": "Saint Macarius of Alexandria was a hermit and a disciple of Saint Anthony the Great. He is known for his intense spiritual practices and struggles against temptation, often engaging in extreme forms of mortification. His life exemplifies the pursuit of holiness through prayer, vigilance, and self-denial.",
+      "image": "/images/saint_macarius_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Macarius_of_Alexandria"
+    }
+  ]
+}

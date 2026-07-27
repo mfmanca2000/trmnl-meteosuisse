@@ -1,0 +1,32 @@
+{
+  "date": "08-14",
+  "feast_day": "August 14",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Maximilian Kolbe",
+      "feast_day": "August 14",
+      "era": "20th century",
+      "patronage": [
+        "prisoners",
+        "journalists",
+        "families",
+        "the pro-life movement"
+      ],
+      "legacy": "Martyr of charity and faith",
+      "summary": "Maximilian Kolbe was a Polish Franciscan priest known for his deep devotion to the Virgin Mary and his commitment to spreading the faith through media and missionary work. He founded the Militia of the Immaculata, an organization dedicated to promoting the veneration of Mary and the conversion of sinners. Kolbe was martyred in Auschwitz during World War II, sacrificing his life for a fellow prisoner, and is remembered for his unwavering faith and love in the face of persecution.",
+      "image": "/images/saint_maximilian_kolbe.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_Kolbe"
+    },
+    {
+      "name": "Eusebius of Rome",
+      "feast_day": "August 14",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Courage and fidelity in faith",
+      "summary": "Eusebius of Rome was a priest and martyr who lived during the time of Christian persecution in the Roman Empire. He is remembered for his unwavering faith and courage in the face of torture and execution. His martyrdom exemplifies the strength and fidelity of early Christians, inspiring many to endure suffering for their beliefs.",
+      "image": "/images/saint_eusebius_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Eusebius_of_Rome"
+    }
+  ]
+}

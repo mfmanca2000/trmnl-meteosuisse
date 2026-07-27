@@ -1,0 +1,17 @@
+{
+  "date": "04-02",
+  "feast_day": "April 2",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Francis of Paula",
+      "feast_day": "April 2",
+      "era": "16th century",
+      "patronage": null,
+      "legacy": "Thaumaturge, Founder",
+      "summary": "At the age of fifteen, Saint Francis left his poor home at Paula in Calabria, Italy, to live as a hermit in a cave on the seacoast. In time disciples gathered around him, and with them, in 1436, he founded the Order of the Minims. He chose this name that they might always consider themselves the least of monastic Orders.",
+      "image": "/images/saint_francis_of_paula.jpg",
+      "wikipedia": null
+    }
+  ]
+}

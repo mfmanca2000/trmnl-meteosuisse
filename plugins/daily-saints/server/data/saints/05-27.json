@@ -1,0 +1,21 @@
+{
+  "date": "05-27",
+  "feast_day": "May 27",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bede",
+      "feast_day": "May 27",
+      "era": "8th century",
+      "patronage": [
+        "scholars",
+        "historians",
+        "students"
+      ],
+      "legacy": "Father of English history and scholarship",
+      "summary": "Bede, known as the Venerable Bede, was an English monk and historian who lived during the 7th and 8th centuries. He is best known for his work 'Ecclesiastical History of the English People,' which is a key source for early English history. Bede was a prolific scholar, contributing to various fields of study, and he is revered as a Doctor of the Church.",
+      "image": "/images/saint_bede_the_venerable.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bede"
+    }
+  ]
+}

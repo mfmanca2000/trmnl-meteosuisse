@@ -1,0 +1,22 @@
+{
+  "date": "11-11",
+  "feast_day": "November 11",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Martin of Tours",
+      "feast_day": "November 11",
+      "era": "4th century",
+      "patronage": [
+        "soldiers",
+        "horses",
+        "winemakers",
+        "beggars"
+      ],
+      "legacy": "Apostle of Gaul and model of charity",
+      "summary": "Martin of Tours was a 4th-century bishop known for his missionary work in Gaul. He is famous for his act of charity where he shared his cloak with a beggar, leading to a vision of Christ. His efforts in evangelizing and converting the pagan population earned him the title of the Light and Apostle of Gaul.",
+      "image": "/images/saint_martin_of_tours.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Tours"
+    }
+  ]
+}

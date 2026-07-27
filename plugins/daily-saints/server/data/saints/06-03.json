@@ -1,0 +1,35 @@
+{
+  "date": "06-03",
+  "feast_day": "June 3",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Charles Lwanga",
+      "feast_day": "June 3",
+      "era": "19th century",
+      "patronage": [
+        "youth",
+        "catechists",
+        "African missions"
+      ],
+      "legacy": "Martyrdom for faith and youth empowerment",
+      "summary": "Charles Lwanga was a Ugandan martyr who played a pivotal role in the early Christian community in Uganda during the late 19th century. He was a leader among the pages of King Mwanga and was instrumental in teaching catechism to his peers. Lwanga was executed for his faith on June 3, 1886, along with other young Christians, and is celebrated for his courage and commitment to Christianity.",
+      "image": "/images/the_holy_martyrs_of_uganda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lwanga"
+    },
+    {
+      "name": "Clotilda",
+      "feast_day": "June 3",
+      "era": "6th century",
+      "patronage": [
+        "queens",
+        "converts",
+        "France"
+      ],
+      "legacy": "Spiritual mother of Catholic France",
+      "summary": "Saint Clotilda was the queen consort of Clovis I, the first King of the Franks, and played a crucial role in his conversion to Christianity. Her piety and dedication to her faith inspired her husband and contributed to the establishment of Christianity in France. After Clovis's death, she devoted her life to prayer and charity, becoming a significant figure in the early Church.",
+      "image": "/images/saint_clotilda.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Clotilde"
+    }
+  ]
+}

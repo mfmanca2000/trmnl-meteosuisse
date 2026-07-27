@@ -1,0 +1,31 @@
+{
+  "date": "01-11",
+  "feast_day": "January 11",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Theodosius",
+      "feast_day": "January 11",
+      "era": "5th-6th century",
+      "patronage": [
+        "monks",
+        "hospitals",
+        "the sick"
+      ],
+      "legacy": "A model of charity and humility",
+      "summary": "Saint Theodosius was a prominent abbot and founder of monastic communities in Palestine during the 5th and 6th centuries. Known for his deep charity and humility, he built a large monastery and several hospitals, providing for the poor and sick. He successfully opposed heretical teachings and was revered for his piety and leadership among the religious communities of his time.",
+      "image": "/images/saint_theodosius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Theodosius_the_Cenobiarch"
+    },
+    {
+      "name": "Hyginus",
+      "feast_day": "January 11",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Defender of faith against early heresies",
+      "summary": "Hyginus served as Pope from around 139 to 142 AD during a time of relative peace for the Church under Emperor Antoninus Pius. He faced challenges from heretics such as Cerdo and Valentine, whom he sought to correct with pastoral care. Although not officially martyred, he is recognized as a martyr due to the persecutions he endured as a leader of the early Church.",
+      "image": "/images/saint_hyginus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pope_Hyginus"
+    }
+  ]
+}

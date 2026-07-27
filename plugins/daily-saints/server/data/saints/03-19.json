@@ -1,0 +1,22 @@
+{
+  "date": "03-19",
+  "feast_day": "March 19",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Joseph",
+      "feast_day": "March 19",
+      "era": "1st century",
+      "patronage": [
+        "workers",
+        "fathers",
+        "families",
+        "universal Church"
+      ],
+      "legacy": "Model of fatherhood and family life",
+      "summary": "Saint Joseph is known as the spouse of the Virgin Mary and the earthly father of Jesus Christ. He is celebrated for his obedience to God's will, exemplified by his acceptance of his role as the guardian of the Holy Family. Revered as a model for fathers and families, he is invoked for a happy death and is the patron saint of workers and the universal Church.",
+      "image": "/images/saint_joseph.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_of_Nazareth"
+    }
+  ]
+}

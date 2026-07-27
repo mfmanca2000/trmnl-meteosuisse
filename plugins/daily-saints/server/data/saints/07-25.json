@@ -1,0 +1,35 @@
+{
+  "date": "07-25",
+  "feast_day": "July 25",
+  "count": 2,
+  "saints": [
+    {
+      "name": "James the Greater",
+      "feast_day": "July 25",
+      "era": "1st century",
+      "patronage": [
+        "Spain",
+        "pilgrims",
+        "apothecaries"
+      ],
+      "legacy": "First Apostle to be martyred",
+      "summary": "James the Greater was one of the twelve Apostles and a close companion of Jesus, known for his fervent faith and outspoken nature. He is traditionally believed to have preached in Spain after Christ's resurrection and was the first Apostle to be martyred, executed by King Herod Agrippa around the year 44. His legacy is commemorated at the Basilica of Saint James of Compostello, a major pilgrimage site in Spain.",
+      "image": "/images/saint_james_the_greater.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/James_the_Great"
+    },
+    {
+      "name": "Christopher",
+      "feast_day": "July 25",
+      "era": "3rd century",
+      "patronage": [
+        "travelers",
+        "drivers",
+        "children"
+      ],
+      "legacy": "Protector of travelers and children",
+      "summary": "Saint Christopher is a revered martyr known for his extraordinary faith and courage in the face of persecution. He is traditionally believed to have converted thousands to Christianity through his preaching and miraculous acts. His martyrdom is celebrated on July 25, commemorating his steadfastness and the miracles attributed to him, including healing and protection.",
+      "image": "/images/saint_christopher.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Christopher"
+    }
+  ]
+}

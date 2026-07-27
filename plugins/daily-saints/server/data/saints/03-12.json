@@ -1,0 +1,22 @@
+{
+  "date": "03-12",
+  "feast_day": "March 12",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Gregory the Great",
+      "feast_day": "March 12",
+      "era": "6th century",
+      "patronage": [
+        "teachers",
+        "musicians",
+        "students",
+        "popes"
+      ],
+      "legacy": "Pioneer of medieval Church reform",
+      "summary": "Gregory the Great was a significant Pope and Doctor of the Church who played a crucial role in the early medieval Church. He is known for his contributions to the liturgy, the promotion of monasticism, and the evangelization of England. His papacy marked a period of reform and consolidation within the Church, and he is remembered for his extensive writings and sermons that emphasized the importance of Scripture.",
+      "image": "/images/saint_gregory_the_great.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gregory_the_Great"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "date": "08-02",
+  "feast_day": "August 2",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Alphonsus Liguori",
+      "feast_day": "August 2",
+      "era": "18th century",
+      "patronage": [
+        "theologians",
+        "confessors",
+        "moralists"
+      ],
+      "legacy": "Champion of the poor and moral theology",
+      "summary": "Saint Alphonsus Liguori was an Italian bishop and theologian known for his deep devotion and commitment to the pastoral care of the poor. He founded the Congregation of the Most Holy Redeemer and authored numerous theological works, including the influential 'The Glories of Mary.' Recognized as a Doctor of the Church, his teachings continue to inspire and guide the faithful in their spiritual lives.",
+      "image": "/images/saint_alphonsus_liguori.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alphonsus_Liguori"
+    },
+    {
+      "name": "Joseph Chiwatenhwa",
+      "feast_day": "August 2",
+      "era": "17th century",
+      "patronage": [
+        "Hurons",
+        "martyrs",
+        "Christian converts"
+      ],
+      "legacy": "Apostle and martyr of the Hurons",
+      "summary": "Joseph Chiwatenhwa was a Huron martyr and a devoted Christian who lived in the early 17th century. He was baptized by Jesuit missionaries and became an apostle to his people, promoting Christianity and leading by example in his family and community. Tragically, he was martyred in 1640, but his legacy of faith inspired many conversions among the Hurons after his death.",
+      "image": "/images/blessed_joseph_chiwatenhwa.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Chiwatenhwa"
+    },
+    {
+      "name": "Stephen",
+      "feast_day": "August 2",
+      "era": "3rd century",
+      "patronage": [
+        "popes",
+        "deacons",
+        "stonemasons"
+      ],
+      "legacy": "Defender of the Faith and martyr",
+      "summary": "Stephen was a Roman by birth and became the Pope and martyr in the 3rd century. He is known for his defense of the validity of baptism and his efforts to maintain the integrity of the Faith during a time of heretical disputes. Ultimately, he was martyred on August 2, 257, while steadfast in his commitment to Christ and the Church.",
+      "image": "/images/saint_stephen_I_pope.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_of_Armenia"
+    }
+  ]
+}

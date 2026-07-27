@@ -1,0 +1,30 @@
+{
+  "date": "05-24",
+  "feast_day": "May 24",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Our Lady, Help of Christians",
+      "feast_day": "May 24",
+      "era": "Modern",
+      "patronage": [
+        "Catholic Church",
+        "Christianity"
+      ],
+      "legacy": "Patroness of the Catholic Church's struggles",
+      "summary": "Our Lady, Help of Christians is a title of the Blessed Virgin Mary, recognized for her intercession and assistance to the Church. Instituted by Pope Pius VII in 1815, this feast commemorates her role in supporting the papacy during times of adversity, particularly during Napoleon's reign. The devotion was notably promoted by Saint John Bosco, who dedicated his Salesian Order to her and constructed a church in her honor in Turin.",
+      "image": "/images/our_lady_help_of_christians.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_Help_of_Christians"
+    },
+    {
+      "name": "Donatian and Rogatian",
+      "feast_day": "May 24",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrs of faith and brotherhood",
+      "summary": "Donatian and Rogatian were noble brothers from Nantes who lived during the late 3rd century. They were martyred for their Christian faith, with Donatian actively converting others and Rogatian expressing a desire for baptism. Both brothers faced brutal torture and execution, ultimately dying for their unwavering commitment to Christ.",
+      "image": "/images/saints_donatian_and_rogatian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Donatian_and_Rogatian"
+    }
+  ]
+}

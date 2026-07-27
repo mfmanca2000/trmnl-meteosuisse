@@ -1,0 +1,22 @@
+{
+  "date": "01-27",
+  "feast_day": "January 27",
+  "count": 1,
+  "saints": [
+    {
+      "name": "John Chrysostom",
+      "feast_day": "January 27",
+      "era": "4th-5th century",
+      "patronage": [
+        "preachers",
+        "orators",
+        "the sick",
+        "exiled people"
+      ],
+      "legacy": "Master of eloquence and pastoral care",
+      "summary": "John Chrysostom was a prominent early Church Father known for his eloquent preaching and extensive writings. He served as the Patriarch of Constantinople and was a key figure in the development of Christian liturgy. Despite facing exile and hardship due to his outspoken criticism of vice, he remained steadfast in his faith and is remembered as a Doctor of the Church.",
+      "image": "/images/saint_john_chrysostom.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_Chrysostom"
+    }
+  ]
+}

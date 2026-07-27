@@ -1,0 +1,17 @@
+{
+  "date": "07-28",
+  "feast_day": "July 28",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Nazarius",
+      "feast_day": "July 28",
+      "era": "1st century",
+      "patronage": null,
+      "legacy": "Martyrdom for faith and virtue",
+      "summary": "Saint Nazarius was a Christian martyr from the first century, known for his zealous preaching of the Gospel. He was baptized by Saint Linus and traveled extensively to spread Christianity, often facing persecution. Along with his disciple Celsus, he was ultimately arrested and beheaded for refusing to renounce his faith during the reign of Nero.",
+      "image": "/images/saints_nazarius_and_celsus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Nazarius"
+    }
+  ]
+}

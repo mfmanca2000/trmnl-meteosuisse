@@ -1,0 +1,27 @@
+{
+  "date": "04-08",
+  "feast_day": "April 8",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Mary Assunta",
+      "feast_day": "April 8",
+      "era": "20th century",
+      "patronage": null,
+      "legacy": "Franciscan Missionary",
+      "summary": "Saint Pius X promulgated his decree Quam Singulari, recommending frequent Holy Communion for all and early First Communion for children, just two years after the death of Blessed Mary Assunta. This holy young nun, especially devoted to the Blessed Sacrament in her youth, though she could not yet benefit from the decree, is a living proof to the wisdom of his decision. Saints among children and youth, whom he foretold would multiply, have always had such devotion, and thus God shows us that it is not the number of years that counts.",
+      "image": "/images/blessed_mary_assunta.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Perpetuus",
+      "feast_day": "April 8",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "A devoted bishop and advocate for the poor.",
+      "summary": "Saint Perpetuus was the eighth Bishop of Tours, serving from 461 to 494. He was known for his dedication to leading souls to virtue through sermons, synods, and the enhancement of church facilities, particularly the church of Saint Martin. His legacy includes a testament of love for the poor and the establishment of a fund for sacred vessels, reflecting his deep commitment to charity and community.",
+      "image": "/images/saint_perpetuus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Perpetuus_of_Tours"
+    }
+  ]
+}

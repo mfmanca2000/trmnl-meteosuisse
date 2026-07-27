@@ -1,0 +1,34 @@
+{
+  "date": "07-24",
+  "feast_day": "July 24",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Christina",
+      "feast_day": "July 24",
+      "era": "3rd century",
+      "patronage": [
+        "martyrs",
+        "difficult situations"
+      ],
+      "legacy": "Defender of faith against persecution",
+      "summary": "Saint Christina was a young virgin and martyr who defied her pagan father by destroying his idols and distributing their pieces to the poor. She endured severe tortures for her faith, including being thrown into a lake with a heavy stone, from which she was miraculously rescued by an angel. Ultimately, she was martyred by arrows, and her relics are venerated in Palermo, Sicily.",
+      "image": "/images/saint_christina.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Christina_of_Bolsena"
+    },
+    {
+      "name": "Francis Solano",
+      "feast_day": "July 24",
+      "era": "16th century",
+      "patronage": [
+        "missionaries",
+        "indigenous peoples",
+        "the sick"
+      ],
+      "legacy": "A devoted missionary and peacemaker.",
+      "summary": "Francis Solano was a Spanish Franciscan missionary known for his fervent dedication to spreading the Gospel in South America, particularly among the indigenous peoples of Peru. He is celebrated for his humility, compassion, and miraculous ability to connect with both people and nature, leading to the conversion of thousands. His legacy is marked by his unwavering faith and commitment to serving the sick and marginalized, even in the face of danger and adversity.",
+      "image": "/images/saint_francis_solano.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_Solanus"
+    }
+  ]
+}

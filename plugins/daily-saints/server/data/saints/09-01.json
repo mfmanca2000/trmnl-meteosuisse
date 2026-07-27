@@ -1,0 +1,22 @@
+{
+  "date": "09-01",
+  "feast_day": "September 1",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Giles",
+      "feast_day": "September 1",
+      "era": "7th century",
+      "patronage": [
+        "beggars",
+        "poor",
+        "disabled",
+        "brewers"
+      ],
+      "legacy": "Patron of the poor and disabled",
+      "summary": "Saint Giles was a 7th-century hermit known for his deep compassion and miraculous deeds. Born in Athens to a noble family, he dedicated his life to poverty and solitude, performing numerous miracles that drew people to him. His legacy includes the establishment of a monastery in France that became a center of the Benedictine Order.",
+      "image": "/images/saint_giles.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giles_of_Provence"
+    }
+  ]
+}

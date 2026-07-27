@@ -1,0 +1,21 @@
+{
+  "date": "10-01",
+  "feast_day": "October 1",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Remigius",
+      "feast_day": "October 1",
+      "era": "5th century",
+      "patronage": [
+        "France",
+        "baptism",
+        "merchants"
+      ],
+      "legacy": "Apostle of the Franks and France",
+      "summary": "Saint Remigius was a 5th-century bishop who played a crucial role in the conversion of the Frankish king Clovis to Christianity. He is known for baptizing Clovis and leading the Christianization of France, which earned the country the title of 'eldest daughter of the Church.' His long episcopate and miraculous deeds solidified his legacy as a significant figure in the history of the Catholic Church in France.",
+      "image": "/images/saint_remi.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Remigius"
+    }
+  ]
+}

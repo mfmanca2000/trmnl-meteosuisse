@@ -1,0 +1,20 @@
+{
+  "date": "06-28",
+  "feast_day": "June 28",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Irenaeus",
+      "feast_day": "June 28",
+      "era": "2nd century",
+      "patronage": [
+        "apologists",
+        "against heresies"
+      ],
+      "legacy": "Defender of the faith against heresies",
+      "summary": "Saint Irenaeus was a prominent early Christian theologian and bishop of Lyons, known for his role in combating heresies in the 2nd century. He is best remembered for his work 'Adversus Haereses,' which defended the Christian faith against Gnostic teachings. Irenaeus was martyred around the year 202 under the Roman Emperor Septimus Severus, leaving a lasting legacy as a Doctor of the Church.",
+      "image": "/images/saint_irenaeus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Irenaeus"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "07-01",
+  "feast_day": "July 1",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Most Precious Blood of Jesus",
+      "feast_day": "July 1",
+      "era": null,
+      "patronage": null,
+      "legacy": "Symbol of salvation and divine grace",
+      "summary": "The Most Precious Blood of Jesus is venerated in the Catholic Church as a source of salvation and grace. It symbolizes the sacrifice of Christ and the cleansing power it holds for humanity's sins. Devotees believe that through the Precious Blood, believers can attain eternal life and healing for their souls.",
+      "image": "/images/most_precious_blood_of_jesus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Feast_of_the_Most_Precious_Blood"
+    },
+    {
+      "name": "Gal",
+      "feast_day": "July 1",
+      "era": "6th century",
+      "patronage": [
+        "against fevers"
+      ],
+      "legacy": "A model of humility and patience",
+      "summary": "Saint Gal was a bishop of Clermont who dedicated his life to God after renouncing worldly pursuits. Known for his humility, charity, and remarkable patience, he became a respected leader in the Church. He participated in significant councils and is remembered for the miracles that occurred at his tomb after his death in 553.",
+      "image": "/images/saint_gal.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Gal_I_of_Clermont"
+    }
+  ]
+}

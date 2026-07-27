@@ -1,0 +1,34 @@
+{
+  "date": "02-12",
+  "feast_day": "February 12",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Seven Holy Servite Founders",
+      "feast_day": "February 12",
+      "era": "Medieval",
+      "patronage": [
+        "servants of Mary",
+        "spiritual retreats"
+      ],
+      "legacy": "Founders of the Servite Order",
+      "summary": "The Seven Holy Servite Founders were a group of men from Florence who dedicated their lives to God in the mid-13th century. They formed the Order of the Servants of Mary after receiving a vision from the Blessed Virgin Mary, encouraging them to live a life of prayer and penance. Their commitment led to the establishment of a religious order that grew significantly throughout Europe and beyond.",
+      "image": "/images/the_seven_holy_servite_founders.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Servites"
+    },
+    {
+      "name": "Benedict of Anian",
+      "feast_day": "February 12",
+      "era": "8th century",
+      "patronage": [
+        "monks",
+        "spirituality",
+        "monastic life"
+      ],
+      "legacy": "Restorer of monastic discipline and unity",
+      "summary": "Benedict of Anian was a prominent abbot and reformer of monastic life in the 8th century. He is known for restoring monastic discipline and establishing a unified rule for monks in the West, based on the Rule of Saint Benedict. His efforts significantly influenced the development of monasticism in France and Germany, leading to a revival of spiritual fervor among monks.",
+      "image": "/images/saint_benedict_of_anian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Benedict_of_Aniane"
+    }
+  ]
+}

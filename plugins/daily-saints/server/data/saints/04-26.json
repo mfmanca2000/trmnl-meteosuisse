@@ -1,0 +1,31 @@
+{
+  "date": "04-26",
+  "feast_day": "April 26",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Our Lady of Good Counsel",
+      "feast_day": "April 26",
+      "era": "15th century",
+      "patronage": [
+        "counselors",
+        "mothers",
+        "the mentally ill"
+      ],
+      "legacy": "A source of guidance and miracles",
+      "summary": "Our Lady of Good Counsel is a title of the Blessed Virgin Mary associated with a miraculous image that appeared in Gennazano, Italy, in 1467. The image, believed to have been transported from Albania, has been a source of numerous miracles and spiritual graces for the faithful. The devotion to Our Lady of Good Counsel has been recognized by the Church, and her feast day is celebrated with great reverence.",
+      "image": "/images/our_lady_of_good_counsel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Our_Lady_of_Good_Counsel"
+    },
+    {
+      "name": "Cletus and Marcellinus",
+      "feast_day": "April 26",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Popes and Martyrs",
+      "summary": "Saint Cletus was the third Bishop of Rome, succeeding to Saint Linus, which circumstance alone commends his eminent virtue among the first disciples of Saint Peter in the West. A church and a hospital founded by him, though ruined and rebuilt several times, survived until the 18 th century, and the memory of his charity was so well conserved by the Romans, that the Crucifers who then were still serving in his hospice, considered him their founder. Saint Cletus was martyred after the peaceful reign of the Emperor Titus, when Domitian replaced him; the date was April 26 th of the year 89.",
+      "image": "/images/saint_clet.jpg",
+      "wikipedia": null
+    }
+  ]
+}

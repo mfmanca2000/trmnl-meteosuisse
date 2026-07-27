@@ -1,0 +1,21 @@
+{
+  "date": "04-03",
+  "feast_day": "April 3",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Richard of Chichester",
+      "feast_day": "April 3",
+      "era": "Medieval",
+      "patronage": [
+        "bishopric",
+        "poor",
+        "students"
+      ],
+      "legacy": "Champion of the poor and Church rights",
+      "summary": "Richard of Chichester was a 13th-century bishop known for his dedication to the Church and his commitment to social justice. He faced significant opposition from the king but remained steadfast in his duties, advocating for the rights of the Church and the welfare of the poor. His legacy includes a reputation for holiness and miraculous works, making him a beloved figure in English Christianity.",
+      "image": "/images/saint_richard_of_chichester.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Richard_of_Chichester"
+    }
+  ]
+}

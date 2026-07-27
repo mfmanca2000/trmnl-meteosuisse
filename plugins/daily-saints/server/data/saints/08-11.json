@@ -1,0 +1,41 @@
+{
+  "date": "08-11",
+  "feast_day": "August 11",
+  "count": 3,
+  "saints": [
+    {
+      "name": "Philomena",
+      "feast_day": "August 11",
+      "era": "3rd century",
+      "patronage": [
+        "children",
+        "lost causes",
+        "virgins"
+      ],
+      "legacy": "Protector of children and miracle worker",
+      "summary": "Saint Philomena is a virgin and martyr who is believed to have died in the third century under the Roman Emperor Diocletian. Her tomb was discovered in the early 19th century, leading to a surge in devotion and reports of miracles attributed to her intercession. She is particularly venerated as a protector of children and is known for her miraculous works, earning her the title of the wonder-worker of the 19th century.",
+      "image": "/images/saint_philomena.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Philomena"
+    },
+    {
+      "name": "Tiburtius",
+      "feast_day": "August 11",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Martyrdom for unwavering faith in God",
+      "summary": "Saint Tiburtius was a Christian martyr and the son of the Roman prefect Agrestius Chromatius. He was baptized alongside his father and later ordained as a subdeacon, known for his miraculous acts, including raising a man from the dead. Tiburtius was ultimately martyred under the persecution of Diocletian for his unwavering faith in God.",
+      "image": "/images/saint_tiburtius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Tiburtius"
+    },
+    {
+      "name": "Susanna",
+      "feast_day": "August 11",
+      "era": "3rd century",
+      "patronage": null,
+      "legacy": "Courageous martyr of early Christianity",
+      "summary": "Saint Susanna was a noble Roman virgin and martyr, known for her strong commitment to her vow of chastity. She refused to marry the emperor Diocletian's favorite, Maximian, and was subsequently arrested and executed for her faith. Her legacy is honored in the Christian tradition, particularly for her courage and dedication to God amidst persecution.",
+      "image": "/images/saint_susanna.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Susanna"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "07-22",
+  "feast_day": "July 22",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mary Magdalen",
+      "feast_day": "July 22",
+      "era": "1st century",
+      "patronage": [
+        "penitents",
+        "women",
+        "converts"
+      ],
+      "legacy": "Symbol of repentance and devotion",
+      "summary": "Mary Magdalen is a prominent figure in the New Testament, known for her deep devotion to Jesus Christ. She was a witness to His crucifixion and the first to encounter the resurrected Christ, receiving the message of His resurrection to share with the Apostles. Her life exemplifies repentance and the transformative power of love and faith in Jesus.",
+      "image": "/images/saint_mary_magdalen.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary_Magdalene"
+    }
+  ]
+}

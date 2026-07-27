@@ -1,0 +1,35 @@
+{
+  "date": "12-23",
+  "feast_day": "December 23",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Margaret d'Youville",
+      "feast_day": "December 23",
+      "era": "18th century",
+      "patronage": [
+        "the poor",
+        "hospital workers",
+        "widows"
+      ],
+      "legacy": "Pioneer of charity and healthcare in Canada",
+      "summary": "Margaret d'Youville was a Canadian foundress known for establishing the Sisters of Charity, also known as the Grey Nuns, in Montreal. After becoming a widow, she dedicated her life to serving the poor, the sick, and the marginalized in her community. Her legacy continues through the ongoing work of the Grey Nuns, who have expanded their mission across North America.",
+      "image": "/images/saint_margaret_d_youville.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie-Marguerite_d%27Youville"
+    },
+    {
+      "name": "Servulus of Rome",
+      "feast_day": "December 23",
+      "era": "7th century",
+      "patronage": [
+        "the disabled",
+        "beggars",
+        "sick people"
+      ],
+      "legacy": "A model of faith in suffering",
+      "summary": "Saint Servulus of Rome was a paralyzed beggar who lived in poverty yet exemplified profound faith and patience. Despite his physical limitations, he devoted his life to prayer and meditation on the sufferings of Christ, becoming a source of inspiration for many. His life of humility and charity transformed his suffering into a powerful witness of God's grace.",
+      "image": "/images/saint_servulus_of_rome.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Servulus_of_Rome"
+    }
+  ]
+}

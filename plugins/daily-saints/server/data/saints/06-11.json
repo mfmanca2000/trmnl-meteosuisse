@@ -1,0 +1,21 @@
+{
+  "date": "06-11",
+  "feast_day": "June 11",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Barnabas",
+      "feast_day": "June 11",
+      "era": "1st century",
+      "patronage": [
+        "Cyprus",
+        "missionaries",
+        "comforters"
+      ],
+      "legacy": "Apostle of the Gentiles and martyr",
+      "summary": "Barnabas was an early Christian disciple and apostle known for his role in the spread of the Gospel. He is recognized for his partnership with Saint Paul in missionary journeys and for his efforts in establishing the Church in Antioch. Barnabas ultimately became the first bishop of Milan and was martyred for his faith around the year 61.",
+      "image": "/images/saint_barnabas.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Barnabas"
+    }
+  ]
+}

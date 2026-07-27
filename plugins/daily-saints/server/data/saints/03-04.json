@@ -1,0 +1,23 @@
+{
+  "date": "03-04",
+  "feast_day": "March 4",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Casimir",
+      "feast_day": "March 4",
+      "era": "15th century",
+      "patronage": [
+        "Poland",
+        "young people",
+        "virgins",
+        "sick",
+        "students"
+      ],
+      "legacy": "Model of purity and devotion to God",
+      "summary": "Casimir was a Polish prince known for his deep piety and commitment to a life of virtue. He chose to remain a virgin and devoted himself to prayer and charity, even in the face of illness. After his death, he was venerated for the miracles attributed to him, including healing the sick and raising the dead.",
+      "image": "/images/saint_casimir.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Casimir_of_Poland"
+    }
+  ]
+}

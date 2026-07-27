@@ -1,0 +1,31 @@
+{
+  "date": "10-24",
+  "feast_day": "October 24",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Raphael",
+      "feast_day": "October 24",
+      "era": "Biblical",
+      "patronage": [
+        "healers",
+        "travelers",
+        "the blind"
+      ],
+      "legacy": "Angel of healing and guidance",
+      "summary": "Raphael is one of the seven archangels who stand before God and is known for his role in the Book of Tobit, where he guides Tobias on a journey to retrieve his father's money and find a wife. He is associated with healing, as he helps cure Tobias's father's blindness and is believed to have agitated the waters of the pool of Bethsaida for healing. Raphael's name means 'God heals,' and he is revered for his assistance and guidance in times of need.",
+      "image": "/images/saint_raphael_the_archangel.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raphael_the_Archangel"
+    },
+    {
+      "name": "Magloire",
+      "feast_day": "October 24",
+      "era": "6th century",
+      "patronage": null,
+      "legacy": "Devoted abbot and miracle worker",
+      "summary": "Saint Magloire was an abbot from Brittany who dedicated his life to monastic service and prayer. He governed the monastery at Lanmeur for over fifty years before becoming the Abbot of Dol. Known for his piety and miraculous intercessions, he is remembered for his deep devotion and the establishment of a monastery on the Island of Jersey.",
+      "image": "/images/saint_magloire.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Magloire"
+    }
+  ]
+}

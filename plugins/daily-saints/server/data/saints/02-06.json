@@ -1,0 +1,35 @@
+{
+  "date": "02-06",
+  "feast_day": "February 6",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Titus",
+      "feast_day": "February 6",
+      "era": "1st century",
+      "patronage": [
+        "Crete",
+        "clergy",
+        "administrators"
+      ],
+      "legacy": "Peacemaker and faithful disciple of Paul",
+      "summary": "Saint Titus was a Greek-speaking convert and a disciple of Saint Paul, accompanying him on various apostolic missions. He played a crucial role in addressing issues within the Corinthian church and was later appointed as the bishop of Crete. His legacy is marked by his administrative skills and his ability to inspire respect and joy among the faithful.",
+      "image": "/images/saint_titus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Titus"
+    },
+    {
+      "name": "Dorothy",
+      "feast_day": "February 6",
+      "era": "Early 4th century",
+      "patronage": [
+        "gardeners",
+        "florists",
+        "virgins"
+      ],
+      "legacy": "Martyrdom and miraculous gifts of flowers",
+      "summary": "Saint Dorothy was a young virgin and martyr from Caesarea of Cappadocia, known for her unwavering faith during the Diocletian persecution. She faced torture and execution with joy, inspiring others to return to Christianity through her steadfastness. Her legacy includes the miraculous delivery of apples and roses to her persecutor, symbolizing her connection to the divine and her role as a patron of gardeners and florists.",
+      "image": "/images/saint_dorothy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_of_Caesarea"
+    }
+  ]
+}

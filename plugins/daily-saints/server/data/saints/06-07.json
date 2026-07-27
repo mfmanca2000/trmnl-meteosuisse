@@ -1,0 +1,27 @@
+{
+  "date": "06-07",
+  "feast_day": "June 7",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Claude",
+      "feast_day": "June 7",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "Model of monastic and pastoral dedication",
+      "summary": "Saint Claude was an influential archbishop and abbot in the early medieval period, known for his deep spirituality and dedication to the monastic life. He played a significant role in the formation of clergy and was recognized for his powerful sermons that inspired moral transformation. His legacy includes a commitment to prayer, humility, and the nurturing of a devout community, which continued to flourish long after his death.",
+      "image": "/images/saint_claude.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Claude_of_Besan%C3%A7on"
+    },
+    {
+      "name": "Robert of Newminster",
+      "feast_day": "June 7",
+      "era": "12th century",
+      "patronage": null,
+      "legacy": "Founder of Fountains Abbey and monastic reformer",
+      "summary": "Robert of Newminster was an English abbot and a key figure in the reform of the Benedictine order during the 12th century. He founded the monastery of Fountains Abbey and later became the abbot of Newminster, guiding his community towards holiness and strict observance of monastic life. His legacy is marked by his deep commitment to asceticism and the spiritual growth of his brethren, which inspired the establishment of several new monastic communities.",
+      "image": "/images/saint_robert_of_newminster.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Robert_of_Newminster"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "date": "12-11",
+  "feast_day": "December 11",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Damasus",
+      "feast_day": "December 11",
+      "era": "4th century",
+      "patronage": null,
+      "legacy": "Promoter of the Vulgate and Church unity",
+      "summary": "Saint Damasus I served as Pope from 366 to 384 and is known for his efforts to combat Arianism and Apollinarianism. He commissioned Saint Jerome to produce the Vulgate, a significant Latin translation of the Bible. Damasus also worked to beautify the Church and honor the martyrs, leaving a lasting legacy in the history of the Catholic Church.",
+      "image": "/images/saint_damasus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Damasus_I"
+    }
+  ]
+}

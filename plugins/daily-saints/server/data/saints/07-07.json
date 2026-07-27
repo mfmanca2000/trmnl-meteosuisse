@@ -1,0 +1,34 @@
+{
+  "date": "07-07",
+  "feast_day": "July 7",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cyril and Methodius",
+      "feast_day": "July 7",
+      "era": "9th century",
+      "patronage": [
+        "Slavic peoples",
+        "linguists",
+        "educators"
+      ],
+      "legacy": "Pioneers of Slavic literacy and Christianity",
+      "summary": "Saints Cyril and Methodius were brothers from Thessalonica who became known as the Apostles to the Slavic nations. They created the Glagolitic alphabet, which allowed for the translation of the Bible and other texts into the Slavic languages. Their missionary work significantly contributed to the spread of Christianity in Eastern Europe during the 9th century.",
+      "image": "/images/saints_cyril_and_methodius.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_and_Methodius"
+    },
+    {
+      "name": "Pantænus",
+      "feast_day": "July 7",
+      "era": "2nd century",
+      "patronage": [
+        "teachers",
+        "missionaries"
+      ],
+      "legacy": "Pioneer of Christian education and missions",
+      "summary": "Pantænus was a prominent Christian teacher and theologian in the second century, known for his role as the head of the Christian school in Alexandria. He traveled to India to spread the Gospel, where he discovered early Christian teachings and the Hebrew Gospel of Matthew. His dedication to education and evangelization significantly influenced the spread of Christianity in the eastern regions.",
+      "image": "/images/saint_pantaenus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Pantaenus"
+    }
+  ]
+}

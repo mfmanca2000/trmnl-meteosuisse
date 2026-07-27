@@ -1,0 +1,35 @@
+{
+  "date": "05-06",
+  "feast_day": "May 6",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Dominic Savio",
+      "feast_day": "May 6",
+      "era": "19th century",
+      "patronage": [
+        " choirboys",
+        " juvenile delinquents",
+        " students"
+      ],
+      "legacy": "Inspiring youth through faith and joy",
+      "summary": "Dominic Savio was a young Italian student and a member of the Salesian Society, known for his deep commitment to his faith and his desire for holiness from a young age. He was a close associate of Saint John Bosco and founded the Immaculate Conception Sodality to promote faith among his peers. Despite his short life, he is remembered for his cheerful disposition and dedication to helping others grow in their faith.",
+      "image": "/images/saint_dominic_savio.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dominic_Savio"
+    },
+    {
+      "name": "John",
+      "feast_day": "May 6",
+      "era": "1st century",
+      "patronage": [
+        "authors",
+        "theologians",
+        "apothecaries"
+      ],
+      "legacy": "Beloved disciple and author of Revelation",
+      "summary": "Saint John the Evangelist was the last surviving Apostle and played a significant role in the early Church, particularly in Asia Minor. He was famously subjected to a miraculous escape from martyrdom when he was cast into a cauldron of boiling oil, which did not harm him. Ultimately, he was exiled to the island of Patmos, where he received the visions that would become the Book of Revelation.",
+      "image": "/images/saint_john_before_the_latin_gate.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_the_Evangelist"
+    }
+  ]
+}

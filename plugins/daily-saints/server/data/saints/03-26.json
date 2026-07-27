@@ -1,0 +1,21 @@
+{
+  "date": "03-26",
+  "feast_day": "March 26",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Ludger",
+      "feast_day": "March 26",
+      "era": "8th century",
+      "patronage": [
+        "Westphalia",
+        "Friesland",
+        "educators"
+      ],
+      "legacy": "Pioneer of Christian faith in Northern Europe",
+      "summary": "Saint Ludger was the first Bishop of Munster and played a significant role in the Christianization of the Saxons in Friesland. Educated under Saint Gregory of Utrecht and Alcuin in England, he founded several monasteries and churches during his missionary work. Known for his deep piety and miracles, he continued his pastoral duties until his death on March 26, 809.",
+      "image": "/images/saint_ludger.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ludger"
+    }
+  ]
+}

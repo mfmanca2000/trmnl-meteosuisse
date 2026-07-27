@@ -1,0 +1,37 @@
+{
+  "date": "08-25",
+  "feast_day": "August 25",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Louis IX",
+      "feast_day": "August 25",
+      "era": "Medieval",
+      "patronage": [
+        "France",
+        "crusaders",
+        "lepers",
+        "barbers",
+        "the dying"
+      ],
+      "legacy": "A model of Christian kingship and justice.",
+      "summary": "Louis IX, also known as Saint Louis, was the King of France from 1226 until his death in 1270. Renowned for his deep piety and commitment to justice, he led two Crusades and was a protector of the weak and oppressed. His legacy includes the construction of the Sainte Chapelle in Paris, which houses the Crown of Thorns, and he is remembered as a model of Christian kingship.",
+      "image": "/images/saint_louis_ix.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+    },
+    {
+      "name": "Mary Micaela",
+      "feast_day": "August 25",
+      "era": "19th century",
+      "patronage": [
+        "young girls",
+        "education",
+        "charity"
+      ],
+      "legacy": "A pioneer in education and charity",
+      "summary": "Mary Micaela, also known as Madre Sacramento, was a Spanish foundress who dedicated her life to the education and reformation of young girls in need. She established the Institute of Religious Adorer-Slaves of the Most Blessed Sacrament and of Charity, focusing on a deep love for the Eucharist and service to others. Beatified in 1925 and canonized in 1934, her legacy continues through her religious order and charitable works.",
+      "image": "/images/saint_mary_micaela.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Maria_Micaela_Desmaisieres"
+    }
+  ]
+}

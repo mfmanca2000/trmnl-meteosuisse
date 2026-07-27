@@ -1,0 +1,17 @@
+{
+  "date": "01-10",
+  "feast_day": "January 10",
+  "count": 1,
+  "saints": [
+    {
+      "name": "William of Bourges",
+      "feast_day": "January 10",
+      "era": "Medieval",
+      "patronage": null,
+      "legacy": "A model of piety and humility",
+      "summary": "William of Bourges was an Archbishop known for his deep piety and commitment to a life of austerity. He initially served as a canon before joining the Cistercians and later became the Archbishop of Bourges, where he focused on leading a holy life and performing penance for others. His tomb became a site of numerous miracles, leading to his canonization just nine years after his death.",
+      "image": "/images/saint_william.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/William_of_Bourges"
+    }
+  ]
+}

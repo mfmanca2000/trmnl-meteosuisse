@@ -1,0 +1,34 @@
+{
+  "date": "10-25",
+  "feast_day": "October 25",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Chrysanthus",
+      "feast_day": "October 25",
+      "era": "3rd century",
+      "patronage": [
+        "martyrs",
+        "converts"
+      ],
+      "legacy": "Martyrdom and faith in adversity",
+      "summary": "Chrysanthus was a young Roman martyr who, along with his wife Daria, converted many to Christianity through their faith and teachings. Despite facing severe persecution from his father and the Roman authorities, he remained steadfast in his beliefs. Ultimately, both were martyred by being buried alive for their refusal to renounce their faith.",
+      "image": "/images/saint_chrysanthus_and_saint_daria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chrysanthus"
+    },
+    {
+      "name": "Crispin and Crispinian",
+      "feast_day": "October 25",
+      "era": "3rd century",
+      "patronage": [
+        "shoemakers",
+        "leather workers",
+        "bravery"
+      ],
+      "legacy": "Martyrs of faith and perseverance",
+      "summary": "Crispin and Crispinian were brothers and martyrs who preached Christianity in Gaul during the 3rd century. They were known for their shoemaking skills and their ability to convert many through their affable demeanor and profound faith. Ultimately, they suffered severe tortures and were executed for their beliefs under the orders of Emperor Diocletian around the year 286.",
+      "image": "/images/saints_crispin_and_crispinian.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Crispin_and_Crispinian"
+    }
+  ]
+}

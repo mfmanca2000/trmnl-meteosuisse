@@ -1,0 +1,30 @@
+{
+  "date": "02-21",
+  "feast_day": "February 21",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Didace Pelletier",
+      "feast_day": "February 21",
+      "era": "17th century",
+      "patronage": [
+        "lay brothers",
+        "carpenters"
+      ],
+      "legacy": "First Canadian-born Lay Brother of Recollets",
+      "summary": "Didace Pelletier, known as Blessed Brother Didace, was the first Canadian-born Lay Brother of the Recollets in New France. He was a skilled carpenter who contributed significantly to the construction of various missions and churches in Canada. His life of piety and dedication to his work left a lasting legacy of sanctity in Canadian history.",
+      "image": "/images/blessed_brother_didace_pelletier.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Diane_Pelletier"
+    },
+    {
+      "name": "Severianus",
+      "feast_day": "February 21",
+      "era": "5th century",
+      "patronage": null,
+      "legacy": "Courageous defender of the faith",
+      "summary": "Saint Severianus was a bishop and martyr known for his steadfast resistance against the Eutychian heresy during the reign of Emperor Marcian. He courageously opposed the tyrannical monk Theodosius, who persecuted Christians in Jerusalem. Severianus ultimately paid the ultimate price for his faith, being martyred around the year 452 or 453.",
+      "image": "/images/saint_severianus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Severianus,_Bishop_of_Scythopolis"
+    }
+  ]
+}

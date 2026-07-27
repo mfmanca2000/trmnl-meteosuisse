@@ -1,0 +1,21 @@
+{
+  "date": "02-07",
+  "feast_day": "February 7",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Romuald",
+      "feast_day": "February 7",
+      "era": "10th century",
+      "patronage": [
+        "hermits",
+        "monks",
+        "spirituality"
+      ],
+      "legacy": "Founder of the Camaldolese order",
+      "summary": "Saint Romuald was a Benedictine monk and the founder of the Camaldolese order in the 10th century. He dedicated his life to restoring the primitive rule of Saint Benedict and established numerous monasteries across Italy and France. Known for his deep spirituality and commitment to solitude, he overcame many temptations and adversities, ultimately leading a life of profound holiness until his death in 1027.",
+      "image": "/images/saint_romuald.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Romuald"
+    }
+  ]
+}

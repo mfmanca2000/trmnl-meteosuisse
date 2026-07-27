@@ -1,0 +1,36 @@
+{
+  "date": "09-17",
+  "feast_day": "September 17",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Francis of Assisi",
+      "feast_day": "September 17",
+      "era": "Medieval",
+      "patronage": [
+        "animals",
+        "environment",
+        "merchants",
+        "stowaways"
+      ],
+      "legacy": "Patron saint of animals and ecology",
+      "summary": "Francis of Assisi was a 13th-century Italian friar and founder of the Franciscan Order, known for his deep love of nature and commitment to poverty. He is most famously recognized for receiving the Stigmata, the wounds of Christ, which marked him as a living reflection of Jesus' suffering. His life and teachings emphasized humility, compassion, and a profound connection to all of creation.",
+      "image": "/images/the_stigmata_of_saint_francis.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    },
+    {
+      "name": "Lambert",
+      "feast_day": "September 17",
+      "era": "7th century",
+      "patronage": [
+        "bishops",
+        "stone masons",
+        "fishermen"
+      ],
+      "legacy": "Martyrdom for faith and integrity",
+      "summary": "Saint Lambert was a bishop of Maestricht and a martyr who lived in the 7th century. Known for his miracles and dedication to the Gospel, he was chosen as a successor to Bishop Theodard at a young age. His strong opposition to moral corruption ultimately led to his assassination in 705.",
+      "image": "/images/saint_lambert.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Lambert_of_Maastricht"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "01-23",
+  "feast_day": "January 23",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Raymond of Pennafort",
+      "feast_day": "January 23",
+      "era": "13th century",
+      "patronage": [
+        "lawyers",
+        "captives",
+        "ransom of captives"
+      ],
+      "legacy": "Patron of lawyers and captives",
+      "summary": "Raymond of Pennafort was a Spanish Dominican priest and a prominent figure in the 13th century. He is best known for founding the Order of Our Lady of Ransom, dedicated to the redemption of Christian captives from Muslim hands. His legacy includes significant contributions to canon law and a life marked by miracles and deep devotion to the Virgin Mary.",
+      "image": "/images/saint_raymond_of_pennafort.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Raymond_of_Pe%C3%B1afort"
+    },
+    {
+      "name": "Ildephonsus",
+      "feast_day": "January 23",
+      "era": "7th century",
+      "patronage": [
+        "theologians",
+        "virgins",
+        "Toledo"
+      ],
+      "legacy": "Defender of Mary's perpetual virginity",
+      "summary": "Ildephonsus was a 7th-century Bishop of Toledo known for his defense of the Virgin Mary's perpetual virginity. He was a prominent theologian and wrote extensively on Marian doctrine, earning the title 'Doctor of the Virginity of the Mother of God.' His legacy includes numerous miracles attributed to him and the establishment of a monastery for virgins in honor of Mary.",
+      "image": "/images/saint_ildephonsus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Ildephonsus_of_Toledo"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "06-10",
+  "feast_day": "June 10",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Margaret",
+      "feast_day": "June 10",
+      "era": "Medieval",
+      "patronage": [
+        "Scotland",
+        "difficult marriages",
+        "widows"
+      ],
+      "legacy": "A queen of faith and charity",
+      "summary": "Saint Margaret of Scotland was a queen known for her deep piety and commitment to the Church. She was instrumental in the spiritual and material improvement of her realm, building churches and educating her children in the faith. Her life exemplified a balance of royal duty and personal holiness, leading her to be revered as a saint after her death in 1093.",
+      "image": "/images/saint_margaret_queen_of_scotland.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Scotland"
+    }
+  ]
+}

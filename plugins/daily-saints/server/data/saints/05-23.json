@@ -1,0 +1,27 @@
+{
+  "date": "05-23",
+  "feast_day": "May 23",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Joan Antide Thouret",
+      "feast_day": "May 23",
+      "era": "19th century",
+      "patronage": null,
+      "legacy": "Foundress",
+      "summary": "Born in the diocese of Besançon in November of 1765, Saint Joan Antide lost her pious mother when she was 16 years old, and for several years took charge of the household and her family of younger brothers and sisters. After many hesitations, her father permitted her to enter the Congregation of the Daughters of Charity of Saint Vincent de Paul in Paris in 1787. She worked in various hospitals caring for the sick, until the Revolution in France brought about the dispersion of the Congregations.",
+      "image": "/images/saint_joan_antide_thouret.jpg",
+      "wikipedia": null
+    },
+    {
+      "name": "Julia",
+      "feast_day": "May 23",
+      "era": null,
+      "patronage": null,
+      "legacy": "Virgin, Martyr",
+      "summary": "was a noble virgin of Carthage, who, when the city was taken by Genseric in 439, was sold for a slave to a pagan merchant of Syria. In the most mortifying employments of her station, by cheerfulness and patience she found a happiness and comfort which the world could not give. Whenever she was not employed in household affairs, her time was devoted to prayer and reading books of piety.",
+      "image": "/images/saint_julia.jpg",
+      "wikipedia": null
+    }
+  ]
+}

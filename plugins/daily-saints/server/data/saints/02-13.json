@@ -1,0 +1,31 @@
+{
+  "date": "02-13",
+  "feast_day": "February 13",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Catherine of Ricci",
+      "feast_day": "February 13",
+      "era": "16th century",
+      "patronage": [
+        "Holy Souls",
+        "sick people",
+        "against bodily ills"
+      ],
+      "legacy": "Mystic devoted to the Passion of Christ",
+      "summary": "Catherine of Ricci was a 16th-century Italian virgin and mystic known for her deep devotion to the Passion of Christ. She experienced numerous mystical visions and received the stigmata, enduring intense suffering for the sake of the Holy Souls in purgatory. Her life was marked by extraordinary charity and intercession, leading many to seek her prayers after death.",
+      "image": "/images/saint_catherine_of_ricci.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Catherine_de%27_Ricci"
+    },
+    {
+      "name": "Ambrose Leblanc",
+      "feast_day": "February 13",
+      "era": "20th century",
+      "patronage": null,
+      "legacy": "A life of joy and unwavering faith",
+      "summary": "Ambrose Leblanc was a Canadian Franciscan bishop and missionary known for his dedication to the formation of youth and his work in Japan. He faced imprisonment during World War II but maintained a spirit of joy and faith, encouraging fellow priests to celebrate Mass despite their hardships. His legacy includes the promotion of devotion to the Virgin of the Smile and a deep commitment to his faith until his untimely death in 1959.",
+      "image": "/images/blessed_bishop_ambrose_leblanc.jpg",
+      "wikipedia": null
+    }
+  ]
+}

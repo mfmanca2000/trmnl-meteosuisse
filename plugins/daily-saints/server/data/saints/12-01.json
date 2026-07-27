@@ -1,0 +1,23 @@
+{
+  "date": "12-01",
+  "feast_day": "December 1",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Eligius",
+      "feast_day": "December 1",
+      "era": "7th century",
+      "patronage": [
+        "goldsmiths",
+        "metalworkers",
+        "farmers",
+        "poor",
+        "jewelers"
+      ],
+      "legacy": "Patron of goldsmiths and the poor",
+      "summary": "Eligius was a skilled metalworker and goldsmith who became known for his piety and charity. Appointed as the royal goldsmith by King Clotaire II, he dedicated his life to serving the poor and creating beautiful reliquaries for saints. Later, he became the Bishop of Noyon, where he continued his good works and was known for performing miracles.",
+      "image": "/images/saint_eligius_or_eloy.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Eligius"
+    }
+  ]
+}

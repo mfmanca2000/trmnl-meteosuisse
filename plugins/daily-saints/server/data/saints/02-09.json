@@ -1,0 +1,35 @@
+{
+  "date": "02-09",
+  "feast_day": "February 9",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Cyril of Alexandria",
+      "feast_day": "February 9",
+      "era": "5th century",
+      "patronage": [
+        "theologians",
+        "students",
+        "Egypt"
+      ],
+      "legacy": "Defender of the Incarnation and Theotokos",
+      "summary": "Cyril of Alexandria was a prominent theologian and the Patriarch of Alexandria in the early 5th century. He played a crucial role in the Christological controversies of his time, particularly opposing Nestorianism and advocating for the title Theotokos for Mary. His writings and theological insights significantly shaped Christian doctrine and earned him the title of Doctor of the Church.",
+      "image": "/images/saint_cyril_of_alexandria.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
+    },
+    {
+      "name": "Apollonia",
+      "feast_day": "February 9",
+      "era": "3rd century",
+      "patronage": [
+        "dentists",
+        "toothaches",
+        "martyrs"
+      ],
+      "legacy": "Courageous witness of faith and martyrdom",
+      "summary": "Saint Apollonia was a Christian martyr from Alexandria, known for her unwavering faith during a brutal persecution of Christians in 249 AD. She was subjected to horrific torture, including having her teeth beaten out, before being led to a fire where she chose to die rather than deny Christ. Her courage and steadfastness in the face of death have made her a symbol of faith and martyrdom in the Christian tradition.",
+      "image": "/images/saint_apollonia_virgin_and_the_martyrs_of_alexandr.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Apollonia"
+    }
+  ]
+}

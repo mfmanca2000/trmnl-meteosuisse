@@ -1,0 +1,21 @@
+{
+  "date": "08-28",
+  "feast_day": "August 28",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Augustine",
+      "feast_day": "August 28",
+      "era": "Early Church",
+      "patronage": [
+        "theologians",
+        "printers",
+        "brewers"
+      ],
+      "legacy": "Father of Western Christianity and philosophy",
+      "summary": "Saint Augustine was a prominent theologian and philosopher who played a crucial role in the development of Western Christianity. Born in 354 in North Africa, he led a tumultuous early life before experiencing a profound conversion to Christianity at the age of 32. As the Bishop of Hippo, he became a key figure in the fight against heresy and left behind a rich legacy of writings that continue to influence Christian thought today.",
+      "image": "/images/saint_augustine.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+    }
+  ]
+}

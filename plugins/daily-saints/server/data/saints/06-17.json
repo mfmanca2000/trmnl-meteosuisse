@@ -1,0 +1,21 @@
+{
+  "date": "06-17",
+  "feast_day": "June 17",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Avitus",
+      "feast_day": "June 17",
+      "era": "6th century",
+      "patronage": [
+        "monks",
+        "the poor",
+        "miracles"
+      ],
+      "legacy": "Miracle worker and devoted abbot",
+      "summary": "Saint Avitus was a monk and abbot known for his deep commitment to God and service to the poor. He became the abbot of a monastery in Orleans and later lived in solitude, where he performed miracles, including restoring speech to a mute herdsman. His legacy includes the establishment of a monastery that bore his name and his reputation for intercessory prayer and miraculous deeds.",
+      "image": "/images/saint_avitus.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Avitus"
+    }
+  ]
+}

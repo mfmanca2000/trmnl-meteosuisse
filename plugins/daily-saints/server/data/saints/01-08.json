@@ -1,0 +1,17 @@
+{
+  "date": "01-08",
+  "feast_day": "January 8",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Apollinaris",
+      "feast_day": "January 8",
+      "era": "2nd century",
+      "patronage": null,
+      "legacy": "Defender of the faith in early Christianity",
+      "summary": "Apollinaris was a Bishop of Hierapolis in Phrygia and a notable figure in the early Church. He is best known for his apology to Emperor Marcus Aurelius, advocating for the protection of Christians during a time of persecution. Although much of his work has been lost, he was highly regarded by early Church historians for his defense of the faith against heresies.",
+      "image": "/images/saint_apollinaris_the_apologist.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Apollinaris_of_Hierapolis"
+    }
+  ]
+}

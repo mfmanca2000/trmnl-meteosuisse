@@ -1,0 +1,22 @@
+{
+  "date": "09-02",
+  "feast_day": "September 2",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Stephen",
+      "feast_day": "September 2",
+      "era": "11th century",
+      "patronage": [
+        "Hungary",
+        "rulers",
+        "politicians",
+        "bricklayers"
+      ],
+      "legacy": "Apostle of Hungary and Christian king",
+      "summary": "Stephen of Hungary was the first King of Hungary, reigning from 1000 until his death in 1038. He played a crucial role in converting the Hungarian people to Christianity and established the foundations of the Hungarian state. His legacy includes the promotion of Christian values and the establishment of the Catholic Church in Hungary.",
+      "image": "/images/saint_stephen_king_of_hungary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+    }
+  ]
+}

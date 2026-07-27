@@ -1,0 +1,17 @@
+{
+  "date": "07-04",
+  "feast_day": "July 4",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Bertha",
+      "feast_day": "July 4",
+      "era": "7th century",
+      "patronage": null,
+      "legacy": "Foundress of monasteries and holy mother",
+      "summary": "Saint Bertha was a French widow and abbess born in 644. After the death of her husband, she founded a monastery in Blangy and became known for her piety and dedication to the Christian faith. She is remembered for her role in establishing religious communities and her legacy of holiness through her daughters, who were also canonized saints.",
+      "image": "/images/saint_bertha.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bertha_of_Blangy"
+    }
+  ]
+}

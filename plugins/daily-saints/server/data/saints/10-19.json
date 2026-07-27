@@ -1,0 +1,20 @@
+{
+  "date": "10-19",
+  "feast_day": "October 19",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Peter of Alcantara",
+      "feast_day": "October 19",
+      "era": "16th century",
+      "patronage": [
+        "spiritual directors",
+        "penitents"
+      ],
+      "legacy": "A model of penance and reform",
+      "summary": "Peter of Alcantara was a Franciscan priest and reformer born in 1499 in Spain. He founded the Congregation of Saint Joseph of the Strict Observance to uphold the Rule of Saint Francis and was known for his extreme penance and dedication to prayer. His legacy includes guiding notable figures like Saint Teresa of Avila and promoting the Franciscan reform movement during the tumultuous 16th century.",
+      "image": "/images/saint_peter_of_alcantara.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Peter_of_Alc%C3%A1ntara"
+    }
+  ]
+}

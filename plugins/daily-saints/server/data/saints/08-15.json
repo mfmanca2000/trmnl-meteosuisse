@@ -1,0 +1,21 @@
+{
+  "date": "08-15",
+  "feast_day": "August 15",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "August 15",
+      "era": "1st century",
+      "patronage": [
+        "heaven",
+        "mothers",
+        "pregnant women"
+      ],
+      "legacy": "Mother of God and Queen of Saints",
+      "summary": "The Assumption of Mary commemorates the belief that the Blessed Virgin Mary was taken up into heaven at the end of her earthly life. This event signifies her unique role as the Mother of God and her exaltation above all saints. It is celebrated as a culmination of her virtues and her participation in the divine plan of salvation.",
+      "image": "/images/the_assumption_of_the_blessed_virgin_mary.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Assumption_of_Mary"
+    }
+  ]
+}

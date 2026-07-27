@@ -1,0 +1,22 @@
+{
+  "date": "02-02",
+  "feast_day": "February 2",
+  "count": 1,
+  "saints": [
+    {
+      "name": "Mary",
+      "feast_day": "February 2",
+      "era": "1st century",
+      "patronage": [
+        "mothers",
+        "pregnant women",
+        "family",
+        "loss of parents"
+      ],
+      "legacy": "Model of faith and humility",
+      "summary": "Mary is revered as the mother of Jesus Christ and is a central figure in Christianity. Her role in the Presentation of Jesus in the Temple highlights her obedience to Jewish law and her deep faith. She is often honored for her humility and devotion, serving as a model for believers seeking to follow God's will.",
+      "image": "/images/the_presentation_of_jesus_in_the_temple.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
+    }
+  ]
+}

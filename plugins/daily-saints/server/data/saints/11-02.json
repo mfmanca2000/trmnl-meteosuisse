@@ -1,0 +1,34 @@
+{
+  "date": "11-02",
+  "feast_day": "November 2",
+  "count": 2,
+  "saints": [
+    {
+      "name": "Odilon of Cluny",
+      "feast_day": "November 2",
+      "era": "10th century",
+      "patronage": [
+        "souls in purgatory",
+        "Benedictine monks"
+      ],
+      "legacy": "Champion of prayers for the departed",
+      "summary": "Saint Odilon of Cluny was a Benedictine abbot known for establishing the commemoration of all the faithful departed, which later became known as All Souls' Day. His efforts in promoting prayers for the dead emphasized the importance of intercession and charity within the Christian faith. Odilon's legacy continues to inspire the faithful to remember and pray for those who have passed away.",
+      "image": "/images/commemoration_of_the_faithful_departed.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Odilo_of_Cluny"
+    },
+    {
+      "name": "Malachy",
+      "feast_day": "November 2",
+      "era": "12th century",
+      "patronage": [
+        "Ireland",
+        "priests",
+        "the diocese of Armagh"
+      ],
+      "legacy": "Prophet of future popes and reformer",
+      "summary": "Saint Malachy was a 12th-century Irish bishop known for his dedication to reforming the Church and his prophetic visions regarding future popes. He served as the Archbishop of Armagh and was instrumental in revitalizing the faith among his people, enduring significant hardships during his ministry. His legacy includes a famous prophecy listing the mottos of future popes, which has intrigued scholars and the faithful alike.",
+      "image": "/images/saint_malachy_d_armagh.jpg",
+      "wikipedia": "https://en.wikipedia.org/wiki/Saint_Malachy"
+    }
+  ]
+}
