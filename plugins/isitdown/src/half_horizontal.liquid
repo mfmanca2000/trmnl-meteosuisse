@@ -1,47 +1,61 @@
 {% comment %}
-  Half horizontal layout (800x240). Same data as full.liquid.
-  1 service: centered, name above icon, updated_at below.
-  2, 3 or 4 services: width divided evenly among them, side by side.
+  Half horizontal layout (800x240). Same data as full.liquid. Wide and
+  short, so column count is biased to stay at 1 row as long as reasonable
+  (up to 5 services) before wrapping to a 2nd row.
 {% endcomment %}
 <div class="layout">
-  <div class="flex flex--col h--full w--full">
-    {% if count == 0 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="description text--center">No services configured</div>
-    </div>
-    {% elsif count == 1 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="title title--base lg:title--large text--center">{{ services[0].name }}</div>
-      {% if services[0].logoUrl %}
-      <img class="image image--cover image-dither rounded w--20 h--20" src="{{ services[0].logoUrl }}">
-      {% endif %}
-      <img class="image image--contain image-dither w--48 h--48 lg:w--56 lg:h--56" src="{{ services[0].iconUrl }}">
-      {% if services[0].updatedAtLabel %}
-      <div class="label label--small text--center label--gray">Updated {{ services[0].updatedAtLabel }}</div>
-      {% endif %}
-    </div>
-    {% else %}
-    <div class="flex flex--row flex--center-x flex--center-y gap--large grow w--full">
-      {% for service in services %}
-      <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-        <div class="flex flex--row flex--center-x flex--center-y gap--small">
-          {% if service.logoUrl %}
-          <img class="image image--cover image-dither rounded w--16 h--16" src="{{ service.logoUrl }}">
-          {% endif %}
-          <div class="label label--base">{{ service.name }}</div>
-        </div>
-        <img class="image image--contain image-dither w--16 h--16 lg:w--20 lg:h--20" src="{{ service.iconUrl }}">
-        {% if service.updatedAtLabel %}
-        <div class="label label--small label--gray">Updated {{ service.updatedAtLabel }}</div>
-        {% endif %}
-      </div>
-      {% endfor %}
-    </div>
-    {% endif %}
+  {% assign n = services.size %}
+  {% if services == blank or n == 0 %}
+  <div class="flex flex--col flex--center gap--small h--full">
+    <span class="title title--base">No services</span>
   </div>
+  {% else %}
+  {% assign cols = 1 %}
+  {% assign icon_size = 'w--28 h--28 lg:w--32 lg:h--32' %}
+  {% assign name_class = 'title title--base' %}
+  {% assign grid_gap = 'gap--medium' %}
+  {% if n <= 5 %}
+    {% assign cols = n %}
+    {% assign icon_size = 'w--16 h--16' %}
+    {% assign name_class = 'label label--base' %}
+  {% elsif n <= 6 %}
+    {% assign cols = 3 %}
+    {% assign icon_size = 'w--12 h--12' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--small' %}
+  {% elsif n <= 8 %}
+    {% assign cols = 4 %}
+    {% assign icon_size = 'w--10 h--10' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--small' %}
+  {% elsif n <= 10 %}
+    {% assign cols = 5 %}
+    {% assign icon_size = 'w--8 h--8' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% else %}
+    {% assign cols = 6 %}
+    {% assign icon_size = 'w--6 h--6' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% endif %}
+  <div class="grid grid--cols-{{ cols }} {{ grid_gap }} h--full">
+    {% for service in services limit: 12 %}
+    <div class="flex flex--row flex--center gap--xsmall h--full">
+      {% if service.logoUrl != blank %}
+      <img class="image image--contain image-dither {{ icon_size }} shrink-0" src="{{ service.logoUrl }}">
+      {% endif %}
+      <span class="{{ name_class }}">{{ service.name }}</span>
+      {% if service.iconUrl != blank %}
+      <img class="image image--contain image-dither {{ icon_size }} shrink-0" src="{{ service.iconUrl }}">
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
 </div>
 
 <div class="title_bar">
   <span class="title">IsItDown</span>
-  <span class="instance">Updated {{ updatedAtLabel }}</span>
+  <span class="instance">{{ services.size }} monitored</span>
 </div>

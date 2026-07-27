@@ -1,78 +1,68 @@
 {% comment %}
-  Quadrant layout (400x240). Same arrangement as full.liquid, scaled down
-  for the tightest space: 1 centered, 2 side by side, 3 as 2+1 centered,
-  4 as a 2x2 grid.
+  Quadrant layout (400x240). Same data and column-count logic as
+  full.liquid, scaled down for the tightest space (same aspect ratio as
+  full, just a quarter of the area, so sizes shrink faster with n).
 {% endcomment %}
 <div class="layout">
-  <div class="flex flex--col h--full w--full">
-    {% if count == 0 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="description text--center">No services configured</div>
-    </div>
-    {% elsif count == 1 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="title title--small lg:title--base text--center">{{ services[0].name }}</div>
-      {% if services[0].logoUrl %}
-      <img class="image image--cover image-dither rounded w--16 h--16" src="{{ services[0].logoUrl }}">
-      {% endif %}
-      <img class="image image--contain image-dither w--32 h--32 lg:w--36 lg:h--36" src="{{ services[0].iconUrl }}">
-      {% if services[0].updatedAtLabel %}
-      <div class="label label--small text--center label--gray">Updated {{ services[0].updatedAtLabel }}</div>
-      {% endif %}
-    </div>
-    {% elsif count == 2 %}
-    <div class="flex flex--row flex--center-x flex--center-y gap--medium grow w--full">
-      {% for service in services %}
-      <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-        <div class="label label--small text--center">{{ service.name }}</div>
-        <img class="image image--contain image-dither w--14 h--14" src="{{ service.iconUrl }}">
-      </div>
-      {% endfor %}
-    </div>
-    {% elsif count == 3 %}
-    {% assign row1 = services | slice: 0, 2 %}
-    {% assign row2 = services | slice: 2, 1 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-      <div class="flex flex--row flex--center-x flex--center-y gap--medium w--full">
-        {% for service in row1 %}
-        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-          <div class="label label--small text--center">{{ service.name }}</div>
-          <img class="image image--contain image-dither w--12 h--12" src="{{ service.iconUrl }}">
-        </div>
-        {% endfor %}
-      </div>
-      <div class="flex flex--row flex--center-x flex--center-y">
-        {% for service in row2 %}
-        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall">
-          <div class="label label--small text--center">{{ service.name }}</div>
-          <img class="image image--contain image-dither w--12 h--12" src="{{ service.iconUrl }}">
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% else %}
-    {% assign row1 = services | slice: 0, 2 %}
-    {% assign row2 = services | slice: 2, 2 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-      <div class="flex flex--row flex--center-x flex--center-y gap--medium w--full">
-        {% for service in row1 %}
-        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-          <div class="label label--small text--center">{{ service.name }}</div>
-          <img class="image image--contain image-dither w--10 h--10" src="{{ service.iconUrl }}">
-        </div>
-        {% endfor %}
-      </div>
-      <div class="flex flex--row flex--center-x flex--center-y gap--medium w--full">
-        {% for service in row2 %}
-        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-          <div class="label label--small text--center">{{ service.name }}</div>
-          <img class="image image--contain image-dither w--10 h--10" src="{{ service.iconUrl }}">
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
+  {% assign n = services.size %}
+  {% if services == blank or n == 0 %}
+  <div class="flex flex--col flex--center gap--small h--full">
+    <span class="title title--small">No services</span>
   </div>
+  {% else %}
+  {% assign cols = 1 %}
+  {% assign icon_size = 'w--20 h--20 lg:w--24 lg:h--24' %}
+  {% assign name_class = 'title title--small' %}
+  {% assign row_gap = 'gap--xsmall' %}
+  {% assign grid_gap = 'gap--small' %}
+  {% if n == 2 or n == 4 %}
+    {% assign cols = 2 %}
+    {% assign icon_size = 'w--12 h--12' %}
+    {% assign name_class = 'label label--small' %}
+  {% elsif n == 3 %}
+    {% assign cols = 3 %}
+    {% assign icon_size = 'w--12 h--12' %}
+    {% assign name_class = 'label label--small' %}
+  {% elsif n <= 6 %}
+    {% assign cols = 3 %}
+    {% assign icon_size = 'w--8 h--8' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% elsif n <= 8 %}
+    {% assign cols = 4 %}
+    {% assign icon_size = 'w--6 h--6' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% elsif n == 9 %}
+    {% assign cols = 3 %}
+    {% assign icon_size = 'w--6 h--6' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% elsif n == 10 %}
+    {% assign cols = 5 %}
+    {% assign icon_size = 'w--5 h--5' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% else %}
+    {% assign cols = 4 %}
+    {% assign icon_size = 'w--5 h--5' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% endif %}
+  <div class="grid grid--cols-{{ cols }} {{ grid_gap }} h--full">
+    {% for service in services limit: 12 %}
+    <div class="flex flex--row flex--center {{ row_gap }} h--full">
+      {% if service.logoUrl != blank %}
+      <img class="image image--contain image-dither {{ icon_size }} shrink-0" src="{{ service.logoUrl }}">
+      {% endif %}
+      <span class="{{ name_class }}">{{ service.name }}</span>
+      {% if service.iconUrl != blank %}
+      <img class="image image--contain image-dither {{ icon_size }} shrink-0" src="{{ service.iconUrl }}">
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
 </div>
 
 <div class="title_bar">

@@ -1,127 +1,81 @@
 {% comment %}
   Full layout (800x480). Data comes from GET /api/isitdown/status
   ({ services, count, updatedAtLabel }), exposed at the Liquid root by
-  TRMNL's polling strategy. Each service has slug/name/status/statusText/
-  statusLabelClass/iconUrl/logoUrl/updatedAtLabel (up to 4 services).
-  1 service: centered, name above icon, updated_at below.
-  2 services: side by side.
-  3 services: 2 on the first line, 1 centered on the second.
-  4 services: 2x2 grid.
+  TRMNL's polling strategy. Up to 12 services, each with slug/name/status/
+  statusText/statusLabelClass/iconUrl/logoUrl/updatedAtLabel.
+  Each card shows just logo + name + status icon, tight together and
+  centered as one group. Column count grows with the service count to
+  keep the grid roughly square on this canvas (800x480).
 {% endcomment %}
 <div class="layout">
-  <div class="flex flex--col h--full w--full">
-    {% if count == 0 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
-      <div class="title title--base text--center">No services configured</div>
-      <div class="description text--center">Add up to 4 comma-separated slugs in the plugin settings.</div>
-    </div>
-    {% elsif count == 1 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
-      <div class="title title--large lg:title--xlarge text--center">{{ services[0].name }}</div>
-      {% if services[0].logoUrl %}
-      <img class="image image--cover image-dither rounded w--24 h--24" src="{{ services[0].logoUrl }}">
-      {% endif %}
-      <img class="image image--contain image-dither w--64 h--64 lg:w--72 lg:h--72" src="{{ services[0].iconUrl }}">
-      {% if services[0].updatedAtLabel %}
-      <div class="label label--small text--center label--gray">Updated {{ services[0].updatedAtLabel }}</div>
-      {% endif %}
-    </div>
-    {% elsif count == 2 %}
-    <div class="flex flex--row flex--center-x flex--center-y gap--xlarge grow w--full">
-      {% for service in services %}
-      <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-        <div class="flex flex--row flex--center-x flex--center-y gap--small">
-          {% if service.logoUrl %}
-          <img class="image image--cover image-dither rounded w--20 h--20" src="{{ service.logoUrl }}">
-          {% endif %}
-          <div class="label label--base">{{ service.name }}</div>
-        </div>
-        <img class="image image--contain image-dither w--20 h--20 lg:w--24 lg:h--24" src="{{ service.iconUrl }}">
-        {% if service.updatedAtLabel %}
-        <div class="label label--small label--gray">Updated {{ service.updatedAtLabel }}</div>
-        {% endif %}
-      </div>
-      {% endfor %}
-    </div>
-    {% elsif count == 3 %}
-    {% assign row1 = services | slice: 0, 2 %}
-    {% assign row2 = services | slice: 2, 1 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--large grow">
-      <div class="flex flex--row flex--center-x flex--center-y gap--xlarge w--full">
-        {% for service in row1 %}
-        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-          <div class="flex flex--row flex--center-x flex--center-y gap--small">
-            {% if service.logoUrl %}
-            <img class="image image--cover image-dither rounded w--16 h--16" src="{{ service.logoUrl }}">
-            {% endif %}
-            <div class="label label--base">{{ service.name }}</div>
-          </div>
-          <img class="image image--contain image-dither w--16 h--16" src="{{ service.iconUrl }}">
-          {% if service.updatedAtLabel %}
-          <div class="label label--small label--gray">Updated {{ service.updatedAtLabel }}</div>
-          {% endif %}
-        </div>
-        {% endfor %}
-      </div>
-      <div class="flex flex--row flex--center-x flex--center-y">
-        {% for service in row2 %}
-        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall">
-          <div class="flex flex--row flex--center-x flex--center-y gap--small">
-            {% if service.logoUrl %}
-            <img class="image image--cover image-dither rounded w--16 h--16" src="{{ service.logoUrl }}">
-            {% endif %}
-            <div class="label label--base">{{ service.name }}</div>
-          </div>
-          <img class="image image--contain image-dither w--16 h--16" src="{{ service.iconUrl }}">
-          {% if service.updatedAtLabel %}
-          <div class="label label--small label--gray">Updated {{ service.updatedAtLabel }}</div>
-          {% endif %}
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% else %}
-    {% assign row1 = services | slice: 0, 2 %}
-    {% assign row2 = services | slice: 2, 2 %}
-    <div class="flex flex--col flex--center-x flex--center-y gap--large grow">
-      <div class="flex flex--row flex--center-x flex--center-y gap--xlarge w--full">
-        {% for service in row1 %}
-        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-          <div class="flex flex--row flex--center-x flex--center-y gap--small">
-            {% if service.logoUrl %}
-            <img class="image image--cover image-dither rounded w--16 h--16" src="{{ service.logoUrl }}">
-            {% endif %}
-            <div class="label label--base">{{ service.name }}</div>
-          </div>
-          <img class="image image--contain image-dither w--16 h--16" src="{{ service.iconUrl }}">
-          {% if service.updatedAtLabel %}
-          <div class="label label--small label--gray">Updated {{ service.updatedAtLabel }}</div>
-          {% endif %}
-        </div>
-        {% endfor %}
-      </div>
-      <div class="flex flex--row flex--center-x flex--center-y gap--xlarge w--full">
-        {% for service in row2 %}
-        <div class="flex flex--col flex--center-x flex--center-y gap--xsmall grow">
-          <div class="flex flex--row flex--center-x flex--center-y gap--small">
-            {% if service.logoUrl %}
-            <img class="image image--cover image-dither rounded w--16 h--16" src="{{ service.logoUrl }}">
-            {% endif %}
-            <div class="label label--base">{{ service.name }}</div>
-          </div>
-          <img class="image image--contain image-dither w--16 h--16" src="{{ service.iconUrl }}">
-          {% if service.updatedAtLabel %}
-          <div class="label label--small label--gray">Updated {{ service.updatedAtLabel }}</div>
-          {% endif %}
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
+  {% assign n = services.size %}
+  {% if services == blank or n == 0 %}
+  <div class="flex flex--col flex--center gap--medium h--full">
+    <span class="title title--large">No services</span>
+    <span class="label label--gray">Add up to 12 comma-separated slugs in the plugin settings.</span>
   </div>
+  {% else %}
+  {% assign cols = 1 %}
+  {% assign icon_size = 'w--40 h--40 lg:w--48 lg:h--48' %}
+  {% assign name_class = 'title title--large' %}
+  {% assign row_gap = 'gap--small' %}
+  {% assign grid_gap = 'gap--medium' %}
+  {% if n == 2 or n == 4 %}
+    {% assign cols = 2 %}
+    {% assign icon_size = 'w--24 h--24' %}
+    {% assign name_class = 'label label--base' %}
+  {% elsif n == 3 %}
+    {% assign cols = 3 %}
+    {% assign icon_size = 'w--24 h--24' %}
+    {% assign name_class = 'label label--base' %}
+  {% elsif n <= 6 %}
+    {% assign cols = 3 %}
+    {% assign icon_size = 'w--16 h--16' %}
+    {% assign name_class = 'label label--base' %}
+    {% assign row_gap = 'gap--xsmall' %}
+    {% assign grid_gap = 'gap--small' %}
+  {% elsif n <= 8 %}
+    {% assign cols = 4 %}
+    {% assign icon_size = 'w--12 h--12' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign row_gap = 'gap--xsmall' %}
+    {% assign grid_gap = 'gap--small' %}
+  {% elsif n == 9 %}
+    {% assign cols = 3 %}
+    {% assign icon_size = 'w--12 h--12' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign row_gap = 'gap--xsmall' %}
+    {% assign grid_gap = 'gap--small' %}
+  {% elsif n == 10 %}
+    {% assign cols = 5 %}
+    {% assign icon_size = 'w--10 h--10' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign row_gap = 'gap--xsmall' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% else %}
+    {% assign cols = 4 %}
+    {% assign icon_size = 'w--10 h--10' %}
+    {% assign name_class = 'label label--small' %}
+    {% assign row_gap = 'gap--xsmall' %}
+    {% assign grid_gap = 'gap--xsmall' %}
+  {% endif %}
+  <div class="grid grid--cols-{{ cols }} {{ grid_gap }} h--full">
+    {% for service in services limit: 12 %}
+    <div class="flex flex--row flex--center {{ row_gap }} h--full">
+      {% if service.logoUrl != blank %}
+      <img class="image image--contain image-dither {{ icon_size }} shrink-0" src="{{ service.logoUrl }}">
+      {% endif %}
+      <span class="{{ name_class }}">{{ service.name }}</span>
+      {% if service.iconUrl != blank %}
+      <img class="image image--contain image-dither {{ icon_size }} shrink-0" src="{{ service.iconUrl }}">
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
 </div>
 
 <div class="title_bar">
   <span class="title">IsItDown</span>
-  <span class="instance">Updated {{ updatedAtLabel }}</span>
+  <span class="instance">{{ services.size }} monitored</span>
 </div>

@@ -3,7 +3,9 @@ const router = express.Router()
 
 const BASE_URL = 'https://isitdownstatus.com/api/v1'
 const ICON_BASE_URL = 'https://cdn.jsdelivr.net/npm/lucide-static@1.27.0/icons'
-const MAX_SLUGS = 4
+// TRMNL's grid--cols-N framework classes only go up to 12, and past that
+// point cells on an e-ink screen are too small to read anyway.
+const MAX_SLUGS = 12
 const TIMEZONE = process.env.SERVICE_STATUS_TIMEZONE || 'Europe/Zurich'
 
 const timeFormatter = new Intl.DateTimeFormat('en-GB', {

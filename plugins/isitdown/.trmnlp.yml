@@ -11,7 +11,7 @@ time_zone: Europe/Zurich
 transform_runtime: disabled
 
 custom_fields:
-  slugs: "discord,cloudflare"
+  slugs: "discord,cloudflare,google,github,reddit,spotify,steam,netflix,amazon,facebook,twitter,youtube,instagram,twitch,linkedin"
 
 # Optional remote transform daemon URL — when set, transforms POST
 # here instead of running locally. Useful for production-fidelity

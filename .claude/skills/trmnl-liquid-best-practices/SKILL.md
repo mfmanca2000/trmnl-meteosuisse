@@ -181,6 +181,57 @@ the styling has to go, not move to `style=`. Cases hit so far:
   to plain `label label--small` and accepted the slightly larger size.
 - `word-break: break-all` — see `data-clamp="1"` in the mapping table above.
 
+## `data-clamp` needs a flex-resolved width, or it truncates arbitrarily
+
+Hit twice in `plugins/isitdown`, in two different flex contexts, both times
+truncating short text (e.g. "Discord" → "Disco...") with plenty of visual
+room to spare:
+
+1. A text element as the free child of a `columns`/`column` row (no
+   `grow`) — the column's own vertical-centering bug (see below) was a
+   separate issue, but the clamp truncation on top of it was this one.
+2. A text element between two `shrink-0` icons in a plain `flex flex--row`,
+   once the `grow` that had been giving it a real flex-resolved width was
+   removed (removed because `grow` was the cause of a *different* bug —
+   see next section).
+
+In both cases the element had no definite width from flex layout — either
+shrink-to-fit with no constraining siblings, or between two `shrink-0`
+siblings but with only the default `flex-shrink:1` (no `flex-grow`, so no
+flex-basis resolution forcing a real box size before the clamp engine's
+pass runs). `data-clamp` (a separate TRMNL render-time pass, not a static
+CSS rule — see the `image-dither`/`data-clamp` note above) appears to
+measure against whatever box size is available at that point, and an
+unresolved/shrink-to-fit box can read as much smaller than the visual
+space actually available, truncating text that would otherwise fit fine.
+
+**Fix that actually worked:** for short, low-overflow-risk text (brand/
+service names, a handful of words), just drop `data-clamp` entirely
+instead of trying to give the element a stable width — matches this
+skill's general "no framework utility exists → drop the styling" pattern.
+Reach for `data-clamp` only on text with real, likely overflow (a full
+URL, a long free-text description), and even then confirm it doesn't
+crop content that visually fits — this bug produces cropped-when-it-
+shouldn't-be output, not a checker failure, so nothing catches it except
+looking at the render.
+
+## `grow` on a flex child stretches it to fill ALL remaining space — don't reach for it just to "give clamp a width"
+
+The fix for the clamp bug above was tried by adding `grow` (`flex-grow:1`)
+to the text element, which does make clamp behave — but it has a real,
+visible side effect: it stretches that element to consume 100% of the
+leftover space in the row, pushing any `shrink-0` siblings to the far
+edges of the row's box. In `plugins/isitdown`'s per-service card (logo +
+name + status icon, meant to read as one tight, centered group), this
+turned "three items snug together, centered in the cell" into "logo
+pinned left, icon pinned right, name stretched between them" — the
+opposite of the requested layout. `grow` is for deliberately claiming
+leftover space (a genuine spacer/fill role), not a generic trick to
+stabilize an element's box for other purposes (like `data-clamp`) — those
+have different, sometimes conflicting, layout consequences. Removing
+`grow` fixed the spacing; removing `data-clamp` (previous section) fixed
+the resulting truncation. Neither fix alone was sufficient.
+
 ## Responsive classes
 
 Chef wants at least one real responsive/orientation class per layout.
