@@ -1,0 +1,22 @@
+---
+strategy: polling
+no_screen_padding: "no"
+dark_mode: "no"
+static_data: ""
+polling_verb: get
+polling_url: "https://trmnl-plugins-mfmanca-server.vercel.app/api/bored-api/activity?type={{type}}&participants={{participants}}"
+polling_headers: ""
+id: 50003
+custom_fields:
+  - keyname: "type"
+    field_type: string
+    name: "Activity type"
+    description: "Optional filter. One of: education, recreational, social, charity, cooking, relaxation, busywork, diy. Leave blank for any."
+    placeholder: "e.g. recreational"
+  - keyname: "participants"
+    field_type: string
+    name: "Participants"
+    description: "Optional filter. Number of people: 1, 2, 3, 4, 5, 6 or 8. Leave blank for any."
+    placeholder: "e.g. 2"
+name: "Bored API"
+refresh_interval: 60

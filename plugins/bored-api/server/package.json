@@ -1,0 +1,12 @@
+{
+  "name": "@trmnl-plugins/bored-api",
+  "version": "1.0.0",
+  "description": "Bored API TRMNL plugin — Express router mounted by the root server",
+  "license": "ISC",
+  "author": "Maurizio Manca",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

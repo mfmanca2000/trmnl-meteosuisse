@@ -1,0 +1,34 @@
+{% comment %}
+  Half horizontal layout (800x240). Same data as full.liquid, trimmed for
+  half the height: activity name, badges, no link/accessibility text.
+{% endcomment %}
+<div class="layout">
+  <div class="flex flex--col h--full" style="width: 100%;">
+    {% if activity %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--small" style="flex: 1;">
+      <div class="value value--medium" style="text-align: center;">{{ activity.activity }}</div>
+
+      <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap; justify-content: center;">
+        {% if activity.type %}
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ activity.type | capitalize }}</span>
+        {% endif %}
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ activity.participants }} participant{% if activity.participants != 1 %}s{% endif %}</span>
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{{ activity.duration | capitalize }}</span>
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 1px 8px;">{% if activity.price == 0 %}Free{% else %}Costs money{% endif %}</span>
+      </div>
+    </div>
+    {% else %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--small" style="flex: 1;">
+      <div class="value value--medium">&#129300;</div>
+      <div class="description text--center">No matching activity</div>
+    </div>
+    {% endif %}
+
+    <div class="label label--small text--center" style="opacity: 0.5;">Copyright &copy; The App Brewery</div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <span class="title">Bored?</span>
+  <span class="instance">{% if count > 1 %}1 of {{ count }} matches{% endif %}</span>
+</div>

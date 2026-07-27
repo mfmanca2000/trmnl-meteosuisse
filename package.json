@@ -11,6 +11,7 @@
     "start": "npm run start --workspace=server",
     "trmnlp:meteosuisse": "docker run --pull always --publish 4567:4567 --volume \"$(pwd)/plugins/meteosuisse:/plugin\" trmnl/trmnlp serve --bind 0.0.0.0",
     "trmnlp:homeassistant-energy": "docker run --pull always --publish 4567:4567 --volume \"$(pwd)/plugins/homeassistant-energy:/plugin\" trmnl/trmnlp serve --bind 0.0.0.0",
-    "trmnlp:daily-saints": "docker run --pull always --publish 4567:4567 --volume \"$(pwd)/plugins/daily-saints:/plugin\" trmnl/trmnlp serve --bind 0.0.0.0"
+    "trmnlp:daily-saints": "docker run --pull always --publish 4567:4567 --volume \"$(pwd)/plugins/daily-saints:/plugin\" trmnl/trmnlp serve --bind 0.0.0.0",
+    "trmnlp:bored-api": "docker run --pull always --publish 4567:4567 --volume \"$(pwd)/plugins/bored-api:/plugin\" trmnl/trmnlp serve --bind 0.0.0.0"
   }
 }

@@ -1,0 +1,48 @@
+{% comment %}
+  Full layout (800x480). Data comes from GET /api/bored-api/activity
+  ({ activity, count, updatedAtLabel }), exposed at the Liquid root by
+  TRMNL's polling strategy. `activity` is null when the type/participants
+  filter matched nothing.
+{% endcomment %}
+<div class="layout">
+  <div class="flex flex--col h--full" style="width: 100%;">
+    {% if activity %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--medium" style="flex: 1;">
+      <div class="value value--large" style="text-align: center;">{{ activity.activity }}</div>
+
+      <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap; justify-content: center;">
+        {% if activity.type %}
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 2px 10px;">{{ activity.type | capitalize }}</span>
+        {% endif %}
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 2px 10px;">{{ activity.participants }} participant{% if activity.participants != 1 %}s{% endif %}</span>
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 2px 10px;">{{ activity.duration | capitalize }}</span>
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 2px 10px;">{% if activity.price == 0 %}Free{% else %}Costs money{% endif %}</span>
+        {% if activity.kidFriendly %}
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 12px; padding: 2px 10px;">Kid friendly</span>
+        {% endif %}
+      </div>
+
+      {% if activity.accessibility %}
+      <div class="description text--center">{{ activity.accessibility }}</div>
+      {% endif %}
+
+      {% if activity.link and activity.link != "" %}
+      <div class="description text--center" style="word-break: break-all;">{{ activity.link }}</div>
+      {% endif %}
+    </div>
+    {% else %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--medium" style="flex: 1;">
+      <div class="value value--large">&#129300;</div>
+      <div class="title title--medium text--center">No matching activity</div>
+      <div class="description text--center">Try loosening the type or participants filter.</div>
+    </div>
+    {% endif %}
+
+    <div class="label label--small text--center" style="opacity: 0.5;">Copyright &copy; The App Brewery</div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <span class="title">Bored?</span>
+  <span class="instance">{% if count > 1 %}1 of {{ count }} matches &middot; {% endif %}Updated {{ updatedAtLabel }}</span>
+</div>

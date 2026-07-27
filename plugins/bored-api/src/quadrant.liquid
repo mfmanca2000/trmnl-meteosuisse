@@ -1,0 +1,29 @@
+{% comment %}
+  Quadrant layout (400x240). Tightest space: activity name, one line of
+  badges, no accessibility text.
+{% endcomment %}
+<div class="layout">
+  <div class="flex flex--col h--full" style="width: 100%;">
+    {% if activity %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--xsmall text--center" style="flex: 1;">
+      <div class="title title--small" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">{{ activity.activity }}</div>
+      <div class="flex flex--row gap--xsmall" style="flex-wrap: wrap; justify-content: center;">
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 10px; padding: 0 6px;">{{ activity.participants }}p</span>
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 10px; padding: 0 6px;">{{ activity.duration | capitalize }}</span>
+        <span class="label label--small" style="border: 1px solid currentColor; border-radius: 10px; padding: 0 6px;">{% if activity.price == 0 %}Free{% else %}$$${% endif %}</span>
+      </div>
+    </div>
+    {% else %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--xsmall" style="flex: 1;">
+      <div class="value value--small">&#129300;</div>
+      <div class="description text--center">No match</div>
+    </div>
+    {% endif %}
+
+    <div class="text--center" style="opacity: 0.5; font-size: 8px; line-height: 1.2;">Copyright &copy; The App Brewery</div>
+  </div>
+</div>
+
+<div class="title_bar">
+  <span class="title">Bored?</span>
+</div>

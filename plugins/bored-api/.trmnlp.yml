@@ -11,7 +11,8 @@ time_zone: Europe/Zurich
 transform_runtime: disabled
 
 custom_fields:
-  language: "it" 
+  type: ""
+  participants: ""
 
 # Optional remote transform daemon URL — when set, transforms POST
 # here instead of running locally. Useful for production-fidelity
