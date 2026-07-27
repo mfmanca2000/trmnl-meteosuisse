@@ -1,0 +1,34 @@
+{% comment %}
+  Half vertical layout (400x480). Same data as full.liquid.
+  1 service: centered, name above icon, updated_at below.
+  2, 3 or 4 services: stacked vertically, one row per service.
+{% endcomment %}
+<div class="layout">
+  <div class="flex flex--col h--full w--full">
+    {% if count == 0 %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
+      <div class="description text--center">No services configured</div>
+    </div>
+    {% elsif count == 1 %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
+      <div class="title title--base lg:title--large text--center" data-clamp="1">{{ services[0].name }}</div>
+      <img class="image image--contain image-dither w--48 h--48 lg:w--56 lg:h--56" src="{{ services[0].iconUrl }}">
+      <div class="label label--small text--center label--gray">Updated {{ services[0].updatedAtLabel }}</div>
+    </div>
+    {% else %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--medium grow w--full">
+      {% for service in services %}
+      <div class="flex flex--row flex--center-y gap--medium w--full">
+        <img class="image image--contain image-dither w--16 h--16 lg:w--20 lg:h--20 shrink-0" src="{{ service.iconUrl }}">
+        <div class="label label--base grow" data-clamp="1">{{ service.name }}</div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+<div class="title_bar">
+  <span class="title">IsItDown</span>
+  <span class="instance">Updated {{ updatedAtLabel }}</span>
+</div>

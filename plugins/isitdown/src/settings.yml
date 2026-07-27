@@ -1,0 +1,24 @@
+---
+strategy: polling
+no_screen_padding: "no"
+dark_mode: "no"
+static_data: ""
+polling_verb: get
+polling_url: "https://trmnl-plugins-mfmanca-server.vercel.app/api/isitdown/status?slugs={{slugs}}"
+polling_headers: ""
+id: 50004
+custom_fields:
+  - keyname: "slugs"
+    field_type: string
+    default: ""
+    name: "Service slugs"
+    description: "Comma-separated list of up to 4 service slugs to monitor, e.g. discord,netflix,cloudflare,github. Find slugs at isitdownstatus.com."
+    placeholder: "discord,netflix,cloudflare,github"
+  - keyname: doesnt_matter
+    name: About This Plugin
+    category: utilities,tech
+    field_type: author_bio
+    description: IsItDown is built upon the free public API from https://isitdownstatus.com. Monitor up to 4 services and see their live status at a glance.
+    email_address: mfmanca2000@hotmail.com
+name: "IsItDown"
+refresh_interval: 10

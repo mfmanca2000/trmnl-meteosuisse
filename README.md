@@ -23,6 +23,7 @@ plugins/
 | [homeassistant-energy](plugins/homeassistant-energy) | Solar/battery/grid energy snapshot, sourced from a Home Assistant instance | `/api/homeassistant-energy/status` |
 | [daily-saints](plugins/daily-saints) | Saint of the day, sourced from a local copy of the [daily-saints](https://github.com/ACoci86/daily-saints) data, in `en`/`fr`/`it`/`es` | `/api/daily-saints/today` |
 | [bored-api](plugins/bored-api) | Random "something to do" activity idea, sourced from the [Bored API](https://bored-api.appbrewery.com) | `/api/bored-api/activity` |
+| [isitdown](plugins/isitdown) | Live status (operational/degraded/down) for up to 4 services, sourced from [isitdownstatus.com](https://isitdownstatus.com) | `/api/isitdown/status` |
 
 ### daily-saints translations
 

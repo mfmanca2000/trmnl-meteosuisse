@@ -1,0 +1,30 @@
+# auto-reload when files change (`watch: false` to disable)
+watch:
+  - server
+  - .trmnlp.yml
+
+# Time zone IANA identifier to inject into trmnl.user; see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+time_zone: Europe/Zurich
+
+# Serverless transforms run automatically when a src/transform.*
+# file is present. Set to 'disabled' to turn off.
+transform_runtime: disabled
+
+custom_fields:
+  slugs: "discord,cloudflare"
+
+# Optional remote transform daemon URL — when set, transforms POST
+# here instead of running locally. Useful for production-fidelity
+# testing against a real microVM daemon.
+# serverless_daemon_url: https://transforms.your-team.example
+
+# Optional explicit language for src/transform.* (otherwise inferred from extension)
+# serverless_language: python
+
+# override variables
+# variables:
+#   trmnl:
+#     user:
+#       name: Peter Quill
+#     plugin_settings:
+#       instance_name: Kevin Bacon Facts

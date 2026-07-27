@@ -1,0 +1,82 @@
+{% comment %}
+  Full layout (800x480). Data comes from GET /api/service-status/status
+  ({ services, count, updatedAtLabel }), exposed at the Liquid root by
+  TRMNL's polling strategy. Each service has slug/name/status/statusText/
+  statusLabelClass/iconUrl/updatedAtLabel (up to 4 services).
+  1 service: centered, name above icon, updated_at below.
+  2 services: side by side.
+  3 services: 2 on the first line, 1 centered on the second.
+  4 services: 2x2 grid.
+{% endcomment %}
+<div class="layout">
+  <div class="flex flex--col h--full w--full">
+    {% if count == 0 %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
+      <div class="title title--base text--center">No services configured</div>
+      <div class="description text--center">Add up to 4 comma-separated slugs in the plugin settings.</div>
+    </div>
+    {% elsif count == 1 %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
+      <div class="title title--large lg:title--xlarge text--center" data-clamp="1">{{ services[0].name }}</div>
+      <img class="image image--contain image-dither w--64 h--64 lg:w--72 lg:h--72" src="{{ services[0].iconUrl }}">
+      <div class="label label--small text--center label--gray">Updated {{ services[0].updatedAtLabel }}</div>
+    </div>
+    {% elsif count == 2 %}
+    <div class="columns gap--xlarge flex--center-y grow">
+      {% for service in services %}
+      <div class="column flex flex--col flex--center-x flex--center-y gap--small">
+        <div class="label label--base text--center" data-clamp="1">{{ service.name }}</div>
+        <img class="image image--contain image-dither w--24 h--24 lg:w--28 lg:h--28" src="{{ service.iconUrl }}">
+      </div>
+      {% endfor %}
+    </div>
+    {% elsif count == 3 %}
+    {% assign row1 = services | slice: 0, 2 %}
+    {% assign row2 = services | slice: 2, 1 %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--large grow">
+      <div class="columns gap--xlarge">
+        {% for service in row1 %}
+        <div class="column flex flex--col flex--center-x flex--center-y gap--small">
+          <div class="label label--base text--center" data-clamp="1">{{ service.name }}</div>
+          <img class="image image--contain image-dither w--20 h--20" src="{{ service.iconUrl }}">
+        </div>
+        {% endfor %}
+      </div>
+      <div class="flex flex--row flex--center-x">
+        {% for service in row2 %}
+        <div class="flex flex--col flex--center-x flex--center-y gap--small">
+          <div class="label label--base text--center" data-clamp="1">{{ service.name }}</div>
+          <img class="image image--contain image-dither w--20 h--20" src="{{ service.iconUrl }}">
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% else %}
+    {% assign row1 = services | slice: 0, 2 %}
+    {% assign row2 = services | slice: 2, 2 %}
+    <div class="flex flex--col flex--center-x flex--center-y gap--large grow">
+      <div class="columns gap--xlarge">
+        {% for service in row1 %}
+        <div class="column flex flex--col flex--center-x flex--center-y gap--small">
+          <div class="label label--base text--center" data-clamp="1">{{ service.name }}</div>
+          <img class="image image--contain image-dither w--20 h--20" src="{{ service.iconUrl }}">
+        </div>
+        {% endfor %}
+      </div>
+      <div class="columns gap--xlarge">
+        {% for service in row2 %}
+        <div class="column flex flex--col flex--center-x flex--center-y gap--small">
+          <div class="label label--base text--center" data-clamp="1">{{ service.name }}</div>
+          <img class="image image--contain image-dither w--20 h--20" src="{{ service.iconUrl }}">
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+<div class="title_bar">
+  <span class="title">IsItDown</span>
+  <span class="instance">Updated {{ updatedAtLabel }}</span>
+</div>

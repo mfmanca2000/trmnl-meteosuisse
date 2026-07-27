@@ -16,6 +16,7 @@
     "@trmnl-plugins/homeassistant-energy": "*",
     "@trmnl-plugins/daily-saints": "*",
     "@trmnl-plugins/bored-api": "*",
+    "@trmnl-plugins/isitdown": "*",
     "express": "^5.2.1"
   }
 }

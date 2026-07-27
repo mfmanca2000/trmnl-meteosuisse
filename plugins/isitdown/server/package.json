@@ -1,0 +1,12 @@
+{
+  "name": "@trmnl-plugins/isitdown",
+  "version": "1.0.0",
+  "description": "IsItDown TRMNL plugin — Express router mounted by the root server",
+  "license": "ISC",
+  "author": "Maurizio Manca",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
