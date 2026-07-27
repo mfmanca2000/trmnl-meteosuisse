@@ -17,17 +17,19 @@
         </div>
 
         {% if saint.legacy %}
-        <div class="description">&ldquo;{{ saint.legacy }}&rdquo;</div>
+        <div class="description text--justify w--max-80">&ldquo;{{ saint.legacy }}&rdquo;</div>
         {% endif %}
 
         {% if saint.summary %}
-        <div class="description" data-clamp="3">{{ saint.summary }}</div>
+        <div class="description text--justify w--max-80" data-clamp="10">{{ saint.summary }}</div>
         {% endif %}
 
         {% if saint.patronage and saint.patronage.size > 0 %}
         <div class="flex flex--row gap--xsmall flex--wrap">
           {% for p in saint.patronage limit: 4 %}
+          {% unless p == blank %}
           <span class="label label--small label--outline">{{ p }}</span>
+          {% endunless %}
           {% endfor %}
         </div>
         {% endif %}
@@ -35,12 +37,11 @@
     </div>
     {% else %}
     <div class="flex flex--col flex--center-x flex--center-y gap--small grow">
-      <div class="value value--base">&#128330;</div>
       <div class="description text--center">No saint data</div>
     </div>
     {% endif %}
 
-    <div class="label label--small text--center text--muted">Saints data: github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
+    <div class="label label--small text--center label--gray">Saints data: github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
   </div>
 </div>
 

@@ -19,19 +19,21 @@
         </div>
 
         {% if saint.legacy %}
-        <div class="description">&ldquo;{{ saint.legacy }}&rdquo;</div>
+        <div class="description text--justify w--max-80">&ldquo;{{ saint.legacy }}&rdquo;</div>
         {% endif %}
 
         <div class="divider"></div>
 
         {% if saint.summary %}
-        <div class="description" data-clamp="6">{{ saint.summary }}</div>
+        <div class="description text--justify w--max-80">{{ saint.summary }}</div>
         {% endif %}
 
         {% if saint.patronage and saint.patronage.size > 0 %}
         <div class="flex flex--row gap--xsmall flex--wrap">
           {% for p in saint.patronage %}
+          {% unless p == blank %}
           <span class="label label--small label--outline">{{ p }}</span>
+          {% endunless %}
           {% endfor %}
         </div>
         {% endif %}
@@ -39,13 +41,12 @@
     </div>
     {% else %}
     <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
-      <div class="value value--large">&#128330;</div>
       <div class="title title--base text--center">No saint data</div>
       <div class="description text--center">Check the plugin's data files on the server.</div>
     </div>
     {% endif %}
 
-    <div class="label label--small text--center text--muted">Saints data: github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
+    <div class="label label--small text--center label--gray">Saints data: github.com/ACoci86/daily-saints &middot; &copy; 2026 Alessio Coci</div>
   </div>
 </div>
 
