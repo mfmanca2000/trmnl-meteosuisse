@@ -1,0 +1,45 @@
+{% comment %}
+  Full layout (800x480). Data comes from GET /api/tennis-today/matches
+  ({ tour, matches, count, updatedAtLabel }), exposed at the Liquid root by
+  TRMNL's polling strategy. Each match has player1/player2 ({name, country}),
+  tournamentName (resolved server-side from tournamentId, since the fixtures
+  API only returns numeric IDs), roundLabel ("Round N" — the API exposes no
+  reliable roundId-to-name mapping across endpoints), isLive, and timeLabel
+  (pre-formatted in server time zone, or null if not yet scheduled).
+{% endcomment %}
+<div class="layout">
+  {% if matches and matches.size > 0 %}
+  <div class="flex flex--col gap--small h--full">
+    {% for match in matches limit: 6 %}
+    {% unless match == blank %}
+    <div class="flex flex--col gap--xsmall">
+      <div class="flex flex--row flex--center-y gap--small">
+        {% if match.isLive %}
+        <span class="label label--small lg:label--base label--primary shrink-0">LIVE</span>
+        {% elsif match.timeLabel %}
+        <span class="label label--small lg:label--base label--outline shrink-0">{{ match.timeLabel }}</span>
+        {% else %}
+        <span class="label label--small lg:label--base label--gray shrink-0">TBD</span>
+        {% endif %}
+        <span class="description grow" data-clamp="1">{{ match.player1.name }} vs {{ match.player2.name }}</span>
+      </div>
+      <span class="label label--small label--gray" data-clamp="1">{{ match.tournamentName }}{% if match.roundLabel %} &middot; {{ match.roundLabel }}{% endif %}</span>
+    </div>
+    {% if forloop.last == false %}
+    <div class="divider"></div>
+    {% endif %}
+    {% endunless %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--medium h--full">
+    <div class="title title--large lg:title--xlarge text--center">No matches today</div>
+    <div class="description text--center">Check back later, or switch tour in the plugin settings.</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Tennis Today</span>
+  <span class="instance">{{ tour | upcase }} &middot; {% if count > 6 %}6 of {{ count }} &middot; {% endif %}Updated {{ updatedAtLabel }}</span>
+</div>

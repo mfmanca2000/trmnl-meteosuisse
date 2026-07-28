@@ -1,0 +1,33 @@
+{% comment %}
+  Half horizontal layout (800x240). Same data as full.liquid, trimmed to
+  3 matches, players + time/live only (tournament/round dropped for space).
+{% endcomment %}
+<div class="layout">
+  {% if matches and matches.size > 0 %}
+  <div class="flex flex--col gap--small h--full">
+    {% for match in matches limit: 3 %}
+    {% unless match == blank %}
+    <div class="flex flex--row flex--center-y gap--small">
+      {% if match.isLive %}
+      <span class="label label--small lg:label--base label--primary shrink-0">LIVE</span>
+      {% elsif match.timeLabel %}
+      <span class="label label--small lg:label--base label--outline shrink-0">{{ match.timeLabel }}</span>
+      {% else %}
+      <span class="label label--small lg:label--base label--gray shrink-0">TBD</span>
+      {% endif %}
+      <span class="description grow" data-clamp="1">{{ match.player1.name }} vs {{ match.player2.name }}</span>
+    </div>
+    {% endunless %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--small h--full">
+    <div class="description text--center">No matches today</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Tennis Today</span>
+  <span class="instance">{{ tour | upcase }}{% if count > 3 %} &middot; 3 of {{ count }}{% endif %}</span>
+</div>

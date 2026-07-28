@@ -1,0 +1,28 @@
+---
+strategy: polling
+no_screen_padding: "no"
+dark_mode: "no"
+static_data: ""
+polling_verb: get
+polling_url: "https://trmnl-plugins-mfmanca-server.vercel.app/api/tennis-today/matches?tour={{tour}}"
+polling_headers: ""
+id: 50005
+custom_fields:
+  - keyname: "tour"
+    field_type: select
+    options:
+    - "atp"
+    - "wta"
+    - "itf"
+    default: "atp"
+    name: "Tour"
+    description: "Which tour's fixtures to show."
+    placeholder: "atp"
+  - keyname: doesnt_matter
+    name: About This Plugin
+    category: sports
+    field_type: author_bio
+    description: Tennis Today shows today's ATP/WTA/ITF fixtures, sourced from the Tennis API (ATP/WTA/ITF) on RapidAPI.
+    email_address: mfmanca2000@hotmail.com
+name: "Tennis Today"
+refresh_interval: 30

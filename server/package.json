@@ -17,6 +17,7 @@
     "@trmnl-plugins/daily-saints": "*",
     "@trmnl-plugins/bored-api": "*",
     "@trmnl-plugins/isitdown": "*",
+    "@trmnl-plugins/tennis-today": "*",
     "express": "^5.2.1"
   }
 }

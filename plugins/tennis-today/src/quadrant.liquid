@@ -1,0 +1,32 @@
+{% comment %}
+  Quadrant layout (400x240). Tightest space: 2 matches, one line each
+  (players only, no tournament/round), time/live badge inline.
+{% endcomment %}
+<div class="layout">
+  {% if matches and matches.size > 0 %}
+  <div class="flex flex--col gap--xsmall flex--center-y h--full">
+    {% for match in matches limit: 2 %}
+    {% unless match == blank %}
+    <div class="flex flex--col flex--center-x gap--xsmall text--center">
+      {% if match.isLive %}
+      <span class="label label--small lg:label--base label--primary">LIVE</span>
+      {% elsif match.timeLabel %}
+      <span class="label label--small lg:label--base label--outline">{{ match.timeLabel }}</span>
+      {% else %}
+      <span class="label label--small lg:label--base label--gray">TBD</span>
+      {% endif %}
+      <span class="description" data-clamp="1">{{ match.player1.name }} vs {{ match.player2.name }}</span>
+    </div>
+    {% endunless %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--xsmall h--full">
+    <div class="description text--center">No matches</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Tennis Today</span>
+</div>

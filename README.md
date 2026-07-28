@@ -24,6 +24,7 @@ plugins/
 | [daily-saints](plugins/daily-saints) | Saint of the day, sourced from a local copy of the [daily-saints](https://github.com/ACoci86/daily-saints) data, in `en`/`fr`/`it`/`es` | `/api/daily-saints/today` |
 | [bored-api](plugins/bored-api) | Random "something to do" activity idea, sourced from the [Bored API](https://bored-api.appbrewery.com) | `/api/bored-api/activity` |
 | [isitdown](plugins/isitdown) | Live status (operational/degraded/down) for up to 4 services, sourced from [isitdownstatus.com](https://isitdownstatus.com) | `/api/isitdown/status` |
+| [tennis-today](plugins/tennis-today) | Today's ATP/WTA/ITF fixtures, sourced from the [Tennis API (ATP/WTA/ITF)](https://rapidapi.com/) on RapidAPI | `/api/tennis-today/matches` |
 
 ### daily-saints translations
 
@@ -61,6 +62,8 @@ trmnlp serve
 | `HA_TIMEZONE` | homeassistant-energy | IANA timezone used to compute "today" energy totals (default `Europe/Zurich`) |
 | `SAINTS_TIMEZONE` | daily-saints | IANA timezone used to compute "today"'s date (default `Europe/Zurich`) |
 | `SAINTS_IMAGE_BASE_URL` | daily-saints | Host to prefix saint image paths with (default `https://acoci86.github.io/daily-saints`) |
+| `TENNIS_RAPIDAPI_KEY` | tennis-today | RapidAPI key for the Tennis API (ATP/WTA/ITF), sent as `x-rapidapi-key` |
+| `TENNIS_TIMEZONE` | tennis-today | IANA timezone used to format match times (default `Europe/Zurich`) |
 
 Set these in the Vercel project settings for production. For local testing, copy
 `server/.env.example` to `server/.env` and fill in real values — `npm run dev` and

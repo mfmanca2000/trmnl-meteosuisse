@@ -1,0 +1,38 @@
+{% comment %}
+  Half vertical layout (400x480). Narrow but tall, so matches stack in one
+  column with tournament/round kept (unlike half_horizontal), players wrap
+  to their own centered line instead of sharing a row with the time badge.
+{% endcomment %}
+<div class="layout">
+  {% if matches and matches.size > 0 %}
+  <div class="flex flex--col gap--small h--full">
+    {% for match in matches limit: 5 %}
+    {% unless match == blank %}
+    <div class="flex flex--col flex--center-x gap--xsmall text--center">
+      {% if match.isLive %}
+      <span class="label label--small lg:label--base label--primary">LIVE</span>
+      {% elsif match.timeLabel %}
+      <span class="label label--small lg:label--base label--outline">{{ match.timeLabel }}</span>
+      {% else %}
+      <span class="label label--small lg:label--base label--gray">TBD</span>
+      {% endif %}
+      <span class="description" data-clamp="1">{{ match.player1.name }} vs {{ match.player2.name }}</span>
+      <span class="label label--small label--gray" data-clamp="1">{{ match.tournamentName }}</span>
+    </div>
+    {% if forloop.last == false %}
+    <div class="divider"></div>
+    {% endif %}
+    {% endunless %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="flex flex--col flex--center-x flex--center-y gap--small h--full">
+    <div class="description text--center">No matches today</div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="title_bar">
+  <span class="title">Tennis Today</span>
+  <span class="instance">{{ tour | upcase }}</span>
+</div>
