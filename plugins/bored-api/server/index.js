@@ -17,15 +17,21 @@ const updatedAtFormatter = new Intl.DateTimeFormat('en-GB', {
 // /random. /filter answers 404 (not an empty array) when nothing matches.
 // TRMNL leaves custom_fields placeholders like "{{type}}" unsubstituted in
 // polling_url when the field is empty, instead of dropping them or
-// interpolating an empty string. Strip that literal syntax so an unset
-// filter behaves like an actually-empty one.
-const stripUnresolvedTemplateTag = (value) => value.replace(/^\{\{\s*\S+\s*\}\}$/, '')
+// interpolating an empty string. The select options use "any" as the
+// explicit no-filter choice (see settings.yml), so both that literal
+// unresolved tag and "any" collapse to "no filter" here.
+const NO_FILTER_VALUES = new Set(['', 'any'])
+const resolveFilterValue = (raw) => {
+  const value = String(raw || '').trim().toLowerCase()
+  if (/^\{\{\s*\S+\s*\}\}$/.test(value)) return ''
+  return NO_FILTER_VALUES.has(value) ? '' : value
+}
 
 router.get('/activity', async (req, res) => {
   console.log('[bored-api] incoming query:', req.query)
 
-  const type = stripUnresolvedTemplateTag(String(req.query.type || '').trim()).toLowerCase()
-  const participants = stripUnresolvedTemplateTag(String(req.query.participants || '').trim())
+  const type = resolveFilterValue(req.query.type)
+  const participants = resolveFilterValue(req.query.participants)
 
   console.log('[bored-api] resolved filters:', { type, participants })
 

@@ -11,6 +11,7 @@ custom_fields:
   - keyname: "type"
     field_type: select
     options:
+    - "any"
     - "education"
     - "recreational"
     - "social"
@@ -19,13 +20,14 @@ custom_fields:
     - "relaxation"
     - "busywork"
     - "diy"
-    default: ""    
+    default: "any"
     name: "Activity type"
-    description: "Optional filter. One of: education, recreational, social, charity, cooking, relaxation, busywork, diy. Leave blank for any."
+    description: "Optional filter. One of: education, recreational, social, charity, cooking, relaxation, busywork, diy. Select 'any' for no filter."
     placeholder: "e.g. recreational"
   - keyname: "participants"
     field_type: select
     options:
+    - "any"
     - "1"
     - "2"
     - "3"
@@ -33,9 +35,9 @@ custom_fields:
     - "5"
     - "6"
     - "8"
-    default: ""
+    default: "any"
     name: "Participants"
-    description: "Optional filter. Number of people: 1, 2, 3, 4, 5, 6 or 8. Leave blank for any."
+    description: "Optional filter. Number of people: 1, 2, 3, 4, 5, 6 or 8. Select 'any' for no filter."
     placeholder: "e.g. 2"
   - keyname: doesnt_matter
     name: About This Plugin
