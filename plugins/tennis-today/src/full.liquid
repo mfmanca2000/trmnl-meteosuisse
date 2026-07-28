@@ -20,8 +20,12 @@
   real display limit.
 {% endcomment %}
 <div class="layout">
+  <div class="flex flex--col w--full h--full">
+    <div class="flex flex--row flex--right w--full h--28">
+      <img class="image image-dither shrink-0 w--28 h--28 mt--12 mr--12" alt="Tennis ball" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3be.png">
+    </div>
   {% if matches and matches.size > 0 %}
-  <div class="flex flex--col flex--left flex--center-y gap--small h--full">
+  <div class="flex flex--col flex--left flex--center-y gap--small grow">
     {% assign prev_tournament_id = "" %}
     {% for match in matches limit: 20 %}
     {% unless match == blank %}
@@ -62,11 +66,12 @@
     {% endfor %}
   </div>
   {% else %}
-  <div class="flex flex--col flex--center-x flex--center-y gap--medium h--full">
+  <div class="flex flex--col flex--center-x flex--center-y gap--medium grow">
     <div class="title title--large lg:title--xlarge text--center">No matches today</div>
     <div class="description text--center">Check back later, or switch tour in the plugin settings.</div>
   </div>
   {% endif %}
+  </div>
 </div>
 
 <div class="title_bar">
