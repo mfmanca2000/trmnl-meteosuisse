@@ -27,6 +27,9 @@
       <img class="image image--cover image-dither rounded shrink-0 w--[32px] h--[24px]" src="{{ match.tournamentFlagUrl }}">
       {% endif %}
       <span class="label label--small label--gray">{{ match.tournamentName }}</span>
+      {% if match.courtName %}
+      <span class="label label--small label--gray">&middot; {{ match.courtName }}</span>
+      {% endif %}
     </div>
     {% assign prev_tournament_id = match.tournamentId %}
     {% endif %}

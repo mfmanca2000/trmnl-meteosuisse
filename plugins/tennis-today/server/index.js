@@ -94,6 +94,7 @@ async function fetchTournamentInfo(tour, tournamentId) {
     return {
       name: body.data.name || null,
       countryAcr: (body.data.country && body.data.country.acronym) || null,
+      courtName: (body.data.court && body.data.court.name) || null,
     }
   } catch (err) {
     return null
@@ -127,6 +128,7 @@ function formatMatch(fixture, tournamentInfoMap) {
     tournamentId: fixture.tournamentId,
     tournamentName: (tournamentInfo && tournamentInfo.name) || `Tournament #${fixture.tournamentId}`,
     tournamentFlagUrl: flagUrlFor(tournamentInfo && tournamentInfo.countryAcr),
+    courtName: (tournamentInfo && tournamentInfo.courtName) || null,
     roundLabel: fixture.roundId != null ? `Round ${fixture.roundId}` : null,
     isLive: Boolean(fixture.live),
     timeLabel,
