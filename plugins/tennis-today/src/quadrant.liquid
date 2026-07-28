@@ -1,21 +1,27 @@
 {% comment %}
-  Quadrant layout (400x240). Tightest space: 2 matches, one line each
-  (players only, no tournament/round), time/live badge inline.
+  Quadrant layout (400x240). Tightest space: 2 matches, stacked player
+  names only (no flag/tournament/round — no room), left aligned.
 {% endcomment %}
 <div class="layout">
   {% if matches and matches.size > 0 %}
-  <div class="flex flex--col gap--xsmall flex--center-y h--full">
+  <div class="flex flex--col flex--center-y gap--small h--full">
     {% for match in matches limit: 2 %}
     {% unless match == blank %}
-    <div class="flex flex--col flex--center-x gap--xsmall text--center">
-      {% if match.isLive %}
-      <span class="label label--small lg:label--base label--primary">LIVE</span>
-      {% elsif match.timeLabel %}
-      <span class="label label--small lg:label--base label--outline">{{ match.timeLabel }}</span>
-      {% else %}
-      <span class="label label--small lg:label--base label--gray">TBD</span>
-      {% endif %}
-      <span class="description" data-clamp="1">{{ match.player1.name }} vs {{ match.player2.name }}</span>
+    <div class="flex flex--col gap--xsmall">
+      <div class="flex flex--row flex--center-y gap--small">
+        <span class="value value--small lg:value--base grow">{{ match.player1.name }}</span>
+        {% if match.isLive %}
+        <span class="label label--small label--primary shrink-0">LIVE</span>
+        {% elsif match.timeLabel %}
+        <span class="label label--small label--outline shrink-0">{{ match.timeLabel }}</span>
+        {% else %}
+        <span class="label label--small label--gray shrink-0">TBD</span>
+        {% endif %}
+      </div>
+      <div class="flex flex--row flex--center-y gap--small">
+        <span class="label label--small label--gray shrink-0">vs</span>
+        <span class="value value--small lg:value--base">{{ match.player2.name }}</span>
+      </div>
     </div>
     {% endunless %}
     {% endfor %}

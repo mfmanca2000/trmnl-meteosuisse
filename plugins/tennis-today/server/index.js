@@ -7,8 +7,10 @@ const TIMEZONE = process.env.TENNIS_TIMEZONE || 'Europe/Zurich'
 const TOURS = ['atp', 'wta', 'itf']
 const DEFAULT_TOUR = 'atp'
 // Fixtures can span many tournaments on a busy day (main tour + challengers);
-// resolving every tournamentId to a name is one extra request each, so cap it.
+// resolving every tournamentId to a name/country is one extra request each,
+// so cap it.
 const MAX_TOURNAMENT_LOOKUPS = 30
+const FLAG_BASE_URL = 'https://flagcdn.com/w80'
 
 const updatedAtFormatter = new Intl.DateTimeFormat('en-GB', {
   timeZone: TIMEZONE,
@@ -23,6 +25,45 @@ const timeFormatter = new Intl.DateTimeFormat('en-GB', {
   minute: '2-digit',
   hour12: false,
 })
+
+// Tournament host country comes back as a 3-letter (mostly IOC-style) code
+// (e.g. "USA", "SUI", "GBR"), but flagcdn.com keys images by ISO 3166-1
+// alpha-2 ("us", "ch", "gb"). This maps the common tennis-tour host
+// countries; anything missing just renders without a flag rather than a
+// broken image.
+const IOC_TO_ISO2 = {
+  ALG: 'dz', ARG: 'ar', ARM: 'am', AUS: 'au', AUT: 'at', AZE: 'az',
+  BAH: 'bs', BAR: 'bb', BEL: 'be', BIH: 'ba', BLR: 'by', BOL: 'bo',
+  BRA: 'br', BUL: 'bg',
+  CAN: 'ca', CHI: 'cl', CHN: 'cn', COL: 'co', CRC: 'cr', CRO: 'hr',
+  CYP: 'cy', CZE: 'cz',
+  DEN: 'dk', DOM: 'do',
+  ECU: 'ec', EGY: 'eg', ESA: 'sv', ESP: 'es', EST: 'ee',
+  FIN: 'fi', FRA: 'fr',
+  GBR: 'gb', GEO: 'ge', GER: 'de', GRE: 'gr', GUA: 'gt',
+  HKG: 'hk', HON: 'hn', HUN: 'hu',
+  INA: 'id', IND: 'in', IRI: 'ir', IRL: 'ie', ISL: 'is', ISR: 'il', ITA: 'it',
+  JOR: 'jo', JPN: 'jp',
+  KAZ: 'kz', KOR: 'kr', KOS: 'xk', KSA: 'sa', KUW: 'kw',
+  LAT: 'lv', LBN: 'lb', LIE: 'li', LTU: 'lt', LUX: 'lu',
+  MAR: 'ma', MAS: 'my', MDA: 'md', MEX: 'mx', MKD: 'mk', MLT: 'mt',
+  MNE: 'me', MON: 'mc',
+  NED: 'nl', NGR: 'ng', NOR: 'no', NZL: 'nz',
+  PAN: 'pa', PAR: 'py', PER: 'pe', PHI: 'ph', POL: 'pl', POR: 'pt', PUR: 'pr',
+  QAT: 'qa',
+  ROU: 'ro', RSA: 'za', RUS: 'ru',
+  SGP: 'sg', SLO: 'si', SRB: 'rs', SUI: 'ch', SVK: 'sk', SWE: 'se',
+  THA: 'th', TPE: 'tw', TUN: 'tn', TUR: 'tr',
+  UAE: 'ae', UKR: 'ua', URU: 'uy', USA: 'us', UZB: 'uz',
+  VEN: 've', VIE: 'vn',
+  ZIM: 'zw',
+}
+
+function flagUrlFor(countryAcr) {
+  if (!countryAcr) return null
+  const iso2 = IOC_TO_ISO2[String(countryAcr).toUpperCase()]
+  return iso2 ? `${FLAG_BASE_URL}/${iso2}.png` : null
+}
 
 function rapidApiHeaders() {
   return {
@@ -40,35 +81,40 @@ async function fetchFixtures(tour) {
   return Array.isArray(body.data) ? body.data : []
 }
 
-// The fixtures endpoint only returns tournamentId/roundId (no names), so
-// each unique tournament needs a separate lookup to get a display name.
-// A lookup failure just falls back to a numbered placeholder rather than
-// failing the whole request.
-async function fetchTournamentName(tour, tournamentId) {
+// The fixtures endpoint only returns tournamentId/roundId (no names or
+// country), so each unique tournament needs a separate lookup to get a
+// display name and host country. A lookup failure just falls back to a
+// numbered placeholder rather than failing the whole request.
+async function fetchTournamentInfo(tour, tournamentId) {
   try {
     const res = await fetch(`${BASE_URL}/${tour}/tournament/info/${tournamentId}`, { headers: rapidApiHeaders() })
     if (!res.ok) return null
     const body = await res.json()
-    return (body.data && body.data.name) || null
+    if (!body.data) return null
+    return {
+      name: body.data.name || null,
+      countryAcr: (body.data.country && body.data.country.acronym) || null,
+    }
   } catch (err) {
     return null
   }
 }
 
-async function buildTournamentNameMap(tour, fixtures) {
+async function buildTournamentInfoMap(tour, fixtures) {
   const uniqueIds = [...new Set(fixtures.map((f) => f.tournamentId).filter((id) => id != null))].slice(
     0,
     MAX_TOURNAMENT_LOOKUPS
   )
-  const names = await Promise.all(uniqueIds.map((id) => fetchTournamentName(tour, id)))
+  const infos = await Promise.all(uniqueIds.map((id) => fetchTournamentInfo(tour, id)))
   const map = new Map()
-  uniqueIds.forEach((id, i) => map.set(id, names[i]))
+  uniqueIds.forEach((id, i) => map.set(id, infos[i]))
   return map
 }
 
-function formatMatch(fixture, tournamentNameMap) {
+function formatMatch(fixture, tournamentInfoMap) {
   const player1 = fixture.player1 || {}
   const player2 = fixture.player2 || {}
+  const tournamentInfo = tournamentInfoMap.get(fixture.tournamentId)
 
   let timeLabel = null
   if (fixture.timeGame) {
@@ -79,7 +125,8 @@ function formatMatch(fixture, tournamentNameMap) {
   return {
     id: fixture.id,
     tournamentId: fixture.tournamentId,
-    tournamentName: tournamentNameMap.get(fixture.tournamentId) || `Tournament #${fixture.tournamentId}`,
+    tournamentName: (tournamentInfo && tournamentInfo.name) || `Tournament #${fixture.tournamentId}`,
+    tournamentFlagUrl: flagUrlFor(tournamentInfo && tournamentInfo.countryAcr),
     roundLabel: fixture.roundId != null ? `Round ${fixture.roundId}` : null,
     isLive: Boolean(fixture.live),
     timeLabel,
@@ -100,10 +147,10 @@ router.get('/matches', async (req, res) => {
 
   try {
     const fixtures = await fetchFixtures(tour)
-    const tournamentNameMap = await buildTournamentNameMap(tour, fixtures)
+    const tournamentInfoMap = await buildTournamentInfoMap(tour, fixtures)
 
     const matches = fixtures
-      .map((fixture) => formatMatch(fixture, tournamentNameMap))
+      .map((fixture) => formatMatch(fixture, tournamentInfoMap))
       .sort((a, b) => (a.tournamentId || 0) - (b.tournamentId || 0))
 
     res.json({
