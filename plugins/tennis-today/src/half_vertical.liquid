@@ -1,38 +1,47 @@
 {% comment %}
-  Half vertical layout (400x480). Same card style as full.liquid, left
-  aligned (not centered — narrow column reads better ragged-right than
-  centered), 4 matches.
+  Half vertical layout (400x480). Same grouped-by-tournament data as
+  full.liquid, single column (narrow 400px canvas — a 2-column grid would
+  cramp doubles names), left aligned, each match in its own outlined box
+  (replaces the old per-match divider — the box itself is the separator
+  now). Capped at 6 matches as a safety ceiling for this canvas, not a
+  real display limit.
+
+  Each line is a bare <span>, a direct child of the outlined card — no
+  per-line wrapper <div>. A wrapper div/row nested two levels deep inside
+  flex--col columns with no definite-height ancestor (no grid here, unlike
+  full.liquid) collapses to near-zero height in this framework, regardless
+  of whether the wrapper is a flex row or a plain block — reproducible even
+  for a single line of non-wrapping text. Only "one more flex--col level,
+  no wrapper in between" renders correctly, so each line is its own span
+  and name+badge no longer share one physical row.
 {% endcomment %}
 <div class="layout">
   {% if matches and matches.size > 0 %}
-  <div class="flex flex--col flex--center-y gap--medium h--full">
-    {% for match in matches limit: 4 %}
+  <div class="flex flex--col flex--left flex--center-y gap--xsmall h--full">
+    {% assign prev_tournament_id = "" %}
+    {% for match in matches limit: 6 %}
     {% unless match == blank %}
-    <div class="flex flex--col gap--xsmall">
-      <div class="flex flex--row flex--center-y gap--small">
-        <span class="value value--small lg:value--base grow">{{ match.player1.name }}</span>
-        {% if match.isLive %}
-        <span class="label label--small label--primary shrink-0">LIVE</span>
-        {% elsif match.timeLabel %}
-        <span class="label label--small label--outline shrink-0">{{ match.timeLabel }}</span>
-        {% else %}
-        <span class="label label--small label--gray shrink-0">TBD</span>
-        {% endif %}
-      </div>
-      <div class="flex flex--row flex--center-y gap--small">
-        <span class="label label--small label--gray shrink-0">vs</span>
-        <span class="value value--small lg:value--base">{{ match.player2.name }}</span>
-      </div>
-      <div class="flex flex--row flex--center-y gap--xsmall">
-        {% if match.tournamentFlagUrl %}
-        <img class="image image--cover image-dither rounded shrink-0 w--16 h--12" src="{{ match.tournamentFlagUrl }}">
-        {% endif %}
-        <span class="label label--small label--gray">{{ match.tournamentName }}</span>
-      </div>
+    {% if match.tournamentId != prev_tournament_id %}
+    <div class="flex flex--row flex--left flex--center-y gap--xsmall">
+      {% if match.tournamentFlagUrl %}
+      <img class="image image--cover image-dither rounded shrink-0 w--[32px] h--[24px]" src="{{ match.tournamentFlagUrl }}">
+      {% endif %}
+      <span class="label label--small label--gray">{{ match.tournamentName }}</span>
     </div>
-    {% if forloop.last == false %}
-    <div class="divider"></div>
+    {% assign prev_tournament_id = match.tournamentId %}
     {% endif %}
+    <div class="outline flex flex--col flex--left gap--small p--3 w--full">
+      <span class="label label--base">{{ match.player1.name }}</span>
+      {% if match.isLive %}
+      <span class="label label--small lg:label--base label--primary">LIVE</span>
+      {% elsif match.timeLabel %}
+      <span class="label label--small lg:label--base label--outline">{{ match.timeLabel }}</span>
+      {% else %}
+      <span class="label label--small lg:label--base label--gray">Time TBD</span>
+      {% endif %}
+      <span class="label label--small label--gray">vs</span>
+      <span class="label label--base">{{ match.player2.name }}</span>
+    </div>
     {% endunless %}
     {% endfor %}
   </div>

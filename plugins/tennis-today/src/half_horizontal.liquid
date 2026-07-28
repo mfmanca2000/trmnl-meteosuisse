@@ -1,35 +1,55 @@
 {% comment %}
-  Half horizontal layout (800x240). Same card style as full.liquid (two
-  stacked, prominent player names + host-country flag on the tournament
-  line), trimmed to 2 matches to fit the shorter height.
+  Half horizontal layout (800x240). Same grouped-by-tournament, 2-column
+  grid card style as full.liquid (see that file's comment for the data
+  shape, grouping, and grid rationale) — the 2 columns matter even more
+  here since they let twice as many matches share the limited height.
+  Capped at 8 matches as a safety ceiling for this shorter canvas, not a
+  real display limit.
+
+  Each name+badge line is a plain (non-flex) block, not a flex row: a flex
+  row whose text child wraps to 2 lines doesn't grow to fit it in this
+  framework (the row's cross-size gets stuck at one line's height), which
+  made long doubles names overlap the next line. Plain inline content wraps
+  normally with no such bug.
 {% endcomment %}
 <div class="layout">
   {% if matches and matches.size > 0 %}
-  <div class="flex flex--col flex--center-y gap--small h--full">
-    {% for match in matches limit: 2 %}
+  <div class="flex flex--col flex--left flex--center-y gap--xsmall h--full">
+    {% assign prev_tournament_id = "" %}
+    {% for match in matches limit: 8 %}
     {% unless match == blank %}
-    <div class="flex flex--col gap--xsmall">
-      <div class="flex flex--row flex--center-y gap--small">
-        <span class="value value--small lg:value--base grow">{{ match.player1.name }}</span>
+    {% if match.tournamentId != prev_tournament_id %}
+    {% unless forloop.first %}
+    </div>
+    {% endunless %}
+    <div class="flex flex--row flex--left flex--center-y gap--xsmall">
+      {% if match.tournamentFlagUrl %}
+      <img class="image image--cover image-dither rounded shrink-0 w--[32px] h--[24px]" src="{{ match.tournamentFlagUrl }}">
+      {% endif %}
+      <span class="label label--small label--gray">{{ match.tournamentName }}</span>
+    </div>
+    {% assign prev_tournament_id = match.tournamentId %}
+    <div class="grid grid--cols-2 gap--small">
+    {% endif %}
+    <div class="outline flex flex--col flex--left gap--xsmall p--3">
+      <div>
+        <span class="label label--base">{{ match.player1.name }}</span>
         {% if match.isLive %}
-        <span class="label label--small label--primary shrink-0">LIVE</span>
+        <span class="label label--small lg:label--base label--primary">LIVE</span>
         {% elsif match.timeLabel %}
-        <span class="label label--small label--outline shrink-0">{{ match.timeLabel }}</span>
+        <span class="label label--small lg:label--base label--outline">{{ match.timeLabel }}</span>
         {% else %}
-        <span class="label label--small label--gray shrink-0">TBD</span>
+        <span class="label label--small lg:label--base label--gray">Time TBD</span>
         {% endif %}
       </div>
-      <div class="flex flex--row flex--center-y gap--small">
-        <span class="label label--small label--gray shrink-0">vs</span>
-        <span class="value value--small lg:value--base">{{ match.player2.name }}</span>
-      </div>
-      <div class="flex flex--row flex--center-y gap--xsmall">
-        {% if match.tournamentFlagUrl %}
-        <img class="image image--cover image-dither rounded shrink-0 w--16 h--12" src="{{ match.tournamentFlagUrl }}">
-        {% endif %}
-        <span class="label label--small label--gray">{{ match.tournamentName }}{% if match.roundLabel %} &middot; {{ match.roundLabel }}{% endif %}</span>
+      <div>
+        <span class="label label--small label--gray">vs</span>
+        <span class="label label--base">{{ match.player2.name }}</span>
       </div>
     </div>
+    {% if forloop.last %}
+    </div>
+    {% endif %}
     {% endunless %}
     {% endfor %}
   </div>
@@ -42,5 +62,5 @@
 
 <div class="title_bar">
   <span class="title">Tennis Today</span>
-  <span class="instance">{{ tour | upcase }}{% if count > 2 %} &middot; 2 of {{ count }}{% endif %}</span>
+  <span class="instance">{{ tour | upcase }}{% if count > 8 %} &middot; 8 of {{ count }}{% endif %}</span>
 </div>

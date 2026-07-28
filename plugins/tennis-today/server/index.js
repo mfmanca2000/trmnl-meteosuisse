@@ -52,7 +52,7 @@ const IOC_TO_ISO2 = {
   PAN: 'pa', PAR: 'py', PER: 'pe', PHI: 'ph', POL: 'pl', POR: 'pt', PUR: 'pr',
   QAT: 'qa',
   ROU: 'ro', RSA: 'za', RUS: 'ru',
-  SGP: 'sg', SLO: 'si', SRB: 'rs', SUI: 'ch', SVK: 'sk', SWE: 'se',
+  SGP: 'sg', SLO: 'si', SMR: 'sm', SRB: 'rs', SUI: 'ch', SVK: 'sk', SWE: 'se',
   THA: 'th', TPE: 'tw', TUN: 'tn', TUR: 'tr',
   UAE: 'ae', UKR: 'ua', URU: 'uy', USA: 'us', UZB: 'uz',
   VEN: 've', VIE: 'vn',

@@ -1,47 +1,64 @@
 {% comment %}
   Full layout (800x480). Data comes from GET /api/tennis-today/matches
   ({ tour, matches, count, updatedAtLabel }), exposed at the Liquid root by
-  TRMNL's polling strategy. Each match has player1/player2 ({name, country}),
-  tournamentName + tournamentFlagUrl (both resolved server-side from
-  tournamentId, since the fixtures API only returns numeric IDs — the flag
-  is the tournament's host country, not either player's), roundLabel
-  ("Round N" — the API exposes no reliable roundId-to-name mapping across
-  endpoints), isLive, and timeLabel (pre-formatted in server time zone, or
-  null if not yet scheduled).
+  TRMNL's polling strategy, already sorted by tournamentId. Each match has
+  player1/player2 ({name, country}), tournamentName + tournamentFlagUrl
+  (resolved server-side from tournamentId — the flag is the tournament's
+  host country, not either player's), roundLabel ("Round N" — the API
+  exposes no reliable roundId-to-name mapping across endpoints), isLive,
+  and timeLabel (pre-formatted in server time zone, null if the tour hasn't
+  published an order of play yet — shown as "Time TBD").
 
-  Each match is its own two-line player block (name + name, not squeezed
-  onto one "P1 vs P2" line) so both names stay prominent and readable at
-  a glance, with a small "vs" divider between them.
+  Matches are grouped under one tournament header (flag + name) instead of
+  repeating it per match, then laid out as a left-aligned 2-column grid of
+  match cards within that group — the grid's own gap keeps individual
+  matches visually separated (more than a plain stacked list did), and two
+  columns roughly doubles how many matches fit on the page. A header can't
+  live inside the grid (no "span 2 columns" utility to keep it full-width),
+  so each group is: one full-width header row, then its own grid block.
+  The 20-match cap is a safety ceiling for an unusually packed day, not a
+  real display limit.
 {% endcomment %}
 <div class="layout">
   {% if matches and matches.size > 0 %}
-  <div class="flex flex--col flex--center-y gap--medium h--full">
-    {% for match in matches limit: 4 %}
+  <div class="flex flex--col flex--left flex--center-y gap--small h--full">
+    {% assign prev_tournament_id = "" %}
+    {% for match in matches limit: 20 %}
     {% unless match == blank %}
-    <div class="flex flex--col gap--xsmall">
-      <div class="flex flex--row flex--center-y gap--small">
-        <span class="value value--base lg:value--large grow">{{ match.player1.name }}</span>
+    {% if match.tournamentId != prev_tournament_id %}
+    {% unless forloop.first %}
+    </div>
+    {% endunless %}
+    <div class="flex flex--row flex--left flex--center-y gap--xsmall">
+      {% if match.tournamentFlagUrl %}
+      <img class="image image--cover image-dither rounded shrink-0 w--[32px] h--[24px]" src="{{ match.tournamentFlagUrl }}">
+      {% endif %}
+      <span class="label label--small label--gray">{{ match.tournamentName }}</span>
+    </div>
+    {% assign prev_tournament_id = match.tournamentId %}
+    <div class="grid grid--cols-2 gap--small">
+    {% endif %}
+    <div class="outline flex flex--col flex--left gap--xsmall p--3">
+      <div>
+        <span class="label label--base">{{ match.player1.name }}</span>
         {% if match.isLive %}
-        <span class="label label--small lg:label--base label--primary shrink-0">LIVE</span>
+        <span class="label label--small lg:label--base label--primary">LIVE</span>
         {% elsif match.timeLabel %}
-        <span class="label label--small lg:label--base label--outline shrink-0">{{ match.timeLabel }}</span>
+        <span class="label label--small lg:label--base label--outline">{{ match.timeLabel }}</span>
         {% else %}
-        <span class="label label--small lg:label--base label--gray shrink-0">TBD</span>
+        <span class="label label--small lg:label--base label--gray">Time TBD</span>
         {% endif %}
       </div>
-      <div class="flex flex--row flex--center-y gap--small">
-        <span class="label label--small label--gray shrink-0">vs</span>
-        <span class="value value--base lg:value--large">{{ match.player2.name }}</span>
-      </div>
-      <div class="flex flex--row flex--center-y gap--xsmall">
-        {% if match.tournamentFlagUrl %}
-        <img class="image image--cover image-dither rounded shrink-0 w--16 h--12 lg:w--20 lg:h--16" src="{{ match.tournamentFlagUrl }}">
+      <div>
+        <span class="label label--small label--gray">vs</span>
+        <span class="label label--base">{{ match.player2.name }}</span>
+        {% if match.roundLabel %}
+        <span class="label label--small label--gray">{{ match.roundLabel }}</span>
         {% endif %}
-        <span class="label label--small label--gray">{{ match.tournamentName }}{% if match.roundLabel %} &middot; {{ match.roundLabel }}{% endif %}</span>
       </div>
     </div>
-    {% if forloop.last == false %}
-    <div class="divider"></div>
+    {% if forloop.last %}
+    </div>
     {% endif %}
     {% endunless %}
     {% endfor %}
@@ -56,5 +73,5 @@
 
 <div class="title_bar">
   <span class="title">Tennis Today</span>
-  <span class="instance">{{ tour | upcase }} &middot; {% if count > 4 %}4 of {{ count }} &middot; {% endif %}Updated {{ updatedAtLabel }}</span>
+  <span class="instance">{{ tour | upcase }} &middot; {% if count > 20 %}20 of {{ count }} &middot; {% endif %}Updated {{ updatedAtLabel }}</span>
 </div>
