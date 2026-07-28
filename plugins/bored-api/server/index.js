@@ -15,9 +15,15 @@ const updatedAtFormatter = new Intl.DateTimeFormat('en-GB', {
 // filter, so a type/participants request goes through /filter (an array)
 // and a match is picked here; an unfiltered request goes straight through
 // /random. /filter answers 404 (not an empty array) when nothing matches.
+// TRMNL leaves custom_fields placeholders like "{{type}}" unsubstituted in
+// polling_url when the field is empty, instead of dropping them or
+// interpolating an empty string. Strip that literal syntax so an unset
+// filter behaves like an actually-empty one.
+const stripUnresolvedTemplateTag = (value) => value.replace(/^\{\{\s*\S+\s*\}\}$/, '')
+
 router.get('/activity', async (req, res) => {
-  const type = String(req.query.type || '').trim().toLowerCase()
-  const participants = String(req.query.participants || '').trim()
+  const type = stripUnresolvedTemplateTag(String(req.query.type || '').trim()).toLowerCase()
+  const participants = stripUnresolvedTemplateTag(String(req.query.participants || '').trim())
 
   try {
     let activities
