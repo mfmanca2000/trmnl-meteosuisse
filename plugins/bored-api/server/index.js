@@ -22,8 +22,12 @@ const updatedAtFormatter = new Intl.DateTimeFormat('en-GB', {
 const stripUnresolvedTemplateTag = (value) => value.replace(/^\{\{\s*\S+\s*\}\}$/, '')
 
 router.get('/activity', async (req, res) => {
+  console.log('[bored-api] incoming query:', req.query)
+
   const type = stripUnresolvedTemplateTag(String(req.query.type || '').trim()).toLowerCase()
   const participants = stripUnresolvedTemplateTag(String(req.query.participants || '').trim())
+
+  console.log('[bored-api] resolved filters:', { type, participants })
 
   try {
     let activities
@@ -33,7 +37,10 @@ router.get('/activity', async (req, res) => {
       if (type) params.set('type', type)
       if (participants) params.set('participants', participants)
 
-      const filterRes = await fetch(`${BASE_URL}/filter?${params}`)
+      const filterUrl = `${BASE_URL}/filter?${params}`
+      console.log('[bored-api] calling filter endpoint:', filterUrl)
+      const filterRes = await fetch(filterUrl)
+      console.log('[bored-api] filter response status:', filterRes.status)
       if (filterRes.status === 404) {
         activities = []
       } else if (!filterRes.ok) {
@@ -42,7 +49,9 @@ router.get('/activity', async (req, res) => {
         activities = await filterRes.json()
       }
     } else {
+      console.log('[bored-api] calling random endpoint:', `${BASE_URL}/random`)
       const randomRes = await fetch(`${BASE_URL}/random`)
+      console.log('[bored-api] random response status:', randomRes.status)
       if (!randomRes.ok) {
         throw new Error(`Bored API random request failed with status ${randomRes.status}`)
       }
@@ -51,12 +60,15 @@ router.get('/activity', async (req, res) => {
 
     const activity = activities.length > 0 ? activities[Math.floor(Math.random() * activities.length)] : null
 
+    console.log('[bored-api] result:', { count: activities.length, activity: activity && activity.activity })
+
     res.json({
       activity,
       count: activities.length,
       updatedAtLabel: updatedAtFormatter.format(new Date()),
     })
   } catch (err) {
+    console.error('[bored-api] error:', err.message)
     res.status(502).json({ error: err.message })
   }
 })
