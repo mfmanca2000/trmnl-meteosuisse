@@ -7,7 +7,7 @@
   host country, not either player's), roundLabel ("Round N" — the API
   exposes no reliable roundId-to-name mapping across endpoints), isLive,
   and timeLabel (pre-formatted in server time zone, null if the tour hasn't
-  published an order of play yet — shown as "Time TBD").
+  published an order of play yet — nothing shown in that case).
 
   Matches are grouped under one tournament header (flag + name) instead of
   repeating it per match, then laid out as a left-aligned 2-column grid of
@@ -45,8 +45,6 @@
         <span class="label label--small lg:label--base label--primary">LIVE</span>
         {% elsif match.timeLabel %}
         <span class="label label--small lg:label--base label--outline">{{ match.timeLabel }}</span>
-        {% else %}
-        <span class="label label--small lg:label--base label--gray">Time TBD</span>
         {% endif %}
       </div>
       <div>
